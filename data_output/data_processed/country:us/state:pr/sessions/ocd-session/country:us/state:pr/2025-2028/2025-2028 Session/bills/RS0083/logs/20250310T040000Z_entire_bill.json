@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0083",
+  "title": "\u201cPara ordenar a la Comisi\u00f3n de Agricultura del Senado de Puerto Rico, llevar a cabo un estudio\nabarcador y continuo en torno a todos los programas y servicios existentes que sirvan a la industria\nagr\u00edcola y agropecuaria, para definir, implantar, administrar, supervisar, y rectificar la pol\u00edtica\np\u00fablica de ser necesario, en torno a la misma; igualmente, corroborar la implantaci\u00f3n de la pol\u00edtica\np\u00fablica existente en Puerto Rico, dirigida a asegurar el abasto de alimentos sanos y saludables que\npropicie una nutrici\u00f3n balanceada para nuestra ciudadan\u00eda, opciones de energ\u00eda renovable a nuestros\nconsumidores y ofertas de servicios al constituyente en los cuales nuestros agricultores sean los\nproductores por excelencia para atender esas necesidades; verificar la efectividad de los incentivos\nofrecidos a los agricultores en Puerto Rico, la pol\u00edtica salarial del trabajo agr\u00edcola, el mercadeo, la\ndistribuci\u00f3n, la educaci\u00f3n, la capitalizaci\u00f3n, la provisi\u00f3n de cr\u00e9dito, financiamiento y pr\u00e9stamos\npara actividades agr\u00edcolas deseables; la provisi\u00f3n y desarrollo de obras, incluyendo viviendas y\nservicios p\u00fablicos en las zonas rurales que estimulen y mejoren las condiciones de vida del\nagricultor y del trabajador agr\u00edcola y que propendan a un desarrollo rural integrado; asimismo,\nevaluar todo asunto que est\u00e9 bajo la jurisdicci\u00f3n del Departamento de Agricultura, la Autoridad de\nTierras, el Fondo de Innovaci\u00f3n para el Desarrollo Agr\u00edcola, la Corporaci\u00f3n de Seguros Agr\u00edcolas,\nla Oficina Reglamentadora de la Industria Lechera, y la Administraci\u00f3n para el Desarrollo de\nEmpresas Agropecuarias, as\u00ed como toda ley o reglamento que incida en materia de la agricultura en\nPuerto Rico; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-03-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154130",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:22:08+00:00",
+  "_id": "63b2e718-6bd7-11f0-ac25-fa5369b67b11"
+}

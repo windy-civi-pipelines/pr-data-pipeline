@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0524",
+  "title": "\u201cPara enmendar el Art\u00edculo 4 de la Ley 26-2009, seg\u00fan enmendada, conocida como \u201cProyecto de Servicio Comunitario Estudiantil\u201d, con el prop\u00f3sito de establecer que, como parte de las distintas opciones de servicio comunitario a realizarse por los estudiantes en virtud de esta Ley, estos puedan participar en actividades dirigidas a mejorar sus destrezas vitales y potenciar sus oportunidades de empleo, por medio de adiestramientos basados en principios de disciplina militar o apoyando los trabajos llevados a cabo en organismos gubernamentales o entidades privadas que ejecuten funciones relacionadas con la protecci\u00f3n y bienestar de los animales, ya sea en albergues, refugios o santuarios o en hospitales veterinarios; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155128",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:16:33+00:00",
+  "_id": "9c34288c-6bd6-11f0-ac25-fa5369b67b11"
+}

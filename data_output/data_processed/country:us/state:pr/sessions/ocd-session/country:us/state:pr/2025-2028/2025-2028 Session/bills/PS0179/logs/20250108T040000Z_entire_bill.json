@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0179",
+  "title": "Para crear la \u201cLey de Preferencia para Contratistas y Proveedores Locales de Construcci\u00f3n Mujeres\u201d, con el prop\u00f3sito de establecer como la pol\u00edtica p\u00fablica del Gobierno de Puerto Rico que, en cuanto a la compra y contrataci\u00f3n de Servicios de Construcci\u00f3n, se reservar\u00e1 al menos un cinco por ciento (5%) de dichas compras y contrataciones para servicios rendidos por un Negocio Local o Proveedor Local de Servicios de Construcci\u00f3n, en los cuales al menos el cincuenta y un por ciento (51%) de la empresa es propiedad de una o varias mujeres residentes de Puerto Rico o la direcci\u00f3n general de la empresa del d\u00eda a d\u00eda, se encuentra a cargo de una mujer que cumpla con el requisito de residencia, y que la titularidad y control ha sido verificado por la Administraci\u00f3n de Servicios Generales; enmendar el Art\u00edculo 37 de la Ley 73-2019, seg\u00fan enmendada, conocida como \u201cLey de la Administraci\u00f3n de Servicios Generales para la Centralizaci\u00f3n de las Compras del Gobierno de Puerto Rico de 2019\u201d, con el prop\u00f3sito de asegurar que, todo proceso de compra, la Administraci\u00f3n de Servicios Generales cumplir\u00e1 cabalmente con la pol\u00edtica preferencia dispuesta en esta Ley; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152783",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:13:44+00:00",
+  "_id": "37111b36-6bd6-11f0-ac25-fa5369b67b11"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Se da consentimiento para incluir medida en agenda de presente sesi\u00f3n",
+    "date": "2025-06-19T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "RKC0021"
+}

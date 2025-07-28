@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0360",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 130A a la Ley 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\", a los fines de tipificar como delito la demora u omisi\u00f3n por parte de un proveedor de servicios de salud, en reportar la posible comisi\u00f3n de agresi\u00f3n sexual en una menor de diecis\u00e9is (16) a\u00f1os de edad o menos que ha quedado embarazada; disponer que todo proveedor de servicios de salud que advenga en conocimiento en el ejercicio de sus funciones de que una menor de diecis\u00e9is (16) a\u00f1os o menos ha quedado embarazada, deber\u00e1 notificar dicho hecho a la Divisi\u00f3n de Delitos Sexuales y Maltrato a Menores del Cuerpo de Investigaciones Criminales del Negociado de Polic\u00eda de Puerto Rico en un per\u00edodo de tiempo no mayor de seis (6) horas de haber advenido en conocimiento de dicho hecho; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-02-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153944",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:09:31+00:00",
+  "_id": "a05fb544-6bd5-11f0-ac25-fa5369b67b11"
+}

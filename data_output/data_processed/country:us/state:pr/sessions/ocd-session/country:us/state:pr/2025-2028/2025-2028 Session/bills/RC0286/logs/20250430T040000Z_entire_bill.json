@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0286",
+  "title": "Para ordenar a la Comisi\u00f3n de Vivienda y Desarrollo Urbano de la C\u00e1mara de Representantes del Gobierno de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre el estado de restauraci\u00f3n de la Laguna de Gu\u00e1nica, permisolog\u00eda vigente, aprobaci\u00f3n econ\u00f3mica establecida por las entidades pertinentes, consecuencias directas para las poblaciones y comunidades cercanas a la Laguna, alteraci\u00f3n del actual ecosistema que se ha desarrollado tras su drenaje, suelos a impactarse, entre otros asuntos con el fin de auscultar su viabilidad, si afectar\u00e1 negativamente el \u00e1rea, consecuencias econ\u00f3micas para el \u00e1rea; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Omayra  M. Mart\u00ednez V\u00e1zquez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Omayra  M. Mart\\u00ednez V\\u00e1zquez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155443",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:19:17+00:00",
+  "_id": "fe0576a6-6bd6-11f0-ac25-fa5369b67b11"
+}

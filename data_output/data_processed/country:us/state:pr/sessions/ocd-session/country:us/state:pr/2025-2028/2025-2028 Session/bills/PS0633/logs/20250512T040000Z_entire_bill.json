@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0633",
+  "title": "Para establecer la \u201cLey para el Riego de \u00c1reas Verdes No Agr\u00edcolas con Aguas Tratadas o de Lluvia en Casos de Emergencia\u201d, a los fines de requerir que, en casos de emergencia as\u00ed decretadas por el gobernador de Puerto Rico o el presidente de los Estados Unidos de Am\u00e9rica, el riego de \u00e1reas verdes no agr\u00edcolas se lleve a cabo con aguas tratadas o de lluvia; ordenar el dise\u00f1o de un plan conjunto para eliminar los sistemas de riego de \u00e1reas verdes no agr\u00edcolas con agua potable proveniente del Gobierno del Estado Libre Asociado; establecer per\u00edodos de cumplimiento sobre estos mandatos, ordenar su reglamentaci\u00f3n por parte de las agencias reguladoras; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155885",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:17:14+00:00",
+  "_id": "b4bc07d0-6bd6-11f0-ac25-fa5369b67b11"
+}

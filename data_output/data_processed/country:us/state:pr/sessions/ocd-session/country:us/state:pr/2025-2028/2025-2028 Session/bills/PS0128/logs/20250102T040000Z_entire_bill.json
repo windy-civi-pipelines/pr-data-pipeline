@@ -1,0 +1,71 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0128",
+  "title": "Para enmendar el Art\u00edculo 3.040 de la Ley 107-2020, mejor conocida como \u201cC\u00f3digo Municipal de Puerto Rico a los fines de establecer que el importe de las multas impuestas por concepto de violaciones a los C\u00f3digos de Orden P\u00fablico ser\u00e1 utilizado estrictamente para el funcionamiento del Programa y para la compra de uniformes y equipos a los agentes estatales y polic\u00edas municipales que se encuentren adscritos a los C\u00f3digos en municipios en que se haya implantado el mismo; para incluir a los vigilantes del Departamento de Recursos Naturales y Ambientales como funcionarios autorizados a imponer multas por infracciones a las disposiciones contenidas en los C\u00f3digos de Orden P\u00fablico en la zona mar\u00edtimo terrestre; disponer que los municipios que no contin\u00faen con la implementaci\u00f3n de los C\u00f3digos o eliminen su Polic\u00eda Municipal, deber\u00e1n traspasar todo el equipo adquirido mediante fondos previamente asignados al Negociado de la Polic\u00eda de Puerto Rico; facultar al Comisionado de la Polic\u00eda de Puerto Rico a evaluar las \u00e1reas de alta incidencia criminal para sugerir al municipio afectado la implantaci\u00f3n de un C\u00f3digo de Orden P\u00fablico o el mejoramiento del mismo; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152662",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "scraped_at": "2025-07-28T17:13:22+00:00",
+  "_id": "2a6c006c-6bd6-11f0-ac25-fa5369b67b11"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Texto de Aprobaci\u00f3n Final en Senado",
+    "date": "2025-03-31T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "RS0113"
+}
