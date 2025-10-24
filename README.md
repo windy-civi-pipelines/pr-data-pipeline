@@ -37,7 +37,7 @@ This approach keeps every state repository consistent, auditable, and easy to ma
 
 1. **Click the green "Use this template" button** on this repository page to create a new repository from this template.
 
-2. **Name your new repository** using the convention: `STATE-data-pipeline` (e.g., `il-data-pipeline`, `tx-data-pipeline`).
+2. **Name your new repository** using the convention: `Puerto Rico Data Pipeline` (e.g., `il-data-pipeline`, `tx-data-pipeline`).
 
 3. **Update the state abbreviation** in both workflow files:
 
@@ -45,7 +45,7 @@ This approach keeps every state repository consistent, auditable, and easy to ma
 
    ```yaml
    env:
-     STATE_CODE: il # CHANGE THIS to your state abbreviation
+     STATE_CODE: pr # CHANGE THIS to your state abbreviation
 
    jobs:
      scrape:
@@ -67,7 +67,7 @@ This approach keeps every state repository consistent, auditable, and easy to ma
    - name: Extract text
      uses: windy-civi/toolkit/actions/extract@main
      with:
-       state: il # CHANGE THIS to your state abbreviation
+       state: pr # CHANGE THIS to your state abbreviation
    ```
 
    Make sure the state abbreviation matches the folder name used in [Open States scrapers](https://github.com/openstates/openstates-scrapers/tree/main/scrapers).
@@ -114,7 +114,7 @@ This separation allows:
 ## 📁 Folder Structure
 
 ```
-STATE-data-pipeline/
+Puerto Rico Data Pipeline/
 ├── .github/workflows/
 │   ├── scrape-and-format-data.yml  # Metadata scraping + formatting
 │   └── extract-text.yml             # Text extraction (independent)
@@ -281,7 +281,7 @@ The text extraction workflow supports:
 ```yaml
 uses: windy-civi/toolkit/actions/scrape@main
 with:
-  state: il # State abbreviation (required)
+  state: pr # State abbreviation (required)
   github-token: ${{ secrets.GITHUB_TOKEN }}
   use-scrape-cache: "false" # Skip scraping, use cached data
 ```
@@ -291,7 +291,7 @@ with:
 ```yaml
 uses: windy-civi/toolkit/actions/format@main
 with:
-  state: il # State abbreviation (required)
+  state: pr # State abbreviation (required)
   github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
@@ -300,7 +300,7 @@ with:
 ```yaml
 uses: windy-civi/toolkit/actions/extract@main
 with:
-  state: il # State abbreviation (required)
+  state: pr # State abbreviation (required)
   github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
@@ -357,8 +357,8 @@ Once enabled, workflows run automatically:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-ORG/STATE-data-pipeline
-cd STATE-data-pipeline
+git clone https://github.com/YOUR-ORG/Puerto Rico Data Pipeline
+cd Puerto Rico Data Pipeline
 
 # Install dependencies
 pipenv install
