@@ -1,0 +1,91 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "NM0215",
+  "title": "Sr. Mart\u00edn Jim\u00e9nez Morales como Principal Ejecutivo de Innovaci\u00f3n e Informaci\u00f3n del Gobierno de Puerto Rico y Director Ejecutivo del Puerto Rico Innovation and Technology Service (PRITS).",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "appointment"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Nominado",
+      "date": "2025-07-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Nombramiento retirado por la Gobernadora",
+      "date": "2025-09-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Nominado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/156591/0215.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-01",
+      "classification": ""
+    },
+    {
+      "note": "Nombramiento retirado por la Gobernadora",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/156591/0215- RETIRO.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156591",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

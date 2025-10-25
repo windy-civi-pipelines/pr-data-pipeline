@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCS0056",
+  "title": "\u201cPara ordenarle al Departamento de Educaci\u00f3n solicitar y asignar el presupuesto necesario para\noperar el Programa de Psicolog\u00eda en el \u00c1mbito Escolar sin la necesidad de desviar fondos de otros\nprogramas, oficinas o dependencias; tramitar la separaci\u00f3n de los programas de Psicolog\u00eda en el\n\u00c1mbito Escolar y de Educaci\u00f3n Especial; asignar al Programa de Educaci\u00f3n Especial su propio\npersonal psicol\u00f3gico; crear y reclutar nuevas plazas de personal psicol\u00f3gico en la agencia; revisar,\nen colaboraci\u00f3n con la oficina de la Monitora del caso Rosa Lydia V\u00e9lez y otros v. Awilda Aponte\nRoque y otros, el esquema establecido para evaluar el desempe\u00f1o de las psic\u00f3logas en las escuelas,\ntomando en consideraci\u00f3n las consideraciones \u00e9ticas pertinentes; establecer acuerdos colaborativos\no alg\u00fan programa de mentor\u00eda entre el Programa de Psicolog\u00eda en el \u00c1mbito Escolar y las\nproveedoras de servicios psiqui\u00e1tricos; asignar espacios id\u00f3neos para la provisi\u00f3n de evaluaciones,\nterapias y entrevistas psicol\u00f3gicas, entre otros servicios, que cumplan con las condiciones\nnecesarias para asegurar la dignidad, la confidencialidad y la buena pr\u00e1ctica; modificar su formato\nde servicios psicol\u00f3gicos en las escuelas para integrar efectivamente a las madres y padres al\nproceso de terapia psicol\u00f3gica; prohibir mediante reglamentaci\u00f3n la incorporaci\u00f3n de cl\u00e1usulas\ncontractuales que no le permitan a las psic\u00f3logas u otras especialistas evaluadoras testificar en\ncontra de la agencia en caso de controversia o incumplimiento; y corregir los problemas t\u00e9cnicos\npara garantizar la provisi\u00f3n de servicios confiables de internet en todas las escuelas, de manera que\nla coordinaci\u00f3n, provisi\u00f3n y documentaci\u00f3n de servicios educativos, relacionados, suplementarios e\ninterdisciplinarios no se vea interrumpida; y para establecer otras disposiciones complementarias.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155958/rcs0056-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-05-12",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/155958/rcs0056-Inf (negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-01",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155958",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

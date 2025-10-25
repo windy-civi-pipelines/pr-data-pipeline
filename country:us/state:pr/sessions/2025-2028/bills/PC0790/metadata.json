@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0790",
+  "title": "Para enmendar la Secci\u00f3n 6.6 de la Ley N\u00fam. 8-2017, seg\u00fan enmendada, conocida como \u201cLey para la administraci\u00f3n y transformaci\u00f3n de los recursos humanos del Gobierno de Puerto Rico\u201d, para disponer que todo empleado de carrera podr\u00e1 renunciar a su puesto libre y voluntariamente mediante notificaci\u00f3n escrita a la autoridad nominadora de la agencia con car\u00e1cter inmediato o efectivo en una fecha futura; disponer que el hecho de que el empleado haya renunciado a su puesto no impedir\u00e1 que la autoridad nominadora complete o inicie dentro del plazo de diez d\u00edas de presentada la renuncia, cualquier investigaci\u00f3n que considere necesaria relacionada con la conducta del empleado renunciante en la ejecuci\u00f3n de su trabajo; disponer que toda agencia o instrumentalidad del Gobierno de Puerto Rico deber\u00e1 aprobar un reglamento para regir los procedimientos administrativos de investigaci\u00f3n sobre conducta laboral de empleados renunciantes para los casos en que se considere necesario activar una investigaci\u00f3n por entenderse que existe la probabilidad de que el empleado renunciante haya incumplido sus deberes laborales en perjuicio del servicio p\u00fablico; disponer que los procedimientos administrativos honrar\u00e1n los requerimientos esenciales del debido proceso de ley con respecto al empleado renunciante, asimismo, que luego de completada la correspondiente investigaci\u00f3n, la autoridad nominadora notificar\u00e1 sus hallazgos y conclusiones al empleado renunciante y a cualquier agencia a la que en Derecho le corresponda actuar sobre la conducta imputada; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158037/PC0790.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-08-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158037",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

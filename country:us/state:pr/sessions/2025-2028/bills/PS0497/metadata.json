@@ -1,0 +1,144 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0497",
+  "title": "\u201cPara enmendar las Secciones 1010.01, 1010.05, 1021.02, 1022.04, 1022.07, 1034.04, 1035.08, 1040.02, 1061.03, 1061.04, 1061.09, 1061.16, 1061.17, 1061.25, 1063.05, 1063.15, 1063.16, 1078.02, 4010.01, 6041.10, 6051.21, 6055.03, y 6055.06 de la Ley 1-2011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d; enmendar los Art\u00edculos 15.01, 15.03 y 17.01 de la Ley 164-2009, seg\u00fan enmendada, conocida como la \u201cLey General de Corporaciones para el Estado Libre Asociado de Puerto Rico\"; enmendar los Art\u00edculos 7.135 y 7.207 de la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto Rico de 2011\u201d; enmendar las Secciones 6011.05, 6020.09, 6020.10, 6060.05 y 6070.66 de la Ley 60-2019, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Incentivos de Puerto Rico\u201d; con el fin de simplificar y uniformar fechas de radicaci\u00f3n de las distintas planillas requeridas a los negocios, reducir el cumplimiento contributivo en Puerto Rico estableciendo el marco conceptual para un Acuerdo Colaborativo entre el Departamento de Hacienda y el Departamento del Trabajo y Recursos Humanos con el Prop\u00f3sito de Consolidar la Presentaci\u00f3n de las Planillas Presentadas por los Patronos sobre los Impuestos de N\u00f3mina relacionados a los Salarios Pagados a los Empleados; mejorar la fiscalizaci\u00f3n facilitando se transfiera informaci\u00f3n de algunas agencias del Gobierno con el Departamento de Hacienda referente a propiedades de personas; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Relevado de Comisi\u00f3n(es)",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-08-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154991/ps0497-25 (A-050).doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154991/ps0497-Inf (negativo).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-22",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154991",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

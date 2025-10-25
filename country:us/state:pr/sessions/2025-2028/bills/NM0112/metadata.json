@@ -1,0 +1,334 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "NM0112",
+  "title": "Hon. Leila Rol\u00f3n Henrique como Miembro en Propiedad del Panel sobre el Fiscal Especial Independiente.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "appointment"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Nominado",
+      "date": "2025-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Confirmado por Senado",
+      "date": "2025-04-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-04-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "1er Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Se retira 1er Informe",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n(es)",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "2do Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2025-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Se retira 2do Informe",
+      "date": "2025-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n(es)",
+      "date": "2025-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #1",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "3er Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2025-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2025-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Confirmado por C\u00e1mara",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Notificado a la Gobernadora",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Nominado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/0112.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-02",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/0112-informe.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Confirmado por Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/0112-vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-10",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154811/Informe Positivo nombramiento de Lcda Leila Rolon Enrique como miembro en propiedad del Panel.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-04-30",
+      "classification": ""
+    },
+    {
+      "note": "2do Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/Segundo Informe Nombramiento de la Lcda. Leila Rolon Henrique.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-01",
+      "classification": ""
+    },
+    {
+      "note": "3er Informe de Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/Tercer Informe Positivo de Lcda. Leila Rolon Henrique como miembro en propiedad del Panel sobre el Fiscal Especial Independiente.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-05-14",
+      "classification": ""
+    },
+    {
+      "note": "Confirmado por C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/154811/Lcda. Leila Rol\u00f3n Herique - votacion.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-15",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154811",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:55Z"
+  }
+}

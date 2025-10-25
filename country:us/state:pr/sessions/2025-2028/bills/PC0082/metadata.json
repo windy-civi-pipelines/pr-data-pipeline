@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0082",
+  "title": "Para crear el \u201cBanco de Desarrollo Empresarial\u201d (en adelante, el \u201cBanco\u201d) como una corporaci\u00f3n e instrumentalidad del Estado Libre Asociado de Puerto Rico y sucesora en inter\u00e9s del Banco de Desarrollo Econ\u00f3mico para Puerto Rico (en adelante, el \u201cBDEPR\u201d); para expandir sus prop\u00f3sitos, manteniendo atenci\u00f3n principal hacia las \u201cPeque\u00f1as y Medianas Empresas\u201d (PYMES); ampliar sus facultades y crear mecanismos para sustentarse, allegarse fondos y fortalecer sus finanzas; ofrecer financiamiento, inversiones, garant\u00edas, asesoramiento y seguros; organizar la ley org\u00e1nica del Banco conforme a dichos objetivos y facilitar su comprensi\u00f3n; vincular la gesti\u00f3n del Banco al Departamento de Desarrollo Econ\u00f3mico y Comercio (en adelante, el \u201cDDEC\u201d), manteniendo la independencia financiera y administrativa del Banco; uniformar los medios para conceder financiamientos, garant\u00edas e inversi\u00f3n de capital de riesgo de las agencias e instrumentalidades p\u00fablicas y facultar al Banco a establecer acuerdos colaborativos para dichos prop\u00f3sitos; ordenar a las entidades gubernamentales expedidoras de permisos, licencias y certificaciones de cumplimiento (good standing), la implantaci\u00f3n de procesos que prioricen las peticiones del Banco; crear la \u201cCertificaci\u00f3n de Cumplimiento con el Banco de Desarrollo Empresarial\u201d y ordenar a las entidades gubernamentales obtener dicha certificaci\u00f3n como requisito o condici\u00f3n a la otorgaci\u00f3n de cr\u00e9ditos, incentivos, exenciones, donaciones, auspicios y cualquier clase de beneficio gubernamental; derogar la Ley N\u00fam. 22 del 24 de julio de 1985, seg\u00fan enmendada, conocida como \u201cLey del Banco de Desarrollo Econ\u00f3mico para Puerto\u201d, as\u00ed como toda ley o parte de ella inconsistente con lo dispuesto en esta Ley; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 M. Varela  Fern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Varela  Fern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/152706/PC0082.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-02",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152706/PC0082 -n.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-04-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152706",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

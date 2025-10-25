@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0077",
+  "title": "Para enmendar los Art\u00edculos 2, 3 y 5, derogar los Art\u00edculos 6 y 7, renumerar los Art\u00edculos 8, 9 y 10 como Art\u00edculos 6, 7 y 8, respectivamente, enmendar el Art\u00edculo 11 y renumerarlo como Art\u00edculo 9, enmendar el Art\u00edculo 12 y renumerarlo como Art\u00edculo 10, enmendar el Art\u00edculo 13 y renumerarlo como Art\u00edculo 11, y renumerar los Art\u00edculos 14 al 24 como Art\u00edculos 12 al 22, respectivamente, de la Ley N\u00fam. 96 del 4 de junio de 1983, seg\u00fan enmendada, conocida como \u201cLey para Reglamentar el Ejercicio de la Profesi\u00f3n de la Psicolog\u00eda en Puerto Rico\u201d, a los fines de actualizar la definici\u00f3n del t\u00e9rmino \u201cpr\u00e1ctica de la psicolog\u00eda\u201d, establecer el grado doctoral para todas las \u00e1reas de la psicolog\u00eda como requisito para solicitar la licencia de Psic\u00f3logo, modificar la composici\u00f3n de la Junta Examinadora de Psic\u00f3logos, facultar la otorgaci\u00f3n de una credencial de Proveedor de Servicios de Salud en Psicolog\u00eda y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Reuni\u00f3n Ejecutiva:  Oficina de la Comisi\u00f3n",
+      "date": "2025-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 M. Varela  Fern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Varela  Fern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152640/PC0077.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-01-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152640",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

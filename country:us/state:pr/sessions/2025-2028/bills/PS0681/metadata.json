@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0681",
+  "title": "\u201cPara enmendar los Art\u00edculos 1.03, 2.01, 2.04, a\u00f1adir un nuevo Cap\u00edtulo XIV, reenumerar los\nactuales Cap\u00edtulos XIV, XV, y XVI como los nuevos Cap\u00edtulos XV, XVI y XVII, reenumerar los\nactuales Art\u00edculos 14.01 al 14.09, como los nuevos Art\u00edculos 15.01 al 15.09, reenumerar el actual\nArt\u00edculo 15.01 como el nuevo Art\u00edculo 16.01, reenumerar los actuales Art\u00edculos 16.01 al 16.07,\ncomo los nuevos Art\u00edculos 17.01 al 17.07, de la Ley 85-2018, seg\u00fan enmendada y conocida como\n\u201cLey de Reforma Educativa de Puerto Rico\u201d a los fines de establecer un nuevo modelo educativo\nconocido como \u201cEscuelas P\u00fablicas de Inclusi\u00f3n\u201d donde todos los estudiantes de educaci\u00f3n especial\ny/o con diversidad funcional puedan desempe\u00f1arse por grados acad\u00e9micos junto con estudiantes de\nla corriente regular y recibir en el mismo plantel escolar, todos los servicios necesarios; fomentar\nambientes inclusivos dentro del sistema p\u00fablico de ense\u00f1anza; establecer un t\u00e9rmino de diez (10)\na\u00f1os para que el Departamento de Educaci\u00f3n formalice el establecimiento de \u201cEscuelas P\u00fablicas de\nInclusi\u00f3n\u201d; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/157955/ps0681-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-08-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/157955",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

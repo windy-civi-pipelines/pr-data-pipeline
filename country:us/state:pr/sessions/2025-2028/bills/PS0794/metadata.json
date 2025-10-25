@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0794",
+  "title": "Para enmendar los art\u00edculos 2 y 4, a\u00f1adir un nuevo Art\u00edculo 12, y reenumerar los actuales art\u00edculos 12, 13, 14, 15, 16, 17 y 18, como los art\u00edculos 13, 14, 15, 16, 17, 18 y 19, respectivamente, en la Ley N\u00fam. 1 de 20 de enero de 1966, seg\u00fan enmendada, conocida como \u201cLey de la Universidad de Puerto Rico\u201d, a los fines de crear el Sistema de Educaci\u00f3n T\u00e9cnica de la Universidad de Puerto Rico o UPR T\u00e9cnica; transferir a la Universidad de Puerto Rico, la operaci\u00f3n, administraci\u00f3n y funcionamiento del Instituto Tecnol\u00f3gico de Puerto Rico, actualmente adscrito al Departamento de Educaci\u00f3n; suprimir los actuales art\u00edculos 12.07 y 12.08, y reenumerar los art\u00edculos del 12.09 al 12.13, como los art\u00edculos 12.07 al 12.11, respectivamente, en la Ley 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, con el prop\u00f3sito de atemperar dicha Ley con la presente; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159112/ps0794-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159112",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

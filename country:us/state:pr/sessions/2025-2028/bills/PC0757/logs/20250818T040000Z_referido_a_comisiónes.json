@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referido a Comisi\u00f3n(es)",
+    "date": "2025-08-18T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PC0757"
+}

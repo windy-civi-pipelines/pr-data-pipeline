@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0600",
+  "title": "Para enmendar el Art\u00edculo 2-104(a) de la Ley N\u00fam. 447 de 15 de mayo de 1951, seg\u00fan enmendada, conocida como \u201cSistema de Retiro de los Empleados del Gobierno del Estado Libre Asociado de Puerto Rico\u201d, a los fines de autorizar que los miembros de la Polic\u00eda de Puerto Rico y del Cuerpo de Bomberos que hayan cumplido cincuenta y ocho (58) a\u00f1os de edad y treinta (30) a\u00f1os de servicio, puedan optar de forma voluntaria, por extender su servicio activo hasta un m\u00e1ximo de sesenta y seis (66) a\u00f1os de edad, siempre que presenten un \u201cAviso de Intenci\u00f3n de Fecha de Retiro\u201d no m\u00e1s tarde de noventa (90) d\u00edas antes del vencimiento de la fecha para acogerse al retiro y cumplan con las evaluaciones m\u00e9dicas y de desempe\u00f1o establecidas; y para disponer la adopci\u00f3n de normas reglamentarias necesarias para su implantaci\u00f3n.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #3",
+      "date": "2025-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pedro  J. Santiago Guzm\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pedro  J. Santiago Guzm\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155568/PC0600.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-05-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155568",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:51Z"
+  }
+}

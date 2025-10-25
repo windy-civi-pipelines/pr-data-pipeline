@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0338",
+  "title": "Para ordenar a la Comisi\u00f3n de Salud de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n en torno a los procesos de contrataci\u00f3n, fiscalizaci\u00f3n, auditoria y de cumplimiento utilizados por la Administraci\u00f3n de Seguros de Salud relacionados con las operaciones fiscales y de administraci\u00f3n del Plan de Salud Gubernamental, de conformidad con los hallazgos encontrados en el Informe OC 25-76 por la Oficina de la Contralor de Puerto Rico; as\u00ed como analizar los planes correctivos a implementarse por la Administraci\u00f3n de Seguros de Salud para atender las recomendaciones hechas en dicho Informe. En espec\u00edfico, sobre las acciones correspondientes de recobro por el Gobierno de m\u00e1s de $37 millones de d\u00f3lares que fueron pagados mediante incumplimiento con leyes y reglamentos estatales y federales vigentes, seg\u00fan se determin\u00f3 en dicho informe e identificar las enmiendas a leyes, reglamentaciones u \u00f3rdenes vigentes, recursos humanos y fiscales adicionales, si algunos, que sean necesarios a los fines de evitar que situaciones similares contin\u00faen ocurriendo en perjuicio de los beneficiarios del Plan de Salud Gubernamental y de los proveedores de servicios que prestan los mismos, y el fijar, si alguna, las responsabilidades correspondientes a los funcionarios se\u00f1alados, entre otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156022/RC0338.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-05-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156022",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0314",
+  "title": "Para enmendar el Art\u00edculo 3, as\u00ed como a\u00f1adir un nuevo Art\u00edculo 9, renumerando los actuales Art\u00edculos 9 y 10 como Art\u00edculos 10 y 11 respectivamente, de la Ley 8-2024, conocida como \u201cLey del Plan de Prevenci\u00f3n, Acci\u00f3n y Mitigaci\u00f3n de Incidentes de Tiradores Activos para las Instalaciones P\u00fablicas y Docentes de Puerto Rico\u201d, a los fines de ordenar expresamente que dicho plan se implemente de manera obligatoria en todos los departamentos, agencias, corporaciones e instituciones p\u00fablicas en Puerto Rico estableciendo a su vez, que se aprobar\u00e1 o atemperar\u00e1 la reglamentaci\u00f3n, \u00f3rdenes, directrices y protocolos necesarios conforme al plan en un t\u00e9rmino no mayor de sesenta (60) d\u00edas desde la aprobaci\u00f3n de esta Ley, as\u00ed como ordenar se establezcan los acuerdos pertinentes con los municipios del pa\u00eds e instituciones privadas para la adopci\u00f3n del mismo; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-02-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-02-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-02-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153607/PC0314.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-02-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153607",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

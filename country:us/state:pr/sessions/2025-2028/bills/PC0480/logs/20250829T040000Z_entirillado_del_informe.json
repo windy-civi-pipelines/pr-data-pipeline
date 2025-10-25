@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Entirillado del Informe",
+    "date": "2025-08-29T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "PC0480"
+}

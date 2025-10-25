@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0341",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 2.19, y reenumerar los actuales art\u00edculos 2.19, 2.20, 2.21, 2.21-A, 2.22 y 2.23, como los art\u00edculos 2.20, 2.21, 2.22, 2.23, 2.24 y 2.25, respectivamente, en la Ley 20-2027, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d, con el prop\u00f3sito de proveer para la creaci\u00f3n de la \u201cDivisi\u00f3n de Veteranos\u201d del Negociado de la Polic\u00eda de Puerto Rico, a trav\u00e9s de la cual se canalizar\u00e1n los servicios y necesidades de los Veteranos de la Polic\u00eda; disponer que ser\u00e1 obligaci\u00f3n de las agencias, instrumentalidades y\ncorporaciones p\u00fablicas del Gobierno de Puerto Rico, los municipios, de las entidades privadas que reciban fondos p\u00fablicos, y de los centros comerciales, sin importar su clasificaci\u00f3n, separar un (1) espacio de estacionamiento y destinarlo para el uso de los Veteranos de la Polic\u00eda, en reconocimiento al servicio prestado al Pueblo de Puerto Rico; derogar la Ley N\u00fam. 93 de 30 de junio de 1959, seg\u00fan enmendada; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-02-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-02-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-02-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153849/ps0341-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153849",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:55Z"
+  }
+}

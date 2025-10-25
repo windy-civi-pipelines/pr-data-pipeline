@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0200",
+  "title": "Para ordenar al Departamento de Educaci\u00f3n restablecer, en un t\u00e9rmino de tres (3) meses, la oficina de la Facilitadora Docente de Educaci\u00f3n Especial en Vieques; nombrar psic\u00f3logas escolares para todas las escuelas p\u00fablicas sitas en Vieques en un t\u00e9rmino de tres (3) meses; comenzar a ofrecer al estudiantado de Vieques registrado en el Programa de Educaci\u00f3n Especial, sin dilaci\u00f3n, servicios relacionados de terapia psicol\u00f3gica, seg\u00fan sea requerido por el Programa Educativo Individualizado (PEI) de cada estudiante, observando los requisitos \u00e9ticos y derechos de confidencialidad pertinentes; garantizar, sin dilaci\u00f3n, los servicios relacionados de terapia del habla y lenguaje y de terapia ocupacional en la frecuencia y cantidad estipulada en el PEI a todo el estudiantado registrado en el Programa de Educaci\u00f3n Especial ubicado en Vieques; comenzar a ofrecer los servicios de Educaci\u00f3n F\u00edsica Adaptada al estudiantado registrado en el Programa de Educaci\u00f3n Especial ubicado en Vieques que as\u00ed lo requiera; garantizar, sin dilaci\u00f3n, el establecimiento de espacios id\u00f3neos para ofrecer los servicios relacionados de terapia en todas las escuelas de Vieques; identificar medidas concretas para atender el estado t\u00e9rmico de las escuelas p\u00fablicas en Vieques; y gestionar, en un t\u00e9rmino de un (1) mes, la provisi\u00f3n de estacionamientos en las instalaciones del puerto de Ceiba para las maestras que viajan a Vieques diariamente desde la Isla Grande de Puerto Rico; con el prop\u00f3sito de que se d\u00e9 oportuno cumplimiento a las fuentes de derecho que gobiernan la Educaci\u00f3n Especial, incluyendo la sentencia por estipulaci\u00f3n del caso Rosa Lydia V\u00e9lez y otros v. Awilda Aponte Roque y otros, en su aplicaci\u00f3n al estudiantado de la isla municipio de Vieques.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adriana   Guti\u00e9rrez Col\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adriana   Guti\\u00e9rrez Col\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nelie  Lebr\u00f3n Robles - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nelie  Lebr\\u00f3n Robles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158479/RCC0200.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-09-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158479",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:51Z"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0423",
+  "title": "\u201cPara enmendar los Art\u00edculos 6, 10 y 12, y a\u00f1adir un nuevo Art\u00edculo 11, a la Ley N\u00fam. 81 de 14\nde marzo de 1912, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de\nSalud\u201d; a\u00f1adir un nuevo inciso (y) y reenumerar los actuales incisos (y) al (hh) de la Secci\u00f3n 1\ndel Art\u00edculo III como incisos (z) al (ii), respectivamente, enmendar la Secci\u00f3n 2 del Art\u00edculo IV\ny las Secciones 4, 6, 15 y 18 del Art\u00edculo VI de la Ley 72-1993, seg\u00fan enmendada, denominada\n\u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d; a\u00f1adir un nuevo inciso (l) al\nArt\u00edculo 2 y reenumerar los actuales incisos (l) al (v) como incisos (m) al (w), respectivamente,\na\u00f1adir un nuevo inciso (e) al Art\u00edculo 5, enmendar el inciso (b) del Art\u00edculo 8, enmendar el\ninciso (e) del Art\u00edculo 9, enmendar el Art\u00edculo 10 y a\u00f1adir un nuevo inciso (i) al Art\u00edculo 12 de\nla Ley 194-2000, seg\u00fan enmendada, denominada \u201cCarta de Derechos y Responsabilidades del\nPaciente\u201d; enmendar el Art\u00edculo 2 y a\u00f1adir un nuevo inciso (j) al Art\u00edculo 4 de la Ley N\u00fam. 101\nde 26 de junio de 1965, seg\u00fan enmendada, denominada \u201cLey de Facilidades de Salud\u201d, con el fin\nde reformar elementos esenciales del sistema de salud de Puerto Rico para extender protecciones\ny derechos adicionales a las personas con diversidad funcional en su interacci\u00f3n con las\nproveedoras de servicios de salud, las organizaciones de seguros de salud, y las agencias\ngubernamentales que reglamentan o canalizan dichos servicios; y para establecer otras\ndisposiciones complementarias.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Informe de Minor\u00eda radicado",
+      "date": "2025-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154303/ps0423-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-03-17",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154303/ps0423-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-16",
+      "classification": ""
+    },
+    {
+      "note": "Informe de Minor\u00eda radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154303/ps0423-Inf (minor\u00eda).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154303",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

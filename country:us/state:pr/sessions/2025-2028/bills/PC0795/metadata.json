@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0795",
+  "title": "Para enmendar el inciso (3) del Art\u00edculo 4 de la Ley 90-2020, conocida como \u201cLey para Prohibir y Prevenir el Acoso Laboral en Puerto Rico\u201d, a los fines de incluir, en la definici\u00f3n de acoso laboral, el aspecto mental y emocional; as\u00ed como el propulsar un acoso psicol\u00f3gico (mobbing), en el cual, el patrono u otros empleados crean un ambiente cruel, hostil e indigno a trav\u00e9s de mensajes, verbales o escritos, con el objetivo de lograr una inestabilidad psicol\u00f3gica de la v\u00edctima con la intenci\u00f3n de provocar su renuncia; a\u00f1adir los incisos diez (10), once (11) y doce (12) al Art\u00edculo 8 de la referida Ley para incluir la acci\u00f3n de asignarle metas y fechas inalcanzables de cumplir. As\u00ed como brindar intencionadamente informaci\u00f3n incompleta o falsa para luego ridiculizar o colocar en desventaja al empleado; as\u00ed como propiciar cualquier forma de manipulaci\u00f3n emocional (gaslighting) donde se hace que el empleado cuestione o dude de su propia realidad y percepci\u00f3n. Esto mediante el uso reiterado de negaciones, mentiras y propiciar la descalificaci\u00f3n de este con el objetivo de desestabilizarlo, aislarlo de los dem\u00e1s y hacerlo sentir inseguro o sin lucidez; utilizar las creencias del empleado que son distintas al patrono o a la mayor\u00eda de la plantilla laboral, en especial las creencias religiosas o pol\u00edticas, para fomentar un ambiente hostil hacia el empleado con la intenci\u00f3n de provocar su renuncia como conductas de acoso laboral; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158055/PC0795.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-08-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158055",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0696",
+  "title": "LEY Para a\u00f1adir un inciso (26) al Art\u00edculo 3.8 la Ley N\u00fam. 58-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Electoral de Puerto Rico del 2020\u201d, a los fines de incluir entre los deberes y facultades del Presidente(a) de la Comisi\u00f3n Estatal de Elecciones (CEE) el certificar mediante Informe a radicarse en la Secretaria de la CEE no m\u00e1s tarde de cincuenta (50) d\u00edas antes del evento electoral correspondiente; las gestiones, acuerdos y acciones realizadas para el cumplimiento de las disposiciones contenidas en los Art\u00edculos 5.7, sobre el Registro General de Electores, en espec\u00edfico los mecanismos de notificaci\u00f3n al Elector por correo; del Art\u00edculo 9.36 sobre Voto de Electores Ausentes, en cuanto al env\u00edo y devoluci\u00f3n de papeletas por correo; as\u00ed como el Art\u00edculo 9.39 sobre Voto de Electores Adelantados, tambi\u00e9n en cuanto al env\u00edo y devoluci\u00f3n de papeletas por correo, que incluir\u00e1, sin que se entienda como una limitaci\u00f3n: el detalle de toda reuni\u00f3n, adiestramiento, orientaci\u00f3n u otra acci\u00f3n correspondiente que haya realizado con el personal del US Postal Service o una empresa postal autorizada para operar dentro de Estados Unidos de Am\u00e9rica contratada a estos fines que especifique la fecha de la actividad, el lugar o facilidad en que se efectu\u00f3 la misma y el personal que asisti\u00f3, as\u00ed como copia de todo documento que evidencie el contenido de lo expuesto y el alcance de la responsabilidad del descargue de estas obligaciones por los empleados a cargo; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156162/PC0696.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-05-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156162",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

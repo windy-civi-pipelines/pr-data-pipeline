@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+    "date": "2025-06-20T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PS0455"
+}

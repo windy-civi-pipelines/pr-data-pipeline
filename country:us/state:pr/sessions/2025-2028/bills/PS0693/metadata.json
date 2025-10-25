@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0693",
+  "title": "\u201cPara a\u00f1adir un nuevo inciso (j) al Art\u00edculo 4.04 de la Ley 20-2017, seg\u00fan enmendada, conocida\ncomo \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d, y un nuevo inciso (k) al\nArt\u00edculo 25 del Plan de Reorganizaci\u00f3n N\u00fam. 2 de 21 de noviembre de 2011, seg\u00fan enmendado,\nconocido como \"Plan de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n de\n2011\", con el prop\u00f3sito de fortalecer la coordinaci\u00f3n entre ambas entidades, optimizar el tiempo de\nrespuesta ante llamadas de emergencia relacionadas con los participantes del Programa de Servicios\ncon Antelaci\u00f3n al Juicio y las violaciones de \u00f3rdenes de protecci\u00f3n, establecer una l\u00ednea \u00fanica de\natenci\u00f3n y un n\u00famero \u00fanico de caso con informaci\u00f3n preentrada para cada participante; y para otros\nfines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor  G. Gonz\u00e1lez L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  G. Gonz\\u00e1lez L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158069/ps0693-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-08-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158069",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

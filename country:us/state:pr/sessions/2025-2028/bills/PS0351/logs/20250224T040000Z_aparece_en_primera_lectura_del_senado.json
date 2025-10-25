@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Aparece en Primera Lectura del Senado",
+    "date": "2025-02-24T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PS0351"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Aprobado con enmiendas del informe",
+    "date": "2025-04-10T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PS0241"
+}

@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0302",
+  "title": "Para enmendar los Art\u00edculos 2.112; 2.030; 2.035 y el 3.058 de la Ley 107-2020, C\u00f3digo Municipal de Puerto Rico, para disponer el estricto cumplimiento con el inciso (d) del Art\u00edculo 2.035 del C\u00f3digo Municipal de Puerto Rico en la otorgaci\u00f3n de todo contrato para el establecimiento de instalaciones de manejo de desperdicios s\u00f3lidos, la prestaci\u00f3n de servicios de manejo de desperdicios s\u00f3lidos y los contratos de arrendamiento de propiedad municipal, mueble e inmueble, que incidan en los contratos para el establecimiento de instalaciones de manejo de desperdicios\ns\u00f3lidos o los contratos para proveer espacio a entidades p\u00fablicas o a personas o entidades privadas en predios, solares, aceras u otra propiedad municipal para la ubicaci\u00f3n provisional o permanente de recipientes, equipos, estructuras o instalaciones de cualquier naturaleza o prop\u00f3sito, que permita la recolecci\u00f3n de desperdicios s\u00f3lidos y materiales reciclables; y la prestaci\u00f3n de servicios de manejo de desperdicios s\u00f3lidos; para establecer por v\u00eda de excepci\u00f3n a lo anterior los contratos otorgados por raz\u00f3n de los efectos de una emergencia debidamente declarada por las autoridades competentes; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-02-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-02-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joanne  Rodr\u00edguez Veve - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joanne  Rodr\\u00edguez Veve - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153510/ps0302-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-31",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153510",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

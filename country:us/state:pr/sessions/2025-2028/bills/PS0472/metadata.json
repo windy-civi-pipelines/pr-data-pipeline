@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0472",
+  "title": "\u201cPara enmendar la Secci\u00f3n 6 del Art\u00edculo VI de la Ley 72-1993, seg\u00fan enmendada, conocida como\n\u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d, a los fines de requerir a todas las\naseguradoras y organizaciones de servicios de salud organizadas conforme a la Ley N\u00fam. 77 del 19\nde junio de 1957, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Seguros de Puerto Rico\u201d, y en\nvirtud de la Ley 194\u20132011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Seguros de Salud de\nPuerto Rico\u201d, a los planes de seguros que brinden servicios en Puerto Rico, a cualquier otra entidad\ncontratada para ofrecer beneficios de salud en Puerto Rico y a las entidades excluidas a tenor con el\nArt\u00edculo 1.070 de dicha Ley, as\u00ed como a la Administraci\u00f3n de Seguros de Salud de Puerto Rico y a\ncualquier entidad contratada para ofrecer servicios de salud o de seguros de salud en Puerto Rico, a\ntrav\u00e9s de la Ley 72-1993, seg\u00fan enmendada, conocida como \u201cLey de la Administraci\u00f3n de Seguros\nde Salud de Puerto Rico\u201d, que provean, como parte de su cubierta b\u00e1sica y beneficios m\u00ednimos,\nservicios de maternidad, incluyendo la utilizaci\u00f3n y administraci\u00f3n de anestesia epidural durante el\nparto; y para decretar otras disposiciones complementarias.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154799/ps0472-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-04-02",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154799/ps0472-Inf (Negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154799",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:55Z"
+  }
+}

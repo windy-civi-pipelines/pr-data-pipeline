@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0766",
+  "title": "Para enmendar el inciso (i) del Art\u00edculo 7.200 de la Ley 107-2020, seg\u00fan enmendada,\nconocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de disponer que los\nrecaudos por concepto de patentes municipales de los servicios de\ntelecomunicaciones prestados a clientes fuera de Puerto Rico, y actualmente\nasignados a la Oficina de Gerencia Municipal (OGM), adscrita a la Oficina de\nGerencia y Presupuesto (OGP), se transfieran en partes iguales a la OGM, a la\nAsociaci\u00f3n y la Federaci\u00f3n de Alcaldes de Puerto Rico; establecer que dichos fondos\nse utilizar\u00e1n exclusivamente para la adquisici\u00f3n de herramientas tecnol\u00f3gicas que\nmejoren la eficiencia en los recaudos municipales, en la capacitaci\u00f3n y\nadiestramiento de alcaldes y alcaldesas, en la cobertura de gastos operacionales y en\nla promoci\u00f3n de servicios o actividades que beneficien directamente a los\nmunicipios; requerir a la OGP la aprobaci\u00f3n de reglamentaci\u00f3n necesaria para\nimplementar las disposiciones de esta Ley; imponer a las instituciones recipientes la\nobligaci\u00f3n de rendir informes auditados anuales; y para otros fines relacionados",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 A. Santiago Rivera - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 A. Santiago Rivera - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158947/ps0766-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158947",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

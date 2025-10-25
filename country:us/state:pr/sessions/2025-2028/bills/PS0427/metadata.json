@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0427",
+  "title": "Para enmendar el Art\u00edculo 1 de la Ley N\u00fam. 22-2013, que establece la Pol\u00edtica P\u00fablica del Gobierno de Puerto Rico en contra del discrimen por orientaci\u00f3n sexual o identidad de g\u00e9nero en el empleo p\u00fablico o privado; enmendar el inciso (h) del Art\u00edculo 3 de la Ley N\u00fam. 167 2003, seg\u00fan enmendada, conocida como \u201cCarta de Derechos del Joven en Puerto Rico\u201d; enmendar el inciso (aa) del Art\u00edculo 3 de la Ley N\u00fam. 45-1998, seg\u00fan enmendada, conocida como \u201cLey de Relaciones del Trabajo para el Servicio P\u00fablico de Puerto Rico\u201d; enmendar el inciso (5) de la Secci\u00f3n 2.1 del Art\u00edculo 2, el inciso (35) del Art\u00edculo 3, el Art\u00edculo 6, la Secci\u00f3n 6.3 del Art\u00edculo 6 y el apartado (3) del subinciso (a) del inciso (2) de la Secci\u00f3n 9.1 del Art\u00edculo 9 de la Ley N\u00fam. 8\u20132017, seg\u00fan enmendada, denominada \u201cLey para la Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos en el Gobierno de Puerto Rico\u201d; enmendar el inciso (d) del Art\u00edculo 17 de la Ley N\u00fam. 115 de 30 de junio de 1965, seg\u00fan enmendada; enmendar el Art\u00edculo 2.042, el Art\u00edculo 2.048, el subinciso (3) del inciso (b) del Art\u00edculo 2.058, el Art\u00edculo 2.085 y el inciso 202 del Art\u00edculo 8.001 de la Ley N\u00fam. 107\u20132020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d; enmendar el Art\u00edculo 1, el Art\u00edculo 1-A, el Art\u00edculo 2 y el Art\u00edculo 2-A de la Ley N\u00fam. 100 de 30 de junio de 1959, seg\u00fan enmendada; enmendar la Secci\u00f3n 1 de la Ley N\u00fam. 131 de 13 de mayo de 1943, seg\u00fan enmendada, conocida como \u201cLey de Derechos Civiles de Puerto Rico\u201d; enmendar el Art\u00edculo 1, el Art\u00edculo 2 y el Art\u00edculo 5 de la Ley N\u00fam. 61-2011; enmendar los Art\u00edculos 66 y 180 de la Ley N\u00fam. 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d; y derogar el Art\u00edculo 21 de la Ley N\u00fam. 22-2013, a los fines de expandir dicha protecci\u00f3n a cualquier gesti\u00f3n gubernamental, p\u00fablica o privada y atemperar la legislaci\u00f3n vigente a la pol\u00edtica p\u00fablica del Estado Libre Asociado de Puerto Rico establecida; y para decretar otras disposiciones complementarias.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154360/ps0427-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-03-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154360",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

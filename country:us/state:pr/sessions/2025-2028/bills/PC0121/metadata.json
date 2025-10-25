@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0121",
+  "title": "Para enmendar el Art\u00edculo 37 de la Ley 73-2019, seg\u00fan enmendada, conocida como \u201cLey de la Administraci\u00f3n de Servicios Generales para la Centralizaci\u00f3n de las Compras del Gobierno de Puerto Rico de 2019\u201d, con el prop\u00f3sito de supeditar la aprobaci\u00f3n y convalidaci\u00f3n de toda orden de compra, subasta o adquisici\u00f3n de bienes o servicios no profesionales, al cumplimiento con la pol\u00edtica de preferencia establecida, mediante el Cap\u00edtulo VII del Plan de Reorganizaci\u00f3n 2-2011, seg\u00fan enmendado, conocido como \u201cPlan de Reorganizaci\u00f3n del Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n de 2011\u201d, en adici\u00f3n a las ya dispuestas en virtud de la Ley 14-2004, seg\u00fan enmendada, conocida como \u201cLey para la Inversi\u00f3n de la Industria Puertorrique\u00f1a\u201d, la Ley 129-2005, seg\u00fan enmendada, conocida como \u201cLey de Reservas en las Compras del Gobierno de Puerto Rico\u201d, la Ley 253-2006, seg\u00fan enmendada, conocida como \u201cLey de Contratos de Selecci\u00f3n M\u00faltiple en los Procesos de Compras\u201d, y la Ley 42-2018, seg\u00fan enmendada, conocida como \u201cLey de Preferencia para Contratistas y Proveedores Locales de Construcci\u00f3n\u201d, entre otras; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wanda   Del Valle Correa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda   Del Valle Correa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152754/PC0121.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152754",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

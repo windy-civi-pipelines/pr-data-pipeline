@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "En el Calendario de Ordenes Especiales del Senado",
+    "date": "2025-10-09T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "PS0613"
+}

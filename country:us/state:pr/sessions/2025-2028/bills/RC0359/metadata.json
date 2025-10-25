@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0359",
+  "title": "Para ordenar a las Comisiones de Bienestar Social; y de lo Jur\u00eddico de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico llevar a cabo un examen, investigaci\u00f3n y evaluaci\u00f3n en torno a la implantaci\u00f3n de los estatutos contenidos en la Ley N\u00fam. 52 de 24 de mayo de 2016, conocida como \u201cLey para declarar la pol\u00edtica p\u00fablica de la obesidad como una condici\u00f3n de salud\u201d; y la Ley N\u00fam. 44 de 2 de julio de 1985, seg\u00fan enmendada, conocida como \u201cLey para prohibir el discrimen contra las personas con impedimentos f\u00edsicos, mentales o sensoriales\u201d; asimismo, justipreciar su efectividad para cumplir con su objetivo; ello, ante las situaciones de hechos que experimentan las personas con obesidad severa que, en ocasiones, resultan en discrimen por su condici\u00f3n de salud, con el prop\u00f3sito de auscultar la pertinencia de crear y promulgar legislaci\u00f3n complementaria que le garantice a todo ciudadano con obesidad severa una participaci\u00f3n activa e igualitaria en circunstancias y condiciones ante terceros en todas las facetas de la vida diaria.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lilibeth  Rosas Vargas - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lilibeth  Rosas Vargas - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156435/RC0359.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-06-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156435",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

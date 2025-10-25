@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0281",
+  "title": "\u201cPara enmendar las Secciones 2 y 3 de la Ley 258-2018; enmendar los Art\u00edculos 3.3, 18.0, 23.3, 36.1 y 36.3 de la Ley 234-2004, seg\u00fan enmendada; y, enmendar la Secci\u00f3n 6 de la Ley N\u00fam. 83 de 2 de mayo de 1941, seg\u00fan enmendada, a los fines de establecer las entidades cooperativas de servicio el\u00e9ctrico o cooperativas de trabajo asociado que tengan como fin brindar servicios de construcci\u00f3n, reparaci\u00f3n, mantenimiento y operaci\u00f3n, en todo o en parte, de la red de transmisi\u00f3n y distribuci\u00f3n, incluyendo, pero sin limitarse a la propiedad de la Autoridad de Energ\u00eda El\u00e9ctrica, instalaciones municipales, servicios contratados entre la Autoridad de Energ\u00eda El\u00e9ctrica y los municipios de Puerto Rico, como ente profesional subcontratado por los municipios para reparaciones de la red de transmisi\u00f3n o de distribuci\u00f3n el\u00e9ctrica de la Autoridad de Energ\u00eda El\u00e9ctrica o de los municipios, as\u00ed como parte microredes de distribuci\u00f3n de energ\u00eda el\u00e9ctrica en Puerto Rico o que contraten con corporaciones privadas; establecer la pol\u00edtica p\u00fablica que favorece la contrataci\u00f3n de cooperativas de servicio el\u00e9ctrico; disponer y promover la contrataci\u00f3n del Gobierno Central, agencias, departamentos, corporaciones p\u00fablicas, instrumentalidades y municipios de cooperativas de servicio el\u00e9ctrico; autorizar a la Autoridad de Energ\u00eda El\u00e9ctrica a contratar corporaciones de servicio el\u00e9ctrico para la consecuci\u00f3n de sus fines; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153343/ps0281-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153343",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

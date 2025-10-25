@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0368",
+  "title": "Para a\u00f1adir un nuevo inciso (24) al Art\u00edculo 6 de la Ley 51-1996, seg\u00fan enmendada, conocida como \u201cLey de Servicios Educativos Integrales para Personas con Impedimentos\u201d, con el prop\u00f3sito de conferirle al Departamento de Educaci\u00f3n, en coordinaci\u00f3n con los Departamentos de la Familia y de Recreaci\u00f3n y Deportes, la responsabilidad de ofrecer durante los meses de junio y julio de cada a\u00f1o, campamentos de verano para ni\u00f1os con impedimentos en igualdad de condiciones que la poblaci\u00f3n general; disponer que los referidos campamentos, estar\u00e1n sujetos a las disposiciones legales y reglamentarias promulgadas al amparo de la Ley 163-2016, seg\u00fan enmendada, conocida como \u201cLey del Programa de Licenciamiento y Supervisi\u00f3n de Campamentos P\u00fablicos y Privados y de Actividades Deportivas y Recreativas en Puerto Rico\u201d, y a cualesquiera otras aplicables; y para otros fines relacionados; para a\u00f1adir un nuevo inciso (i) al Art\u00edculo 19 de la Ley 8-2004, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recreaci\u00f3n y Deportes\u201d, a los fines de especificar qu\u00e9 cosas deben incluirse en la planificaci\u00f3n y desarrollo de \u00e1reas recreativas y parques habilitados para ni\u00f1os con diversidad funcional; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-02-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #3",
+      "date": "2025-04-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153982/PC0368(A-005).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-02-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153982",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

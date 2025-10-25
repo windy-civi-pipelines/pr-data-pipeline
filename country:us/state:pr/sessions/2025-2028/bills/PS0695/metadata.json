@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0695",
+  "title": "\u201cPara crear la \u201cLey para el Rescate P\u00fablico del Sistema El\u00e9ctrico de Puerto Rico\u201d, con el fin de\nestablecer la nueva pol\u00edtica sobre el control y manejo de los activos, facultades, operaciones y\ncontrataciones de la Autoridad de Energ\u00eda El\u00e9ctrica (AEE); enmendar los art\u00edculos 1.3, 1.7, 1.8, 1.9\ny 1.16 de la Ley N\u00fam. 17-2019, seg\u00fan enmendada, conocida como la \u201cLey de Pol\u00edtica P\u00fablica\nEnerg\u00e9tica de Puerto Rico\u201d con el fin de que el Pueblo de Puerto Rico retome el control sobre la\nAEE; enmendar el art\u00edculo 6.6 y 6.35 de la Ley N\u00fam. 57-2014, seg\u00fan enmendada, conocida como la\n\u201cLey de Transformaci\u00f3n y ALIVIO Energ\u00e9tico de Puerto Rico\u201d con el fin de evitar monopolios de\ncompa\u00f1\u00edas privadas en la industria energ\u00e9tica de Puerto Rico y evitar situaciones de conflicto de\nintereses en el Negociado de Energ\u00eda; enmendar las Secciones 4, 4A, 5, 6, 7 y 19 y a\u00f1adir las\nSecciones 7.1, 7.2, 7.3, 7.4, 7.5, 7.6 y 7.7 a la Ley N\u00fam. 83 de 2 de mayo de 1941, seg\u00fan\nenmendada, conocida como \u201cLey de la Autoridad de Energ\u00eda El\u00e9ctrica de Puerto Rico\u201d con el fin de\nreestructurar y reorganizar el cuerpo rector de la Autoridad de Energ\u00eda El\u00e9ctrica de Puerto Rico para\nasegurar una gobernanza participativa, transparente y totalmente independiente de la pol\u00edtica\npartidista e intereses ajenos al bien com\u00fan; establecer prohibiciones y obligaciones, la imposici\u00f3n\nde penas y, las reglas para la elecci\u00f3n de los representantes de los consumidores en la Junta de\nGobierno para que \u00e9sta sea efectiva, transparente, democr\u00e1tica y sobre todo, m\u00e1s representativa de\nla sociedad puertorrique\u00f1a e incluir el principio del m\u00e9rito en el proceso de reclutamiento, selecci\u00f3n\ny administraci\u00f3n de recursos humanos; derogar la Ley N\u00fam. 120-2018, seg\u00fan enmendada, conocida\ncomo la \u201cLey para Transformar el Sistema El\u00e9ctrico de Puerto Rico\u201d; y para otros fines\nrelacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Descargado en Senado",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mar\u00eda de Lourdes  Santiago Negr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mar\\u00eda de Lourdes  Santiago Negr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158071/ps0695-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-08-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158071",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:51Z"
+  }
+}

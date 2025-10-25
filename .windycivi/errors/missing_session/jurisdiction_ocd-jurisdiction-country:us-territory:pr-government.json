@@ -1,0 +1,47 @@
+{
+  "id": "ocd-jurisdiction/country:us/territory:pr/government",
+  "name": "Puerto Rico",
+  "url": "http://www.oslpr.org/",
+  "division_id": "ocd-division/country:us/territory:pr",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "2009-2012",
+      "identifier": "2009-2012",
+      "name": "2009-2012 Session",
+      "start_date": "2009-01-14",
+      "end_date": "2013-01-08"
+    },
+    {
+      "_scraped_name": "2013-2016",
+      "identifier": "2013-2016",
+      "name": "2013-2016 Session",
+      "start_date": "2013-01-14",
+      "end_date": "2017-01-08"
+    },
+    {
+      "_scraped_name": "2017-2020",
+      "identifier": "2017-2020",
+      "name": "2017-2020 Session",
+      "start_date": "2017-01-09",
+      "end_date": "2020-12-31"
+    },
+    {
+      "_scraped_name": "2021-2024",
+      "identifier": "2021-2024",
+      "name": "2021-2024 Session",
+      "start_date": "2021-01-11",
+      "end_date": "2024-12-31",
+      "active": false
+    },
+    {
+      "_scraped_name": "2025-2028",
+      "identifier": "2025-2028",
+      "name": "2025-2028 Session",
+      "start_date": "2025-01-13",
+      "end_date": "2028-12-31",
+      "active": true
+    }
+  ],
+  "extras": {}
+}

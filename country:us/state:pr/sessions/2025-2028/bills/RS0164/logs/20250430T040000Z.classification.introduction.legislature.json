@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Radicado",
+    "date": "2025-04-30T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "RS0164"
+}

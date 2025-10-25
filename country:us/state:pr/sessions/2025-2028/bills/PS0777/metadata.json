@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0777",
+  "title": "Para enmendar la Ley 107-2020, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Municipal\nde Puerto Rico\u201d en sus Art\u00edculos 1.008 (h); 1.019 (j); 1.020; 1.022; 1.037 (a) y (b);\n1.053; 2.002; 2.006; 2.014 y para a\u00f1adir un nuevo inciso (d); 2.018 (a)(10); 2.019;\n2.050; 2.055; 2.059; 2.061; 2.085; 3.042 (36); 4.009 (c); 4.010 y los incisos (a), (d) y (e) y\npara a\u00f1adir dos nuevos incisos (f) y (g); 4.011 (b); 4.012; 4.012A y los incisos (f) y\n(g); 4.014; 6.007; 6.016; 7.200 para a\u00f1adir un nuevo inciso (k); y 8.001; a los fines de\na\u00f1adir enmiendas sustantivas y t\u00e9cnicas para una ejecuci\u00f3n m\u00e1s efectiva de los\ndeberes y funciones municipales; promover la autonom\u00eda administrativa de los\ngobiernos municipales conforme la pol\u00edtica p\u00fablica establecida en el C\u00f3digo\nMunicipal; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159052/ps0777-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159052",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

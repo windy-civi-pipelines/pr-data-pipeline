@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0128",
+  "title": "Para enmendar los Art\u00edculos 2 y 3, as\u00ed como a\u00f1adir un nuevo Art\u00edculo 14-A al Plan de Reorganizaci\u00f3n N\u00fam. 4 de 26 de julio de 2010, seg\u00fan enmendado, conocido como el \u201cPlan de Reorganizaci\u00f3n del Departamento de Agricultura de 2010\u201d, a los fines de establecer de manera expresa como parte de la pol\u00edtica p\u00fablica y de las estructuras del Departamento de Agricultura el garantizar la implantaci\u00f3n ordenada, uso y desarrollo de los adelantos cient\u00edficos y tecnol\u00f3gicos en la agricultura puertorrique\u00f1a de manera prioritaria a trav\u00e9s de la \u201cComisi\u00f3n Multisectorial de Innovaci\u00f3n y Tecnolog\u00eda Agr\u00edcola\u201d que aqu\u00ed se establece, como instrumento de avanzada y colaboraci\u00f3n especializada e integral en este campo, disponer como mecanismos de fiscalizaci\u00f3n y rendici\u00f3n de cuentas para el cumplimiento de lo aqu\u00ed dispuesto el que dicha comisi\u00f3n, confeccione y presente para aprobaci\u00f3n un Modelo de Innovaci\u00f3n Tecnol\u00f3gica Agr\u00edcola con vigencia a cinco (5) a\u00f1os e informes comprensivos semestrales al Gobernador(a) y a la Asamblea Legislativa que detallen los trabajos realizados; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152763/PC0128.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152763",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

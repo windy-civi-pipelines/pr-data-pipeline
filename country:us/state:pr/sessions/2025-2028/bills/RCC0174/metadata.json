@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0174",
+  "title": "Para ordenar al Centro de Recaudaci\u00f3n de Impuestos Municipales implementar el Plan de Puesta al D\u00eda con el CRIM; a los fines de proveer un plan de incentivos que permita el relevo de pago de intereses, recargos y penalidades acumuladas sobre las deudas por concepto de contribuciones sobre la propiedad mueble e inmueble de conformidad con los requisitos y t\u00e9rminos establecidos en la Ley N\u00fam. 107-2020, seg\u00fan enmendada; autorizar al Centro de Recaudaci\u00f3n de Ingresos Municipales a suscribir acuerdos o planes de pago; disponer sobre la duraci\u00f3n del Plan de Puesta al D\u00eda con el CRIM, sus disposiciones generales y las penalidades; imponer los t\u00e9rminos y condiciones para acogerse al plan, establecer los requisitos y condiciones de los diferentes planes de pagos disponibles a los contribuyentes; disponer las exclusiones; facultar al Director Ejecutivo del Centro de Recaudaci\u00f3n de Ingresos Municipales a emitir las cartas circulares o determinaciones u \u00f3rdenes administrativas necesarias a los fines de esta Ley, ordenar la expedici\u00f3n de certificados negativos de deuda y establecer los deberes y responsabilidades de dicha agencia, autorizar un per\u00edodo de orientaci\u00f3n a los contribuyentes; facultar al CRIM a entrar en acuerdos para la venta de los planes de pago; disponer sobre el car\u00e1cter voluntario de la participaci\u00f3n de los municipios en el programa de incentivos que acoja el Centro de Recaudaci\u00f3n de Impuestos Municipales conforme a lo dispuesto en esta resoluci\u00f3n conjunta mediante una ordenanza o resoluci\u00f3n de sus respectivas legislaturas municipales a tales efectos; ordenar la presentaci\u00f3n de informes; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158048/RCC0174.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-08-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158048",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

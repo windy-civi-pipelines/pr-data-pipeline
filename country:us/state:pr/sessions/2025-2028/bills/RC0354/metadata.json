@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0354",
+  "title": "Para ordenar a la Comisi\u00f3n de Seguridad P\u00fablica de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico que realice una investigaci\u00f3n exhaustiva sobre el funcionamiento del Negociado del Sistema de Emergencia 9-1-1, como componente del Departamento de Seguridad P\u00fablica, en virtud de la Ley 20-2017, seg\u00fan enmendada, de manera particular en cuanto al cumplimiento de las leyes y normativas federales que requieren que los recaudos obtenidos por concepto de los servicios del Sistema de Emergencias 9-1-1 sean utilizados \u00fanica y exclusivamente para estos fines, el grado de burocracia operacional en que se encuentra, que se alega afecta el debido descargue de sus deberes y la prestaci\u00f3n de este servicio p\u00fablico, entre otros asuntos, sobre la aprobaci\u00f3n de contratos de servicios esenciales para su debido funcionamiento, el que pueda agilizar el reclutamiento de empleados(as) para mejorar el tiempo de llamadas en espera y el tiempo de respuesta, retrasos en los procesos de compras de equipos esenciales y el que los municipios que colaboran con el 9-1-1 no reciben los fondos conforme a sus niveles de servicio, lo que provoca que al presente la mayor\u00eda no ofrece cobertura 24/7; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156423/RC0354.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156423",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

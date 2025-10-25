@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0125",
+  "title": "Para crear el \u201cC\u00f3digo Integral para la Prevenci\u00f3n, Intervenci\u00f3n y Atenci\u00f3n contra la Violencia Dom\u00e9stica en Puerto Rico\u201d, mediante el cual se agrupan y ordenan sistem\u00e1ticamente, todas las pol\u00edticas p\u00fablicas promulgadas para propiciar el desarrollo, establecimiento y fortalecimiento de remedios eficaces, para ofrecer protecci\u00f3n y ayuda a las v\u00edctimas, as\u00ed como alternativas para la rehabilitaci\u00f3n de los ofensores y estrategias para la prevenci\u00f3n de la violencia dom\u00e9stica en Puerto Rico; para derogar la Ley 54 de 15 de agosto de 1989, seg\u00fan enmendada, conocida como \u201cLey para la Prevenci\u00f3n e Intervenci\u00f3n con la Violencia Dom\u00e9stica\u201d; derogar la Ley N\u00fam. 420-2000, conocida como \u201cLey de Archivo Electr\u00f3nico de \u00d3rdenes de Protecci\u00f3n\u201d; derogar la Ley 88-2005, seg\u00fan enmendada; derogar la Ley 217-2006; derogar la Ley 59-2017; derogar la Ley 117-2018, conocida como \u201cLey para el Adiestramiento y Capacitaci\u00f3n Contra la Violencia Dom\u00e9stica\u201d; derogar la Ley 47-2018, la cual establec\u00eda el Programa de Protecci\u00f3n y Prevenci\u00f3n de Violencia Dom\u00e9stica para Mujeres de Nacionalidad Extranjera Residentes en Puerto Rico; derogar la Ley 85-2019; derogar la Ley 49-2020, conocida como \u201cLey para establecer la l\u00ednea de emergencia para casos de violencia dom\u00e9stica 0-0-0\u201d; para enmendar el Art\u00edculo 2A de la Ley N\u00fam. 259 de 3 de abril de 1946, seg\u00fan enmendada; enmendar los incisos 8 (iv) y 10 (i), del Art\u00edculo 2 de la Ley 266-2004, seg\u00fan enmendada; enmendar el Art\u00edculo 2.04 b (35) y (63) de la Ley 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d; enmendar la Ley 83-2019, conocida como \u201cLey de Licencia Especial para Empleados con Situaciones de Violencia Dom\u00e9stica o de G\u00e9nero, Maltrato de Menores, Hostigamiento Sexual en el Empleo, Agresi\u00f3n Sexual, Actos Lascivos o de Acecho en su Modalidad Grave\u201d; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wanda   Del Valle Correa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda   Del Valle Correa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152759/PC0125.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-01-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152759",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

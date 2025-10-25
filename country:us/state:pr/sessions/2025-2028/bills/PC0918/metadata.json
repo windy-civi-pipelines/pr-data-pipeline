@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0918",
+  "title": "Para enmendar los Art\u00edculos 8 y 10 de la Ley N\u00fam. 85-2017, seg\u00fan enmendada, conocida como \u201cLey Contra el Hostigamiento e Intimidaci\u00f3n o \u2018Bullying\u2019 del Gobierno de Puerto Rico\u201d o \u201cLey Alexander Santiago Mart\u00ednez\u201d; enmendar el inciso (i) del Art\u00edculo 9.07 de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d; adicionar un nuevo inciso (d); y redesignar los actuales incisos (d) al (u) como incisos (e) al (v) del Art\u00edculo 5 de la Ley N\u00fam. 209-2003, seg\u00fan enmendada, conocida como \u201cLey del Instituto de Estad\u00edsticas de Puerto Rico\u201d, a fin de que los datos obtenidos y remitidos en el informe anual sobre la notificaci\u00f3n de los casos de acoso, entre ellos, \u201cbullying\u201d y ciberacoso \u201ccyberbullying\u201d, en las escuelas p\u00fablicas, privadas, instituciones de educaci\u00f3n superior y universidades, sean remitidos simult\u00e1neamente por los Secretarios de Educaci\u00f3n y de Estado al Instituto de Estad\u00edsticas de Puerto Rico, para su interpretaci\u00f3n estad\u00edstica por materia, de modo que puedan implantarse uniformemente las pol\u00edticas p\u00fablicas para la prevenci\u00f3n y prescripci\u00f3n del acoso; entregar posteriormente a las Secretar\u00edas de la C\u00e1mara de Representantes y del Senado de Puerto Rico; realizar correcciones gramaticales y de estilo; y atemperar a la legislaci\u00f3n vigente.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159036/PC0918.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159036",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

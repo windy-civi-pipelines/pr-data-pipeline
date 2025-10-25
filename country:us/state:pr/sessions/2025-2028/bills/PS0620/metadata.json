@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0620",
+  "title": "\u201cPara establecer la \u201cLey de Concientizaci\u00f3n sobre la Miastenia Gravis\u201d; disponer la pol\u00edtica p\u00fablica\ndel Gobierno de Puerto Rico respecto al manejo de los pacientes con Miastenia Gravis (MG);\nasignar responsabilidades al Departamento de Salud en cuanto a la educaci\u00f3n continuada sobre MG;\nestablecer reglamentaci\u00f3n que promueva educaci\u00f3n sobre MG en programas acad\u00e9micos de ramas\nde medicina y profesiones de la salud; desarrollar o adaptar gu\u00edas m\u00e9dicas sobre el diagn\u00f3stico y\ntratamiento de MG; promover investigaciones sobre las causas y tratamiento de la Miastenia Gravis;\nrequerir a la Administraci\u00f3n de Seguros de Salud de Puerto Rico y al Comisionado de Seguros que\nse incluya la Miastenia Gravis en la cubierta especial del Plan de Salud del Gobierno y de los planes\nm\u00e9dicos privados; declarar el mes de junio como \u201cMes de la Concientizaci\u00f3n sobre la Miastenia\nGravis\u201d; ordenar al Departamento de Educaci\u00f3n y al Departamento de Salud a promover actividades\neducativas dirigidas a estudiantes y a profesionales de la salud, en celebraci\u00f3n de este mes; y para\notros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeison  Rosa Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155708/ps0620-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-05-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155708",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

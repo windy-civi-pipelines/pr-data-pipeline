@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0865",
+  "title": "Para a\u00f1adir un nuevo subinciso (66) al inciso (b) del Art\u00edculo 2.04 de la Ley 85-2018, seg\u00fan enmendada, conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d, a los fines de disponer que el Secretario de Educaci\u00f3n tendr\u00e1 la obligaci\u00f3n de adoptar e implementar, en el curr\u00edculo escolar, un curso a nivel elemental, intermedio y superior, respecto a la \u00e9tica y el civismo; para disponer que el referido curso abarcar\u00e1 los temas de \u00e9tica gubernamental, \u00e9tica de trabajo y \u00e9tica social en los distintos escenarios c\u00edvicos; para disponer que tanto en la elaboraci\u00f3n como en la implementaci\u00f3n del curso, el Secretario podr\u00e1 contar con la cooperaci\u00f3n y el asesoramiento de la Oficina de \u00c9tica Gubernamental, la Oficina del Contralor, el Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n, la Polic\u00eda de Puerto Rico y el Departamento de Justicia; para disponer que el Secretario producir\u00e1 informes estad\u00edsticos anuales sobre el impacto del curso de \u00e9tica y civismo en el aprovechamiento acad\u00e9mico, la asistencia de los estudiantes, el \u00edndice de estudiantes que se grad\u00faan, los incidentes de agresiones entre estudiantes, la comisi\u00f3n de delitos por parte de los estudiantes, el consumo de drogas il\u00edcitas entre el estudiantado y sobre cualquier otro asunto que estime pertinente; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158533/PC0865.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-09-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158533",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

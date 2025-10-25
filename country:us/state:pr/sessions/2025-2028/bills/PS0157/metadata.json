@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0157",
+  "title": "Para enmendar el Art\u00edculo 26 de la 146-2012, segun enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d, insertar un nuevo Art\u00edculo 5 en la Ley 70-2008, seg\u00fan enmendada, conocida como \u201cLey Habilitadora para Desarrollar el Plan AMBER\u201d, insertar un nuevo Art\u00edculo 8 en la Ley 132-2009, seg\u00fan enmendada, conocida como \u201cLey Habilitadora para Implantar el Plan de Alerta SILVER\u201d, insertar un nuevo Art\u00edculo 6 en la Ley 149-2019, seg\u00fan enmendada, conocida como \u201cLey Habilitadora para Establecer el Plan ROSA\u201d e insertar un nuevo Art\u00edculo 7 en la Ley 1-2021, seg\u00fan enmendada, conocida como \u201cLey Habilitadora para Establecer el Plan de Alerta Ashanti\u201d; y renumerar los correspondientes art\u00edculos, a los fines de eximir a los agentes del orden p\u00fablico de responsabilidad penal cuando penetren en una propiedad durante la b\u00fasqueda de una persona reportada como desaparecida y se encuentre en peligro inminente; fomentar esfuerzos adicionales en la b\u00fasqueda de personas desaparecidas; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152696/ps0157-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152696",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

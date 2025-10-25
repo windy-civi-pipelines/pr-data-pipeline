@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veto de Bolsillo",
+    "date": "2025-08-02T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PS0108"
+}

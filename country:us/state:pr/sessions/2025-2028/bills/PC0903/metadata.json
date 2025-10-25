@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0903",
+  "title": "Para enmendar los art\u00edculos 1.039 y 1.041 de la Ley 107-2020, conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, a los fines de ampliar las facultades y deberes generales de las legislaturas municipales, en cuanto a la realizaci\u00f3n de auditor\u00edas e investigaciones, incluyendo audiencias p\u00fablicas, reuniones ejecutivas e inspecciones oculares, la administraci\u00f3n de juramentos, toma de deposiciones, requerimientos de documentos, datos u otras informaciones y la emisi\u00f3n de citaciones bajo apercibimiento de desacato, entre otros poderes; y disponer que todo proyecto de ordenanza y de resoluci\u00f3n a ser presentado en cualquier Legislatura Municipal, sea debidamente numerado de forma correlativa y cronol\u00f3gica, para poder ser considerado por dicho Cuerpo; enmendar el Art\u00edculo 3 de la Ley N\u00fam. 147 del 18 de junio de 1980, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica de la Oficina de Gerencia y Presupuesto\u201d, con el prop\u00f3sito de otorgarle a la Oficina de Gerencia Municipal, la responsabilidad de establecer un sistema central de base de datos electr\u00f3nico, a trav\u00e9s del cual se har\u00e1 de dominio p\u00fablico, las ordenanzas y resoluciones aprobadas por las legislaturas municipales, la informaci\u00f3n financiera, los planes de clasificaci\u00f3n de puestos y retribuci\u00f3n y los presupuestos municipales, entre otros documentos relevantes, que permitan a la ciudadan\u00eda conocer la gesti\u00f3n administrativa, financiera y operacional de todos los ayuntamientos de la Isla; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wilson J. Rom\u00e1n L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson J. Rom\\u00e1n L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158959/PC0903.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158959",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

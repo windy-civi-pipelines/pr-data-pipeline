@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "En el Calendario de Ordenes Especiales de la C\u00e1mara",
+    "date": "2025-08-18T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "RC0373"
+}

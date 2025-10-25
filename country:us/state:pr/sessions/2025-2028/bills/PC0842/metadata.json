@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0842",
+  "title": "Para crear la \u201cLey de la Agencia Estatal para el Manejo de Emergencias y Administraci\u00f3n de Desastres de Puerto Rico\u201d, definir sus funciones y deberes, asignar los recursos necesarios para su constituci\u00f3n y operaci\u00f3n, garantizar que el uso de los fondos recibidos para la Agencia Estatal se utilicen de acuerdo con la regulaci\u00f3n federal y estatal vigente, disponer su independencia fiscal y administrativa, enmendar el Art\u00edculo 1.06, reenumerar los actuales Cap\u00edtulos 5, 6 y 7, como nuevos Cap\u00edtulos 4, 5 y 6, renumerar los actuales Art\u00edculos 5.01 al 7.07 como nuevos Art\u00edculos 4.01 al 6.07, as\u00ed como derogar el Cap\u00edtulo 4 de la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica\u201d, a los fines de excluir al Negociado de Manejo de Emergencias y Administraci\u00f3n de Desastres de dicho departamento, eliminando la burocracia operacional en la que se encuentra que afecta el debido descargue de sus deberes y la prestaci\u00f3n de este servicio p\u00fablico, en espec\u00edfico en cuanto a la aprobaci\u00f3n de contratos de servicios esenciales para su debido funcionamiento y el que pueda agilizar el reclutamiento de empleados(as), entre otros asuntos; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-09-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/158349/PC0842.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-09-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158349",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0272",
+  "title": "Para enmendar el Art\u00edculo 5 de la Ley N\u00fam. 23 de 20 de junio de 1972, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recursos Naturales y Ambientales\u201d, a los fines de establecer la \u201cZona de Planificaci\u00f3n Especial Tur\u00edstica de las Casetas y Muelles sobre el agua y terrenos de dominio p\u00fablico de La Parguera\u201d; resolver la incertidumbre jur\u00eddica relacionada con las residencias y estructuras existentes en el litoral costero de esta zona; establecer un r\u00e9gimen de pago mediante el cobro de c\u00e1nones por el uso de la superficie de las porciones de terrenos p\u00fablicos y de agua que ocupen dichas estructuras existentes; autorizar reglamentaci\u00f3n sobre el uso y mantenimiento de dichas estructuras; y para financiar obras permanentes en beneficio de la Reserva Natural y comunidad de La Parguera; aclarar las facultades, responsabilidades y deberes del Secretario del Departamento de Recursos Naturales y Ambientales, la Compa\u00f1\u00eda de Turismo de Puerto Rico y la Junta de Planificaci\u00f3n; ordenar al Departamento de Recursos Naturales y Ambientales y a la Compa\u00f1\u00eda de Turismo de Puerto Rico que realice, divulgue y ejecute un plan detallado y coordinado de mejoras a la Reserva Natural de La Parguera y a la comunidad que ser\u00e1 financiado con el producto de los c\u00e1nones de impuestos por el uso de la superficie de las porciones de terrenos p\u00fablicos y de agua que ocupen a las estructuras privadas ubicadas en la zona mar\u00edtimo terrestre; ordenar sobre el uso de los fondos recaudados por concepto de los c\u00e1nones cobrados por el Departamento; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Leopoldo Figueroa",
+      "date": "2025-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153269/ps0272-25  A-003.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-22",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153269",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:52Z"
+  }
+}

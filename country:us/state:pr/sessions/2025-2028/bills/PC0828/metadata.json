@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0828",
+  "title": "Para establecer la \u201cLey para la protecci\u00f3n y seguridad acu\u00e1tica de ba\u00f1istas en Puerto Rico\u201d con el prop\u00f3sito de integrar a los hoteles, hospeder\u00edas y alojamientos a corto plazo en la diseminaci\u00f3n de alertas y advertencias de riesgo de corrientes marinas y oleaje peligroso a sus hu\u00e9spedes, establecer la responsabilidad del Negociado para el Manejo de Emergencias y Asistencia de Desastres, la Oficina de Turismo en el Departamento de Desarrollo Econ\u00f3mico y Comercio del Gobierno de Puerto Rico, Discover Puerto Rico y cualquier otra agencia que promocione el turismo en la Isla de establecer acuerdos colaborativos con el Servicio Nacional de Meteorolog\u00eda de San Juan para informar a la poblaci\u00f3n local y a turistas de las advertencias y alertas que esta emite sobre las condiciones peligrosas en el mar, establecer el deber de los hoteles, hospeder\u00edas y alojamientos a corto plazo de informar a sus hu\u00e9spedes sobre condiciones peligrosas en el mar, establecer multas en caso de incumplimiento, destinar el importe de esas multas al Fondo Especial de la Junta Interagencial de Playas para proteger a ba\u00f1istas locales y visitantes en caso de condiciones peligrosas en el mar, mediante la presencia de salvavidas, rotulaci\u00f3n informativa en las playas y campa\u00f1as educativas, para enmendar el Art\u00edculo 7 de la Ley 293-1999, seg\u00fan enmendada, conocida como \u201cLey de la Junta Interagencial de Playas\u201d, ordenar al Instituto de Ciencias Forenses incluir la localizaci\u00f3n espec\u00edfica del ahogamiento y la condici\u00f3n de residente o visitante de la persona fallecida en sus estad\u00edsticas; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edgardo   Feliciano S\u00e1nchez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Edgardo   Feliciano S\\u00e1nchez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFiles/anejos/158187/PC0828.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-08-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158187",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

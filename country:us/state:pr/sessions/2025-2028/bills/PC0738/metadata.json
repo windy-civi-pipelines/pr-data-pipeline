@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0738",
+  "title": "Para enmendar el inciso \u00d1 del Art\u00edculo 5, a\u00f1adir un nuevo Art\u00edculo 6 y renumerar el actual Art\u00edculo 6 como 7 de la Ley 237-2004, seg\u00fan enmendada, conocida como la \u201cLey para Establecer Par\u00e1metros Uniformes en los Procesos de Contrataci\u00f3n de Servicios Profesionales y Consultivos para las Agencias y Entidades Gubernamentales del ELA\u201d, a los fines de prohibir el beneficio econ\u00f3mico de la contrataci\u00f3n gubernamental a favor de personas que hayan declarado o admitido que han cometido delitos contra la integridad p\u00fablica, de malversaci\u00f3n de fondos p\u00fablicos o delitos sujetos al Registro creado mediante el Art\u00edculo 6.2 de la Ley 2-2018, seg\u00fan enmendada, conocida como el \u201cC\u00f3digo Anticorrupci\u00f3n para el Nuevo Puerto Rico\u201d, independientemente de si fueron procesados por las conductas delictivas, incluir la obligaci\u00f3n de certificar el hecho de no haber declarado o admitido los delitos se\u00f1alados como parte de las cl\u00e1usulas mandatorias de estos contratos, ampliar las consecuencias por violar las disposiciones de la ley, espec\u00edficamente no beneficiarse en forma alguna de la contrataci\u00f3n gubernamental realizada a favor de personas jur\u00eddicas con quienes mantengan relaciones laborales, contractuales o como accionista y para la devoluci\u00f3n inmediata de todo ingreso o beneficio producto del contrato con el Gobierno del Estado Libre Asociado de Puerto Rico y sus instrumentalidades por violaci\u00f3n de estas disposiciones; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156586/PC0738.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/156586",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

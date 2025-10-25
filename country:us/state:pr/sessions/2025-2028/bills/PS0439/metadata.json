@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0439",
+  "title": "\u201cPara enmendar los Art\u00edculos 1.03, 2.01, 2.04, 2.05, 7.04, a\u00f1adir un nuevo Cap\u00edtulo XIV,\nreenumerar los actuales Cap\u00edtulos XIV, XV, y XVI como los nuevos Cap\u00edtulos XV, XVI y XVII,\nreenumerar los actuales Art\u00edculos 14.01 al 14.09, como los nuevos Art\u00edculos 15.01 al 15.09,\nreenumerar el actual Art\u00edculo 15.01 como el nuevo Art\u00edculo 16.01, reenumerar los actuales\nArt\u00edculos 16.01 al 16.07, como los nuevos Art\u00edculos 17.01 al 17.07, de la Ley 85-2018, seg\u00fan\nenmendada y conocida como \u201cLey de Reforma Educativa de Puerto Rico\u201d a los fines de realizar\nenmiendas que permitan establecer un nuevo modelo educativo conocido como \u201cEscuelas\nP\u00fablicas de Inclusi\u00f3n\u201d donde todos los estudiantes de educaci\u00f3n especial y/o con diversidad\nfuncional puedan desempe\u00f1arse por grados acad\u00e9micos junto con estudiantes de la corriente\nregular y recibir en el mismo plantel escolar, todos los servicios necesarios; fomentar ambientes\ninclusivos dentro del sistema p\u00fablico de ense\u00f1anza; integrar a los Municipios que as\u00ed lo deseen\nen este nuevo modelo educativo; establecer un t\u00e9rmino de cinco (5) para que el Departamento de\nEducaci\u00f3n formalice el establecimiento de \u201cEscuelas P\u00fablicas de Inclusi\u00f3n\u201d en cada uno de los\nMunicipios de Puerto Rico; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154641/ps0439-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-03-19",
+      "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154641/ps0439-Inf (Negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/154641",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

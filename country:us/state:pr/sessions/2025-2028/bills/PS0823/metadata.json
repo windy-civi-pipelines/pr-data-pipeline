@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0823",
+  "title": "\u201cPara enmendar la Ley N\u00fam. 5 de 23 de abril de 1973, seg\u00fan enmendada, conocida como \u201cLey \nOrg\u00e1nica del Departamento de Asuntos del Consumidor\u201d, a los fines de requerir un desglose \ndetallado y transparente de todos los cargos adicionales en la venta de boletos para conciertos, \nobras teatrales, espect\u00e1culos deportivos y otros eventos similares en Puerto Rico, incluyendo, \npero no limit\u00e1ndose a, cargos por servicio, cargos por mantenimiento, impuestos y cualquier otro \ncargo identificable, para garantizar la claridad y protecci\u00f3n al consumidor; integrar las \nresponsabilidades de los productores de espect\u00e1culos p\u00fablicos conforme a la Ley N\u00fam. 162 de \n1996, seg\u00fan enmendada, y la Ley N\u00fam. 113 de 2005, seg\u00fan enmendada; prohibir la inclusi\u00f3n de \ncargos por \u201cinfraestructura\u201d o similares cuando las facilidades sean administradas de forma \nprivada, obligando a los administradores y productores privados a absorber tales costos; y para \notros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roxanna  I. Soto Aguil\u00fa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roxanna  I. Soto Aguil\\u00fa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159144",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:51Z"
+  }
+}

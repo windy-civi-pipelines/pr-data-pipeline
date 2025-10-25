@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0647",
+  "title": "Para establecer la \u201cLey para Fortalecer el Fondo para Servicios contra Enfermedades Catastr\u00f3ficas Remediables\u201d; enmendar el Art\u00edculo 18 de la Ley N\u00fam. 150-1996, seg\u00fan enmendada, mejor conocida como la \u201cLey del Derecho a la Salud en Puerto Rico\u201d; enmendar el inciso (b) del Art\u00edculo 11 de la Ley N\u00fam. 465 de 15 de mayo de 1947, seg\u00fan enmendada; enmendar el inciso (8) y a\u00f1adir un nuevo inciso (9) al Art\u00edculo 3.15 de la Ley N\u00fam. 81-2019, seg\u00fan enmendada, mejor conocida como la \u201cLey de la Comisi\u00f3n de Juegos de Puerto Rico; a los fines de\u201d, a los fines de dotar al Fondo para Servicios contra Enfermedades Catastr\u00f3ficas Remediables de mayores recursos econ\u00f3micos para cumplir con sus responsabilidades en ley, ayudar a un segmento de la poblaci\u00f3n que de otra manera se ver\u00eda desprovista de medios para atender sus necesidades de salud y establecer un mecanismo para que cada dos (2) a\u00f1os se eval\u00fae la necesidad de revisar la f\u00f3rmula dispuesta en ley de como nutrir de recursos al Fondo de manera recurrente y para otros fines.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155845/PC0647.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-05-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155845",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

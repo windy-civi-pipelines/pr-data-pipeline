@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0739",
+  "title": "Para crear la \u201cLey para la Reorganizaci\u00f3n de las Subsidiarias y Afiliadas del Banco Gubernamental de Fomento para Puerto Rico\u201d; enmendar los Art\u00edculos 2, 4 y 5 de la Ley N\u00fam. 103-2001, seg\u00fan enmendada, conocida como \u201cLey de la Autoridad para el Financiamiento de la Vivienda de Puerto Rico\u201d; enmendar el Art\u00edculo 4 de la Ley N\u00fam. 121 de 27 de junio de 1977, seg\u00fan enmendada, conocida como \u201cLey de la Autoridad de Puerto Rico para el Financiamiento de Facilidades Industriales, Tur\u00edsticas, Educativas, M\u00e9dicas y de Control Ambiental\u201d; enmendar los Art\u00edculos 2 y 7 de la Ley N\u00fam. 271-2002, seg\u00fan enmendada, conocida como \u201cLey del Fideicomiso Perpetuo de Comunidades Especiales\u201d; enmendar los Art\u00edculos 1 al 6 de la Ley N\u00fam. 290-2000, seg\u00fan enmendada, conocida como la \u201cLey para Establecer el Depositario de Archivos y Reliquias de Ex Gobernadores y Ex Primeras Damas de Puerto Rico\u201d; enmendar el Art\u00edculo 4 de la Ley N\u00fam. 44 de 21 de junio de 1988, seg\u00fan enmendada, conocida como \u201cLey de Autoridad para el Financiamiento de la Infraestructura de Puerto Rico\u201d; enmendar los Art\u00edculos 4, 5 y 8 de la Ley N\u00fam. 173-1999, seg\u00fan enmendada, conocida como \u201cLey del Fideicomiso de los Ni\u00f1os\u201d; enmendar el inciso Cuarto y el inciso Quinto del Art\u00edculo 2 de la Ley N\u00fam. 17 de 23 de septiembre de 1948, seg\u00fan enmendada, conocida como la \u201cLey del Banco Gubernamental de Fomento para Puerto Rico\u201d; derogar la Ley N\u00fam. 25 de 6 de mayo de 1974, conocida como la \u201cLey de la Autoridad de Tel\u00e9fonos de Puerto Rico\u201d; derogar la Ley N\u00fam. 62 de 10 de junio de 1974, seg\u00fan enmendada, conocida como \u201cLey de la Autoridad de las Navieras\u201d; derogar el Art\u00edculo 14 de la Ley N\u00fam. 125-2008, conocida como \u201cLey de Transferencia del Derecho al Cobro de Deudas Contributivas Morosas de Puerto Rico de 2008\u201d; derogar la Resoluci\u00f3n N\u00fam. 5044 de 12 de diciembre de 1984, seg\u00fan enmendada, de la Junta de Directores del Banco Gubernamental de Fomento de Puerto Rico, mediante la cual se cre\u00f3 la Corporaci\u00f3n para el Financiamiento P\u00fablico De Puerto Rico; derogar la Resoluci\u00f3n N\u00fam. 3950 de 14 de abril de 1977, seg\u00fan enmendada, de la Junta de Directores del Banco Gubernamental de Fomento de Puerto Rico, mediante la cual se cre\u00f3 el Fondo para el Desarrollo de Puerto Rico; derogar la Resoluci\u00f3n N\u00fam. 6275 de 17 de noviembre de 1993, seg\u00fan enmendada, de la Junta de Directores del Banco Gubernamental de Fomento de Puerto Rico, mediante la cual se cre\u00f3 el Fondo para el Desarrollo del Turismo de Puerto Rico; a los fines de disolver a la Autoridad de las Navieras, la Autoridad de Tel\u00e9fonos, la Corporaci\u00f3n para el Financiamiento P\u00fablico de Puerto Rico, el Fondo para el Desarrollo de Puerto Rico, el Fondo para el Desarrollo del Turismo en Puerto Rico, el Fideicomiso para la Compra de Deudas Contributivas Morosas y el Instituto de Econom\u00eda y Finanzas Jos\u00e9 M. Berrocal; desafiliar a las dem\u00e1s subsidiarias y afiliadas del Banco Gubernamental de Fomento para Puerto Rico; eliminar la facultad del Banco Gubernamental de Fomento para Puerto Rico de crear subsidiarias o afiliadas mediante resoluci\u00f3n de su Junta de Directores; completar la restructuraci\u00f3n organizacional y corporativa del Banco Gubernamental de Fomento para Puerto Rico; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas  Rivera Schatz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros   PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros   PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158721/ps0739-25 (A-076).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-09-22",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158721",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

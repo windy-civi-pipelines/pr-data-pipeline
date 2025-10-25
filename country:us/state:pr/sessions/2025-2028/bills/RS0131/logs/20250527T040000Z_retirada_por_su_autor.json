@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Retirada por su Autor",
+    "date": "2025-05-27T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "RS0131"
+}

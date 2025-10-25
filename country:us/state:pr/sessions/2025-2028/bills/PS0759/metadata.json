@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0759",
+  "title": "Para enmendar el Art\u00edculo 17.02 de la Ley 22-2000, seg\u00fan enmendada, conocida como\n\u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, con el prop\u00f3sito de establecer que,\ncompeter\u00e1 al Secretario del Departamento de Transportaci\u00f3n y Obras P\u00fablicas, la\nexclusiva regulaci\u00f3n y otorgaci\u00f3n de las licencias o permisos para operar escuelas\nde conductores Categor\u00eda 3; enmendar el inciso (bb) del Art\u00edculo 2 de la Ley N\u00fam.\n109 de 28 de junio de 1962, seg\u00fan enmendada, conocida como \u201cLey de Servicio\nP\u00fablico de Puerto Rico\u201d, a los fines de excluir de la definici\u00f3n de \u201cEmpresa de\nveh\u00edculos de alquiler\u201d, a toda escuela de ense\u00f1ar a conducir o instructor de\nlicencias Categor\u00eda 3; ordenar al Secretario del Departamento de Transportaci\u00f3n y\nObras P\u00fablicas a adoptar las normas o reglamentos necesarios para implantar las\ndisposiciones de esta Ley; ordenar al Comisionado del Negociado de Transporte y\notros Servicios P\u00fablicos a enmendar el Reglamento N\u00fam. 9358 de 7 de febrero de\n2022, conocido como \u201cC\u00f3digo de Reglamentos del Negociado de Transporte y\notros Servicios P\u00fablicos\u201d, con el prop\u00f3sito de atemperarlo con lo aqu\u00ed dispuesto; y\npara otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:56Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:56Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158893/ps0759-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/158893",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:56Z"
+  }
+}

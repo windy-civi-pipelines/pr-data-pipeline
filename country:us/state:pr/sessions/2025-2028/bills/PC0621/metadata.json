@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0621",
+  "title": "Para crear la Compa\u00f1\u00eda de Turismo de Puerto Rico como una Corporaci\u00f3n P\u00fablica del Gobierno de Puerto Rico; establecer las funciones generales de la Corporaci\u00f3n y las facultades y funciones del Director Ejecutivo; establecer las divisiones operacionales de la Compa\u00f1\u00eda; disponer para la administraci\u00f3n de personal; proveer para la transferencia de programas adscritos a la Compa\u00f1\u00eda; establecer disposiciones generales; proveer para la integraci\u00f3n de funciones; transferir fondos para los gastos de organizaci\u00f3n y funcionamiento; establecer la vigencia y disposiciones de medidas transitorias necesarias para la creaci\u00f3n; enmendar el Art\u00edculo 5 del Plan de Reorganizaci\u00f3n 4-1994; enmendar los Art\u00edculos 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 46, 48, 49, 50, 51, 52, 53, 54, 55, 60 y 61 de la Ley 272-2003, seg\u00fan enmendada, conocida como \u201cLey de Impuesto sobre el Canon por Ocupaci\u00f3n de Habitaci\u00f3n del Estado Libre Asociado de Puerto Rico\u201d; enmendar las Secciones 1020.01, 1020.05, 2051.01, y 2052.02 de la Ley 60-2019, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Incentivos de Puerto Rico\u201d; enmendar los Art\u00edculo 2.01 de la Ley 351-2000, seg\u00fan enmendada, conocida como \u201cLey del Distrito del Centro de Convenciones de Puerto Rico\u201d; derogar la Ley N\u00fam. 10 de 18 de junio de 1970, seg\u00fan enmendada, conocida como la \u201cLey de la Oficina de Turismo del Departamento de Desarrollo Econ\u00f3mico y Comercio del Gobierno de Puerto Rico\u201d; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-05-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-08-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155681/PC0621.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-05-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/155681",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

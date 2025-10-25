@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RC0039",
+  "title": "Para ordenar a la Comisi\u00f3n de Hacienda de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre todo asunto relacionado con la situaci\u00f3n fiscal del Gobierno de Puerto Rico, las recaudaciones del Fondo General y las de los fondos especiales, el estimado de las recaudaciones e ingresos probables y el financiamiento mediante la contrataci\u00f3n de empr\u00e9stitos; con los estimados de ingresos y de las inversiones y desembolsos de las corporaciones p\u00fablicas de legislaci\u00f3n que liberalice o imponga contribuciones de cualquier tipo; con la deuda p\u00fablica del Gobierno de Puerto Rico y de las corporaciones p\u00fablicas, as\u00ed como las condiciones de pago para los empr\u00e9stitos cuya contrataci\u00f3n se recomienda; con la recaudaci\u00f3n, rentas, custodia, dep\u00f3sito y contabilidad de los fondos p\u00fablicos; con la preintervenci\u00f3n y el uso de los fondos p\u00fablicos de acuerdo a los fines para los que se autorizaron; con el estudio y la evaluaci\u00f3n del Presupuesto General; con las peticiones presupuestarias recomendadas por el Gobernador para los departamentos, corporaciones p\u00fablicas, agencias y dem\u00e1s instrumentalidades p\u00fablicas, tomando en consideraci\u00f3n todos los ingresos y recursos del Estado, como los de la entidad evaluada, incluyendo fondos federales, fondos especiales y donaciones, as\u00ed como cualquier otro ingreso.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152945/RC0039.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-01-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/152945",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:53Z"
+  }
+}

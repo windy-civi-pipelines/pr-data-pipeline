@@ -1,0 +1,147 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0263",
+  "title": "Para derogar la Ley 20-2017, conocida como la \u201cLey del Departamento de Seguridad Pu\u0301blica de Puerto Rico\u201d; reestablecer las disposiciones de la Ley 53-1996, segu\u0301n enmendada, conocida como \u201cLey de la Polici\u0301a de Puerto Rico; restablecer las disposiciones de la Ley Nu\u0301m. 43 de 21 de junio de 1988, segu\u0301n enmendada, conocida como \u201cLey del Cuerpo de Bomberos de Puerto Rico\u201d; restituir las disposiciones de la Ley 211-1999, segu\u0301n enmendada, conocida como \u201cLey de la Agencia Estatal para el Manejo de Emergencias y Administracio\u0301n de Desastres de Puerto Rico\u201d; restituir las disposiciones de la Ley 539-2004, segu\u0301n enmendada, conocida como \u201cLey del Cuerpo de Emergencias Me\u0301dicas del Estado Libre Asociado de Puerto Rico\u201d; restablecer las disposiciones de la Ley 144-1994, segu\u0301n enmendada, conocida como \u201cLey de Llamadas 9-1-1\u201d; restituir las disposiciones del Capi\u0301tulo III del Plan 5-2011, mejor conocido como \u201cPlan de Reorganizacio\u0301n del Departamento de Justicia de 2011\u201d; restituir las disposiciones del Plan de Reorganizacio\u0301n 2-1993, segu\u0301n enmendado, conocido como \u201cComisio\u0301n de Seguridad y Proteccio\u0301n Pu\u0301blica\u201d; disponer sobre los fondos federales que pudieron estar en riesgo por la aprobacio\u0301n del Departamento de Seguridad Pu\u0301blica mediante la Ley 20-2017; disponer sobre los empleados del Departamento de Seguridad Pu\u0301blica; disponer sobre las propiedades y equipos del Departamento de Seguridad Pu\u0301blica; establecer las transferencias de poderes y responsabilidades del DSP; derogar y disolver la Junta de Evaluacio\u0301n Me\u0301dica, el Comite\u0301 Ejecutivo de Seguridad de Puerto Rico y la Oficina de Manejo de Informacio\u0301n de Seguridad; y para otros fines.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-01-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Descargado en Senado",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    },
+    {
+      "description": "Derrotado a viva voz",
+      "date": "2025-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:28:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 A. Santiago Rivera - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 A. Santiago Rivera - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marially  Gonz\u00e1lez Huertas - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marially  Gonz\\u00e1lez Huertas - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153149/ps0263-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-01-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/153149",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:28:54Z"
+  }
+}

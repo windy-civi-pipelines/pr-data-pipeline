@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Aprobado por el Senado conforme a la Regla 18.3",
+    "date": "2025-09-29T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "RS0311"
+}
