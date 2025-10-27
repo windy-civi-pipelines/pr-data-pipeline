@@ -1,0 +1,258 @@
+Title: Para ordenar al Puerto Rico Innovation and Technology Service (PRITS) desarrollar un
+Official Title: Para ordenar al Puerto Rico Innovation and Technology Service (PRITS) desarrollar un
+Number of Sections: 1
+Source: versions - Res. Conj.  17-2025
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Tween MO
+ASAMBLEA _L_ SESION
+LEGISLATIVA ___ ORDINARIA
+Res. Conj. Núm,
+(R. C. de la C. 68) Aprobada en Qu O7 ve 20.237
+RESOLUCIÓN CONJUNTA
+abarcador y minucioso estudio sobre la posibilidad y los beneficios de utilizar la
+Inteligencia Artificial como una herramienta adicional para optimizar los procesos
+de investigación, auditoría, mitigación de riesgos, supervisión efectiva y control de
+gastos, entre otros; identificar plataformas dirigidas a esos propósitos y hacer
+recomendaciones a las agencias fiscalizadoras; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La revolución tecnológica de la última década ha transformado nuestras vidas de
+manera muy avanzada. Hoy en día, los avances digitales y la inteligencia artificial se
+utilizan en muchas instancias, incluso para rastrear y diagnosticar problemas en
+diversas áreas tanto en la empresa privada como en gobiernos, o inclusive, para realizar
+tareas del día a día que van desde conducir un automóvil inteligente hasta el pago de
+facturas desde un dispositivo portátil logrando un ahorro de tiempo y esfuerzo enorme.
+La tecnología se desarrolla además como un aliado importante en los esfuerzos para
+lograr mayor transparencia y en el proceso de rendición de cuentas.
+Por otro lado, la descomposición paulatina de lo que significa una sana
+administración pública es uno de los mayores desafíos de nuestro tiempo y existen
+muchas esperanzas depositadas en la inteligencia artificial (IA) para combatirla.
+Aunque se ha resumido el creciente número de herramientas anticorrupción basadas en
+IA es necesario que se realice un examen crítico de su potencial utilidad sin descartar
+sus peligros. El big data, la utilización de servicios computarizados en la nube, la IA,
+el machine learning, la biometría y blockchainson algunas de las tendencias
+tecnológicas que se están utilizando para combatir el fraude y la corrupción en algunos
+países.
+En el caso de las auditorías, el potencial de la inteligencia artificial puede ser
+pieza clave en áreas tales como; automatización de procesos contables, análisis de datos
+financieros, detección de fraudes y anomalías financieras, automatización de auditorías,
+auditorías en áreas de tecnología e informática y ciberseguridad, y asistencia en la toma
+de decisiones. La IA puede proporcionar análisis y recomendaciones en tiempo real
+basados en datos financieros y de negocio. Esto ayuda a los auditores a tomar
+decisiones más informadas y respaldadas por información relevante.
+Según la International Journal of Government Auditing, la IA puede, inclusive,
+facilitar el proceso de auditoría, ya que podría ayudar a realizar de forma más eficiente
+muchas tareas que conllevan mucho tiempo. Establecen además que, una de las formas
+para ayudar en el trabajo de auditoría es la Automatización Robótica de Procesos
+(RPA). Una vez que los datos de las entidades auditadas se cargan en el sistema esta
+modalidad puede identificar incoherencias y valores atípicos que los auditores pueden
+mirar y analizar detenidamente.
+Igualmente, en teoría, los algoritmos de IA pueden utilizarse para clasificar y
+agrupar entidades, mientras que un sistema diseñado por IA puede calcular una
+puntuación sobre el tamaño del riesgo. El sistema de riesgos puede programarse para
+tener en cuenta diversos criterios, el volumen y la clase de operaciones, la sensibilidad y
+la complejidad, y clasificar las entidades auditadas, lo que ayuda a asignar recursos.
+En octubre de 2024, se publicó que la inteligencia artificial ayudó al
+Departamento del Tesoro de los Estados Unidos a examinar cantidades masivas de
+datos y descubrir fraudes con cheques por valor de mil millones de dólares
+($1,000,000,000) sólo en el año fiscal 2024. Eso es casi el triple de lo que el Tesoro
+recuperó en el año fiscal anterior (2023), lo cual nos revela que si se utiliza debidamente,
+puede ser una gran herramienta para evitar el fraude del fondo público.
+Esta situación del mal manejo de fondos públicos ha representado uno de los
+mayores obstáculos para el desarrollo sostenible y la confianza pública en las
+instituciones de nuestra Isla. A pesar de los esfuerzos realizados por entidades como la
+Oficina del Inspector General, el Contralor de Puerto Rico, la Oficina de Ética
+Gubernamental, el Departamento de Justicia y otras agencias fiscalizadoras, la
+corrupción persiste, afectando la calidad de vida de los ciudadanos y la integridad de la
+administración pública. En este sentido, la implementación de nuevas tecnologías, como
+la IA, llega como una opción innovadora, inclusive para fortalecer los mecanismos de
+supervisión y control del gasto público. A esos fines, entendemos meritorio que se
+estudie seriamente cuales son las alternativas que existen hoy día para atajar de forma
+contundente y eficaz el problema decenario de la corrupción en nuestra Isla.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se ordena al Puerto Rico Innovation and Technology Service (PRITS)
+desarrollar un abarcador y minucioso estudio sobre el beneficio de utilizar la
+Inteligencia Artificial (IA) como una herramienta adicional para optimizar los procesos
+de investigación, auditoría, mitigación de riesgos, supervisión control de gastos, entre
+otros.
+Sección 2.-Como parte del estudio, ordenado en la Sección 1, PRITS considerará,
+sin que se entienda como una limitación, los siguientes aspectos:
+a. Desarrollo de sistemas de detección automatizada de patrones sospechosos
+auscultando formas de implementar algoritmos que analicen grandes cantidades
+de datos gubernamentales en tiempo real, para detectar patrones irregulares en
+transacciones financieras, contratos o decisiones administrativas que podrían
+alertar algún tipo de fraude o acto de corrupción;
+b. Utilizar IA para crear modelos predictivos que identifiquen áreas de alto riesgo
+de corrupción dentro del gobierno, basándose en patrones históricos y datos en
+tiempo real, ayudando a priorizar auditorías y controles internos.
+c. Desarrollo de sistemas de IA que permitan a ciudadanos y empleados de
+entidades gubernamentales realizar denuncias anónimas de posibles actos de
+corrupción, con un programa informático que simula una conversación con
+usuarios (“chatbot”) que guíe el proceso sin violentar las garantías de
+confidencialidad.
+d. Diseño de herramientas para el análisis forense de grandes cantidades de datos
+que se manejan en auditorías investigaciones de fraude, para lograr extraer
+información relevante que identifique irregularidades en contratos
+gubernamentales, compras o concesiones.
+e. Dar apoyo a las entidades fiscalizadoras para automatizar ciertos aspectos del
+proceso de auditoría mediante IA, como la revisión de contratos, registros
+financieros y transacciones, reduciendo el margen de error humano y acelerando
+el proceso.
+f. Crear sistemas que permitan el monitoreo en tiempo real del uso de los fondos
+públicos, alertando automáticamente sobre transacciones fuera de lo común o
+sospechosas.
+g. Crear herramientas que identifiquen relaciones entre individuos, entidades y
+contratistas gubernamentales, analizando redes de contactos y posibles conflictos
+de interés que puedan ayudar a detectar actos de corrupción.
+h. Implementar plataformas que ofrezcan al público un acceso más intuitivo y
+automático a los datos gubernamentales, utilizando IA para generar informes o
+visualizaciones sobre el uso de los recursos públicos y la ejecución de contratos.
+i. Colaboración en el diseño de sistemas automatizados que verifiquen el
+cumplimiento de normativas legales en las compras y contrataciones
+gubernamentales, utilizando IA para asegurar que todos los procesos se realicen
+dentro de los marcos legales establecidos.
+Sección 3.- Se conceden ciento ochenta (180) días al Puerto Rico Innovation and
+Technology Service (PRITS) luego de aprobada esta Resolución Conjunta, para llevar a
+cabo el estudio de viabilidad ordenado en esta Resolución Conjunta. Dicho estudio será
+remitido a la Gobernadora de Puerto Rico, a la Asamblea Legislativa de Puerto Rico, la
+Rama Judicial de Puerto Rico, a la Oficina del Contralor de Puerto Rico, a la Oficina del
+Inspector General y la Oficina de Ética Gubernamental para su análisis y acción
+pertinente.
+Sección 4.-Esta Resolución Conjunta comenzará a regir el 1*o de julio de 2025.
+[DELETED:  M _ SC C d l C 6 A e Q O 2 C o a P R I a T S ( d u y m e s l p y l b d u l A c u h a p o l p i a m d r s e y c d e o i p d a e p y h l a f y p o f r D M r t d l ú d h t n v d m a H e d l a d y l i a s e m i i p r y d p e á t e l e p c e g o i p r d d a d q v d c u a i h e p d d u d p l u a d t y e e t s d a c u a i e l e p m t y e e p d r d c o l l d p d l q s u s p e u d l m d d n t y e e d e l i a ( p c s h r e c n d h a b e e n q s r u e c d s p u s d p E b d l u d s c e l n l I m l l b y b a d l t q s e u p c e f y l c e a e c d l a e p d l i a p s c e á t c a d p c a d d d d f y a f a d a e á d t e i y c y a e l t d L I p p a y r e t r e d f y d n E a a l a a t m i y r p i r l I J o G A l I p i e p d a y q p a a r d f m e t q c m t E a q u d l f]
+[DELETED:  a e e t d a e l A R d P U v q l d d l e a s c e e s e p i i y v a q l a p y a d e t l a d I p u p c y e m q u s d p I p c u s e t d r E s d r p p p e c d c e v y l c d o l s y c y c l e a l q a a a r o d 2 s p q l i a a a d T d l E U a e c m d y d f c c p v d m m d d s e e a f 2 E e c e t d l q e T e e a f a ( l c n r q s s u d s u g h p e e f d f p s d m m d f p h r u d l o p e d s y l c p e l d n I A p d l e r p e c l d I G e C d P R l O d É e D d J y o a f l p a l c d v d l c y l i d l p E e s l i d n t c I l c u o i i p f l m d y c d g p A e f e m q s s c s l a q e h d p a d f y e e p d d l c e n I P L A L D P R 1 S o a P R I a T S ( u a y m e s e b d u l A ( c u h a p o l p i a m d r s c d g e 2 p d e o e l S 1 P c q s e c u l l s a D d s d d a d p s f d i a q a g c]
+[DELETED:  d g e t r p d p i e f c o d a q p a t d f o a d c U I p c m p q i á d a r c d d g b e p h y d e r a a p a y c i D d s d I q p a c y e d g r d a d p a d c u p i q s u c c ( q g e p s v l g d D d h p e a f d g c d d s m e a i d f p l e r q i i e c c o c D a a l e f p a c a d d a m I c l r d c r y t r e m d e h y a p C s q p e m e t r d u d l f a a s t f d l c o C h q i r e i e y g a r d c y p c i q p a a d a d c I p q o a p u a m i y a l d g u I p g i o s e u d l r p y l e d c C e e d d s a q v e d n l e l c y c u I p a q t l p s r d l m l e 3 S c c o ( d a P R I a S ( l d a e R C p l ]
+[DELETED:  e e d v o e e R C D e s a l G d P R a l A L d P R l J d P R a l O d C d P R a l O d G y l O d É G p s a y a 4 R C c a r e 1 d j d 2]
+
+
+================================================================================
+
+Raw Text:
+Tween MO
+ASAMBLEA _L_ SESION
+LEGISLATIVA ___ ORDINARIA
+Res. Conj. Núm,
+(R. C. de la C. 68) Aprobada en Qu O7 ve 20.237
+RESOLUCIÓN CONJUNTA
+Para ordenar al Puerto Rico Innovation and Technology Service (PRITS) desarrollar un
+abarcador y minucioso estudio sobre la posibilidad y los beneficios de utilizar la
+Inteligencia Artificial como una herramienta adicional para optimizar los procesos
+de investigación, auditoría, mitigación de riesgos, supervisión efectiva y control de
+gastos, entre otros; identificar plataformas dirigidas a esos propósitos y hacer
+recomendaciones a las agencias fiscalizadoras; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La revolución tecnológica de la última década ha transformado nuestras vidas de
+manera muy avanzada. Hoy en día, los avances digitales y la inteligencia artificial se
+utilizan en muchas instancias, incluso para rastrear y diagnosticar problemas en
+diversas áreas tanto en la empresa privada como en gobiernos, o inclusive, para realizar
+tareas del día a día que van desde conducir un automóvil inteligente hasta el pago de
+facturas desde un dispositivo portátil logrando un ahorro de tiempo y esfuerzo enorme.
+La tecnología se desarrolla además como un aliado importante en los esfuerzos para
+lograr mayor transparencia y en el proceso de rendición de cuentas.
+Por otro lado, la descomposición paulatina de lo que significa una sana
+administración pública es uno de los mayores desafíos de nuestro tiempo y existen
+muchas esperanzas depositadas en la inteligencia artificial (IA) para combatirla.
+Aunque se ha resumido el creciente número de herramientas anticorrupción basadas en
+IA es necesario que se realice un examen crítico de su potencial utilidad sin descartar
+sus peligros. El big data, la utilización de servicios computarizados en la nube, la IA,
+el machine learning, la biometría y blockchainson algunas de las tendencias
+tecnológicas que se están utilizando para combatir el fraude y la corrupción en algunos
+países.
+En el caso de las auditorías, el potencial de la inteligencia artificial puede ser
+pieza clave en áreas tales como; automatización de procesos contables, análisis de datos
+financieros, detección de fraudes y anomalías financieras, automatización de auditorías,
+auditorías en áreas de tecnología e informática y ciberseguridad, y asistencia en la toma
+de decisiones. La IA puede proporcionar análisis y recomendaciones en tiempo real
+basados en datos financieros y de negocio. Esto ayuda a los auditores a tomar
+decisiones más informadas y respaldadas por información relevante.
+Según la International Journal of Government Auditing, la IA puede, inclusive,
+facilitar el proceso de auditoría, ya que podría ayudar a realizar de forma más eficiente
+muchas tareas que conllevan mucho tiempo. Establecen además que, una de las formas
+
+para ayudar en el trabajo de auditoría es la Automatización Robótica de Procesos
+(RPA). Una vez que los datos de las entidades auditadas se cargan en el sistema esta
+modalidad puede identificar incoherencias y valores atípicos que los auditores pueden
+mirar y analizar detenidamente.
+Igualmente, en teoría, los algoritmos de IA pueden utilizarse para clasificar y
+agrupar entidades, mientras que un sistema diseñado por IA puede calcular una
+puntuación sobre el tamaño del riesgo. El sistema de riesgos puede programarse para
+tener en cuenta diversos criterios, el volumen y la clase de operaciones, la sensibilidad y
+la complejidad, y clasificar las entidades auditadas, lo que ayuda a asignar recursos.
+En octubre de 2024, se publicó que la inteligencia artificial ayudó al
+Departamento del Tesoro de los Estados Unidos a examinar cantidades masivas de
+datos y descubrir fraudes con cheques por valor de mil millones de dólares
+($1,000,000,000) sólo en el año fiscal 2024. Eso es casi el triple de lo que el Tesoro
+recuperó en el año fiscal anterior (2023), lo cual nos revela que si se utiliza debidamente,
+puede ser una gran herramienta para evitar el fraude del fondo público.
+Esta situación del mal manejo de fondos públicos ha representado uno de los
+mayores obstáculos para el desarrollo sostenible y la confianza pública en las
+instituciones de nuestra Isla. A pesar de los esfuerzos realizados por entidades como la
+Oficina del Inspector General, el Contralor de Puerto Rico, la Oficina de Ética
+Gubernamental, el Departamento de Justicia y otras agencias fiscalizadoras, la
+corrupción persiste, afectando la calidad de vida de los ciudadanos y la integridad de la
+administración pública. En este sentido, la implementación de nuevas tecnologías, como
+la IA, llega como una opción innovadora, inclusive para fortalecer los mecanismos de
+supervisión y control del gasto público. A esos fines, entendemos meritorio que se
+estudie seriamente cuales son las alternativas que existen hoy día para atajar de forma
+contundente y eficaz el problema decenario de la corrupción en nuestra Isla.
+RESUÉLVESE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se ordena al Puerto Rico Innovation and Technology Service (PRITS)
+desarrollar un abarcador y minucioso estudio sobre el beneficio de utilizar la
+Inteligencia Artificial (IA) como una herramienta adicional para optimizar los procesos
+de investigación, auditoría, mitigación de riesgos, supervisión control de gastos, entre
+otros.
+Sección 2.-Como parte del estudio, ordenado en la Sección 1, PRITS considerará,
+sin que se entienda como una limitación, los siguientes aspectos:
+a. Desarrollo de sistemas de detección automatizada de patrones sospechosos
+auscultando formas de implementar algoritmos que analicen grandes cantidades
+
+de datos gubernamentales en tiempo real, para detectar patrones irregulares en
+transacciones financieras, contratos o decisiones administrativas que podrían
+alertar algún tipo de fraude o acto de corrupción;
+b. Utilizar IA para crear modelos predictivos que identifiquen áreas de alto riesgo
+de corrupción dentro del gobierno, basándose en patrones históricos y datos en
+tiempo real, ayudando a priorizar auditorías y controles internos.
+c. Desarrollo de sistemas de IA que permitan a ciudadanos y empleados de
+entidades gubernamentales realizar denuncias anónimas de posibles actos de
+corrupción, con un programa informático que simula una conversación con
+usuarios (“chatbot”) que guíe el proceso sin violentar las garantías de
+confidencialidad.
+d. Diseño de herramientas para el análisis forense de grandes cantidades de datos
+que se manejan en auditorías investigaciones de fraude, para lograr extraer
+información relevante que identifique irregularidades en contratos
+gubernamentales, compras o concesiones.
+e. Dar apoyo a las entidades fiscalizadoras para automatizar ciertos aspectos del
+proceso de auditoría mediante IA, como la revisión de contratos, registros
+financieros y transacciones, reduciendo el margen de error humano y acelerando
+el proceso.
+f. Crear sistemas que permitan el monitoreo en tiempo real del uso de los fondos
+públicos, alertando automáticamente sobre transacciones fuera de lo común o
+sospechosas.
+g. Crear herramientas que identifiquen relaciones entre individuos, entidades y
+contratistas gubernamentales, analizando redes de contactos y posibles conflictos
+de interés que puedan ayudar a detectar actos de corrupción.
+h. Implementar plataformas que ofrezcan al público un acceso más intuitivo y
+automático a los datos gubernamentales, utilizando IA para generar informes o
+visualizaciones sobre el uso de los recursos públicos y la ejecución de contratos.
+i. Colaboración en el diseño de sistemas automatizados que verifiquen el
+cumplimiento de normativas legales en las compras y contrataciones
+gubernamentales, utilizando IA para asegurar que todos los procesos se realicen
+dentro de los marcos legales establecidos.
+Sección 3.- Se conceden ciento ochenta (180) días al Puerto Rico Innovation and
+Technology Service (PRITS) luego de aprobada esta Resolución Conjunta, para llevar a
+
+cabo el estudio de viabilidad ordenado en esta Resolución Conjunta. Dicho estudio será
+remitido a la Gobernadora de Puerto Rico, a la Asamblea Legislativa de Puerto Rico, la
+Rama Judicial de Puerto Rico, a la Oficina del Contralor de Puerto Rico, a la Oficina del
+Inspector General y la Oficina de Ética Gubernamental para su análisis y acción
+pertinente.
+Sección 4.-Esta Resolución Conjunta comenzará a regir el 1*o de julio de 2025.
+
+[DELETED:  M _ SC C d l C 6 A e Q O 2 C o a P R I a T S ( d u y m e s l p y l b d u l A c u h a p o l p i a m d r s e y c d e o i p d a e p y h l a f y p o f r D M r t d l ú d h t n v d m a H e d l a d y l i a s e m i i p r y d p e á t e l e p c e g o i p r d d a d q v d c u a i h e p d d u d p l u a d t y e e t s d a c u a i e l e p m t y e e p d r d c o l l d p d l q s u s p e u d l m d d n t y e e d e l i a ( p c s h r e c n d h a b e e n q s r u e c d s p u s d p E b d l u d s c e l n l I m l l b y b a d l t q s e u p c e f y l c e a e c d l a e p d l i a p s c e á t c a d p c a d d d d f y a f a d a e á d t e i y c y a e l t d L I p p a y r e t r e d f y d n E a a l a a t m i y r p i r l I J o G A l I p i e p d a y q p a a r d f m e t q c m t E a q u d l f]
+[DELETED:  a e e t d a e l A R d P U v q l d d l e a s c e e s e p i i y v a q l a p y a d e t l a d I p u p c y e m q u s d p I p c u s e t d r E s d r p p p e c d c e v y l c d o l s y c y c l e a l q a a a r o d 2 s p q l i a a a d T d l E U a e c m d y d f c c p v d m m d d s e e a f 2 E e c e t d l q e T e e a f a ( l c n r q s s u d s u g h p e e f d f p s d m m d f p h r u d l o p e d s y l c p e l d n I A p d l e r p e c l d I G e C d P R l O d É e D d J y o a f l p a l c d v d l c y l i d l p E e s l i d n t c I l c u o i i p f l m d y c d g p A e f e m q s s c s l a q e h d p a d f y e e p d d l c e n I P L A L D P R 1 S o a P R I a T S ( u a y m e s e b d u l A ( c u h a p o l p i a m d r s c d g e 2 p d e o e l S 1 P c q s e c u l l s a D d s d d a d p s f d i a q a g c]
+[DELETED:  d g e t r p d p i e f c o d a q p a t d f o a d c U I p c m p q i á d a r c d d g b e p h y d e r a a p a y c i D d s d I q p a c y e d g r d a d p a d c u p i q s u c c ( q g e p s v l g d D d h p e a f d g c d d s m e a i d f p l e r q i i e c c o c D a a l e f p a c a d d a m I c l r d c r y t r e m d e h y a p C s q p e m e t r d u d l f a a s t f d l c o C h q i r e i e y g a r d c y p c i q p a a d a d c I p q o a p u a m i y a l d g u I p g i o s e u d l r p y l e d c C e e d d s a q v e d n l e l c y c u I p a q t l p s r d l m l e 3 S c c o ( d a P R I a S ( l d a e R C p l ]
+[DELETED:  e e d v o e e R C D e s a l G d P R a l A L d P R l J d P R a l O d C d P R a l O d G y l O d É G p s a y a 4 R C c a r e 1 d j d 2]

@@ -1,0 +1,330 @@
+Title: Para enmendar la Sección 2.13 de la Ley 38-2017, según enmendada, conocida como
+Official Title: Para enmendar la Sección 2.13 de la Ley 38-2017, según enmendada, conocida como
+Number of Sections: 2
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 798
+16 de octubre de 2025
+Presentado por el señor Santiago Rivera
+Referido a
+LEY
+“Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, a
+los fines de establecer disposiciones relativas a la adopción, vigencia y readopción
+de reglamentos de emergencia por parte de las agencias administrativas del
+Gobierno de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Constitución del Estado Libre Asociado de Puerto Rico dispone en su Artículo III,
+Sección 16 que “[l]a Asamblea Legislativa tendrá facultad para crear, consolidar o
+reorganizar departamentos ejecutivos y definir sus funciones”. A tenor con ello, el
+Poder Legislativo ha delegado a las agencias administrativas adscritas al Poder
+Ejecutivo ciertas facultades cuasi-legislativas y cuasi-judiciales para llevar a cabo la
+gesta gubernamental ordinaria.1 Dentro de los amplios poderes delegados se ha
+0F
+reconocido la facultad para adoptar reglamentos, adjudicar controversias y realizar
+investigaciones administrativas. Sin embargo, dichas potestades no son absolutas. El
+Tribunal Supremo de Puerto Rico ha esbozado que, en el ámbito reglamentario, debe
+evaluarse: (1) si a la agencia se le delegó poder de reglamentación; (2) si la actuación
+administrativa está autorizada por ley; (3) si la reglamentación promulgada está dentro
+1 Fideicomiso de Conservación de P.R. v. Estado Libre Asociado de P.R., 211 DPR 521, 535 (2023).
+2
+de los poderes delegados; (4) si al aprobarse el reglamento se cumplió con las normas
+procesales de la ley habilitadora de la agencia y la Ley de Procedimiento
+Administrativo Uniforme (LPAU); y (5) si la reglamentación es arbitraria o caprichosa.2
+1F
+Conforme a esos principios, la Ley 38-2017, según enmendada, conocida como “Ley
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, tiene como
+propósito fundamental uniformar los procedimientos administrativos de las agencias,
+entidades e instrumentalidades públicas del Gobierno de Puerto Rico, adscritas al poder
+Ejecutivo. De este modo, se busca fortalecer la transparencia gubernamental, fomentar
+la participación ciudadana, garantizar la rendición de cuentas y asegurar la justa
+adjudicación de controversias a nivel administrativo mediante la adopción de
+procedimientos reglamentarios claros y equitativos. En cumplimiento con estos fines, la
+LPAU dispone que las agencias deberán notificar su intención de adoptar, enmendar o
+derogar un reglamento, ofrecer a la ciudadanía la oportunidad de presentar
+comentarios y someter el reglamento aprobado ante el Departamento de Estado de
+Puerto Rico para su publicación, entre otros requisitos.3
+2F
+En adición, la LPAU reconoce que, en situaciones de emergencia, los intereses
+públicos pueden exigir la adopción inmediata y excepcional de reglamentos sin la
+dilación que supone el procedimiento ordinario de notificación y vistas públicas. A esos
+fines, el Artículo 2.13 de la Ley 38-2017 autoriza que las disposiciones de las Secciones
+
+Section 2:
+2.1, 2.2, 2.3 y 2.8 puedan obviarse cuando el Gobernador o Gobernadora de Puerto Rico
+certifique que, debido a una emergencia o a cualquier otra circunstancia trascendental
+que así lo requiera, los intereses públicos demandan que un reglamento o sus
+enmiendas entren en vigor de manera inmediata y sin demora. Sin embargo, esto no
+exime a la agencia de tener que cumplir posteriormente con las disposiciones de los
+articulados señalados.
+2 Danosa Caribbean, Inc. v. Negociado de Asistencia Contributiva, 185 DPR 1008 (2012).
+3 Municipio de San Juan. v. JCA, 152 DPR 673 (2000).
+3
+A esos fines, el Alto Foro Judicial ha esbozado que las agencias deben resguardar
+celosamente sus deberes ministeriales y que, de invocarse una situación de emergencia
+para adoptar un reglamento administrativo, la certificación que emita el Gobernador o
+Gobernadora de Puerto Rico es indispensable para conferir validez al procedimiento
+seguido. Dicha certificación debe ser clara, específica y debidamente fundamentada,
+exponiendo de manera detallada las circunstancias, hechos y razones concretas que
+justifican el uso del mecanismo extraordinario. La ausencia de tal justificación puede
+acarrear la nulidad del reglamento desde su origen, pues impide a los tribunales y a la
+ciudadanía evaluar la razonabilidad de la determinación.4 De esta manera, se reafirma
+3F
+que el carácter excepcional de tales procedimientos y que ello no se convierta en un
+subterfugio ni en un medio para eludir el cumplimiento de las disposiciones ordinarias
+de la LPAU.
+Ante las múltiples emergencias que han azotado recientemente al país, tales como el
+impacto de los huracanes Irma y María, los eventos telúricos en la región sur, y la
+pandemia del COVID-19, se ha puesto de manifiesto la necesidad de que las agencias
+administrativas del Gobierno de Puerto Rico cuenten con un marco legal claro, ágil y
+estructurado que les permita adoptar reglamentos de emergencia de manera
+responsable, transparente y limitada en el tiempo. Si bien la Sección 2.13 de la Ley 38,
+supra, contempla la posibilidad de emitir reglamentos de emergencia, no establece con
+precisión determinada el término máximo de su vigencia, los requisitos de divulgación
+pública, ni el procedimiento para su posible readopción en caso de que la emergencia
+persista.
+Por lo tanto, esta Asamblea Legislativa entiende necesario enmendar la Ley 38-2017,
+según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+Gobierno de Puerto Rico”, a los fines de establecer expresamente los términos de
+vigencia de los reglamentos de emergencia, los mecanismos de divulgación y
+notificación de su contenido, así como el procedimiento de readopción, si aplicase, en
+4 Grupo HIMA v. Depto. de Salud, 181 DPR 72 (2011).
+4
+aquellos casos en que la situación que motivó su adopción continúe vigente. Con ello se
+busca fortalecer la normativa jurídica y uniforme de la LPAU, asegurando el
+cumplimiento estricto de sus disposiciones y requisitos por parte de las agencias
+administrativas del Gobierno de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.—Se enmienda la Sección 2.13 de la Ley 38-2017, según enmendada,
+2 para que lea como sigue:
+3 “Sección 2.13.—Emergencias que Exigen Vigencia sin Previa Publicación.
+4 Las disposiciones de las Secciones 2.1, 2.2, 2.3 y 2.8 de esta Ley podrán obviarse
+5 en todos aquellos casos en que el Gobernador o Gobernadora de Puerto Rico certifique
+6 que, debido a una emergencia o a cualquier otra circunstancia que lo exija, los
+7 intereses públicos requieren que el reglamento o enmienda al mismo empiece a regir
+8 sin la dilación que requieren las Secciones 2.1, 2.2, 2.3 y 2.8 de esta Ley. En todos
+9 estos casos, el reglamento o la enmienda al mismo, junto con la copia de la
+10 certificación del Gobernador, serán radicados por el Secretario. Una vez así radicado
+11 el reglamento, o la enmienda al mismo, la agencia dará cumplimiento a lo dispuesto
+12 en las Secciones 2.1, 2.2 y 2.3 y de determinar modificaciones o enmiendas al
+13 reglamento radicado al amparo de esta Sección, radicará las mismas en la oficina del
+14 Secretario de Estado, y se le dará cumplimiento a lo dispuesto en la Sección 2.8 de
+15 esta Ley. La vigencia de un reglamento de emergencia no podrá extenderse por un término
+16 mayor de noventa (90) días naturales, a partir de la fecha de su implementación.
+5
+1 El reglamento de emergencia deberá ser divulgado de manera amplia y accesible,
+2 utilizando los medios de comunicación y plataformas institucionales que resulten más
+3 adecuados según la naturaleza de la emergencia que motivó su adopción. La Certificación de
+4 emergencia emitida por el Gobernador o Gobernadora de Puerto Rico deberá consignar, con
+5 suficiente detalle, las circunstancias, hechos y razones concretas que motivan la adopción del
+6 reglamento bajo este procedimiento extraordinario, a fin de permitir una revisión judicial
+7 efectiva y salvaguardar los principios de transparencia, rendición de cuentas y debido proceso
+8 de ley. Asimismo, la notificación de su vigencia deberá incluir, de forma clara y razonable, la
+9 información sobre sus disposiciones principales y la fecha exacta en que expirará su
+10 efectividad.
+11 Si la emergencia declarada por el Gobernador o Gobernadora de Puerto Rico se extendiere
+12 por un término mayor al antes dispuesto, la agencia administrativa podrá readoptar dicho
+13 reglamento de emergencia una sola vez adicional, y únicamente por un término máximo de
+14 treinta (30) días naturales adicionales. En tales casos, la agencia deberá publicar un anuncio
+15 informando sobre la intención de readoptar el reglamento cinco (5) antes de la expiración del
+16 término original de noventa (90) días, tanto en un periódico de circulación general como en el
+17 portal electrónico de la agencia concernida y en el del Departamento de Estado. La readopción
+18 del reglamento no requerirá una nueva certificación del Gobernador o Gobernadora, siendo
+19 suficiente la certificación original emitida al momento de su adopción inicial.
+20 Para que el reglamento conserve vigencia una vez vencidos los términos antes dispuestos,
+21 la agencia administrativa deberá iniciar y completar, dentro del periodo de efectividad del
+22 reglamento de emergencia, el procedimiento ordinario de aprobación reglamentaria dispuesto
+6
+1 en esta Ley, cumpliendo con todas las etapas de notificación, participación ciudadana,
+2 radicación y presentación correspondientes.
+3 Cualquier persona afectada podrá impugnar de su faz un reglamento de emergencia
+4 adoptado al amparo de esta disposición cuando entienda que la Certificación emitida por el
+5 Gobernador o Gobernadora de Puerto Rico carece de fundamentos específicos, claros y
+6 razonables que justifiquen el uso del procedimiento extraordinario. En tales casos, el término
+7 de treinta (30) días dispuesto en el Artículo 2.7 de esta Ley quedará suspendido hasta tanto la
+8 agencia complete el procedimiento ordinario de notificación, participación ciudadana y
+9 publicación. La ausencia de una justificación adecuada en la certificación o en el expediente
+10 administrativo constituirá un incumplimiento sustancial de las disposiciones de esta Ley, y el
+11 reglamento así adoptado será nulo ab initio, sin perjuicio de que la agencia pueda iniciar
+12 nuevamente el proceso conforme al procedimiento reglamentario ordinario.”
+13 Artículo 2.—Vigencia
+14 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:    2  .dL   e l S 2 d l L 3 s e c c r d e p p d l a a d 1 q “ A L t f p c c o d e y d s f A t c e e L h d a l a a a a P c f c y c p l a c l g o. D d l a p d s h l f p a r a c y r a S e d p n s a E]
+[DELETED:  d l l h d l a y l L d P. p c g l r d c y a l j d c a n a m l a d u r o a l c l o d p y s e r a a e D d E d. a l L r q e s d e l i p e l a i y e d r s l a l r l i p d q u r o s]
+[DELETED:  d P R e i p c v a p D c d s c e y d f d m d l c h y r c q.  d l h I y M l e t e l r s y l q l p a r d e d m d P R a l f d e e l t d d l r d e l m d d y]
+[DELETED:  f l n j y u d l L a e e d s d y r p p d l a   o d a u e o a c o c q l e l c e r o l e a m j c l c d l l S 2 2 y 2 y d d m o e a L m]
+[DELETED:  E r d e d s d d m a y a u l m d c y p i q r m a e s r b e p e a f d p u r j e d i s s d p y l f e e q e s e S p r t i t p d s P l a a i y d d p d e d r]
+[DELETED:  e e L c c t l e d n p c r C p a p i d s f u r d e a G o G d P R c d f e c y r d a c e p o d n p c y p a r a a s n a i s p d q l a p i n]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 798
+16 de octubre de 2025
+Presentado por el señor Santiago Rivera
+Referido a
+LEY
+Para enmendar la Sección 2.13 de la Ley 38-2017, según enmendada, conocida como
+“Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, a
+los fines de establecer disposiciones relativas a la adopción, vigencia y readopción
+de reglamentos de emergencia por parte de las agencias administrativas del
+Gobierno de Puerto Rico; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Constitución del Estado Libre Asociado de Puerto Rico dispone en su Artículo III,
+Sección 16 que “[l]a Asamblea Legislativa tendrá facultad para crear, consolidar o
+reorganizar departamentos ejecutivos y definir sus funciones”. A tenor con ello, el
+Poder Legislativo ha delegado a las agencias administrativas adscritas al Poder
+Ejecutivo ciertas facultades cuasi-legislativas y cuasi-judiciales para llevar a cabo la
+gesta gubernamental ordinaria.1 Dentro de los amplios poderes delegados se ha
+0F
+reconocido la facultad para adoptar reglamentos, adjudicar controversias y realizar
+investigaciones administrativas. Sin embargo, dichas potestades no son absolutas. El
+Tribunal Supremo de Puerto Rico ha esbozado que, en el ámbito reglamentario, debe
+evaluarse: (1) si a la agencia se le delegó poder de reglamentación; (2) si la actuación
+administrativa está autorizada por ley; (3) si la reglamentación promulgada está dentro
+1 Fideicomiso de Conservación de P.R. v. Estado Libre Asociado de P.R., 211 DPR 521, 535 (2023).
+
+2
+de los poderes delegados; (4) si al aprobarse el reglamento se cumplió con las normas
+procesales de la ley habilitadora de la agencia y la Ley de Procedimiento
+Administrativo Uniforme (LPAU); y (5) si la reglamentación es arbitraria o caprichosa.2
+1F
+Conforme a esos principios, la Ley 38-2017, según enmendada, conocida como “Ley
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, tiene como
+propósito fundamental uniformar los procedimientos administrativos de las agencias,
+entidades e instrumentalidades públicas del Gobierno de Puerto Rico, adscritas al poder
+Ejecutivo. De este modo, se busca fortalecer la transparencia gubernamental, fomentar
+la participación ciudadana, garantizar la rendición de cuentas y asegurar la justa
+adjudicación de controversias a nivel administrativo mediante la adopción de
+procedimientos reglamentarios claros y equitativos. En cumplimiento con estos fines, la
+LPAU dispone que las agencias deberán notificar su intención de adoptar, enmendar o
+derogar un reglamento, ofrecer a la ciudadanía la oportunidad de presentar
+comentarios y someter el reglamento aprobado ante el Departamento de Estado de
+Puerto Rico para su publicación, entre otros requisitos.3
+2F
+En adición, la LPAU reconoce que, en situaciones de emergencia, los intereses
+públicos pueden exigir la adopción inmediata y excepcional de reglamentos sin la
+dilación que supone el procedimiento ordinario de notificación y vistas públicas. A esos
+fines, el Artículo 2.13 de la Ley 38-2017 autoriza que las disposiciones de las Secciones
+2.1, 2.2, 2.3 y 2.8 puedan obviarse cuando el Gobernador o Gobernadora de Puerto Rico
+certifique que, debido a una emergencia o a cualquier otra circunstancia trascendental
+que así lo requiera, los intereses públicos demandan que un reglamento o sus
+enmiendas entren en vigor de manera inmediata y sin demora. Sin embargo, esto no
+exime a la agencia de tener que cumplir posteriormente con las disposiciones de los
+articulados señalados.
+2 Danosa Caribbean, Inc. v. Negociado de Asistencia Contributiva, 185 DPR 1008 (2012).
+3 Municipio de San Juan. v. JCA, 152 DPR 673 (2000).
+
+3
+A esos fines, el Alto Foro Judicial ha esbozado que las agencias deben resguardar
+celosamente sus deberes ministeriales y que, de invocarse una situación de emergencia
+para adoptar un reglamento administrativo, la certificación que emita el Gobernador o
+Gobernadora de Puerto Rico es indispensable para conferir validez al procedimiento
+seguido. Dicha certificación debe ser clara, específica y debidamente fundamentada,
+exponiendo de manera detallada las circunstancias, hechos y razones concretas que
+justifican el uso del mecanismo extraordinario. La ausencia de tal justificación puede
+acarrear la nulidad del reglamento desde su origen, pues impide a los tribunales y a la
+ciudadanía evaluar la razonabilidad de la determinación.4 De esta manera, se reafirma
+3F
+que el carácter excepcional de tales procedimientos y que ello no se convierta en un
+subterfugio ni en un medio para eludir el cumplimiento de las disposiciones ordinarias
+de la LPAU.
+Ante las múltiples emergencias que han azotado recientemente al país, tales como el
+impacto de los huracanes Irma y María, los eventos telúricos en la región sur, y la
+pandemia del COVID-19, se ha puesto de manifiesto la necesidad de que las agencias
+administrativas del Gobierno de Puerto Rico cuenten con un marco legal claro, ágil y
+estructurado que les permita adoptar reglamentos de emergencia de manera
+responsable, transparente y limitada en el tiempo. Si bien la Sección 2.13 de la Ley 38,
+supra, contempla la posibilidad de emitir reglamentos de emergencia, no establece con
+precisión determinada el término máximo de su vigencia, los requisitos de divulgación
+pública, ni el procedimiento para su posible readopción en caso de que la emergencia
+persista.
+Por lo tanto, esta Asamblea Legislativa entiende necesario enmendar la Ley 38-2017,
+según enmendada, conocida como “Ley de Procedimiento Administrativo Uniforme del
+Gobierno de Puerto Rico”, a los fines de establecer expresamente los términos de
+vigencia de los reglamentos de emergencia, los mecanismos de divulgación y
+notificación de su contenido, así como el procedimiento de readopción, si aplicase, en
+4 Grupo HIMA v. Depto. de Salud, 181 DPR 72 (2011).
+
+4
+aquellos casos en que la situación que motivó su adopción continúe vigente. Con ello se
+busca fortalecer la normativa jurídica y uniforme de la LPAU, asegurando el
+cumplimiento estricto de sus disposiciones y requisitos por parte de las agencias
+administrativas del Gobierno de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.—Se enmienda la Sección 2.13 de la Ley 38-2017, según enmendada,
+2 para que lea como sigue:
+3 “Sección 2.13.—Emergencias que Exigen Vigencia sin Previa Publicación.
+4 Las disposiciones de las Secciones 2.1, 2.2, 2.3 y 2.8 de esta Ley podrán obviarse
+5 en todos aquellos casos en que el Gobernador o Gobernadora de Puerto Rico certifique
+6 que, debido a una emergencia o a cualquier otra circunstancia que lo exija, los
+7 intereses públicos requieren que el reglamento o enmienda al mismo empiece a regir
+8 sin la dilación que requieren las Secciones 2.1, 2.2, 2.3 y 2.8 de esta Ley. En todos
+9 estos casos, el reglamento o la enmienda al mismo, junto con la copia de la
+10 certificación del Gobernador, serán radicados por el Secretario. Una vez así radicado
+11 el reglamento, o la enmienda al mismo, la agencia dará cumplimiento a lo dispuesto
+12 en las Secciones 2.1, 2.2 y 2.3 y de determinar modificaciones o enmiendas al
+13 reglamento radicado al amparo de esta Sección, radicará las mismas en la oficina del
+14 Secretario de Estado, y se le dará cumplimiento a lo dispuesto en la Sección 2.8 de
+15 esta Ley. La vigencia de un reglamento de emergencia no podrá extenderse por un término
+16 mayor de noventa (90) días naturales, a partir de la fecha de su implementación.
+
+5
+1 El reglamento de emergencia deberá ser divulgado de manera amplia y accesible,
+2 utilizando los medios de comunicación y plataformas institucionales que resulten más
+3 adecuados según la naturaleza de la emergencia que motivó su adopción. La Certificación de
+4 emergencia emitida por el Gobernador o Gobernadora de Puerto Rico deberá consignar, con
+5 suficiente detalle, las circunstancias, hechos y razones concretas que motivan la adopción del
+6 reglamento bajo este procedimiento extraordinario, a fin de permitir una revisión judicial
+7 efectiva y salvaguardar los principios de transparencia, rendición de cuentas y debido proceso
+8 de ley. Asimismo, la notificación de su vigencia deberá incluir, de forma clara y razonable, la
+9 información sobre sus disposiciones principales y la fecha exacta en que expirará su
+10 efectividad.
+11 Si la emergencia declarada por el Gobernador o Gobernadora de Puerto Rico se extendiere
+12 por un término mayor al antes dispuesto, la agencia administrativa podrá readoptar dicho
+13 reglamento de emergencia una sola vez adicional, y únicamente por un término máximo de
+14 treinta (30) días naturales adicionales. En tales casos, la agencia deberá publicar un anuncio
+15 informando sobre la intención de readoptar el reglamento cinco (5) antes de la expiración del
+16 término original de noventa (90) días, tanto en un periódico de circulación general como en el
+17 portal electrónico de la agencia concernida y en el del Departamento de Estado. La readopción
+18 del reglamento no requerirá una nueva certificación del Gobernador o Gobernadora, siendo
+19 suficiente la certificación original emitida al momento de su adopción inicial.
+20 Para que el reglamento conserve vigencia una vez vencidos los términos antes dispuestos,
+21 la agencia administrativa deberá iniciar y completar, dentro del periodo de efectividad del
+22 reglamento de emergencia, el procedimiento ordinario de aprobación reglamentaria dispuesto
+
+6
+1 en esta Ley, cumpliendo con todas las etapas de notificación, participación ciudadana,
+2 radicación y presentación correspondientes.
+3 Cualquier persona afectada podrá impugnar de su faz un reglamento de emergencia
+4 adoptado al amparo de esta disposición cuando entienda que la Certificación emitida por el
+5 Gobernador o Gobernadora de Puerto Rico carece de fundamentos específicos, claros y
+6 razonables que justifiquen el uso del procedimiento extraordinario. En tales casos, el término
+7 de treinta (30) días dispuesto en el Artículo 2.7 de esta Ley quedará suspendido hasta tanto la
+8 agencia complete el procedimiento ordinario de notificación, participación ciudadana y
+9 publicación. La ausencia de una justificación adecuada en la certificación o en el expediente
+10 administrativo constituirá un incumplimiento sustancial de las disposiciones de esta Ley, y el
+11 reglamento así adoptado será nulo ab initio, sin perjuicio de que la agencia pueda iniciar
+12 nuevamente el proceso conforme al procedimiento reglamentario ordinario.”
+13 Artículo 2.—Vigencia
+14 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:    2  .dL   e l S 2 d l L 3 s e c c r d e p p d l a a d 1 q “ A L t f p c c o d e y d s f A t c e e L h d a l a a a a P c f c y c p l a c l g o. D d l a p d s h l f p a r a c y r a S e d p n s a E]
+[DELETED:  d l l h d l a y l L d P. p c g l r d c y a l j d c a n a m l a d u r o a l c l o d p y s e r a a e D d E d. a l L r q e s d e l i p e l a i y e d r s l a l r l i p d q u r o s]
+[DELETED:  d P R e i p c v a p D c d s c e y d f d m d l c h y r c q.  d l h I y M l e t e l r s y l q l p a r d e d m d P R a l f d e e l t d d l r d e l m d d y]
+[DELETED:  f l n j y u d l L a e e d s d y r p p d l a   o d a u e o a c o c q l e l c e r o l e a m j c l c d l l S 2 2 y 2 y d d m o e a L m]
+[DELETED:  E r d e d s d d m a y a u l m d c y p i q r m a e s r b e p e a f d p u r j e d i s s d p y l f e e q e s e S p r t i t p d s P l a a i y d d p d e d r]
+[DELETED:  e e L c c t l e d n p c r C p a p i d s f u r d e a G o G d P R c d f e c y r d a c e p o d n p c y p a r a a s n a i s p d q l a p i n]

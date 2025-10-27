@@ -1,0 +1,149 @@
+Title: Para ordenar a la Comisión de Ciencia, Tecnología e Inteligencia Artificial del Senado
+Official Title: Para ordenar a la Comisión de Ciencia, Tecnología e Inteligencia Artificial del Senado
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final en Senado
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(27 DE MAYO DE 2025)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 1 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 140
+10 de abril de 2025
+Presentada por el señor Reyes Berríos
+Referida a la Comisión de Asuntos Internos
+RESOLUCIÓN
+de Puerto Rico, realizar una investigación exhaustiva sobre el estado actual de la
+infraestructura tecnológica y cibernética de la Escuela Alberto Meléndez Torres en
+el municipio de Orocovis, a los fines de identificar necesidades, deficiencias,
+oportunidades de mejora y posibles acciones que garanticen una educación de
+calidad apoyada en la tecnología.
+EXPOSICIÓN DE MOTIVOS
+La tecnología se ha convertido en una herramienta indispensable para garantizar
+una educación de calidad, equitativa y pertinente en el siglo XXI. En este contexto, es
+deber del Estado asegurar que las instituciones educativas cuenten con la
+infraestructura tecnológica y cibernética necesaria para cumplir con su función
+formativa y preparar a las futuras generaciones para los retos del mundo moderno.
+La Escuela Alberto Meléndez Torres, ubicada en el municipio de Orocovis,
+actualmente se encuentra cerrada, en espera de ser remodelada con miras a convertirse
+en una escuela vocacional. Este proyecto representa una oportunidad única para
+transformar dicha institución en un centro educativo moderno y funcional que, además
+de ofrecer formación académica y técnica, integre de forma efectiva las herramientas
+tecnológicas que demanda el sistema educativo contemporáneo.
+2
+Sin embargo, antes de proceder con cualquier desarrollo o intervención, es
+fundamental contar con una evaluación detallada del estado actual de su
+infraestructura tecnológica y cibernética. Esta evaluación permitirá identificar las
+deficiencias existentes, establecer prioridades, detectar oportunidades de mejora, y
+diseñar un plan estratégico que atienda las verdaderas necesidades de la escuela y su
+comunidad escolar.
+A tales fines, se hace necesario que la Comisión de Ciencia, Tecnología e
+Inteligencia Artificial del Senado de Puerto Rico, realice una investigación exhaustiva
+sobre la condición actual de la infraestructura tecnológica de la Escuela Alberto
+Meléndez Torres. Esta evaluación debe incluir, entre otros aspectos, la conectividad a
+internet, disponibilidad de equipos, instalaciones eléctricas compatibles con tecnologías
+modernas, sistemas de seguridad cibernética, y capacidad para integrar herramientas
+de enseñanza digital.
+La educación vocacional es esencial para el desarrollo económico y social de
+Puerto Rico. Garantizar que la futura Escuela Vocacional Alberto Meléndez Torres
+cuente con una infraestructura tecnológica robusta es una inversión directa en el capital
+humano de Puerto Rico. Por ello, esta Asamblea Legislativa tiene el deber de asegurar
+que toda transformación educativa esté acompañada de un análisis técnico riguroso y
+una planificación adecuada.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de Ciencia, Tecnología e Inteligencia
+2 Artificial del Senado de Puerto Rico, realizar una investigación exhaustiva a los fines de
+3 investigar y conocer el estado actual de la infraestructura tecnológica y cibernética de la
+4 Escuela Alberto Meléndez Torres en el municipio de Orocovis.
+3
+1 Sección 2.- La Comisión podrá celebrar vistas públicas; citar funcionarios y
+2 testigos; requerir información, documentos y objetos; y realizar inspecciones oculares a
+3 los fines de cumplir con el mandato de esta Resolución.
+4 Sección 3.- La Comisión deberá rendir un informe con sus hallazgos,
+5 recomendaciones y conclusiones en el término de ciento ochenta (180) días luego de la
+6 aprobación de la presente Resolución.
+7 Sección 4.- Esta Resolución comenzará a regir inmediatamente después de su
+8 aprobación.
+[DELETED:    1  .rL   m d O a l f d i n d d m y p a q g u e d d E a q l i e c c l t y c n p c c s f E A M T u e e m d O u e v E p r u o ú p]
+[DELETED:  e a d p c c d o i e c c u e d d e a d s t y c E e p i l e e p d o d m y t f s h n q l C d C T e l c a d l i t d l E A e v e e p e d e y s d R G q l f E V A M T 1 S o a l C d C T e I]
+[DELETED:  2-L C p c v p c f y 3 L C d r u i c s h 4 E R c a r i d d s]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(27 DE MAYO DE 2025)
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 1 ra. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+R. del S. 140
+10 de abril de 2025
+Presentada por el señor Reyes Berríos
+Referida a la Comisión de Asuntos Internos
+RESOLUCIÓN
+Para ordenar a la Comisión de Ciencia, Tecnología e Inteligencia Artificial del Senado
+de Puerto Rico, realizar una investigación exhaustiva sobre el estado actual de la
+infraestructura tecnológica y cibernética de la Escuela Alberto Meléndez Torres en
+el municipio de Orocovis, a los fines de identificar necesidades, deficiencias,
+oportunidades de mejora y posibles acciones que garanticen una educación de
+calidad apoyada en la tecnología.
+EXPOSICIÓN DE MOTIVOS
+La tecnología se ha convertido en una herramienta indispensable para garantizar
+una educación de calidad, equitativa y pertinente en el siglo XXI. En este contexto, es
+deber del Estado asegurar que las instituciones educativas cuenten con la
+infraestructura tecnológica y cibernética necesaria para cumplir con su función
+formativa y preparar a las futuras generaciones para los retos del mundo moderno.
+La Escuela Alberto Meléndez Torres, ubicada en el municipio de Orocovis,
+actualmente se encuentra cerrada, en espera de ser remodelada con miras a convertirse
+en una escuela vocacional. Este proyecto representa una oportunidad única para
+transformar dicha institución en un centro educativo moderno y funcional que, además
+de ofrecer formación académica y técnica, integre de forma efectiva las herramientas
+tecnológicas que demanda el sistema educativo contemporáneo.
+
+2
+Sin embargo, antes de proceder con cualquier desarrollo o intervención, es
+fundamental contar con una evaluación detallada del estado actual de su
+infraestructura tecnológica y cibernética. Esta evaluación permitirá identificar las
+deficiencias existentes, establecer prioridades, detectar oportunidades de mejora, y
+diseñar un plan estratégico que atienda las verdaderas necesidades de la escuela y su
+comunidad escolar.
+A tales fines, se hace necesario que la Comisión de Ciencia, Tecnología e
+Inteligencia Artificial del Senado de Puerto Rico, realice una investigación exhaustiva
+sobre la condición actual de la infraestructura tecnológica de la Escuela Alberto
+Meléndez Torres. Esta evaluación debe incluir, entre otros aspectos, la conectividad a
+internet, disponibilidad de equipos, instalaciones eléctricas compatibles con tecnologías
+modernas, sistemas de seguridad cibernética, y capacidad para integrar herramientas
+de enseñanza digital.
+La educación vocacional es esencial para el desarrollo económico y social de
+Puerto Rico. Garantizar que la futura Escuela Vocacional Alberto Meléndez Torres
+cuente con una infraestructura tecnológica robusta es una inversión directa en el capital
+humano de Puerto Rico. Por ello, esta Asamblea Legislativa tiene el deber de asegurar
+que toda transformación educativa esté acompañada de un análisis técnico riguroso y
+una planificación adecuada.
+RESUÉLVESE POR EL SENADO DE PUERTO RICO:
+1 Sección 1.- Se ordena a la Comisión de Ciencia, Tecnología e Inteligencia
+2 Artificial del Senado de Puerto Rico, realizar una investigación exhaustiva a los fines de
+3 investigar y conocer el estado actual de la infraestructura tecnológica y cibernética de la
+4 Escuela Alberto Meléndez Torres en el municipio de Orocovis.
+
+3
+1 Sección 2.- La Comisión podrá celebrar vistas públicas; citar funcionarios y
+2 testigos; requerir información, documentos y objetos; y realizar inspecciones oculares a
+3 los fines de cumplir con el mandato de esta Resolución.
+4 Sección 3.- La Comisión deberá rendir un informe con sus hallazgos,
+5 recomendaciones y conclusiones en el término de ciento ochenta (180) días luego de la
+6 aprobación de la presente Resolución.
+7 Sección 4.- Esta Resolución comenzará a regir inmediatamente después de su
+8 aprobación.
+
+[DELETED:    1  .rL   m d O a l f d i n d d m y p a q g u e d d E a q l i e c c l t y c n p c c s f E A M T u e e m d O u e v E p r u o ú p]
+[DELETED:  e a d p c c d o i e c c u e d d e a d s t y c E e p i l e e p d o d m y t f s h n q l C d C T e l c a d l i t d l E A e v e e p e d e y s d R G q l f E V A M T 1 S o a l C d C T e I]
+[DELETED:  2-L C p c v p c f y 3 L C d r u i c s h 4 E R c a r i d d s]

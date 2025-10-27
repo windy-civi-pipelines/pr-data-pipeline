@@ -1,0 +1,306 @@
+Title: Para establecer la "Ley del Expediente Digital Unico para Personas con Diversidad
+Official Title: Para establecer la "Ley del Expediente Digital Unico para Personas con Diversidad
+Number of Sections: 1
+Source: versions - Ley 6-2025
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+^ ^
+v
+II o(< ^
+(P. del S. 413)
+LEY
+Funcional" y ordenar a la "Puerto Rico Innovation and Technology Service"
+(PRITS) la creacion/ implementacion y mantenim.iento de un expediente digital
+centralizado que contenga inforinacion sobre los servicios prestados por el
+Departamento de Salud/ el Departamento de Educacion y la Administracion de
+Rehabilitacion Vocacional a personas con diversidad funcional; establecer los
+deberes de las agendas concernidas; y para otros fines relacionados.
+EXPOSICION DE MOTIVOS
+En Puerto Rico/ las personas con diversidad funcional enfrentan multiples
+obstaculos en su acceso a servicios esenciales provistos por diversas agendas
+gubernamentales. Actualmente/ el Departamento de Salud/ el Departamento de
+Educacion y la Administracion de Rehabilitacion Vocacional manejan de forma
+independiente los expedientes de cada persona que recibe sus servicios. Sin embargo/ la
+falta de integracion entre estos sistemas administrativos ha generado problemas
+significativos en la continuidad de los servicios/ afectando negativamente el desarrollo
+educacional y vocacional de esta poblacion.
+Cada vez que una persona con diversidad funcional transiciona entre agendas -ya
+sea de salud a educacion o de educacion a rehabilitacion vocacional- su expediente no
+se transfiere de manera automatica ni estandarizada. Esto obliga a la persona o a sus
+tutores a recopilar nuevamente informacion medica/ acadeinica y vocacional/ lo que
+puede derivar en la perdida de documentos/ retrasos en la prestacion de servicios y
+lagunas en la planificacion de su desarrollo. Ademas/ la falta de pollticas claras sobre la
+digitalizacion/ conservacion y acceso a estos expedientes conlleva problemas
+adicionales/ como la falta de respaldo adecuado/ la imposibilidad de consulta en tiempo
+real y riesgos en la proteccion de datos sensibles.
+Ante esta realidad/ se hace imperative) establecer la Ley del Expediente Digital
+Unico para Personas con Diversidad Funcional/ con el objetivo de centralizar la gestion
+de la informacion en un sistema digital accesible/ seguro e interoperable entre las
+agendas pertinentes. La Puerto Rico Innovation and Technology Service sera la
+entidad responsable de la creacion/ implementacion y mantenimiento de este
+expediente digital/ garantizando la continuidad en la prestacion de servicios y el acceso
+seguro y eficiente a la informacion de cada persona con diversidad funcional.
+La implementacion del Expediente Digital Unico optimizara los procesos
+administrativos/ eliminara la duplicidad de gestiones burocraticas y garantizara que las
+personas con diversidad funcional accedan a los servicios esenciales de manera
+eficiente/ agil y sin interrupciones. Adernas/ fortalecera la conservacion y gestion
+documental bajo los mas altos estandares de seguridad/ confidencialidad y proteccion
+de datos.
+Esta legislacion constituye un paso significativo hacia la modernizacion y
+eficiencia del sistema gubernamental/ asegurando un enfoque centrado en la inclusion/
+el bienestar y el desarrollo integral de las personas con diversidad funcional en Puerto
+Rico.
+DECRETASE FOR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Articulol.-Titulo.
+Esta Ley se conocera y podra ser citada como la "Ley del Expediente Digital Unico
+para Personas con Diversidad Funcional".
+Artfculo 2.- Declaracion de Politica Publica.
+Es politica publica del Gobierno de Puerto Rico garantizar la continuidad/ eficiencia
+y accesibilidad de los servicios prestados a las personas con diversidad funcional
+mediante la creacion de un expediente digital unico e interoperable entre el
+Departamento de Salud/ el Departamento de Educacion y la Administracion de
+Rehabilitacion Vocacional.
+Artfculo 3.- Creacion del Expediente Digital Unico.
+Se ordena a la "Puerto Rico Innovation and Technology Service" (en adelante/
+"PRITS") la creacion/ irnplementacion y m.anteniiniento de un Expediente Digital Unico
+para personas con diversidad funcional. Este expediente centralizado contendra toda la
+informacion relevante sobre los servicios recibidos de las agendas gubernamentales
+pertinentes y garantizara la continuidad y accesibilidad de dichos servicios a lo largo
+del tiempo.
+PRITS sera el custodio del Expediente Digital Unico y tendra la responsabilidad de
+asegurar su optima funcionamiento/ integridad/ seguridad y confidencialidad/
+conforme a las leyes y reglamentaciones aplicables.
+Articulo 4.- Responsabilidades de las Agendas Gubernamentales.
+a. El Departamento de Salud/ el Departamento de Educacion y la
+Administracion de Rehabilitacion Vocacional estaran obligados a integrar la
+informacion de cada persona con diversidad funcional en el Expediente
+Digital Unico.
+b. PRITS establecera los mecanismos necesarios para que el Departamento de
+Salud/ el Departamento de Educacion y la Administracion de Rehabilitacion
+Vocacional procedan con la digitalizacion/ actualizacion y acceso seguro de
+los documentos contenidos en el Expediente Digital Unico. Dichos
+mecanismos deberan garantizar la interoperabilidad entre agendas/ la
+proteccion de datos personales y el cumplimiento de las disposiciones legales
+aplicables en materia de privacidad y seguridad de la informacion.
+c. Ninguna agenda podra exigir a la persona con diversidad funcional/ ni a sus
+tutores legales/ la presentacion fisica de docuinentos previamente
+almacenados en el Expediente Digital Onico.
+Articulo 5.- Implementacion.
+PRITS establecera los protocolos y estandares tecnologicos necesarios para la
+implementacion efectiva del Expediente Digital Unico. Cada agenda gubernamental
+tendra un plazo de noventa (90) dlas/ a partir de la aprobacion reglainentaria de PRITS
+segun el articulo 7 de esta ley, para integrar sus plataformas y/o sistemas de
+informacion para constituir los datos necesarios para implementar el Expediente Digital
+Onico.
+Artfculo 6.- Acceso a la Informacion.
+PRITS/ en coordinacion con las agendas pertinentes, establecera los mecanismos
+necesarios para garantizar que las personas con diversidad funcional tengan acceso
+seguro/ agil y confidencial a la informacion contenida en su Expediente Digital Onico.
+Dicho acceso debera cumplir con las disposiciones legales aplicables en materia de
+privacidad/ proteccion de datos y accesibilidad digital/ asegurando que la informacion
+este disponible en formatos adecuados y accesibles para las personas con diversidad
+funcional.
+Artfculo 7.- Reglamentacion.
+PRITS/ en coordinacion con las agendas concernidas/ adoptara la reglamentacion
+necesaria para el cumplimiento de esta Ley en un periodo no mayor de ciento ochenta
+(180) dias desde su aprobacion. Las agendas concernidas realizaran los cambios que sea
+necesarios en sus cartas circulares/ reglas, reglamentos/ normas y procedimientos para
+cumplir con lo dispuesto en la presente Ley.
+Articulo 8.- Acuerdos Colaborativos.
+A los fines de asegurar la efectiva consecucion de lo establecido mediante esta Ley/
+se dispone que el Departamento de Salud/ el Departamento de Educacion y la
+Administracion de Rehabilitacion Vocacional y/ colabore con PRITS proveyendo, de ser
+necesario, profesionales capacitados para cumplir con lo dispuesto en la presente Ley.
+Articulo 9.- Seguridad y Confidencialidad de los Datos.
+Toda informacion contenida en el Expediente Digital Unico estara protegida bajo la
+normativa vigente de confidencialidad y proteccion de datos personales. El acceso al
+expediente estara estrictarnente limitado a las agendas concernidas y a la persona con
+diversidad funcional o sus representantes legales/ segun establecido por ley.
+Articulo 10.- Clausula Derogatoria.
+Cualquier disposicion de ley o reglamentacion que sea incompatible con las
+disposiciones de esta Ley queda por la presente derogada hasta donde existiere tal
+inc omp atibilidad.
+Artfculo 11.- Clausula de Separabilidad.
+Si cualquier clausula/ parrafo/ subparrafo/ oracion/ palabra/ letra/ articulo/
+disposicion/ seccion/ subseccion/ titulo/ capftulo/ subcapitulo/ acapite o parte de esta Ley
+fuera anulada o declarada inconstitucional/ la resolucion/ dictamen o sentencia a tal
+efecto dictada no afectara/ perjudicara/ rd invalidara el remanente de esta Ley. El efecto
+de dicha sentencia quedara limitado a la clausula/ parrafo/ subparrafo/ oracion/ palabra/
+letra/ artfculo/ disposicion/ seccion/ subseccion, tltulo/ capitulo/ subcapltulo/ acapite o
+parte de esta que ast hubiere sido anulada o declarada inconstitucional. Si la aplicacion
+a una persona o a una circunstancia de cualquier clausula/ parrafo/ subparrafo/ oracion
+palabra/ letra/ articulo/ disposicion/ seccion/ subseccion/ titulo/ capitulo/ subcapltulo/
+acapite o parte de esta Ley fuera invalidada o declarada inconstitucional/ la resolucion/
+dictamen o sentencia a tal efecto dictada no afectara ni invalidara la aplicacion del
+remanente de esta Ley a aquellas personas o circunstancias en las que se pueda aplicar
+validamente.
+Artlculo 12.- Vigencia.
+Esta Ley comenzara a regir ciento ochenta (180) dfas luego de su aprobacion/ con
+excepcion de aquellas disposiciones sobre adopcion de reglamentos/ recopilacion y
+preparacion de inventarios de datos/ diseno del expediente unico digital/ planes de
+trabajo/ informes y manuales/ las cuales enti'aran en vigor inmediatamente despues de
+su aprobacion.
+DEPARTAMENTO DE ESTADO
+Certificaciones, Reglamentos, Registro
+dc Notaries y Venta de Leyes
+Certifico quc cs copia ficl y cxacta del original
+Fecha: 11DEABRILDE 2025
+VyyrrM^PvmrT
+VERONICA FERRAIUOLI HORNEDO
+Secretaria de Estado
+
+
+================================================================================
+
+Raw Text:
+^ ^
+v
+II o(< ^
+(P. del S. 413)
+LEY
+Para establecer la "Ley del Expediente Digital Unico para Personas con Diversidad
+Funcional" y ordenar a la "Puerto Rico Innovation and Technology Service"
+(PRITS) la creacion/ implementacion y mantenim.iento de un expediente digital
+centralizado que contenga inforinacion sobre los servicios prestados por el
+Departamento de Salud/ el Departamento de Educacion y la Administracion de
+Rehabilitacion Vocacional a personas con diversidad funcional; establecer los
+deberes de las agendas concernidas; y para otros fines relacionados.
+EXPOSICION DE MOTIVOS
+En Puerto Rico/ las personas con diversidad funcional enfrentan multiples
+obstaculos en su acceso a servicios esenciales provistos por diversas agendas
+gubernamentales. Actualmente/ el Departamento de Salud/ el Departamento de
+Educacion y la Administracion de Rehabilitacion Vocacional manejan de forma
+independiente los expedientes de cada persona que recibe sus servicios. Sin embargo/ la
+falta de integracion entre estos sistemas administrativos ha generado problemas
+significativos en la continuidad de los servicios/ afectando negativamente el desarrollo
+educacional y vocacional de esta poblacion.
+Cada vez que una persona con diversidad funcional transiciona entre agendas -ya
+sea de salud a educacion o de educacion a rehabilitacion vocacional- su expediente no
+se transfiere de manera automatica ni estandarizada. Esto obliga a la persona o a sus
+tutores a recopilar nuevamente informacion medica/ acadeinica y vocacional/ lo que
+puede derivar en la perdida de documentos/ retrasos en la prestacion de servicios y
+lagunas en la planificacion de su desarrollo. Ademas/ la falta de pollticas claras sobre la
+digitalizacion/ conservacion y acceso a estos expedientes conlleva problemas
+adicionales/ como la falta de respaldo adecuado/ la imposibilidad de consulta en tiempo
+real y riesgos en la proteccion de datos sensibles.
+Ante esta realidad/ se hace imperative) establecer la Ley del Expediente Digital
+Unico para Personas con Diversidad Funcional/ con el objetivo de centralizar la gestion
+de la informacion en un sistema digital accesible/ seguro e interoperable entre las
+agendas pertinentes. La Puerto Rico Innovation and Technology Service sera la
+entidad responsable de la creacion/ implementacion y mantenimiento de este
+expediente digital/ garantizando la continuidad en la prestacion de servicios y el acceso
+seguro y eficiente a la informacion de cada persona con diversidad funcional.
+La implementacion del Expediente Digital Unico optimizara los procesos
+administrativos/ eliminara la duplicidad de gestiones burocraticas y garantizara que las
+personas con diversidad funcional accedan a los servicios esenciales de manera
+
+eficiente/ agil y sin interrupciones. Adernas/ fortalecera la conservacion y gestion
+documental bajo los mas altos estandares de seguridad/ confidencialidad y proteccion
+de datos.
+Esta legislacion constituye un paso significativo hacia la modernizacion y
+eficiencia del sistema gubernamental/ asegurando un enfoque centrado en la inclusion/
+el bienestar y el desarrollo integral de las personas con diversidad funcional en Puerto
+Rico.
+DECRETASE FOR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Articulol.-Titulo.
+Esta Ley se conocera y podra ser citada como la "Ley del Expediente Digital Unico
+para Personas con Diversidad Funcional".
+Artfculo 2.- Declaracion de Politica Publica.
+Es politica publica del Gobierno de Puerto Rico garantizar la continuidad/ eficiencia
+y accesibilidad de los servicios prestados a las personas con diversidad funcional
+mediante la creacion de un expediente digital unico e interoperable entre el
+Departamento de Salud/ el Departamento de Educacion y la Administracion de
+Rehabilitacion Vocacional.
+Artfculo 3.- Creacion del Expediente Digital Unico.
+Se ordena a la "Puerto Rico Innovation and Technology Service" (en adelante/
+"PRITS") la creacion/ irnplementacion y m.anteniiniento de un Expediente Digital Unico
+para personas con diversidad funcional. Este expediente centralizado contendra toda la
+informacion relevante sobre los servicios recibidos de las agendas gubernamentales
+pertinentes y garantizara la continuidad y accesibilidad de dichos servicios a lo largo
+del tiempo.
+PRITS sera el custodio del Expediente Digital Unico y tendra la responsabilidad de
+asegurar su optima funcionamiento/ integridad/ seguridad y confidencialidad/
+conforme a las leyes y reglamentaciones aplicables.
+Articulo 4.- Responsabilidades de las Agendas Gubernamentales.
+a. El Departamento de Salud/ el Departamento de Educacion y la
+Administracion de Rehabilitacion Vocacional estaran obligados a integrar la
+informacion de cada persona con diversidad funcional en el Expediente
+Digital Unico.
+b. PRITS establecera los mecanismos necesarios para que el Departamento de
+Salud/ el Departamento de Educacion y la Administracion de Rehabilitacion
+Vocacional procedan con la digitalizacion/ actualizacion y acceso seguro de
+los documentos contenidos en el Expediente Digital Unico. Dichos
+mecanismos deberan garantizar la interoperabilidad entre agendas/ la
+
+proteccion de datos personales y el cumplimiento de las disposiciones legales
+aplicables en materia de privacidad y seguridad de la informacion.
+c. Ninguna agenda podra exigir a la persona con diversidad funcional/ ni a sus
+tutores legales/ la presentacion fisica de docuinentos previamente
+almacenados en el Expediente Digital Onico.
+Articulo 5.- Implementacion.
+PRITS establecera los protocolos y estandares tecnologicos necesarios para la
+implementacion efectiva del Expediente Digital Unico. Cada agenda gubernamental
+tendra un plazo de noventa (90) dlas/ a partir de la aprobacion reglainentaria de PRITS
+segun el articulo 7 de esta ley, para integrar sus plataformas y/o sistemas de
+informacion para constituir los datos necesarios para implementar el Expediente Digital
+Onico.
+Artfculo 6.- Acceso a la Informacion.
+PRITS/ en coordinacion con las agendas pertinentes, establecera los mecanismos
+necesarios para garantizar que las personas con diversidad funcional tengan acceso
+seguro/ agil y confidencial a la informacion contenida en su Expediente Digital Onico.
+Dicho acceso debera cumplir con las disposiciones legales aplicables en materia de
+privacidad/ proteccion de datos y accesibilidad digital/ asegurando que la informacion
+este disponible en formatos adecuados y accesibles para las personas con diversidad
+funcional.
+Artfculo 7.- Reglamentacion.
+PRITS/ en coordinacion con las agendas concernidas/ adoptara la reglamentacion
+necesaria para el cumplimiento de esta Ley en un periodo no mayor de ciento ochenta
+(180) dias desde su aprobacion. Las agendas concernidas realizaran los cambios que sea
+necesarios en sus cartas circulares/ reglas, reglamentos/ normas y procedimientos para
+cumplir con lo dispuesto en la presente Ley.
+Articulo 8.- Acuerdos Colaborativos.
+A los fines de asegurar la efectiva consecucion de lo establecido mediante esta Ley/
+se dispone que el Departamento de Salud/ el Departamento de Educacion y la
+Administracion de Rehabilitacion Vocacional y/ colabore con PRITS proveyendo, de ser
+necesario, profesionales capacitados para cumplir con lo dispuesto en la presente Ley.
+Articulo 9.- Seguridad y Confidencialidad de los Datos.
+Toda informacion contenida en el Expediente Digital Unico estara protegida bajo la
+normativa vigente de confidencialidad y proteccion de datos personales. El acceso al
+expediente estara estrictarnente limitado a las agendas concernidas y a la persona con
+diversidad funcional o sus representantes legales/ segun establecido por ley.
+
+Articulo 10.- Clausula Derogatoria.
+Cualquier disposicion de ley o reglamentacion que sea incompatible con las
+disposiciones de esta Ley queda por la presente derogada hasta donde existiere tal
+inc omp atibilidad.
+Artfculo 11.- Clausula de Separabilidad.
+Si cualquier clausula/ parrafo/ subparrafo/ oracion/ palabra/ letra/ articulo/
+disposicion/ seccion/ subseccion/ titulo/ capftulo/ subcapitulo/ acapite o parte de esta Ley
+fuera anulada o declarada inconstitucional/ la resolucion/ dictamen o sentencia a tal
+efecto dictada no afectara/ perjudicara/ rd invalidara el remanente de esta Ley. El efecto
+de dicha sentencia quedara limitado a la clausula/ parrafo/ subparrafo/ oracion/ palabra/
+letra/ artfculo/ disposicion/ seccion/ subseccion, tltulo/ capitulo/ subcapltulo/ acapite o
+parte de esta que ast hubiere sido anulada o declarada inconstitucional. Si la aplicacion
+a una persona o a una circunstancia de cualquier clausula/ parrafo/ subparrafo/ oracion
+palabra/ letra/ articulo/ disposicion/ seccion/ subseccion/ titulo/ capitulo/ subcapltulo/
+acapite o parte de esta Ley fuera invalidada o declarada inconstitucional/ la resolucion/
+dictamen o sentencia a tal efecto dictada no afectara ni invalidara la aplicacion del
+remanente de esta Ley a aquellas personas o circunstancias en las que se pueda aplicar
+validamente.
+Artlculo 12.- Vigencia.
+Esta Ley comenzara a regir ciento ochenta (180) dfas luego de su aprobacion/ con
+excepcion de aquellas disposiciones sobre adopcion de reglamentos/ recopilacion y
+preparacion de inventarios de datos/ diseno del expediente unico digital/ planes de
+trabajo/ informes y manuales/ las cuales enti'aran en vigor inmediatamente despues de
+su aprobacion.
+DEPARTAMENTO DE ESTADO
+Certificaciones, Reglamentos, Registro
+dc Notaries y Venta de Leyes
+Certifico quc cs copia ficl y cxacta del original
+Fecha: 11DEABRILDE 2025
+VyyrrM^PvmrT
+VERONICA FERRAIUOLI HORNEDO
+Secretaria de Estado
