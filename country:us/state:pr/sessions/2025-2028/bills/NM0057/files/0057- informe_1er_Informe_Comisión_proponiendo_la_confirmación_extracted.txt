@@ -1,0 +1,16 @@
+Title: [PDF content from https://sutra.oslpr.org/SutraFiles/anejos/153821/0057- informe.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from https://sutra.oslpr.org/SutraFiles/anejos/153821/0057- informe.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - 1er Informe Comisión proponiendo la confirmación
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from https://sutra.oslpr.org/SutraFiles/anejos/153821/0057- informe.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from https://sutra.oslpr.org/SutraFiles/anejos/153821/0057- informe.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]

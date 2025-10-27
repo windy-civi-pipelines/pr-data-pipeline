@@ -1,0 +1,312 @@
+Title: Para añadir la Sección 3.2-A a la Ley 38-2017, según enmendada, conocida como “Ley
+Official Title: Para añadir la Sección 3.2-A a la Ley 38-2017, según enmendada, conocida como “Ley
+Number of Sections: 1
+Source: versions - Texto de Aprobación Final enviado a la Cámara
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(20 DE FEBRERO DE 2025)
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 1ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 44
+2 de enero de 2025
+Presentado por el señor Rivera Schatz
+Coautora la señora Rodríguez Veve
+Referido a la Comisión de Gobierno
+LEY
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, a los
+fines disponer que las querellas, peticiones o solicitudes, así como las notificaciones
+en los procedimientos adjudicativos, podrán realizarse por correo electrónico o
+cualquier otro medio electrónico accesible a la ciudadanía; requerir a las agencias a
+tomar las medidas pertinentes para viabilizar la implementación de los mecanismos
+necesarios para el uso de la tecnología en los procesos adjudicativos; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 38-2017, según enmendada, conocida como “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, establece que sus disposiciones
+se interpretarán liberalmente, con el fin de garantizar que los procedimientos
+administrativos se efectúen en forma rápida, justa y económica, y que aseguren una
+solución equitativa en los casos bajo la consideración de la agencia.
+El desarrollo tecnológico experimentado durante las primeras dos décadas y
+media de este siglo ha permitido mayores oportunidades de acceso a la justicia y
+economía procesal en los procesos judiciales. Mediante la implementación y ampliación
+2
+del Sistema Automatizado de Manejo y Administración de Casos (SUMAC), los foros
+judiciales de nuestro país se han movido a implementar procesos de radicación
+electrónica de los documentos judiciales que han permitido una gestión más ágil,
+eficiente y accesible. Nuestro Gobierno tiene el deber de fomentar este desarrollo en
+todas las instancias posibles.
+En el contexto de los procesos administrativos regulados por la Ley Núm. 38-
+2017, según enmendada, conocida como la “Ley de Procedimiento Administrativo
+Uniforme del Gobierno de Puerto Rico,” las notificaciones emitidas por las agencias
+pueden ser cursadas mediante correo electrónico. Ahora bien, la disponibilidad en la
+presentación de documentos de forma electrónica no ha sido atendida.
+Tanto en Puerto Rico como en los demás Estados y Territorios de los Estados
+Unidos continentales existe una clara política pública que promueve el desarrollo e
+implementación de procesos tecnológicos que, cuando menos, disminuyan el uso de
+papel, sellos de correo y de otros recursos relacionados, logrando así ahorros en sus
+finanzas. Esto, además de promover la conservación de nuestro medio ambiente al
+disminuir el uso de recursos vegetales y la producción de desechos, ayuda a disminuir
+los costos de las agencias, al no tener que utilizar papel ni correo ordinario, entre otros.
+Nuestro Gobierno tiene el deber de fomentar el desarrollo y modernización para
+lograr la optimización de los procesos adjudicativos que se ventilan ante las agencias
+del Gobierno de Puerto Rico. Las presentes enmiendas abordan estas necesidades,
+adaptándose a los avances tecnológicos, la flexibilidad de los procesos, la agilidad y
+accesibilidad de los servicios.
+Las operaciones gubernamentales deben ser objeto de evaluación constante y
+modificarse para ajustarse a las realidades económicas y tecnológicas. Conscientes de
+esa realidad, el Gobierno de Puerto Rico ha adoptado la política pública que establece el
+marco jurídico para implementar los cambios que sean necesarios.
+3
+De otra parte, la Ley 151-2004, según enmendada, conocida como “Ley de
+Gobierno Electrónico”, establece como política pública la incorporación de las
+tecnologías de información a los procedimientos gubernamentales, a la prestación de
+servicios y a la difusión de información, mediante una estrategia enfocada en el
+ciudadano, orientada a la obtención de logros y que fomente activamente la innovación.
+A tenor con esta política pública, las agencias tienen el deber de “[d]esarrollar las
+actividades y gestiones necesarias dirigidas a incorporar activamente el uso de
+tecnologías de información y telecomunicaciones en el funcionamiento gubernamental,
+con especial atención a las siguientes áreas: servicios a los ciudadanos, compras y
+subastas, orientación y divulgación sobre temas de interés social, cultural y económico
+para los ciudadanos a través del portal del Gobierno”.
+Por otro lado, mediante la Ley 75-2019, conocida como “Ley de la Puerto Rico
+Innovation and Technology Service”, se enmendó la Ley 151-2004 para disponer que el
+Puerto Rico Innovation and Technology Service (“PRITS”), tiene a su cargo administrar
+los sistemas de información e implantar las normas y los procedimientos relativos al
+uso de las tecnologías de la información a nivel gubernamental, además de asesorar a
+las agencias, actualizar y desarrollar las transacciones gubernamentales electrónicas, y
+asegurarse del funcionamiento correcto de las mismas, a tenor con la política pública
+antes esbozada.
+Finalmente, la Ley 148-2006, según enmendada, conocida como “Ley de
+Transacciones Electrónicas”, dispone que un documento o firma electrónica tiene la
+misma validez que la versión impresa. La Ley 148-2006, supra, impone en PRITS el
+deber de adoptar las condiciones mediante las cuales las agencias aceptarán los
+documentos y las firmas electrónicas.
+A tenor con lo anterior, esta Asamblea Legislativa entiende pertinente enmendar la
+Ley 38-2017, según enmendada, los fines de instrumentar de manera eficiente e integral
+la política pública, se debe utilizar la tecnología en los procedimientos adjudicativos que
+4
+se llevan a cabo en las agencias, para la presentación de documentos y notificaciones.
+Para ello, y conforme a la legislación antes citada, PRITS colaborará en la consecución
+de los objetivos de esta Ley. De esta forma, atemperamos las disposiciones de la Ley 38-
+2017, antes mencionada, para lograr un mayor acceso a los procedimientos
+adjudicativos a los ciudadanos a un menor costo, tanto para ellos, como para las
+agencias gubernamentales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se añade la Sección 3.2-A a la Ley 38-2017, según enmendada,
+2 conocida como “Ley de Procedimiento Administrativo Uniforme del Gobierno de
+3 Puerto Rico”, para que lea como sigue:
+4 “Sección 3.2 - A.- Uso de tecnología en los Procedimientos Adjudicativos.
+5 Las agencias implementarán el uso de tecnología en los procesos
+6 adjudicativos. A esos fines, establecerán mecanismos para que la presentación de
+7 querellas, peticiones o solicitudes que realicen los ciudadanos a tenor con las
+8 disposiciones de esta Ley, puedan realizarse mediante correo electrónico o cualquier
+9 herramienta tecnológica que desarrolle la agencia o el Gobierno de Puerto Rico, y
+10 que esté disponible al público libre de costo. Estos mecanismos estarán disponibles
+11 para la presentación de otros documentos una vez iniciado el procedimiento
+12 adjudicativo.
+13 Del mismo modo, las notificaciones que deben realizarse en los
+14 procedimientos adjudicativos conforme a las disposiciones de esta Ley, podrán
+15 realizarse mediante correo electrónico o cualquier herramienta tecnológica que
+16 desarrolle la agencia o el Gobierno de Puerto Rico, y que esté disponible al público
+5
+1 libre de costo. A esos fines, las agencias requerirán a todo ciudadano que presente
+2 una querella, petición o solicitud para el inicio de un procedimiento adjudicativo que
+3 provea la dirección de correo electrónico donde será notificado, así como las
+4 direcciones de correo electrónico de las otras partes, si se conocen. Las agencias
+5 administrativas tendrán que emitir sus notificaciones de manera simultánea y
+6 utilizando el mismo método de notificación para todas las partes. En aquellos casos
+7 en que se haya utilizado más de un método de notificación para todas las partes, el
+8 término para solicitar reconsideración o para presentar el recurso de revisión
+9 correspondiente comenzará a decursar a partir de la notificación por correo
+10 electrónico o del depósito en el correo ordinario, lo que ocurra primero.
+11 La primera comparecencia de cualquier parte en un procedimiento
+12 adjudicativo deberá incluir, además de la información requerida en esta Ley, una
+13 dirección de correo electrónico donde recibirá las notificaciones.
+14 Asimismo, las agencias implementarán el uso de las firmas electrónicas en los
+15 documentos que se presenten conforme a las disposiciones de esta Sección.
+16 Todo proceso o mecanismo que se adopte al amparo de las disposiciones de
+17 esta Sección deberá establecer mecanismos alternos en caso de que cualquiera de las
+18 partes no cuente con las herramientas necesarias para utilizar la tecnología adoptada.
+19 Igualmente, cualquiera de las partes que no tenga las herramientas tecnológicas
+20 disponibles, podrá utilizar los mecanismos ordinarios, ya sea por correo o
+21 personalmente, establecidos en esta Ley.
+6
+1 La Puerto Rico Innovation and Technology Service asistirá a las agencias en la
+2 ejecución de las disposiciones de esta Sección a tenor con la Ley 75-2019, conocida
+3 como “Ley de la Puerto Rico Innovation and Technology Service” y la Ley 148-2006,
+4 según enmendada, conocida como “Ley de Transacciones Electrónicas”.
+5 Artículo 2.- Las agencias adoptarán, enmendarán o sustituirán la
+6 reglamentación que sea necesaria para el cumplimiento de las disposiciones de esta
+7 Ley dentro de los noventa (90) días contados a partir de su aprobación.
+8 Artículo 3.- Esta Ley comenzará a regir inmediatamente después de su
+9 aprobación.
+[DELETED: 0 A   1 ar L r P A U d G d P R a l l p a p r p c e o i l c e f d g q l p s e e f r j y e y q a u d t e d l p d d y d e s h p m o d a a l j y]
+[DELETED:  d n p s h m a i p d r d l d j q h p u g m á y a N G t e d d f e d e l s e c c l “ d P A d G d P R l n e p l a c e u c p p q p e d e d p t q c m d e u d E a d p l c d n m a a G d P R L p e a e n a l a t l f d l p l a y o g d s o d e c y]
+[DELETED:  o p l L 1 s e c c “ d E e c p p l i d l y a l d d i m u e e e e t c e p p l a t e d d “ l y g n d a i a e u d e a a l s á s a l c c y l L 1 s e c c “ d E d q u d o f e t l v q l v i L L 1 , i e P e d a l c m l c l a a l]
+[DELETED:  a m p l u m a a l p a l c a u m c t p e c p l 1 S a l S 3 a l L 3 s e c “ d P A U d G d“L a i e u d t e l p A e f e m p q l p d p o s q r l c a t c l l p d o d u v i e pD m m l n q d r e l a c a l d d e L p m c e o c h t q]
+[DELETED:  l d d c e d s n a c l d c e d l o p s s c L a t q e s n d m s y p s r o p p e r d r c a d a p d l n p c p c d c p e u p d i a d l i r e e L u c d l p q n t l h t p u l m o y s p c o]
+[DELETED:  2 L a a e o s lA 3 E L c a r i d d s]
+
+
+================================================================================
+
+Raw Text:
+TEXTO APROBADO EN VOTACIÓN FINAL POR EL SENADO
+(20 DE FEBRERO DE 2025)
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 1ra. Sesión
+Legislativa O rdinaria
+SENADO DE PUERTO RICO
+P. del S. 44
+2 de enero de 2025
+Presentado por el señor Rivera Schatz
+Coautora la señora Rodríguez Veve
+Referido a la Comisión de Gobierno
+LEY
+Para añadir la Sección 3.2-A a la Ley 38-2017, según enmendada, conocida como “Ley
+de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico”, a los
+fines disponer que las querellas, peticiones o solicitudes, así como las notificaciones
+en los procedimientos adjudicativos, podrán realizarse por correo electrónico o
+cualquier otro medio electrónico accesible a la ciudadanía; requerir a las agencias a
+tomar las medidas pertinentes para viabilizar la implementación de los mecanismos
+necesarios para el uso de la tecnología en los procesos adjudicativos; y para otros
+fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Ley Núm. 38-2017, según enmendada, conocida como “Ley de Procedimiento
+Administrativo Uniforme del Gobierno de Puerto Rico”, establece que sus disposiciones
+se interpretarán liberalmente, con el fin de garantizar que los procedimientos
+administrativos se efectúen en forma rápida, justa y económica, y que aseguren una
+solución equitativa en los casos bajo la consideración de la agencia.
+El desarrollo tecnológico experimentado durante las primeras dos décadas y
+media de este siglo ha permitido mayores oportunidades de acceso a la justicia y
+economía procesal en los procesos judiciales. Mediante la implementación y ampliación
+
+2
+del Sistema Automatizado de Manejo y Administración de Casos (SUMAC), los foros
+judiciales de nuestro país se han movido a implementar procesos de radicación
+electrónica de los documentos judiciales que han permitido una gestión más ágil,
+eficiente y accesible. Nuestro Gobierno tiene el deber de fomentar este desarrollo en
+todas las instancias posibles.
+En el contexto de los procesos administrativos regulados por la Ley Núm. 38-
+2017, según enmendada, conocida como la “Ley de Procedimiento Administrativo
+Uniforme del Gobierno de Puerto Rico,” las notificaciones emitidas por las agencias
+pueden ser cursadas mediante correo electrónico. Ahora bien, la disponibilidad en la
+presentación de documentos de forma electrónica no ha sido atendida.
+Tanto en Puerto Rico como en los demás Estados y Territorios de los Estados
+Unidos continentales existe una clara política pública que promueve el desarrollo e
+implementación de procesos tecnológicos que, cuando menos, disminuyan el uso de
+papel, sellos de correo y de otros recursos relacionados, logrando así ahorros en sus
+finanzas. Esto, además de promover la conservación de nuestro medio ambiente al
+disminuir el uso de recursos vegetales y la producción de desechos, ayuda a disminuir
+los costos de las agencias, al no tener que utilizar papel ni correo ordinario, entre otros.
+Nuestro Gobierno tiene el deber de fomentar el desarrollo y modernización para
+lograr la optimización de los procesos adjudicativos que se ventilan ante las agencias
+del Gobierno de Puerto Rico. Las presentes enmiendas abordan estas necesidades,
+adaptándose a los avances tecnológicos, la flexibilidad de los procesos, la agilidad y
+accesibilidad de los servicios.
+Las operaciones gubernamentales deben ser objeto de evaluación constante y
+modificarse para ajustarse a las realidades económicas y tecnológicas. Conscientes de
+esa realidad, el Gobierno de Puerto Rico ha adoptado la política pública que establece el
+marco jurídico para implementar los cambios que sean necesarios.
+
+3
+De otra parte, la Ley 151-2004, según enmendada, conocida como “Ley de
+Gobierno Electrónico”, establece como política pública la incorporación de las
+tecnologías de información a los procedimientos gubernamentales, a la prestación de
+servicios y a la difusión de información, mediante una estrategia enfocada en el
+ciudadano, orientada a la obtención de logros y que fomente activamente la innovación.
+A tenor con esta política pública, las agencias tienen el deber de “[d]esarrollar las
+actividades y gestiones necesarias dirigidas a incorporar activamente el uso de
+tecnologías de información y telecomunicaciones en el funcionamiento gubernamental,
+con especial atención a las siguientes áreas: servicios a los ciudadanos, compras y
+subastas, orientación y divulgación sobre temas de interés social, cultural y económico
+para los ciudadanos a través del portal del Gobierno”.
+Por otro lado, mediante la Ley 75-2019, conocida como “Ley de la Puerto Rico
+Innovation and Technology Service”, se enmendó la Ley 151-2004 para disponer que el
+Puerto Rico Innovation and Technology Service (“PRITS”), tiene a su cargo administrar
+los sistemas de información e implantar las normas y los procedimientos relativos al
+uso de las tecnologías de la información a nivel gubernamental, además de asesorar a
+las agencias, actualizar y desarrollar las transacciones gubernamentales electrónicas, y
+asegurarse del funcionamiento correcto de las mismas, a tenor con la política pública
+antes esbozada.
+Finalmente, la Ley 148-2006, según enmendada, conocida como “Ley de
+Transacciones Electrónicas”, dispone que un documento o firma electrónica tiene la
+misma validez que la versión impresa. La Ley 148-2006, supra, impone en PRITS el
+deber de adoptar las condiciones mediante las cuales las agencias aceptarán los
+documentos y las firmas electrónicas.
+A tenor con lo anterior, esta Asamblea Legislativa entiende pertinente enmendar la
+Ley 38-2017, según enmendada, los fines de instrumentar de manera eficiente e integral
+la política pública, se debe utilizar la tecnología en los procedimientos adjudicativos que
+
+4
+se llevan a cabo en las agencias, para la presentación de documentos y notificaciones.
+Para ello, y conforme a la legislación antes citada, PRITS colaborará en la consecución
+de los objetivos de esta Ley. De esta forma, atemperamos las disposiciones de la Ley 38-
+2017, antes mencionada, para lograr un mayor acceso a los procedimientos
+adjudicativos a los ciudadanos a un menor costo, tanto para ellos, como para las
+agencias gubernamentales.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Se añade la Sección 3.2-A a la Ley 38-2017, según enmendada,
+2 conocida como “Ley de Procedimiento Administrativo Uniforme del Gobierno de
+3 Puerto Rico”, para que lea como sigue:
+4 “Sección 3.2 - A.- Uso de tecnología en los Procedimientos Adjudicativos.
+5 Las agencias implementarán el uso de tecnología en los procesos
+6 adjudicativos. A esos fines, establecerán mecanismos para que la presentación de
+7 querellas, peticiones o solicitudes que realicen los ciudadanos a tenor con las
+8 disposiciones de esta Ley, puedan realizarse mediante correo electrónico o cualquier
+9 herramienta tecnológica que desarrolle la agencia o el Gobierno de Puerto Rico, y
+10 que esté disponible al público libre de costo. Estos mecanismos estarán disponibles
+11 para la presentación de otros documentos una vez iniciado el procedimiento
+12 adjudicativo.
+13 Del mismo modo, las notificaciones que deben realizarse en los
+14 procedimientos adjudicativos conforme a las disposiciones de esta Ley, podrán
+15 realizarse mediante correo electrónico o cualquier herramienta tecnológica que
+16 desarrolle la agencia o el Gobierno de Puerto Rico, y que esté disponible al público
+
+5
+1 libre de costo. A esos fines, las agencias requerirán a todo ciudadano que presente
+2 una querella, petición o solicitud para el inicio de un procedimiento adjudicativo que
+3 provea la dirección de correo electrónico donde será notificado, así como las
+4 direcciones de correo electrónico de las otras partes, si se conocen. Las agencias
+5 administrativas tendrán que emitir sus notificaciones de manera simultánea y
+6 utilizando el mismo método de notificación para todas las partes. En aquellos casos
+7 en que se haya utilizado más de un método de notificación para todas las partes, el
+8 término para solicitar reconsideración o para presentar el recurso de revisión
+9 correspondiente comenzará a decursar a partir de la notificación por correo
+10 electrónico o del depósito en el correo ordinario, lo que ocurra primero.
+11 La primera comparecencia de cualquier parte en un procedimiento
+12 adjudicativo deberá incluir, además de la información requerida en esta Ley, una
+13 dirección de correo electrónico donde recibirá las notificaciones.
+14 Asimismo, las agencias implementarán el uso de las firmas electrónicas en los
+15 documentos que se presenten conforme a las disposiciones de esta Sección.
+16 Todo proceso o mecanismo que se adopte al amparo de las disposiciones de
+17 esta Sección deberá establecer mecanismos alternos en caso de que cualquiera de las
+18 partes no cuente con las herramientas necesarias para utilizar la tecnología adoptada.
+19 Igualmente, cualquiera de las partes que no tenga las herramientas tecnológicas
+20 disponibles, podrá utilizar los mecanismos ordinarios, ya sea por correo o
+21 personalmente, establecidos en esta Ley.
+
+6
+1 La Puerto Rico Innovation and Technology Service asistirá a las agencias en la
+2 ejecución de las disposiciones de esta Sección a tenor con la Ley 75-2019, conocida
+3 como “Ley de la Puerto Rico Innovation and Technology Service” y la Ley 148-2006,
+4 según enmendada, conocida como “Ley de Transacciones Electrónicas”.
+5 Artículo 2.- Las agencias adoptarán, enmendarán o sustituirán la
+6 reglamentación que sea necesaria para el cumplimiento de las disposiciones de esta
+7 Ley dentro de los noventa (90) días contados a partir de su aprobación.
+8 Artículo 3.- Esta Ley comenzará a regir inmediatamente después de su
+9 aprobación.
+
+[DELETED: 0 A   1 ar L r P A U d G d P R a l l p a p r p c e o i l c e f d g q l p s e e f r j y e y q a u d t e d l p d d y d e s h p m o d a a l j y]
+[DELETED:  d n p s h m a i p d r d l d j q h p u g m á y a N G t e d d f e d e l s e c c l “ d P A d G d P R l n e p l a c e u c p p q p e d e d p t q c m d e u d E a d p l c d n m a a G d P R L p e a e n a l a t l f d l p l a y o g d s o d e c y]
+[DELETED:  o p l L 1 s e c c “ d E e c p p l i d l y a l d d i m u e e e e t c e p p l a t e d d “ l y g n d a i a e u d e a a l s á s a l c c y l L 1 s e c c “ d E d q u d o f e t l v q l v i L L 1 , i e P e d a l c m l c l a a l]
+[DELETED:  a m p l u m a a l p a l c a u m c t p e c p l 1 S a l S 3 a l L 3 s e c “ d P A U d G d“L a i e u d t e l p A e f e m p q l p d p o s q r l c a t c l l p d o d u v i e pD m m l n q d r e l a c a l d d e L p m c e o c h t q]
+[DELETED:  l d d c e d s n a c l d c e d l o p s s c L a t q e s n d m s y p s r o p p e r d r c a d a p d l n p c p c d c p e u p d i a d l i r e e L u c d l p q n t l h t p u l m o y s p c o]
+[DELETED:  2 L a a e o s lA 3 E L c a r i d d s]
