@@ -1,0 +1,1770 @@
+Title: Para enmendar los Artículos 1, 15, 19, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 38, 42,
+Official Title: Para enmendar los Artículos 1, 15, 19, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 38, 42,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 773
+10 de octubre de 2025
+Presentado por el señor Toledo López
+Referido a
+LEY
+43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 60, 61 y 64 de la Ley 219-2012, según
+enmendada, conocida como la “Ley de Fideicomisos de Puerto Rico”, a fin de
+mejorar la redacción de sus disposiciones, especificar varias operaciones
+fideicomisarias, incorporar el fideicomiso revocable, actualizar las referencias
+conforme al Código Civil de 2020, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Asamblea Legislativa de Puerto Rico reconoce en los fideicomisos un
+instrumento jurídico para la estabilidad patrimonial familiar y el desarrollo económico.
+Por esa razón, la Ley 219-2012, según enmendada, modernizó el fideicomiso, que estaba
+regulado por el Código Civil de 1930, a un régimen legal propio. No obstante, prohibió
+el fideicomiso revocable. En casi todas las jurisdicciones de los Estados Unidos y en
+muchas jurisdicciones de derecho civil, el fideicomiso revocable es el instrumento por
+excelencia de la planificación patrimonial contemporánea. Asimismo, el Uniform Trust
+Code (UTC) es un modelo que han adoptado la mayoría de los estados de la Unión. Ese
+código dedica todo un capítulo (artículo 6, “Revocable Trusts”) a regular los
+fideicomisos revocables. Ese artículo establece, entre otras cosas, que a falta de
+estipulación en contrario, todo fideicomiso se considera revocable; que en tanto subsista
+2
+la revocabilidad, los deberes fiduciarios se deben en primer término al fideicomitente; y
+que a la muerte de éste el fideicomiso se vuelve irrevocable, consolidándose los
+derechos de los beneficiarios. Estados como Florida, Delaware, Colorado, New Jersey,
+Rhode Island, entre muchos otros, tienen estatutos específicos que gobiernan la
+revocación y modificación de fideicomisos, muy en línea con el UTC.
+La Ley 219-2012 pretendió “sustituir la institución romana, fosilizada y estéril,
+con un fideicomiso amplio, vivo, flexible, fecundo y útil que sea un trasunto cabal del
+trust angloamericano, sin necesidad de recurrir a doctrinas ajenas al Derecho Civil”.
+Puerto Rico, ya con madurez jurídica, reconoció entonces que no hay un abismo
+infranqueable entre el derecho civil y el derecho anglosajón, y que la absorción de
+figuras comprobadas puede hacerse sin violar nuestra tradición. Pero la supresión de la
+mención expresa al fideicomiso revocable creó una contradicción: la propia ley autorizó
+al constituyente a reservarse la facultad de modificar por completo el fideicomiso. Esta
+disimilitud ha generado inseguridad jurídica en nuestro ordenamiento.
+En Estados Unidos el fideicomiso revocable es el vehículo más utilizado de
+planificación patrimonial y su reconocimiento unificado asegura la libre circulación del
+tráfico jurídico-comercial interestatal. La falta de reconocimiento expreso en Puerto Rico
+nos coloca en desventaja con aquellos estados que ya han homologado sus leyes
+fiducarias al modelo del UTC. Corregir esta omisión es fundamental para brindar
+claridad a las familias puertorriqueñas y para integrar completamente a Puerto Rico en
+el comercio y la práctica fiduciaria de los Estados Unidos, asegurando que nuestros
+documentos patrimoniales sean reconocidos por bancos y agentes económicos en toda
+la nación.
+Por si fuera poco, en el año 2014, la Asamblea Legislativa reconoció esta
+necesidad con la Ley 241-2014, que autorizó la creación de fideicomisos revocables,
+aunque con ciertas limitaciones, solo a personas amparadas bajo decretos de incentivo
+económico. Esa reforma parcial dejó claro que la prohibición general no tenía
+justificación de política pública y que la dirección es de convergencia con el modelo
+estadounidense.
+3
+Hoy, más de una década después de la Ley 219-2012 y en el marco del Código
+Civil de 2020, es momento de actualizar nuestro marco legal fiduciario para alinearlo
+con los tiempos actuales y la política pública de desarrollo económico. Y al así hacerlo,
+no solo reforzamos la viabilidad del fideicomiso en Puerto Rico, sino que reafirmamos
+nuestro compromiso con la integración normativa y económica con los Estados Unidos,
+fomentando la certeza jurídica, el acceso al capital y la uniformidad en el comercio
+interestatal.
+En tal sentido, esta ley reconoce expresamente el fideicomiso revocable. Además,
+actualiza las menciones al Código Civil de 2020. Igualmente, armoniza la libertad
+privada y la tutela de terceros acreedores, precisando los límites de la autonomía
+patrimonial en los fideicomisos revocables. Al mismo tiempo, se incorpora totalmente
+una figura ya normalizada en los estados. Esto busca abaratar los costos de transacción,
+estimular la inversión y garantizar que Puerto Rico no se quede atrás en la
+modernización de su ley fiduciaria.
+En fin, esta reforma no solo corrige una deficiencia de la Ley 219-2012, sino que
+avanza hacia un marco legal más competitivo, atractivo a la inversión y comparable con
+los Estados Unidos. Esta unificación de leyes nos hace más competitivos, asegura la
+legalidad de nuestros negocios interestatales y beneficia la economía de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 1. — Definición.
+4 El fideicomiso es un patrimonio autónomo que resulta del acto por el cual el
+5 fideicomitente le transfiere bienes o derechos[,] y que será [administrada]
+6 administrado por el fiduciario para beneficio del fideicomisario o para un fin
+7 específico, de acuerdo con las disposiciones del acto constitutivo y, en su defecto,
+4
+1 conforme a las disposiciones de esta Ley. El fideicomiso podrá ser revocable o
+2 irrevocable, según disponga expresamente el acto constitutivo. En ausencia de disposición
+3 expresa en el acto constitutivo que declare su irrevocabilidad, el fideicomiso se presumirá
+4 revocable, salvo que de sus propias cláusulas se desprenda claramente la intención en
+5 contrario. En el caso de los fideicomisos revocables, el fideicomitente podrá reservarse
+6 facultades de revocación, enmienda o retiro de bienes, sin que ello afecte la autonomía del
+7 patrimonio frente a terceros acreedores, salvo lo dispuesto en esta Ley”.
+8 Sección 2.- Se enmienda el Artículo 2 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 2. — Patrimonio autónomo.
+11 Mientras subsista el fideicomiso, este patrimonio queda exento de la acción
+12 singular o colectiva de los acreedores del fideicomitente, el fideicomisario y del
+13 fiduciario, salvo lo establecido en la Sección Sexta de esta Ley.
+14 Los bienes o derechos fideicomitidos constituyen un patrimonio totalmente
+15 autónomo y separado de los patrimonios personales del fideicomitente, del
+16 fiduciario y del fideicomisario, que queda afectado al fin particular que se le
+17 confiera al momento de la constitución. Otorgada y radicada la escritura de
+18 constitución de fideicomiso conforme a las disposiciones de esta Ley, se
+19 constituirá una entidad jurídica [plena] independiente de los fideicomitentes,
+20 fiduciarios y fideicomisarios que la componen, gozando de personalidad jurídica plena.
+21 Mientras subsista el fideicomiso, este patrimonio queda exento de la acción
+22 singular o colectiva de los acreedores del fideicomitente, el fideicomisario y del
+5
+1 fiduciario, salvo lo establecido en [la Sección Sexta] el Artículo 6 de esta Ley. No
+2 obstante, en el caso de los fideicomisos revocables, los bienes o derechos que permanezcan
+3 sujetos a la facultad de revocación o retiro por parte del fideicomitente podrán ser
+4 alcanzados por los acreedores de éste en la misma medida en que lo hubieren sido de no
+5 existir el fideicomiso.”
+6 Sección 3.- Se enmienda el Artículo 3 de la Ley 219-2012, según enmendada,
+7 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+8 “Artículo 3. — Titularidad.
+9 Durante la vigencia del fideicomiso, la masa de bienes fideicomitidos
+10 corresponde[n] a un patrimonio autónomo del fiduciario y el fideicomisario es el
+11 titular de un interés beneficioso que se concreta a la terminación del fideicomiso,
+12 salvo que se trate de rentas o bienes que deba o pueda recibir periódicamente
+13 antes. En el caso de los fideicomisos revocables, mientras el fideicomitente conserve la
+14 facultad de revocar o enmendar, los derechos de los fideicomisarios quedarán supeditados
+15 a la voluntad del fideicomitente, y el fiduciario deberá sus deberes fiduciarios
+16 exclusivamente al fideicomitente. Dichos beneficiarios no tendrán interés exigible alguno
+17 hasta que el fideicomiso se torne irrevocable, salvo disposición expresa en contrario en el
+18 acto constitutivo.”
+19 Sección 4.- Se enmienda el Artículo 4 de la Ley 219-2012, según enmendada,
+20 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+21 “Artículo 4. — Deberes y facultades de las partes.
+6
+1 La naturaleza y extensión de los deberes y facultades de las partes serán
+2 determinadas por el acto constitutivo del fideicomiso. A falta de disposición en
+3 dicho acto, serán determinados por esta Ley. En el caso de los fideicomisos
+4 revocables, mientras el fideicomitente conserve la facultad de revocar y tenga capacidad
+5 legal, el fiduciario deberá sus deberes exclusivamente al fideicomitente, y los
+6 fideicomisarios no tendrán derechos exigibles frente al fiduciario, salvo disposición
+7 expresa en contrario en el acto constitutivo.”
+8 Sección 5.- Se enmienda el Artículo 5 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 5. — Registro Especial de Fideicomisos.
+11 Se crea el Registro de Fideicomisos adscrito a la Oficina de Inspección de
+12 Notarías [de la Rama] del Poder Judicial, la cual dispondrá reglamentación a los
+13 efectos de los requisitos y la forma en que habrá de establecerse el Registro. Todo
+14 fideicomiso constituido en Puerto Rico se inscribirá en el Registro Especial de
+15 Fideicomisos, bajo pena de nulidad. En la inscripción se harán constar las
+16 siguientes menciones:
+17 (a) …
+18 …
+19 (g) expresión clara de si el fideicomiso es revocable o irrevocable, según lo disponga el acto
+20 constitutivo.
+21 El notario que otorga el acto de constitución del fideicomiso tendrá la obligación
+22 de notificarlo a la Oficina de Inspección de Notarías no más tarde de los primeros
+7
+1 diez días del mes siguiente a su otorgamiento. En el caso de los fideicomisos
+2 revocables, toda enmienda o revocación deberá notificarse e inscribirse en el Registro
+3 dentro del término de diez (10) días contados a partir de su otorgamiento. La inscripción
+4 de esas enmiendas o revocaciones tendrá carácter constitutivo y solo a partir de la misma
+5 surtirán efectos frente a terceros.”
+6 Sección 6.- Se enmienda el Artículo 6 de la Ley 219-2012, según enmendada,
+7 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+8 “Artículo 6. — Duración del fideicomiso.
+9 El plazo de duración del fideicomiso irrevocable no podrá exceder de setenta y
+10 cinco (75) años a partir de su constitución, excepto en los casos de incapacitados,
+11 los cuales tendrá la duración de noventa (90) años o la vida del fideicomisario
+12 incapacitado, lo que sea mayor.
+13 Si se constituye por un plazo indefinido o por un plazo mayor, será válido por el
+14 plazo de noventa (90) años. Pero, si el fideicomitente hubiera manifestado la
+15 intención de que no sea válido por el plazo menor, el fideicomiso resultará nulo.
+16 Esta disposición no alcanza a los fideicomisos de fines públicos, los cuales
+17 podrán ser indefinidos.
+18 En el caso de los fideicomisos revocables, estos subsistirán hasta la muerte del
+19 fideicomitente, salvo que en el acto constitutivo se disponga un término menor. A partir
+20 de la muerte del fideicomitente, el fideicomiso se considerará irrevocable y quedará sujeto
+21 a los límites de duración aquí establecidos.”
+8
+1 Sección 7.- Se enmienda el Artículo 7 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 7. — Forma.
+4 La voluntad de constituir fideicomiso debe declararse expresamente por acto
+5 entre vivos, mediante escritura pública.
+6 También puede constituirse por testamento otorgado, conforme a las
+7 solemnidades exigidas por la Ley.
+8 [Los fideicomisos en Puerto Rico serán irrevocables.] El fideicomiso podrá ser
+9 irrevocable o revocable, según se disponga expresamente en el acto constitutivo. En el
+10 caso de los fideicomisos revocables, el fideicomitente podrá reservarse la facultad de
+11 revocar, enmendar o adicionar bienes, conforme a lo dispuesto en esta Ley.”
+12 Sección 8.- Se enmienda el Artículo 8 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 8. — Contenido.
+15 En el acto de constitución del fideicomiso se especificará:
+16 (a) …
+17 …
+18 (j) las reglas de acumulación, distribución o disposición de los bienes, rentas y
+19 productos de los bienes del fideicomiso; [y] ,
+20 (k) una declaración expresa sobre si el fideicomiso es revocable o irrevocable. En caso de
+21 que se disponga su revocabilidad, deberá establecerse el método mediante el cual podrá
+22 revocarse o enmendarse el acto constitutivo, así como la incorporación o retiro de bienes.
+9
+1 De no expresarse nada al respecto, el fideicomiso se entenderá revocable, salvo que de sus
+2 disposiciones se desprenda claramente la intención de que sea irrevocable y no se haya
+3 señalado método mediante el cual podrá revocarse o enmendarse el acto constitutivo, así
+4 como la incorporación o retiro de bienes y
+5 [(k)] (l) cualquiera otra cláusula que el fideicomitente quiera incluir que no sea
+6 contraria a la ley, a la moral o al orden público.”
+7 Sección 9.- Se enmienda el Artículo 9 de la Ley 219-2012, según enmendada,
+8 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+9 “Artículo 9. — Objeto del fideicomiso.
+10 Sólo se constituye fideicomiso si se señalan los bienes que han de constituir su
+11 patrimonio.
+12 Puede constituirse fideicomiso sobre toda clase de bienes, sean muebles e
+13 inmuebles o semovientes, corporales e incorporales, presentes y futuros. Puede
+14 ser constituido sobre bienes determinados o determinables o sobre todo o parte
+15 de un patrimonio.
+16 Si un fideicomiso se forma con bienes futuros no constituirá un patrimonio
+17 autónomo sino hasta la efectiva transmisión de los bienes al fideicomiso.
+18 Después de la creación del fideicomiso, el fideicomitente, o un tercero designado
+19 por éste, puede añadir o sustituir bienes al fideicomiso con la aceptación del
+20 fiduciario, siempre que no sea en menoscabo de la finalidad del fideicomiso y se
+21 cumplan los requisitos de forma y publicidad aplicables según la naturaleza de los bienes.
+10
+1 En los fideicomisos revocables, el fideicomitente podrá además retirar bienes del
+2 patrimonio fideicomitido en cualquier momento, mientras conserve la facultad de revocar
+3 y capacidad legal, salvo disposición expresa en contrario en el acto constitutivo. Dichos
+4 retiros deberán realizarse observando la misma forma y solemnidades requeridas para la
+5 incorporación de los bienes al fideicomiso. Para surtir efectos frente a terceros, la
+6 revocación parcial o retiro de bienes deberá además notificarse e inscribirse en el Registro
+7 Especial de Fideicomisos, y en el Registro de la Propiedad cuando se trate de bienes
+8 inmuebles. En caso de retiro total de bienes, el fideicomiso se extinguirá de pleno derecho
+9 salvo que el acto constitutivo disponga otra cosa.
+10 Las disposiciones del Código Civil y del derecho civil en general sobre la
+11 tradición gobernarán en la aplicación de las disposiciones de este Artículo.”
+12 Sección 10.- Se enmienda el Artículo 10 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 10. — Fideicomiso sobre la legítima.
+15 [No obstante lo dispuesto en el Artículo 741 del Código Civil, puede
+16 constituirse fideicomiso que grave la legítima completa, entiéndase la estricta
+17 y la mejora, de un legitimario menor de edad o incapacitado, siempre que se le
+18 designe único beneficiario de la renta y del capital.]
+19 En conformidad con lo dispuesto en el Artículo 1626 del Código Civil de Puerto Rico, no
+20 podrá constituirse fideicomiso, sea revocable o irrevocable, que grave la legítima estricta
+21 de los herederos forzosos. Podrá, sin embargo, constituirse fideicomiso, incluyendo el
+22 fideicomiso revocable, sobre la porción de libre disposición, a favor de alguno o algunos de
+11
+1 los descendientes o legitimarios, o de menores e incapacitados, siempre que se les designe
+2 como beneficiarios de la renta y del capital.
+3 El fideicomiso así constituido termina con la emancipación del menor, al cesar la
+4 incapacidad, o a la muerte del legitimario, si previamente no ha terminado al
+5 cesar su minoridad o su incapacidad.
+6 El testador podrá constituir fideicomiso sobre el tercio de la mejora o la libre
+7 disposición a favor de alguno o algunos de sus hijos o descendientes, sujeto a lo
+8 dispuesto en el Artículo 6 de esta Ley.”
+9 Sección 11.- Se enmienda el Artículo 11 de la Ley 219-2012, según enmendada,
+10 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+11 “Artículo 11. — Fideicomiso sobre inmuebles.
+12 El fideicomiso es el titular de todos los bienes muebles e inmuebles
+13 fideicomitidos. Los bienes inmuebles fideicomitidos se inscribirán en el Registro
+14 de la Propiedad a nombre del propio fideicomiso. En el caso de los fideicomisos
+15 revocables, dicha inscripción no impedirá que los acreedores del fideicomitente puedan
+16 accionar sobre los bienes inmuebles en la misma medida en que lo hubieran podido hacer
+17 de no haberse constituido el fideicomiso, mientras el fideicomitente conserve la facultad de
+18 revocar. Toda revocación parcial que implique el retiro de bienes inmuebles deberá
+19 formalizarse mediante escritura pública y surtirá efectos frente a terceros únicamente
+20 desde su inscripción en el Registro de la Propiedad y en el Registro Especial de
+21 Fideicomisos.”
+12
+1 Sección 12.- Se enmienda el Artículo 15 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 15. — Reserva de facultades.
+4 En el acto de constitución del fideicomiso, el fideicomitente puede reservarse
+5 facultades para modificar el fideicomiso total o parcialmente para sí o para
+6 delegarlas en un tercero. En los fideicomisos revocables, las facultades reservadas
+7 podrán comprender la revocación total o parcial del fideicomiso y el retiro de bienes del
+8 patrimonio fideicomitido. Todo ejercicio de estas facultades observará la misma forma y
+9 solemnidades requeridas para la incorporación de los bienes al fideicomiso y surtirá
+10 efectos frente a terceros únicamente desde su inscripción en el Registro Especial de
+11 Fideicomisos y además, tratándose de bienes inmuebles, en el Registro de la Propiedad.
+12 Cuando el acto constitutivo disponga un método específico para el ejercicio de las
+13 facultades reservadas, dicho método se entenderá exclusivo; en ausencia de método,
+14 bastará cualquier acto que evidencie por preponderancia de prueba la intención del
+15 fideicomitente, sin perjuicio de las formalidades y de la inscripción exigidas en este
+16 Artículo.
+17 Las facultades reservadas podrán delegarse expresamente en un tercero, con capacidad
+18 legal, dentro de los límites del acto constitutivo y de esta Ley.
+19 Si el fideicomiso revocable ha sido constituido por más de un fideicomitente y los bienes
+20 pertenecen a la sociedad legal de gananciales, entonces cualquiera de los cónyuges podrá
+21 ejercer la revocación. La enmienda, sin embargo, requerirá la concurrencia de ambos.
+13
+1 Si el fideicomiso revocable ha sido constituido por más de un fideicomitente y los bienes
+2 son privativos o corresponden en partes determinadas a varios fideicomitentes, entonces
+3 cada fideicomitente solo podrá ejercer la revocación o la enmienda respecto de la porción
+4 atribuible a su aportación.”
+5 Sección 13.- Se enmienda el Artículo 19 de la Ley 219-2012, según enmendada,
+6 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+7 “Artículo 19. — Sustitutos del fiduciario.
+8 En el acto de constitución del fideicomiso, el fideicomitente puede designar uno
+9 o más sustitutos del fiduciario para que lo reemplacen en el caso en que no
+10 acepte el cargo o que cese en sus funciones por cualquier motivo. También puede
+11 encomendar el nombramiento de sustituto al propio fiduciario o a un tercero.
+12 Si el acto constitutivo no prevé la manera de llenar la vacante, el fiduciario
+13 sustituto será seleccionado por el acuerdo unánime de los fideicomisarios. Si los
+14 fideicomisarios no llegan a un acuerdo, el fiduciario sustituto debe ser designado
+15 por el tribunal.
+16 [En los fideicomisos modificables, el fideicomitente, o la persona a quien éste
+17 haya autorizado para hacerlo, puede] En los fideicomisos revocables, mientras el
+18 fideicomitente conserve la facultad de revocar y capacidad legal, éste, o la persona a quien
+19 haya autorizado para hacerlo, podrá reemplazar al fiduciario o nombrar nuevos
+20 fiduciarios en cualquier tiempo, con las mismas formalidades con las que se
+21 otorgó el instrumento del fideicomiso.”
+14
+1 Sección 14.- Se enmienda el Artículo 23 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 23. — Facultades de disposición.
+4 Luego de aceptar el cargo, el fiduciario podrá disponer o gravar los bienes
+5 fideicomitidos cuando lo requieran los fines del fideicomiso, sin que para ello sea
+6 necesario el consentimiento del fiduciante o del beneficiario, a menos que se
+7 hubiere pactado lo contrario. El fiduciario se halla legitimado para ejercer todas
+8 las acciones que correspondan para la defensa de los bienes fideicomitidos, tanto
+9 contra terceros como contra el beneficiario. En los fideicomisos revocables, mientras
+10 el fideicomitente conserve la facultad de revocar y capacidad legal, el ejercicio de las
+11 facultades de disposición por parte del fiduciario estará sujeto a las instrucciones del
+12 fideicomitente, salvo que el acto constitutivo disponga expresamente lo contrario.”
+13 Sección 15.- Se enmienda el Artículo 24 de la Ley 219-2012, según enmendada,
+14 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+15 “Artículo 24. — Facultades de administración.
+16 En relación [a] con la administración del fideicomiso, el fiduciario también
+17 representará al fideicomiso y tendrá facultades para:
+18 (a) …
+19 …
+20 (l)…
+21 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y
+22 la facultad de revocar, el ejercicio de estas facultades por parte del fiduciario estará
+15
+1 sujeto a las instrucciones del fideicomitente, salvo disposición expresa en contrario en
+2 el acto constitutivo.”
+3 Sección 16.- Se enmienda el Artículo 25 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 25. — Facultad para desviarse de los términos del fideicomiso.
+6 El fiduciario tiene la facultad para desviarse de los términos del fideicomiso,
+7 previa autorización del tribunal en los siguientes casos:
+8 (a) …
+9 …
+10 (d) …
+11 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad y la
+12 facultad de revocar, no procederá la autorización judicial de desviación. En tales
+13 casos, cualquier ajuste a los términos deberá realizarse por el propio fideicomitente
+14 mediante escritura pública de enmienda o de revocación.”
+15 Sección 17.- Se enmienda el Artículo 26 de la Ley 219-2012, según enmendada,
+16 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+17 “Artículo 26. — Ejercicio de las facultades cuando hay más de un fiduciario.
+18 Si un fideicomiso tiene más de un fiduciario, todos deben ejercitar las facultades
+19 conferidas, salvo que otra cosa disponga el acto constitutivo del fideicomiso.
+20 Pero, si los co-fiduciarios no logran alcanzar la unanimidad en sus acuerdos,
+21 pueden actuar por mayoría.
+16
+1 Si uno o más de ellos repudia el cargo, o habiéndolo aceptado deja de serlo, por
+2 cualquier causa, las facultades serán ejercitadas por el fiduciario o los fiduciarios
+3 restantes hasta que el sustituto sea designado, conforme al artículo 19, salvo que
+4 otra cosa dispongan los términos del fideicomiso.
+5 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+6 facultad de revocar, el ejercicio de las facultades por parte de los fiduciarios estará sujeto a
+7 sus instrucciones. La regla de actuación por mayoría entre co-fiduciarios solo aplicará en
+8 caso de incapacidad o fallecimiento del fideicomitente, o cuando éste haya renunciado
+9 expresamente a tal control en el acto constitutivo.”
+10 Sección 18.- Se enmienda el Artículo 27 de la Ley 219-2012, según enmendada,
+11 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+12 “Artículo 27. — Deberes del fiduciario.
+13 Luego de aceptar el fideicomiso, el fiduciario está obligado a:
+14 (a) administrar el fideicomiso de buena fe, de acuerdo con los términos y
+15 propósitos [del mismo] de este y conforme a las disposiciones de esta Ley y en
+16 interés del fideicomisario, procurando realizar todos los actos que sean
+17 necesarios para la consecución del fin del fideicomiso;
+18 …
+19 (p) disponer de todos los bienes fideicomitidos que aún permanezcan en el
+20 fideicomiso al extinguirse el mismo, mediante la enajenación correspondiente,
+21 con arreglo a los términos del documento en que conste el fideicomiso.
+22 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+17
+1 facultad de revocar, los deberes del fiduciario se deben exclusivamente al fideicomitente.
+2 En tales casos, los beneficiarios carecerán de acción directa contra el fiduciario por la
+3 administración del fideicomiso hasta que el fideicomitente fallezca o pierda capacidad.”
+4 Sección 19.- Se enmienda el Artículo 28 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 28. — Prohibición de auto-contratación.
+7 El fiduciario no puede prestar los fondos del fideicomiso a sí mismo o a sus
+8 dependientes o asociados, ni puede comprar para sí, por sí o por persona
+9 interpuesta, los bienes fideicomitidos, sea en venta privada o en subasta pública,
+10 sin perjuicio de autorización por parte del fideicomitente en el acto constitutivo.
+11 En el caso de bienes muebles, dicha autorización podrá otorgarse verbalmente únicamente
+12 cuando en el acto constitutivo se haya previsto expresamente que esa forma de
+13 autorización es permitida. Tratándose de bienes inmuebles, si el acto constitutivo no
+14 contuviere la autorización correspondiente, esta podrá otorgarse posteriormente mediante
+15 instrumento público, mientras el fideicomitente conserve capacidad legal.”
+16 Sección 20.- Se enmienda el Artículo 30 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 30. — Reembolso de gastos.
+19 El fiduciario tiene derecho a reembolsarse de los bienes del fideicomiso por los
+20 gastos en que haya incurrido debidamente en su administración. Podrá además
+21 hacerlo, conforme lo dispuesto por el fideicomitente. Si los bienes del fideicomiso
+22 no son suficientes para el reembolso de estos gastos, el fiduciario no podrá
+18
+1 reclamar el reembolso al fideicomisario en su carácter personal, salvo pacto en
+2 contrario entre ellos.
+3 El fiduciario tendrá derecho a obtener el reembolso del fideicomisario, en su
+4 carácter personal, por gastos en que debidamente haya incurrido en la
+5 administración del fideicomiso, si teniendo derecho al reembolso, transfiere al
+6 fideicomisario los bienes del fideicomiso sin deducir los gastos reembolsables,
+7 pero sólo hasta el monto del valor de los bienes transferidos, salvo que el
+8 fiduciario hubiese manifestado su intención de renunciar al reembolso.
+9 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+10 facultad de revocar, la aprobación, impugnación o limitación del reembolso corresponderá
+11 exclusivamente al fideicomitente. Los beneficiarios solo tendrán legitimación para
+12 impugnar dichos gastos tras la incapacidad o fallecimiento del fideicomitente.”
+13 Sección 21.- Se enmienda el Artículo 31 de la Ley 219-2012, según enmendada,
+14 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+15 “Artículo 31. — Gastos no reembolsables.
+16 El fiduciario no tiene derecho a reembolsarse de los bienes del fideicomiso por
+17 los gastos en que haya incurrido indebidamente en la administración del
+18 fideicomiso, salvo que:
+19 (a) …
+20 (b) …
+19
+1 La disposición del párrafo anterior aplicará también a la responsabilidad
+2 contractual o extracontractual en que haya incurrido el fiduciario en la
+3 administración del fideicomiso.
+4 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+5 facultad de revocar, la aptitud para rechazar o aceptar un gasto corresponderá al
+6 fideicomitente y no al fideicomisario. Los beneficiarios solo asumirán esa facultad tras la
+7 incapacidad o fallecimiento del fideicomitente.”
+8 Sección 22.- Se enmienda el Artículo 32 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 32. — Renuncia del fiduciario.
+11 El fiduciario podrá renunciar a su cargo, una vez lo ha aceptado, mediante
+12 notificación por escrito [al fideicomisario, al beneficiario y a los co-fiduciarios,
+13 si existen,] al fideicomitente, si se trata de un fideicomiso revocable y éste conserva
+14 capacidad legal, y al fideicomisario o beneficiarios únicamente en los fideicomisos
+15 irrevocables, además de a los co-fiduciarios, si existen. El fiduciario también podrá
+16 renunciar si lo autoriza el tribunal o, tratándose de fideicomisos irrevocables, si lo
+17 consienten todos los fideicomisarios.
+18 El tribunal lo autorizará siempre que la renuncia no redunde en perjuicio de la
+19 administración del fideicomiso o si el obligarlo a desempeñar el cargo pudiera
+20 resultar irrazonablemente oneroso para el fiduciario.”
+21 Sección 23.- Se enmienda el Artículo 33 de la Ley 219-2012, según enmendada,
+22 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+20
+1 “Artículo 33. — Causas de remoción del fiduciario.
+2 El fiduciario puede ser removido del cargo por el tribunal, de oficio, o a solicitud
+3 de cualquier persona que tenga tal autoridad bajo los términos del fideicomiso,
+4 si:
+5 (a) …
+6 …
+7 (c) …
+8 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+9 facultad de revocar, la facultad de solicitar la remoción corresponderá exclusivamente al
+10 fideicomitente. Los beneficiarios solo podrán solicitar la remoción una vez el
+11 fideicomitente haya perdido la capacidad o haya fallecido.”
+12 Sección 24.- Se enmienda el Artículo 34 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 34. — Fideicomisario.
+15 El fideicomisario es la persona natural o jurídica, una entidad gubernamental o
+16 una asociación beneficiaria de la renta, del capital, o de ambos. Puede, además,
+17 ser persona que al tiempo de constituirse el fideicomiso no [existe] exista, pero
+18 que se espera que [exista] nazca a la vida jurídica dentro del plazo establecido en el
+19 Artículo 6 de esta Ley.
+20 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+21 facultad de revocar, los beneficiarios carecerán de derechos adquiridos y se reputarán
+22 únicamente como titulares expectantes. Dichos derechos plenos nacerán solamente al
+21
+1 fallecimiento del fideicomitente, al perder éste la capacidad de revocar el fideicomiso o
+2 cumplida una condición suspensiva establecida en el acto constitutivo que le conceda
+3 derechos.”
+4 Sección 25.- Se enmienda el Artículo 36 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 36. — Capacidad del fideicomisario.
+7 Pueden ser fideicomisarios las personas naturales o jurídicas, entidades
+8 gubernamentales o asociaciones que pueden o no existir al tiempo de la
+9 constitución del fideicomiso; en este último caso deberán expresarse
+10 circunstancias suficientes para su identificación.
+11 El fideicomitente puede ser fideicomisario del fideicomiso, aunque sea el único.
+12 El fiduciario puede ser fideicomisario siempre que él no sea el único
+13 fideicomisario o que, siéndolo, el fideicomiso designe por lo menos otro
+14 fiduciario.
+15 Los miembros de una clase definida de personas pueden ser fideicomisarios de
+16 un fideicomiso.
+17 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+18 facultad de revocar, la condición de fideicomisario se reputará únicamente como un
+19 derecho expectante y no como un derecho adquirido, surtiendo efectos plenos solo al
+20 fallecimiento del fideicomitente, al extinguirse su facultad de revocación o cumplida una
+21 condición suspensiva establecida en el acto constitutivo que le conceda derechos.”
+22
+1 Sección 26.- Se enmienda el Artículo 38 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 38. — Remedios que tiene el fideicomisario.
+4 El fideicomisario, o sus representantes legales, podrán instar en el tribunal los
+5 remedios que correspondan para:
+6 (a) …
+7 …
+8 (e) …
+9 Si el fideicomiso tiene varios fideicomisarios, cualquiera de ellos puede instar los
+10 remedios que establece este Artículo. Pero si alguno está incapacitado, o si los
+11 fideicomisarios no se ponen de acuerdo en cuanto al remedio, el tribunal
+12 concederá el remedio que a su juicio sea más adecuado para lograr los fines del
+13 fideicomiso.
+14 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+15 facultad de revocar, los derechos aquí reconocidos corresponderán exclusivamente al
+16 fideicomitente. Los fideicomisarios podrán ejercerlos únicamente cuando el fideicomitente
+17 haya perdido dicha facultad o al fallecer el fideicomitente.”
+18 Sección 27.- Se enmienda el Artículo 42 de la Ley 219-2012, según enmendada,
+19 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+20 “Artículo 42. — Derecho del fideicomisario de la renta.
+23
+1 El fideicomisario de la renta tiene derecho a la renta desde la fecha que haya
+2 fijado el fideicomitente en el acto constitutivo o, si ésta no se ha fijado, desde la
+3 fecha en que la propiedad pase a formar parte del capital del fideicomiso.
+4 Al terminar su derecho a la renta, el fideicomisario o sus herederos, tienen
+5 derecho a:
+6 (a) …
+7 …
+8 (c) …
+9 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+10 facultad de revocar, la condición de fideicomisario de la renta se reputará únicamente
+11 como un derecho expectante y no como un derecho adquirido, surtiendo efectos plenos
+12 solo al fallecimiento del fideicomitente, al extinguirse su facultad de revocación o
+13 cumplida una condición suspensiva establecida en el acto constitutivo que le conceda
+14 tales derechos.”
+15 Sección 28.- Se enmienda el Artículo 43 de la Ley 219-2012, según enmendada,
+16 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+17 “Artículo 43. — Consultor del fideicomiso – definición y poderes.
+18 El consultor del fideicomiso será cualquier persona que no sea el fiduciario,
+19 nombrada en el fideicomiso, y que bajo los términos del fideicomiso o mediante
+20 orden de un tribunal, tenga la facultad de realizar [actos] con relación al
+21 fideicomiso, incluyendo, sin limitación, uno o más de los siguientes actos:
+22 (a) …
+24
+1 …
+2 (g) …
+3 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+4 facultad de revocar, las funciones del consultor se limitarán a aquellas expresamente
+5 delegadas en el acto constitutivo, sin menoscabo de la facultad principal del fideicomitente
+6 de modificar o revocar el fideicomiso. En los fideicomisos irrevocables, el consultor
+7 ejercerá únicamente las facultades que expresamente le confiera el acto constitutivo o el
+8 tribunal, y tales facultades no podrán interpretarse como un derecho a sustituir la
+9 voluntad del fideicomitente salvo disposición expresa en contrario.”
+10 Sección 29.- Se enmienda el Artículo 44 de la Ley 219-2012, según enmendada,
+11 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+12 “Artículo 44. — Derechos de los acreedores.
+13 Los acreedores tendrán los siguientes derechos con relación a los bienes, activos
+14 o capital del fideicomiso:
+15 (a) Con excepción de lo dispuesto expresamente en el inciso (b) y (c) de este
+16 Artículo, el acreedor de un beneficiario de un fideicomiso tendrá contra o [en]
+17 con relación al interés del beneficiario o la propiedad en dicho fideicomiso
+18 solamente los derechos que expresamente le concedan al acreedor los términos
+19 del instrumento que crea o define el fideicomiso o por las leyes de Puerto Rico o
+20 cualquier ley federal aplicable.
+21 Las disposiciones de este inciso tendrán vigencia y de ninguna manera se
+22 limitarán por la naturaleza o extensión del interés del beneficiario, aunque dicho
+25
+1 interés esté o no sujeto a la discreción de uno o más fiduciarios, y aunque el
+2 beneficiario haya tomado o esté por tomar cualquier acción.
+3 (b) …
+4 (i) …
+5 …
+6 (iii) …
+7 (c) En el caso de los fideicomisos revocables, mientras el fideicomitente conserve
+8 capacidad legal y la facultad de revocar, los acreedores del fideicomitente podrán reclamar
+9 contra los bienes del fideicomiso en la misma medida en que podrían haberlo hecho si tales
+10 bienes permanecieran en su patrimonio. Una vez extinguida la facultad de revocación por
+11 renuncia expresa, incapacidad o fallecimiento del fideicomitente, los bienes del fideicomiso
+12 quedarán sujetos a la protección dispuesta en los incisos (a) y (b) de este Artículo.
+13 Excepto por lo dispuesto en esta Ley o en los términos del fideicomiso, ningún
+14 fiduiciario será responsable ante ningún acreedor de un beneficiario por el pago
+15 de gastos, deudas u obligaciones del beneficiario.”
+16 Sección 30.- Se enmienda el Artículo 45 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 45. — Responsabilidad por obligaciones fiduciarias.
+19 El fiduciario que incumple sus obligaciones fiduciarias responde de toda pérdida
+20 o depreciación que sufran los bienes del fideicomiso como resultado del
+21 incumplimiento. Responde también de todo provecho logrado para sí mismo en
+26
+1 virtud del incumplimiento, o de cualquier provecho que hubiera beneficiado al
+2 fideicomiso, si no hubiera incurrido en tal incumplimiento.
+3 Sin embargo, el fiduciario no responderá del incumplimiento de sus obligaciones
+4 fiduciarias[,] si el fideicomisario, o el fideicomitente en los fideicomisos revocables
+5 mientras conserve capacidad y la facultad de revocar, consintió al acto u omisión que
+6 constituyó el incumplimiento, o si, con posterioridad, lo relevó de su
+7 responsabilidad o lo ratificó.
+8 El consentimiento, la ratificación o el relevo solo serán válidos si constan por escrito.
+9 Cuando existan varios fideicomisarios, el consentimiento o relevo de uno de ellos no
+10 afectará los derechos de los demás que no lo hayan otorgado.”
+11 Sección 31.- Se enmienda el Artículo 46 de la Ley 219-2012, según enmendada,
+12 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+13 “Artículo 46. — Responsabilidad [solidaria] mancomunada de los fiduciarios.
+14 Cuando hay más de un fiduciario y todos incurren en un incumplimiento de sus
+15 obligaciones fiduciarias, [responden al fideicomisario solidariamente.] cada uno
+16 responderá de manera mancomunada, exclusivamente por la porción de daño o pérdida
+17 que sea consecuencia de su propia actuación u omisión. El fiduciario quedará exento de
+18 responsabilidad si demuestra que no participó en el incumplimiento y que actuó con la
+19 diligencia debida para impedirlo o mitigar sus efectos. No obstante, la responsabilidad
+20 será solidaria si se demuestra por preponderancia de prueba que los fiduciarios actuaron
+21 con intención y de manera concertada en el incumplimiento.”
+27
+1 Sección 32.- Se enmienda el Artículo 47 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 47. — Norma del Inversionista Prudente.
+4 (a) Norma General
+5 (i) …
+6 (ii) La norma del inversionista prudente podrá ser expandida, limitada,
+7 [eliminada] o alterada parcialmente por las disposiciones de un fideicomiso. En
+8 ningún caso podrá entenderse eliminada la obligación mínima del fiduciario de actuar de
+9 buena fe, con lealtad y con el cuidado razonable exigible en toda administración
+10 fiduciaria. Un fiduciario no es responsable a un fideicomisario, si el fiduciario
+11 actuó descansando razonablemente en las disposiciones del fideicomiso.
+12 (b)…
+13 …
+14 (e) La infracción a la norma del inversionista prudente se reputará incumplimiento
+15 fiduciario conforme al Artículo 45 de esta Ley, con las consecuencias de responsabilidad
+16 allí dispuestas.”
+17 Sección 33.- Se enmienda el Artículo 48 de la Ley 219-2012, según enmendada,
+18 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+19 “Artículo 48. — Inmunidad del fiduciario sucesor.
+20 A menos que los términos del fideicomiso o un tribunal mediante orden
+21 dispongan lo contrario, un fiduciario sucesor nombrado bajo los términos y
+22 condiciones del fideicomiso, o por un tribunal, no vendrá obligado a, ni tendrá el
+28
+1 deber de examinar, los [records] récords, cuentas, contabilidad o informes de un
+2 fiduciario anterior, o de inquirir acerca de los actos u omisiones de los fiduciarios
+3 anteriores, ni será responsable por cualquier falla o falta en solicitar u obtener
+4 cualquier remedio o reembolso por cualquier acto u omisión de cualquier
+5 fiduciario anterior, y será únicamente responsable por la propiedad, activos o
+6 inversiones que se le entreguen al fiduciario sucesor por el fiduciario anterior,
+7 por el o los fideicomitentes, y por el o los beneficiario, y gozará de todos los
+8 poderes y la discreción que le confieren los términos del fideicomiso a los
+9 fiduciarios anteriores.
+10 No obstante, el fiduciario sucesor responderá por actos u omisiones de un fiduciario
+11 anterior si, conociendo de ellos, omite tomar las medidas razonablemente necesarias para
+12 proteger el patrimonio fideicomitido o se beneficia directa o indirectamente de dichas
+13 irregularidades.”
+14 Sección 34.- Se enmienda el Artículo 49 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 49. — Reembolso y reintegro entre co-fiduciarios.
+17 [Si dos fiduciarios incurren en responsabilidad para con el fideicomisario, por
+18 razón de un incumplimiento de sus obligaciones fiduciarias, cada uno de ellos
+19 podrá exigir del otro el reintegro proporcional, salvo que:
+20 (a) uno de ellos sea sustancialmente más culpable que el otro, en cuyo caso no
+21 tendrá derecho a dicho reintegro y tendrá la obligación de reembolsar al otro; o
+22 (b) uno de ellos haya recibido un beneficio personal del incumplimiento, en
+29
+1 cuyo caso tendrá que reembolsar al otro en la misma medida del beneficio que
+2 recibió.
+3 El fiduciario que incurra en un incumplimiento de sus obligaciones fiduciarias
+4 de mala fe no tendrá derecho a exigir el reintegro proporcional de los co-
+5 fiduciarios ni el reembolso de éstos.
+6 El fiduciario que actúa de mala fe no tiene derecho a reembolso o reintegro.]
+7 Cuando, conforme al Artículo 46 de esta Ley, varios fiduciarios respondan solidariamente
+8 por haber incurrido en un incumplimiento de manera intencional y concertada, el
+9 fiduciario que hubiere pagado en exceso de la porción que le corresponde tendrá derecho a
+10 repetir contra los demás, en proporción a la participación de cada cual en el
+11 incumplimiento. No obstante, el fiduciario que hubiere actuado de mala fe, o que hubiere
+12 recibido un beneficio personal del incumplimiento, no tendrá derecho a reembolso y estará
+13 obligado a indemnizar íntegramente a los demás por el exceso pagado.”
+14 Sección 35.- Se enmienda el Artículo 50 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 50. — Embargo o ejecución del interés del fideicomisario.
+17 Los acreedores del fideicomisario podrán trabar embargo o ejecución sobre el
+18 interés de éste para satisfacer reclamaciones deducidas contra él, salvo en los
+19 siguientes casos y sin perjuicio de lo dispuesto en los Artículos 44 y 51 de esta Ley:
+20 (a) …
+21 …
+22 (g) ...”
+30
+1 Sección 36.- Se enmienda el Artículo 51 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 51. — Ineficacia de la cláusula de prodigalidad respecto del
+4 fideicomisario de la renta.
+5 [No obstante la cláusula de prodigalidad que contenga el fideicomiso,
+6 conforme a lo permitido en el inciso (g) del Artículo anterior,] No obstante lo
+7 dispuesto en el inciso (g) del Artículo 50 de esta Ley, un acreedor del fideicomisario
+8 de la renta o su cesionario podrá alcanzar el interés del fideicomisario de la renta,
+9 mediante embargo o ejecución, cuando la reclamación del acreedor [a] o su
+10 cesionario sea para cumplir con la obligación de alimentar dispuesta en el
+11 Código Civil [; y] o en cualquier otro caso que sea requerido por ley federal.”
+12 Sección 37.- Se enmienda el Artículo 52 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 52. — Deudas del fideicomisario.
+15 El interés del fideicomisario responderá por las obligaciones de éste, cuando se
+16 trate de:
+17 (a) …
+18 (b) …
+19 (c) …
+20 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+21 facultad de revocar, el interés del fideicomisario se reputará como un derecho meramente
+31
+1 expectante y, por tanto, no responderá por deudas ni obligaciones hasta tanto dicho
+2 interés adquiera carácter de derecho adquirido conforme al acto constitutivo o a esta Ley.”
+3 Sección 38.- Se enmienda el Artículo 53 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 53. — Acciones del fiduciario contra terceros.
+6 El fiduciario puede [deducir] encausar contra terceros cualquier acción que
+7 podría instar por sí mismo, si los bienes del fideicomiso le pertenecieran, pero, si
+8 indebidamente deja de [deducir] encausar alguna, el fideicomisario puede
+9 hacerlo, uniendo al fiduciario como codemandado.
+10 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+11 facultad de revocar, la legitimación subsidiaria del fideicomisario para ejercitar acciones
+12 se limitará a aquellos derechos que se hayan perfeccionado conforme al acto constitutivo o
+13 que constituyan derechos adquiridos, y no a meras expectativas.”
+14 Sección 39.- Se enmienda el Artículo 55 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 55. — Responsabilidad de tercero adquirente de mala fe que no ha
+17 dispuesto de los bienes.
+18 Si el fiduciario, en contravención de sus obligaciones fiduciarias, ha transferido o
+19 enajenado bienes del fideicomiso a un tercero adquirente de mala fe que no ha
+20 dispuesto posteriormente de ellos, éste podrá ser compelido a:
+21 (a) …
+22 (b) …
+32
+1 (c) …
+2 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+3 producto de su disposición para garantizar su reclamación.”
+4 Sección 40.- Se enmienda el Artículo 56 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 56. — Responsabilidad de tercero adquirente de mala fe que ha
+7 dispuesto de los bienes.
+8 Si en las mismas circunstancias del Artículo anterior, el tercero adquirente de
+9 mala fe ha dispuesto de los bienes, puede ser compelido a:
+10 (a) …
+11 …
+12 o
+13 (d) pagar el valor de los bienes a la fecha en que dispuso de ellos, más intereses.
+14 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+15 producto de su disposición para garantizar su reclamación.”
+16 Sección 41.- Se enmienda el Artículo 57 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 57. — Derechos del tercero adquirente de mala fe.
+19 El tercero adquirente de mala fe podrá reclamar que se le abone:
+20 (a) …
+21 (b) ...
+33
+1 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+2 producto de su disposición para garantizar su reclamación.”
+3 Sección 42.- Se enmienda el Artículo 60 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 60. — Efectos de la nulidad.
+6 (a) …
+7 (b) …
+8 (c) …
+9 (d) el fideicomiso por acto entre vivos no cumple los requisitos formales que
+10 requiere el Artículo [1232] 1245 del Código Civil y ni el fideicomitente, ni el
+11 fiduciario ni el fideicomisario invocan los derechos que les confieren el Artículo
+12 [1231] 277 del Código Civil o
+13 (e) …
+14 (f) …
+15 En el caso de los fideicomisos revocables, mientras el fideicomitente conserve capacidad
+16 legal y la facultad de revocar, la nulidad del fideicomiso tendrá los mismos efectos que
+17 una revocación, retornando los bienes al patrimonio del fideicomitente. Si al momento de
+18 declararse la nulidad ya hubiese fallecido o perdido la facultad de revocar, los bienes se
+19 devolverán a sus herederos conforme a derecho.”
+20 Sección 43.- Se enmienda el Artículo 61 de la Ley 219-2012, según enmendada,
+21 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+22 “Artículo 61. — Terminación del fideicomiso.
+34
+1 El fideicomiso termina por:
+2 (a) …
+3 (b) …
+4 (c) …
+5 (d) …
+6 (e) …
+7 (f) durante la vida del fideicomitente, mediante el consentimiento unánime y
+8 expreso de todos los fideicomitentes y fideicomisarios; en el caso de los fideicomisos
+9 revocables, bastará la revocación expresa del fideicomitente mediante escritura pública
+10 mientras conserve capacidad legal y la facultad de revocar, sin necesidad de
+11 consentimiento de los fideicomisarios, cuya condición será meramente expectante hasta
+12 dicho momento;
+13 (g) …
+14 (h) …
+15 (i) …
+16 (j) …
+17 (k) …”.
+18 Sección 44.- Se enmienda el Artículo 64 de la Ley 219-2012, según enmendada,
+19 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+20 “Artículo 64. — Constitución y administración.
+21 A la constitución y administración del fideicomiso de fines públicos aplicarán las
+22 normas de los Artículos 6, párrafo tercero; 7; 9; 10; 11; 12; 14; 15; 17; 19; 21; 22; 23;
+35
+1 24; 25; 27; 29; 30; 31; 32; 33; 34; 38; 44; 46; 47; 48; 49; 50; 54; 55; 56; 57; 58; y 61 de
+2 esta Ley.
+3 La referencia en dichos artículos a fideicomisarios deberá entenderse hecha a
+4 fines públicos o a las personas que con arreglo a lo dispuesto en el Artículo 68
+5 tienen facultad para hacer valer el fideicomiso de fines públicos.
+6 Disponiéndose, además, que en el caso de los fideicomisos de fines públicos que
+7 se hayan constituido o se constituyan a perpetuidad por personas privadas, las
+8 personas que comparecen como fideicomitentes en la escritura de constitución
+9 del fideicomiso, así como cualquier otra persona a quien dichos fideicomitentes
+10 le concedan esa facultad, podrán, a su entera discreción, en cualquier tiempo y
+11 mediante escritura pública, (a) enmendar la escritura de fideicomiso siempre y
+12 cuando dichas enmiendas preserven el fin público del fideicomiso; (b) terminar
+13 el fideicomiso siempre y cuando a la terminación del fideicomiso los activos del
+14 fideicomiso se distribuyan, transfieran o utilicen para fines públicos; y (c)
+15 remover, reemplazar y sustituir a los fiduciarios y nombrar o designar
+16 fiduciarios sustitutos o adicionales sin necesidad de mostrar causa para ello.
+17 En ningún caso los fideicomisos de fines públicos constituidos al amparo de esta Ley
+18 podrán reputarse revocables, ni les aplicarán las disposiciones sobre revocación previstas
+19 para los fideicomisos privados.”.
+20 Sección 45.- Separabilidad.
+21 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+22 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+36
+1 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+2 efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+3 de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+4 letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o
+5 parte de esta que así hubiere sido anulada o declarada inconstitucional. Si la aplicación
+6 a una persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo, oración,
+7 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+8 acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+9 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+10 remanente de esta Ley a aquellas personas o circunstancias en que se pueda aplicar
+11 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+12 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor
+13 medida posible, aunque se deje sin efecto, anule, invalide, perjudique o declare
+14 inconstitucional alguna de sus partes o, aunque se deje sin efecto, invalide o declare
+15 inconstitucional su aplicación a alguna persona o circunstancia. Esta Asamblea
+16 Legislativa hubiera aprobado esta Ley sin importar la determinación de separabilidad
+17 que el Tribunal pueda hacer.
+18 Sección 46.- Vigencia.
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED: 0   2 .dL   c c l “ d F d P Ro, a f d l r d s d e v o i e f r a l r A L d P R r e l f u f r E c t l j d l E U y e d t u c ( 6 “ T a r l r E a e e o c q a f d]
+[DELETED:  a l m d é e f s v i c l I e m o t e e q g l a s n d r a d a a D C R y c m j r e q n h u a e e d c y e d a y q l a d E U e f r e e v m u d c e d c a e q y h h s l a m d U C e o e f p b c y l p f d l E U a q n s f p e e a 2 l A L r e c l L 2 q a l c d f r E r p d c q l p g n t d p p y q l d e d c c e m]
+[DELETED:  l c j e a a c y l u e e c l m a C C d 2 I a l l y l t d t a p l l d l a l i y g q P R n s q a e l E U E u d l n h m c a l 1 S e e A 1 d l L 2 s e f e u p a q r d a p e c e l t b o ds y q s ][ ap e f p b d f o p u f]
+[DELETED:  a l d d e L E f p s r o i e r s c f p 2 S e e A 2 d l L 2 s e s e f e p q e d l a b o d f c u p t y s d l p p d f d y d f q q a a f p q s l a m d l c O y r l e d d f c a l d d e L s u e j i d l f f s e f e p q e d l a]
+[DELETED:     e6N o s a l f d r o r p p d f p s a e 3 S e e A 3 d l L 2 s e l v d f l m d b fe  E f a l v d f y e f d s d f e h a 4 S e e A 4 d l L 2 s e]
+[DELETED:  n y e d l d y f d l p s a s d p e L E e c d l f r l e f d s d e a f y l f n t d e f a f s d e 5 S e e A 5 d l L 2 s e c e R d F a a l O d I d J   d l c e P R s i e e R E d b p d n E l i s h c l ( c]
+[DELETED:  d d m s a s o E e c d l f r t e o r d n e i e e R d d s 6 S e e A 6 d l L 2 s e   i d n ( a P s e f h m l d n a a l f d f p l c E e c d l f r e s h l m d f d a]
+[DELETED:  7 S e e A 7 d l L 2 s e v d c f d d e p a p c p t o c a l f e P R s i E f p s i c d l f r e f p r l f d r. 8 S e e A 8 d l L 2 s e)   , ()u q r]
+[DELETED:  D d s c  (  9 S e e A 9 d l L 2 s e c f s t c d b s m e u f s f c b f n c u p s h l e t d l b a f é p a o s b a f c l a d y c]
+[DELETED:  E l f r e f p a r b d p y r i d l b a f P s e f a t l r E d F y e e R d l P c s t d b i s d d C C y d d c e g s l  o l d e e A 7 d C C p E p d l h f P s e c f i e f]
+[DELETED:  l c o a l m d l p n h a t p c f s e t d l m  o l l d  f e e t d t l b m e i l P a n d p f E e c d l f r a d r T r p q i e r d b i d f m e p y s e f a t ú d s i e e R d l P y e e R E d F.]
+[DELETED:  e a d c d f e f p r p m e f t o p p s o p e u t E l f r l f r p p s r p l i d l b a f y s e f a t ú d s i e e R E d F C e a c d u m e p e e d l f r d m s e e e a d m b c a q e p p d p l i d f s p d l f y d l i e e e A L l S p e]
+[DELETED:  S s c a m s d f p q l r e e c e q n e n d s p f o a u t e a c n p l m d l l v e f a p h p E l f r m e f h a p h pr a f o n n e c t c l m f c l q so .]
+[DELETED:  d a e c e f p d o g l b e c d f o d b a m q s E e f c l f d r y c l e e d l f d d p p d f e s a l i d f r   l a d f e f t c)… E l]
+[DELETED:  s e E l f r m e f c c y l f d r n p l a j d d E t c m s q o c d e a c d f s l c n l a l u e s a]
+[DELETED:  E f s c d i o f d f o c é h r e d a e f e f e o a a e f d b f d a c l t y    d d f p r t l a q s d d t l b f q a p e e a e e m m l e c a a l t d d e q c e f E]
+[DELETED:  f E t c l b c d a d c e f p l a f n p p l f d f a s m o a s o a n p c p s p s o p p E c e e a c s h p e q e f d a e p T d b i s e a c n c i s s p e r d e g e f n p]
+[DELETED:  f t d a o e r d f e s p p g e q d h i e l d f s t d a r t a l b d f s d l g r s h e m d v d l b t s q e E f e a f L b s t l p i g e q h i i e l a d]
+[DELETED:  d d p a a t a l r o e e q h i e f e l E f d r l a p r o a u g c a f i. f p r a s c u v l h a m e a f s s t d u f r y é c c l y a f o b ú e l f i a d a l c s eE f t po  ,o .]
+[DELETED:  E f f L b s p s l r u v e fa   , e    n E f d r l b c d d a y s r ú c t e D d p n s a]
+[DELETED:  f e c u c s e e e a c q l c d s f l p n o j e o a q p o n e a t d l d f e e ú c d e f p s f s q é n s e ú o q s e f d p l m o E f d r l c d f s r ú c u d e y n c u d a s e p s a f c]
+[DELETED:  n s p d a e c a r e t E f d r l d a r c e a f h]
+[DELETED:  f d l r d l r d l f q h t s d a l r e f o s h t E f c s a f d f a e s f d r o c u c s e e e a c q l c t c d f s c p q n s e f d u t t l f d r  c r a]
+[DELETED:  E f d r l f d c s l a a e d d m o r e f E l f i e c e t y t f n p i c u d a s l v C e d l d e e e i (  d e y ( cr a i d b o l p e d f d d e i t v y d n m s]
+[DELETED:  e o n s a l d d u o m f y a e ()E e c d l f r m e f c c c b r q s a l p d e l i ( y ( d e A.  d q s l b d f c r d]
+[DELETED: s s e f o e f e l f r m e i o s c p l r d s E c l r o e r s s v s p e C e v f e c o r d u d e n a 4 — R   d l f.] m  c r q r d s c]
+[DELETED:  L n d i p p s e l p l d d u f o a peE n b f c l y c e c r e e t a fU f n e r a u f s e f ()L i a l n d i p s r i f a m q l t d f o u t m o l c u f s n b l t y]
+[DELETED:   , r r o r p c a u o d c a y s ú r p l p a o e o l f y p e o l b y g d t l y l d q l c l t d f a l N o e f s r p a u o d u f a p e p f o s b d o i d d i e d o e r p s q]
+[DELETED:  m f n t d a e e r p d l c C p h i e u i d m i y c e f r c l d e p a l p d c c e e i r o a d f p t e o e s e d é p s r d c é s e l s c y s p d l d e l A 4 y 5 d e L. .]
+[DELETED:  5 — I d l c d p r d o l c d p q c e f N d e o e c l r d a   s  s p c c l o d a d e e   l” o E f]
+[DELETED:  e y p t n r p d n o h t d i f p   c t c a q en   d d   a e f p e E f s q 5 — R d t a d m f q n h]
+[DELETED:    t u g s l b o s e fn”  5 — R d t a d m f q h e l m c d A a e t a d   t u g s l b o s e fn” ]
+[DELETED:    t u g s l b o s e f e f p a e v n c l r f q e A   d C C y n e f n e 1  2 E l u d d]
+[DELETED:  d l v d f m e c u y e r b l r e d f m e p m c c l y l f d r s n d c d]
+[DELETED:  r e d a a f d e h a s d t o u p f p y ( r y s a l f y n o d E n c l f d f p c a a d e L p p c c p s o p l a]
+[DELETED:  a o d i l r d o s a t l a d s s t c s o s a t e d n a n i l a d d e L a a p o c e q s p a h c l d y l a d e L e l m p a s d s e a i p o d s a a a p o c E A]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 773
+10 de octubre de 2025
+Presentado por el señor Toledo López
+Referido a
+LEY
+Para enmendar los Artículos 1, 15, 19, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 38, 42,
+43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 60, 61 y 64 de la Ley 219-2012, según
+enmendada, conocida como la “Ley de Fideicomisos de Puerto Rico”, a fin de
+mejorar la redacción de sus disposiciones, especificar varias operaciones
+fideicomisarias, incorporar el fideicomiso revocable, actualizar las referencias
+conforme al Código Civil de 2020, y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La Asamblea Legislativa de Puerto Rico reconoce en los fideicomisos un
+instrumento jurídico para la estabilidad patrimonial familiar y el desarrollo económico.
+Por esa razón, la Ley 219-2012, según enmendada, modernizó el fideicomiso, que estaba
+regulado por el Código Civil de 1930, a un régimen legal propio. No obstante, prohibió
+el fideicomiso revocable. En casi todas las jurisdicciones de los Estados Unidos y en
+muchas jurisdicciones de derecho civil, el fideicomiso revocable es el instrumento por
+excelencia de la planificación patrimonial contemporánea. Asimismo, el Uniform Trust
+Code (UTC) es un modelo que han adoptado la mayoría de los estados de la Unión. Ese
+código dedica todo un capítulo (artículo 6, “Revocable Trusts”) a regular los
+fideicomisos revocables. Ese artículo establece, entre otras cosas, que a falta de
+estipulación en contrario, todo fideicomiso se considera revocable; que en tanto subsista
+
+2
+la revocabilidad, los deberes fiduciarios se deben en primer término al fideicomitente; y
+que a la muerte de éste el fideicomiso se vuelve irrevocable, consolidándose los
+derechos de los beneficiarios. Estados como Florida, Delaware, Colorado, New Jersey,
+Rhode Island, entre muchos otros, tienen estatutos específicos que gobiernan la
+revocación y modificación de fideicomisos, muy en línea con el UTC.
+La Ley 219-2012 pretendió “sustituir la institución romana, fosilizada y estéril,
+con un fideicomiso amplio, vivo, flexible, fecundo y útil que sea un trasunto cabal del
+trust angloamericano, sin necesidad de recurrir a doctrinas ajenas al Derecho Civil”.
+Puerto Rico, ya con madurez jurídica, reconoció entonces que no hay un abismo
+infranqueable entre el derecho civil y el derecho anglosajón, y que la absorción de
+figuras comprobadas puede hacerse sin violar nuestra tradición. Pero la supresión de la
+mención expresa al fideicomiso revocable creó una contradicción: la propia ley autorizó
+al constituyente a reservarse la facultad de modificar por completo el fideicomiso. Esta
+disimilitud ha generado inseguridad jurídica en nuestro ordenamiento.
+En Estados Unidos el fideicomiso revocable es el vehículo más utilizado de
+planificación patrimonial y su reconocimiento unificado asegura la libre circulación del
+tráfico jurídico-comercial interestatal. La falta de reconocimiento expreso en Puerto Rico
+nos coloca en desventaja con aquellos estados que ya han homologado sus leyes
+fiducarias al modelo del UTC. Corregir esta omisión es fundamental para brindar
+claridad a las familias puertorriqueñas y para integrar completamente a Puerto Rico en
+el comercio y la práctica fiduciaria de los Estados Unidos, asegurando que nuestros
+documentos patrimoniales sean reconocidos por bancos y agentes económicos en toda
+la nación.
+Por si fuera poco, en el año 2014, la Asamblea Legislativa reconoció esta
+necesidad con la Ley 241-2014, que autorizó la creación de fideicomisos revocables,
+aunque con ciertas limitaciones, solo a personas amparadas bajo decretos de incentivo
+económico. Esa reforma parcial dejó claro que la prohibición general no tenía
+justificación de política pública y que la dirección es de convergencia con el modelo
+estadounidense.
+
+3
+Hoy, más de una década después de la Ley 219-2012 y en el marco del Código
+Civil de 2020, es momento de actualizar nuestro marco legal fiduciario para alinearlo
+con los tiempos actuales y la política pública de desarrollo económico. Y al así hacerlo,
+no solo reforzamos la viabilidad del fideicomiso en Puerto Rico, sino que reafirmamos
+nuestro compromiso con la integración normativa y económica con los Estados Unidos,
+fomentando la certeza jurídica, el acceso al capital y la uniformidad en el comercio
+interestatal.
+En tal sentido, esta ley reconoce expresamente el fideicomiso revocable. Además,
+actualiza las menciones al Código Civil de 2020. Igualmente, armoniza la libertad
+privada y la tutela de terceros acreedores, precisando los límites de la autonomía
+patrimonial en los fideicomisos revocables. Al mismo tiempo, se incorpora totalmente
+una figura ya normalizada en los estados. Esto busca abaratar los costos de transacción,
+estimular la inversión y garantizar que Puerto Rico no se quede atrás en la
+modernización de su ley fiduciaria.
+En fin, esta reforma no solo corrige una deficiencia de la Ley 219-2012, sino que
+avanza hacia un marco legal más competitivo, atractivo a la inversión y comparable con
+los Estados Unidos. Esta unificación de leyes nos hace más competitivos, asegura la
+legalidad de nuestros negocios interestatales y beneficia la economía de Puerto Rico.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 1. — Definición.
+4 El fideicomiso es un patrimonio autónomo que resulta del acto por el cual el
+5 fideicomitente le transfiere bienes o derechos[,] y que será [administrada]
+6 administrado por el fiduciario para beneficio del fideicomisario o para un fin
+7 específico, de acuerdo con las disposiciones del acto constitutivo y, en su defecto,
+
+4
+1 conforme a las disposiciones de esta Ley. El fideicomiso podrá ser revocable o
+2 irrevocable, según disponga expresamente el acto constitutivo. En ausencia de disposición
+3 expresa en el acto constitutivo que declare su irrevocabilidad, el fideicomiso se presumirá
+4 revocable, salvo que de sus propias cláusulas se desprenda claramente la intención en
+5 contrario. En el caso de los fideicomisos revocables, el fideicomitente podrá reservarse
+6 facultades de revocación, enmienda o retiro de bienes, sin que ello afecte la autonomía del
+7 patrimonio frente a terceros acreedores, salvo lo dispuesto en esta Ley”.
+8 Sección 2.- Se enmienda el Artículo 2 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 2. — Patrimonio autónomo.
+11 Mientras subsista el fideicomiso, este patrimonio queda exento de la acción
+12 singular o colectiva de los acreedores del fideicomitente, el fideicomisario y del
+13 fiduciario, salvo lo establecido en la Sección Sexta de esta Ley.
+14 Los bienes o derechos fideicomitidos constituyen un patrimonio totalmente
+15 autónomo y separado de los patrimonios personales del fideicomitente, del
+16 fiduciario y del fideicomisario, que queda afectado al fin particular que se le
+17 confiera al momento de la constitución. Otorgada y radicada la escritura de
+18 constitución de fideicomiso conforme a las disposiciones de esta Ley, se
+19 constituirá una entidad jurídica [plena] independiente de los fideicomitentes,
+20 fiduciarios y fideicomisarios que la componen, gozando de personalidad jurídica plena.
+21 Mientras subsista el fideicomiso, este patrimonio queda exento de la acción
+22 singular o colectiva de los acreedores del fideicomitente, el fideicomisario y del
+
+5
+1 fiduciario, salvo lo establecido en [la Sección Sexta] el Artículo 6 de esta Ley. No
+2 obstante, en el caso de los fideicomisos revocables, los bienes o derechos que permanezcan
+3 sujetos a la facultad de revocación o retiro por parte del fideicomitente podrán ser
+4 alcanzados por los acreedores de éste en la misma medida en que lo hubieren sido de no
+5 existir el fideicomiso.”
+6 Sección 3.- Se enmienda el Artículo 3 de la Ley 219-2012, según enmendada,
+7 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+8 “Artículo 3. — Titularidad.
+9 Durante la vigencia del fideicomiso, la masa de bienes fideicomitidos
+10 corresponde[n] a un patrimonio autónomo del fiduciario y el fideicomisario es el
+11 titular de un interés beneficioso que se concreta a la terminación del fideicomiso,
+12 salvo que se trate de rentas o bienes que deba o pueda recibir periódicamente
+13 antes. En el caso de los fideicomisos revocables, mientras el fideicomitente conserve la
+14 facultad de revocar o enmendar, los derechos de los fideicomisarios quedarán supeditados
+15 a la voluntad del fideicomitente, y el fiduciario deberá sus deberes fiduciarios
+16 exclusivamente al fideicomitente. Dichos beneficiarios no tendrán interés exigible alguno
+17 hasta que el fideicomiso se torne irrevocable, salvo disposición expresa en contrario en el
+18 acto constitutivo.”
+19 Sección 4.- Se enmienda el Artículo 4 de la Ley 219-2012, según enmendada,
+20 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+21 “Artículo 4. — Deberes y facultades de las partes.
+
+6
+1 La naturaleza y extensión de los deberes y facultades de las partes serán
+2 determinadas por el acto constitutivo del fideicomiso. A falta de disposición en
+3 dicho acto, serán determinados por esta Ley. En el caso de los fideicomisos
+4 revocables, mientras el fideicomitente conserve la facultad de revocar y tenga capacidad
+5 legal, el fiduciario deberá sus deberes exclusivamente al fideicomitente, y los
+6 fideicomisarios no tendrán derechos exigibles frente al fiduciario, salvo disposición
+7 expresa en contrario en el acto constitutivo.”
+8 Sección 5.- Se enmienda el Artículo 5 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 5. — Registro Especial de Fideicomisos.
+11 Se crea el Registro de Fideicomisos adscrito a la Oficina de Inspección de
+12 Notarías [de la Rama] del Poder Judicial, la cual dispondrá reglamentación a los
+13 efectos de los requisitos y la forma en que habrá de establecerse el Registro. Todo
+14 fideicomiso constituido en Puerto Rico se inscribirá en el Registro Especial de
+15 Fideicomisos, bajo pena de nulidad. En la inscripción se harán constar las
+16 siguientes menciones:
+17 (a) …
+18 …
+19 (g) expresión clara de si el fideicomiso es revocable o irrevocable, según lo disponga el acto
+20 constitutivo.
+21 El notario que otorga el acto de constitución del fideicomiso tendrá la obligación
+22 de notificarlo a la Oficina de Inspección de Notarías no más tarde de los primeros
+
+7
+1 diez días del mes siguiente a su otorgamiento. En el caso de los fideicomisos
+2 revocables, toda enmienda o revocación deberá notificarse e inscribirse en el Registro
+3 dentro del término de diez (10) días contados a partir de su otorgamiento. La inscripción
+4 de esas enmiendas o revocaciones tendrá carácter constitutivo y solo a partir de la misma
+5 surtirán efectos frente a terceros.”
+6 Sección 6.- Se enmienda el Artículo 6 de la Ley 219-2012, según enmendada,
+7 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+8 “Artículo 6. — Duración del fideicomiso.
+9 El plazo de duración del fideicomiso irrevocable no podrá exceder de setenta y
+10 cinco (75) años a partir de su constitución, excepto en los casos de incapacitados,
+11 los cuales tendrá la duración de noventa (90) años o la vida del fideicomisario
+12 incapacitado, lo que sea mayor.
+13 Si se constituye por un plazo indefinido o por un plazo mayor, será válido por el
+14 plazo de noventa (90) años. Pero, si el fideicomitente hubiera manifestado la
+15 intención de que no sea válido por el plazo menor, el fideicomiso resultará nulo.
+16 Esta disposición no alcanza a los fideicomisos de fines públicos, los cuales
+17 podrán ser indefinidos.
+18 En el caso de los fideicomisos revocables, estos subsistirán hasta la muerte del
+19 fideicomitente, salvo que en el acto constitutivo se disponga un término menor. A partir
+20 de la muerte del fideicomitente, el fideicomiso se considerará irrevocable y quedará sujeto
+21 a los límites de duración aquí establecidos.”
+
+8
+1 Sección 7.- Se enmienda el Artículo 7 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 7. — Forma.
+4 La voluntad de constituir fideicomiso debe declararse expresamente por acto
+5 entre vivos, mediante escritura pública.
+6 También puede constituirse por testamento otorgado, conforme a las
+7 solemnidades exigidas por la Ley.
+8 [Los fideicomisos en Puerto Rico serán irrevocables.] El fideicomiso podrá ser
+9 irrevocable o revocable, según se disponga expresamente en el acto constitutivo. En el
+10 caso de los fideicomisos revocables, el fideicomitente podrá reservarse la facultad de
+11 revocar, enmendar o adicionar bienes, conforme a lo dispuesto en esta Ley.”
+12 Sección 8.- Se enmienda el Artículo 8 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 8. — Contenido.
+15 En el acto de constitución del fideicomiso se especificará:
+16 (a) …
+17 …
+18 (j) las reglas de acumulación, distribución o disposición de los bienes, rentas y
+19 productos de los bienes del fideicomiso; [y] ,
+20 (k) una declaración expresa sobre si el fideicomiso es revocable o irrevocable. En caso de
+21 que se disponga su revocabilidad, deberá establecerse el método mediante el cual podrá
+22 revocarse o enmendarse el acto constitutivo, así como la incorporación o retiro de bienes.
+
+9
+1 De no expresarse nada al respecto, el fideicomiso se entenderá revocable, salvo que de sus
+2 disposiciones se desprenda claramente la intención de que sea irrevocable y no se haya
+3 señalado método mediante el cual podrá revocarse o enmendarse el acto constitutivo, así
+4 como la incorporación o retiro de bienes y
+5 [(k)] (l) cualquiera otra cláusula que el fideicomitente quiera incluir que no sea
+6 contraria a la ley, a la moral o al orden público.”
+7 Sección 9.- Se enmienda el Artículo 9 de la Ley 219-2012, según enmendada,
+8 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+9 “Artículo 9. — Objeto del fideicomiso.
+10 Sólo se constituye fideicomiso si se señalan los bienes que han de constituir su
+11 patrimonio.
+12 Puede constituirse fideicomiso sobre toda clase de bienes, sean muebles e
+13 inmuebles o semovientes, corporales e incorporales, presentes y futuros. Puede
+14 ser constituido sobre bienes determinados o determinables o sobre todo o parte
+15 de un patrimonio.
+16 Si un fideicomiso se forma con bienes futuros no constituirá un patrimonio
+17 autónomo sino hasta la efectiva transmisión de los bienes al fideicomiso.
+18 Después de la creación del fideicomiso, el fideicomitente, o un tercero designado
+19 por éste, puede añadir o sustituir bienes al fideicomiso con la aceptación del
+20 fiduciario, siempre que no sea en menoscabo de la finalidad del fideicomiso y se
+21 cumplan los requisitos de forma y publicidad aplicables según la naturaleza de los bienes.
+
+10
+1 En los fideicomisos revocables, el fideicomitente podrá además retirar bienes del
+2 patrimonio fideicomitido en cualquier momento, mientras conserve la facultad de revocar
+3 y capacidad legal, salvo disposición expresa en contrario en el acto constitutivo. Dichos
+4 retiros deberán realizarse observando la misma forma y solemnidades requeridas para la
+5 incorporación de los bienes al fideicomiso. Para surtir efectos frente a terceros, la
+6 revocación parcial o retiro de bienes deberá además notificarse e inscribirse en el Registro
+7 Especial de Fideicomisos, y en el Registro de la Propiedad cuando se trate de bienes
+8 inmuebles. En caso de retiro total de bienes, el fideicomiso se extinguirá de pleno derecho
+9 salvo que el acto constitutivo disponga otra cosa.
+10 Las disposiciones del Código Civil y del derecho civil en general sobre la
+11 tradición gobernarán en la aplicación de las disposiciones de este Artículo.”
+12 Sección 10.- Se enmienda el Artículo 10 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 10. — Fideicomiso sobre la legítima.
+15 [No obstante lo dispuesto en el Artículo 741 del Código Civil, puede
+16 constituirse fideicomiso que grave la legítima completa, entiéndase la estricta
+17 y la mejora, de un legitimario menor de edad o incapacitado, siempre que se le
+18 designe único beneficiario de la renta y del capital.]
+19 En conformidad con lo dispuesto en el Artículo 1626 del Código Civil de Puerto Rico, no
+20 podrá constituirse fideicomiso, sea revocable o irrevocable, que grave la legítima estricta
+21 de los herederos forzosos. Podrá, sin embargo, constituirse fideicomiso, incluyendo el
+22 fideicomiso revocable, sobre la porción de libre disposición, a favor de alguno o algunos de
+
+11
+1 los descendientes o legitimarios, o de menores e incapacitados, siempre que se les designe
+2 como beneficiarios de la renta y del capital.
+3 El fideicomiso así constituido termina con la emancipación del menor, al cesar la
+4 incapacidad, o a la muerte del legitimario, si previamente no ha terminado al
+5 cesar su minoridad o su incapacidad.
+6 El testador podrá constituir fideicomiso sobre el tercio de la mejora o la libre
+7 disposición a favor de alguno o algunos de sus hijos o descendientes, sujeto a lo
+8 dispuesto en el Artículo 6 de esta Ley.”
+9 Sección 11.- Se enmienda el Artículo 11 de la Ley 219-2012, según enmendada,
+10 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+11 “Artículo 11. — Fideicomiso sobre inmuebles.
+12 El fideicomiso es el titular de todos los bienes muebles e inmuebles
+13 fideicomitidos. Los bienes inmuebles fideicomitidos se inscribirán en el Registro
+14 de la Propiedad a nombre del propio fideicomiso. En el caso de los fideicomisos
+15 revocables, dicha inscripción no impedirá que los acreedores del fideicomitente puedan
+16 accionar sobre los bienes inmuebles en la misma medida en que lo hubieran podido hacer
+17 de no haberse constituido el fideicomiso, mientras el fideicomitente conserve la facultad de
+18 revocar. Toda revocación parcial que implique el retiro de bienes inmuebles deberá
+19 formalizarse mediante escritura pública y surtirá efectos frente a terceros únicamente
+20 desde su inscripción en el Registro de la Propiedad y en el Registro Especial de
+21 Fideicomisos.”
+
+12
+1 Sección 12.- Se enmienda el Artículo 15 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 15. — Reserva de facultades.
+4 En el acto de constitución del fideicomiso, el fideicomitente puede reservarse
+5 facultades para modificar el fideicomiso total o parcialmente para sí o para
+6 delegarlas en un tercero. En los fideicomisos revocables, las facultades reservadas
+7 podrán comprender la revocación total o parcial del fideicomiso y el retiro de bienes del
+8 patrimonio fideicomitido. Todo ejercicio de estas facultades observará la misma forma y
+9 solemnidades requeridas para la incorporación de los bienes al fideicomiso y surtirá
+10 efectos frente a terceros únicamente desde su inscripción en el Registro Especial de
+11 Fideicomisos y además, tratándose de bienes inmuebles, en el Registro de la Propiedad.
+12 Cuando el acto constitutivo disponga un método específico para el ejercicio de las
+13 facultades reservadas, dicho método se entenderá exclusivo; en ausencia de método,
+14 bastará cualquier acto que evidencie por preponderancia de prueba la intención del
+15 fideicomitente, sin perjuicio de las formalidades y de la inscripción exigidas en este
+16 Artículo.
+17 Las facultades reservadas podrán delegarse expresamente en un tercero, con capacidad
+18 legal, dentro de los límites del acto constitutivo y de esta Ley.
+19 Si el fideicomiso revocable ha sido constituido por más de un fideicomitente y los bienes
+20 pertenecen a la sociedad legal de gananciales, entonces cualquiera de los cónyuges podrá
+21 ejercer la revocación. La enmienda, sin embargo, requerirá la concurrencia de ambos.
+
+13
+1 Si el fideicomiso revocable ha sido constituido por más de un fideicomitente y los bienes
+2 son privativos o corresponden en partes determinadas a varios fideicomitentes, entonces
+3 cada fideicomitente solo podrá ejercer la revocación o la enmienda respecto de la porción
+4 atribuible a su aportación.”
+5 Sección 13.- Se enmienda el Artículo 19 de la Ley 219-2012, según enmendada,
+6 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+7 “Artículo 19. — Sustitutos del fiduciario.
+8 En el acto de constitución del fideicomiso, el fideicomitente puede designar uno
+9 o más sustitutos del fiduciario para que lo reemplacen en el caso en que no
+10 acepte el cargo o que cese en sus funciones por cualquier motivo. También puede
+11 encomendar el nombramiento de sustituto al propio fiduciario o a un tercero.
+12 Si el acto constitutivo no prevé la manera de llenar la vacante, el fiduciario
+13 sustituto será seleccionado por el acuerdo unánime de los fideicomisarios. Si los
+14 fideicomisarios no llegan a un acuerdo, el fiduciario sustituto debe ser designado
+15 por el tribunal.
+16 [En los fideicomisos modificables, el fideicomitente, o la persona a quien éste
+17 haya autorizado para hacerlo, puede] En los fideicomisos revocables, mientras el
+18 fideicomitente conserve la facultad de revocar y capacidad legal, éste, o la persona a quien
+19 haya autorizado para hacerlo, podrá reemplazar al fiduciario o nombrar nuevos
+20 fiduciarios en cualquier tiempo, con las mismas formalidades con las que se
+21 otorgó el instrumento del fideicomiso.”
+
+14
+1 Sección 14.- Se enmienda el Artículo 23 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 23. — Facultades de disposición.
+4 Luego de aceptar el cargo, el fiduciario podrá disponer o gravar los bienes
+5 fideicomitidos cuando lo requieran los fines del fideicomiso, sin que para ello sea
+6 necesario el consentimiento del fiduciante o del beneficiario, a menos que se
+7 hubiere pactado lo contrario. El fiduciario se halla legitimado para ejercer todas
+8 las acciones que correspondan para la defensa de los bienes fideicomitidos, tanto
+9 contra terceros como contra el beneficiario. En los fideicomisos revocables, mientras
+10 el fideicomitente conserve la facultad de revocar y capacidad legal, el ejercicio de las
+11 facultades de disposición por parte del fiduciario estará sujeto a las instrucciones del
+12 fideicomitente, salvo que el acto constitutivo disponga expresamente lo contrario.”
+13 Sección 15.- Se enmienda el Artículo 24 de la Ley 219-2012, según enmendada,
+14 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+15 “Artículo 24. — Facultades de administración.
+16 En relación [a] con la administración del fideicomiso, el fiduciario también
+17 representará al fideicomiso y tendrá facultades para:
+18 (a) …
+19 …
+20 (l)…
+21 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y
+22 la facultad de revocar, el ejercicio de estas facultades por parte del fiduciario estará
+
+15
+1 sujeto a las instrucciones del fideicomitente, salvo disposición expresa en contrario en
+2 el acto constitutivo.”
+3 Sección 16.- Se enmienda el Artículo 25 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 25. — Facultad para desviarse de los términos del fideicomiso.
+6 El fiduciario tiene la facultad para desviarse de los términos del fideicomiso,
+7 previa autorización del tribunal en los siguientes casos:
+8 (a) …
+9 …
+10 (d) …
+11 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad y la
+12 facultad de revocar, no procederá la autorización judicial de desviación. En tales
+13 casos, cualquier ajuste a los términos deberá realizarse por el propio fideicomitente
+14 mediante escritura pública de enmienda o de revocación.”
+15 Sección 17.- Se enmienda el Artículo 26 de la Ley 219-2012, según enmendada,
+16 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+17 “Artículo 26. — Ejercicio de las facultades cuando hay más de un fiduciario.
+18 Si un fideicomiso tiene más de un fiduciario, todos deben ejercitar las facultades
+19 conferidas, salvo que otra cosa disponga el acto constitutivo del fideicomiso.
+20 Pero, si los co-fiduciarios no logran alcanzar la unanimidad en sus acuerdos,
+21 pueden actuar por mayoría.
+
+16
+1 Si uno o más de ellos repudia el cargo, o habiéndolo aceptado deja de serlo, por
+2 cualquier causa, las facultades serán ejercitadas por el fiduciario o los fiduciarios
+3 restantes hasta que el sustituto sea designado, conforme al artículo 19, salvo que
+4 otra cosa dispongan los términos del fideicomiso.
+5 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+6 facultad de revocar, el ejercicio de las facultades por parte de los fiduciarios estará sujeto a
+7 sus instrucciones. La regla de actuación por mayoría entre co-fiduciarios solo aplicará en
+8 caso de incapacidad o fallecimiento del fideicomitente, o cuando éste haya renunciado
+9 expresamente a tal control en el acto constitutivo.”
+10 Sección 18.- Se enmienda el Artículo 27 de la Ley 219-2012, según enmendada,
+11 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+12 “Artículo 27. — Deberes del fiduciario.
+13 Luego de aceptar el fideicomiso, el fiduciario está obligado a:
+14 (a) administrar el fideicomiso de buena fe, de acuerdo con los términos y
+15 propósitos [del mismo] de este y conforme a las disposiciones de esta Ley y en
+16 interés del fideicomisario, procurando realizar todos los actos que sean
+17 necesarios para la consecución del fin del fideicomiso;
+18 …
+19 (p) disponer de todos los bienes fideicomitidos que aún permanezcan en el
+20 fideicomiso al extinguirse el mismo, mediante la enajenación correspondiente,
+21 con arreglo a los términos del documento en que conste el fideicomiso.
+22 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+
+17
+1 facultad de revocar, los deberes del fiduciario se deben exclusivamente al fideicomitente.
+2 En tales casos, los beneficiarios carecerán de acción directa contra el fiduciario por la
+3 administración del fideicomiso hasta que el fideicomitente fallezca o pierda capacidad.”
+4 Sección 19.- Se enmienda el Artículo 28 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 28. — Prohibición de auto-contratación.
+7 El fiduciario no puede prestar los fondos del fideicomiso a sí mismo o a sus
+8 dependientes o asociados, ni puede comprar para sí, por sí o por persona
+9 interpuesta, los bienes fideicomitidos, sea en venta privada o en subasta pública,
+10 sin perjuicio de autorización por parte del fideicomitente en el acto constitutivo.
+11 En el caso de bienes muebles, dicha autorización podrá otorgarse verbalmente únicamente
+12 cuando en el acto constitutivo se haya previsto expresamente que esa forma de
+13 autorización es permitida. Tratándose de bienes inmuebles, si el acto constitutivo no
+14 contuviere la autorización correspondiente, esta podrá otorgarse posteriormente mediante
+15 instrumento público, mientras el fideicomitente conserve capacidad legal.”
+16 Sección 20.- Se enmienda el Artículo 30 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 30. — Reembolso de gastos.
+19 El fiduciario tiene derecho a reembolsarse de los bienes del fideicomiso por los
+20 gastos en que haya incurrido debidamente en su administración. Podrá además
+21 hacerlo, conforme lo dispuesto por el fideicomitente. Si los bienes del fideicomiso
+22 no son suficientes para el reembolso de estos gastos, el fiduciario no podrá
+
+18
+1 reclamar el reembolso al fideicomisario en su carácter personal, salvo pacto en
+2 contrario entre ellos.
+3 El fiduciario tendrá derecho a obtener el reembolso del fideicomisario, en su
+4 carácter personal, por gastos en que debidamente haya incurrido en la
+5 administración del fideicomiso, si teniendo derecho al reembolso, transfiere al
+6 fideicomisario los bienes del fideicomiso sin deducir los gastos reembolsables,
+7 pero sólo hasta el monto del valor de los bienes transferidos, salvo que el
+8 fiduciario hubiese manifestado su intención de renunciar al reembolso.
+9 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+10 facultad de revocar, la aprobación, impugnación o limitación del reembolso corresponderá
+11 exclusivamente al fideicomitente. Los beneficiarios solo tendrán legitimación para
+12 impugnar dichos gastos tras la incapacidad o fallecimiento del fideicomitente.”
+13 Sección 21.- Se enmienda el Artículo 31 de la Ley 219-2012, según enmendada,
+14 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+15 “Artículo 31. — Gastos no reembolsables.
+16 El fiduciario no tiene derecho a reembolsarse de los bienes del fideicomiso por
+17 los gastos en que haya incurrido indebidamente en la administración del
+18 fideicomiso, salvo que:
+19 (a) …
+20 (b) …
+
+19
+1 La disposición del párrafo anterior aplicará también a la responsabilidad
+2 contractual o extracontractual en que haya incurrido el fiduciario en la
+3 administración del fideicomiso.
+4 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+5 facultad de revocar, la aptitud para rechazar o aceptar un gasto corresponderá al
+6 fideicomitente y no al fideicomisario. Los beneficiarios solo asumirán esa facultad tras la
+7 incapacidad o fallecimiento del fideicomitente.”
+8 Sección 22.- Se enmienda el Artículo 32 de la Ley 219-2012, según enmendada,
+9 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+10 “Artículo 32. — Renuncia del fiduciario.
+11 El fiduciario podrá renunciar a su cargo, una vez lo ha aceptado, mediante
+12 notificación por escrito [al fideicomisario, al beneficiario y a los co-fiduciarios,
+13 si existen,] al fideicomitente, si se trata de un fideicomiso revocable y éste conserva
+14 capacidad legal, y al fideicomisario o beneficiarios únicamente en los fideicomisos
+15 irrevocables, además de a los co-fiduciarios, si existen. El fiduciario también podrá
+16 renunciar si lo autoriza el tribunal o, tratándose de fideicomisos irrevocables, si lo
+17 consienten todos los fideicomisarios.
+18 El tribunal lo autorizará siempre que la renuncia no redunde en perjuicio de la
+19 administración del fideicomiso o si el obligarlo a desempeñar el cargo pudiera
+20 resultar irrazonablemente oneroso para el fiduciario.”
+21 Sección 23.- Se enmienda el Artículo 33 de la Ley 219-2012, según enmendada,
+22 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+
+20
+1 “Artículo 33. — Causas de remoción del fiduciario.
+2 El fiduciario puede ser removido del cargo por el tribunal, de oficio, o a solicitud
+3 de cualquier persona que tenga tal autoridad bajo los términos del fideicomiso,
+4 si:
+5 (a) …
+6 …
+7 (c) …
+8 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+9 facultad de revocar, la facultad de solicitar la remoción corresponderá exclusivamente al
+10 fideicomitente. Los beneficiarios solo podrán solicitar la remoción una vez el
+11 fideicomitente haya perdido la capacidad o haya fallecido.”
+12 Sección 24.- Se enmienda el Artículo 34 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 34. — Fideicomisario.
+15 El fideicomisario es la persona natural o jurídica, una entidad gubernamental o
+16 una asociación beneficiaria de la renta, del capital, o de ambos. Puede, además,
+17 ser persona que al tiempo de constituirse el fideicomiso no [existe] exista, pero
+18 que se espera que [exista] nazca a la vida jurídica dentro del plazo establecido en el
+19 Artículo 6 de esta Ley.
+20 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+21 facultad de revocar, los beneficiarios carecerán de derechos adquiridos y se reputarán
+22 únicamente como titulares expectantes. Dichos derechos plenos nacerán solamente al
+
+21
+1 fallecimiento del fideicomitente, al perder éste la capacidad de revocar el fideicomiso o
+2 cumplida una condición suspensiva establecida en el acto constitutivo que le conceda
+3 derechos.”
+4 Sección 25.- Se enmienda el Artículo 36 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 36. — Capacidad del fideicomisario.
+7 Pueden ser fideicomisarios las personas naturales o jurídicas, entidades
+8 gubernamentales o asociaciones que pueden o no existir al tiempo de la
+9 constitución del fideicomiso; en este último caso deberán expresarse
+10 circunstancias suficientes para su identificación.
+11 El fideicomitente puede ser fideicomisario del fideicomiso, aunque sea el único.
+12 El fiduciario puede ser fideicomisario siempre que él no sea el único
+13 fideicomisario o que, siéndolo, el fideicomiso designe por lo menos otro
+14 fiduciario.
+15 Los miembros de una clase definida de personas pueden ser fideicomisarios de
+16 un fideicomiso.
+17 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+18 facultad de revocar, la condición de fideicomisario se reputará únicamente como un
+19 derecho expectante y no como un derecho adquirido, surtiendo efectos plenos solo al
+20 fallecimiento del fideicomitente, al extinguirse su facultad de revocación o cumplida una
+21 condición suspensiva establecida en el acto constitutivo que le conceda derechos.”
+
+22
+1 Sección 26.- Se enmienda el Artículo 38 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 38. — Remedios que tiene el fideicomisario.
+4 El fideicomisario, o sus representantes legales, podrán instar en el tribunal los
+5 remedios que correspondan para:
+6 (a) …
+7 …
+8 (e) …
+9 Si el fideicomiso tiene varios fideicomisarios, cualquiera de ellos puede instar los
+10 remedios que establece este Artículo. Pero si alguno está incapacitado, o si los
+11 fideicomisarios no se ponen de acuerdo en cuanto al remedio, el tribunal
+12 concederá el remedio que a su juicio sea más adecuado para lograr los fines del
+13 fideicomiso.
+14 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+15 facultad de revocar, los derechos aquí reconocidos corresponderán exclusivamente al
+16 fideicomitente. Los fideicomisarios podrán ejercerlos únicamente cuando el fideicomitente
+17 haya perdido dicha facultad o al fallecer el fideicomitente.”
+18 Sección 27.- Se enmienda el Artículo 42 de la Ley 219-2012, según enmendada,
+19 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+20 “Artículo 42. — Derecho del fideicomisario de la renta.
+
+23
+1 El fideicomisario de la renta tiene derecho a la renta desde la fecha que haya
+2 fijado el fideicomitente en el acto constitutivo o, si ésta no se ha fijado, desde la
+3 fecha en que la propiedad pase a formar parte del capital del fideicomiso.
+4 Al terminar su derecho a la renta, el fideicomisario o sus herederos, tienen
+5 derecho a:
+6 (a) …
+7 …
+8 (c) …
+9 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+10 facultad de revocar, la condición de fideicomisario de la renta se reputará únicamente
+11 como un derecho expectante y no como un derecho adquirido, surtiendo efectos plenos
+12 solo al fallecimiento del fideicomitente, al extinguirse su facultad de revocación o
+13 cumplida una condición suspensiva establecida en el acto constitutivo que le conceda
+14 tales derechos.”
+15 Sección 28.- Se enmienda el Artículo 43 de la Ley 219-2012, según enmendada,
+16 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+17 “Artículo 43. — Consultor del fideicomiso – definición y poderes.
+18 El consultor del fideicomiso será cualquier persona que no sea el fiduciario,
+19 nombrada en el fideicomiso, y que bajo los términos del fideicomiso o mediante
+20 orden de un tribunal, tenga la facultad de realizar [actos] con relación al
+21 fideicomiso, incluyendo, sin limitación, uno o más de los siguientes actos:
+22 (a) …
+
+24
+1 …
+2 (g) …
+3 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+4 facultad de revocar, las funciones del consultor se limitarán a aquellas expresamente
+5 delegadas en el acto constitutivo, sin menoscabo de la facultad principal del fideicomitente
+6 de modificar o revocar el fideicomiso. En los fideicomisos irrevocables, el consultor
+7 ejercerá únicamente las facultades que expresamente le confiera el acto constitutivo o el
+8 tribunal, y tales facultades no podrán interpretarse como un derecho a sustituir la
+9 voluntad del fideicomitente salvo disposición expresa en contrario.”
+10 Sección 29.- Se enmienda el Artículo 44 de la Ley 219-2012, según enmendada,
+11 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+12 “Artículo 44. — Derechos de los acreedores.
+13 Los acreedores tendrán los siguientes derechos con relación a los bienes, activos
+14 o capital del fideicomiso:
+15 (a) Con excepción de lo dispuesto expresamente en el inciso (b) y (c) de este
+16 Artículo, el acreedor de un beneficiario de un fideicomiso tendrá contra o [en]
+17 con relación al interés del beneficiario o la propiedad en dicho fideicomiso
+18 solamente los derechos que expresamente le concedan al acreedor los términos
+19 del instrumento que crea o define el fideicomiso o por las leyes de Puerto Rico o
+20 cualquier ley federal aplicable.
+21 Las disposiciones de este inciso tendrán vigencia y de ninguna manera se
+22 limitarán por la naturaleza o extensión del interés del beneficiario, aunque dicho
+
+25
+1 interés esté o no sujeto a la discreción de uno o más fiduciarios, y aunque el
+2 beneficiario haya tomado o esté por tomar cualquier acción.
+3 (b) …
+4 (i) …
+5 …
+6 (iii) …
+7 (c) En el caso de los fideicomisos revocables, mientras el fideicomitente conserve
+8 capacidad legal y la facultad de revocar, los acreedores del fideicomitente podrán reclamar
+9 contra los bienes del fideicomiso en la misma medida en que podrían haberlo hecho si tales
+10 bienes permanecieran en su patrimonio. Una vez extinguida la facultad de revocación por
+11 renuncia expresa, incapacidad o fallecimiento del fideicomitente, los bienes del fideicomiso
+12 quedarán sujetos a la protección dispuesta en los incisos (a) y (b) de este Artículo.
+13 Excepto por lo dispuesto en esta Ley o en los términos del fideicomiso, ningún
+14 fiduiciario será responsable ante ningún acreedor de un beneficiario por el pago
+15 de gastos, deudas u obligaciones del beneficiario.”
+16 Sección 30.- Se enmienda el Artículo 45 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 45. — Responsabilidad por obligaciones fiduciarias.
+19 El fiduciario que incumple sus obligaciones fiduciarias responde de toda pérdida
+20 o depreciación que sufran los bienes del fideicomiso como resultado del
+21 incumplimiento. Responde también de todo provecho logrado para sí mismo en
+
+26
+1 virtud del incumplimiento, o de cualquier provecho que hubiera beneficiado al
+2 fideicomiso, si no hubiera incurrido en tal incumplimiento.
+3 Sin embargo, el fiduciario no responderá del incumplimiento de sus obligaciones
+4 fiduciarias[,] si el fideicomisario, o el fideicomitente en los fideicomisos revocables
+5 mientras conserve capacidad y la facultad de revocar, consintió al acto u omisión que
+6 constituyó el incumplimiento, o si, con posterioridad, lo relevó de su
+7 responsabilidad o lo ratificó.
+8 El consentimiento, la ratificación o el relevo solo serán válidos si constan por escrito.
+9 Cuando existan varios fideicomisarios, el consentimiento o relevo de uno de ellos no
+10 afectará los derechos de los demás que no lo hayan otorgado.”
+11 Sección 31.- Se enmienda el Artículo 46 de la Ley 219-2012, según enmendada,
+12 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+13 “Artículo 46. — Responsabilidad [solidaria] mancomunada de los fiduciarios.
+14 Cuando hay más de un fiduciario y todos incurren en un incumplimiento de sus
+15 obligaciones fiduciarias, [responden al fideicomisario solidariamente.] cada uno
+16 responderá de manera mancomunada, exclusivamente por la porción de daño o pérdida
+17 que sea consecuencia de su propia actuación u omisión. El fiduciario quedará exento de
+18 responsabilidad si demuestra que no participó en el incumplimiento y que actuó con la
+19 diligencia debida para impedirlo o mitigar sus efectos. No obstante, la responsabilidad
+20 será solidaria si se demuestra por preponderancia de prueba que los fiduciarios actuaron
+21 con intención y de manera concertada en el incumplimiento.”
+
+27
+1 Sección 32.- Se enmienda el Artículo 47 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 47. — Norma del Inversionista Prudente.
+4 (a) Norma General
+5 (i) …
+6 (ii) La norma del inversionista prudente podrá ser expandida, limitada,
+7 [eliminada] o alterada parcialmente por las disposiciones de un fideicomiso. En
+8 ningún caso podrá entenderse eliminada la obligación mínima del fiduciario de actuar de
+9 buena fe, con lealtad y con el cuidado razonable exigible en toda administración
+10 fiduciaria. Un fiduciario no es responsable a un fideicomisario, si el fiduciario
+11 actuó descansando razonablemente en las disposiciones del fideicomiso.
+12 (b)…
+13 …
+14 (e) La infracción a la norma del inversionista prudente se reputará incumplimiento
+15 fiduciario conforme al Artículo 45 de esta Ley, con las consecuencias de responsabilidad
+16 allí dispuestas.”
+17 Sección 33.- Se enmienda el Artículo 48 de la Ley 219-2012, según enmendada,
+18 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+19 “Artículo 48. — Inmunidad del fiduciario sucesor.
+20 A menos que los términos del fideicomiso o un tribunal mediante orden
+21 dispongan lo contrario, un fiduciario sucesor nombrado bajo los términos y
+22 condiciones del fideicomiso, o por un tribunal, no vendrá obligado a, ni tendrá el
+
+28
+1 deber de examinar, los [records] récords, cuentas, contabilidad o informes de un
+2 fiduciario anterior, o de inquirir acerca de los actos u omisiones de los fiduciarios
+3 anteriores, ni será responsable por cualquier falla o falta en solicitar u obtener
+4 cualquier remedio o reembolso por cualquier acto u omisión de cualquier
+5 fiduciario anterior, y será únicamente responsable por la propiedad, activos o
+6 inversiones que se le entreguen al fiduciario sucesor por el fiduciario anterior,
+7 por el o los fideicomitentes, y por el o los beneficiario, y gozará de todos los
+8 poderes y la discreción que le confieren los términos del fideicomiso a los
+9 fiduciarios anteriores.
+10 No obstante, el fiduciario sucesor responderá por actos u omisiones de un fiduciario
+11 anterior si, conociendo de ellos, omite tomar las medidas razonablemente necesarias para
+12 proteger el patrimonio fideicomitido o se beneficia directa o indirectamente de dichas
+13 irregularidades.”
+14 Sección 34.- Se enmienda el Artículo 49 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 49. — Reembolso y reintegro entre co-fiduciarios.
+17 [Si dos fiduciarios incurren en responsabilidad para con el fideicomisario, por
+18 razón de un incumplimiento de sus obligaciones fiduciarias, cada uno de ellos
+19 podrá exigir del otro el reintegro proporcional, salvo que:
+20 (a) uno de ellos sea sustancialmente más culpable que el otro, en cuyo caso no
+21 tendrá derecho a dicho reintegro y tendrá la obligación de reembolsar al otro; o
+22 (b) uno de ellos haya recibido un beneficio personal del incumplimiento, en
+
+29
+1 cuyo caso tendrá que reembolsar al otro en la misma medida del beneficio que
+2 recibió.
+3 El fiduciario que incurra en un incumplimiento de sus obligaciones fiduciarias
+4 de mala fe no tendrá derecho a exigir el reintegro proporcional de los co-
+5 fiduciarios ni el reembolso de éstos.
+6 El fiduciario que actúa de mala fe no tiene derecho a reembolso o reintegro.]
+7 Cuando, conforme al Artículo 46 de esta Ley, varios fiduciarios respondan solidariamente
+8 por haber incurrido en un incumplimiento de manera intencional y concertada, el
+9 fiduciario que hubiere pagado en exceso de la porción que le corresponde tendrá derecho a
+10 repetir contra los demás, en proporción a la participación de cada cual en el
+11 incumplimiento. No obstante, el fiduciario que hubiere actuado de mala fe, o que hubiere
+12 recibido un beneficio personal del incumplimiento, no tendrá derecho a reembolso y estará
+13 obligado a indemnizar íntegramente a los demás por el exceso pagado.”
+14 Sección 35.- Se enmienda el Artículo 50 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 50. — Embargo o ejecución del interés del fideicomisario.
+17 Los acreedores del fideicomisario podrán trabar embargo o ejecución sobre el
+18 interés de éste para satisfacer reclamaciones deducidas contra él, salvo en los
+19 siguientes casos y sin perjuicio de lo dispuesto en los Artículos 44 y 51 de esta Ley:
+20 (a) …
+21 …
+22 (g) ...”
+
+30
+1 Sección 36.- Se enmienda el Artículo 51 de la Ley 219-2012, según enmendada,
+2 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+3 “Artículo 51. — Ineficacia de la cláusula de prodigalidad respecto del
+4 fideicomisario de la renta.
+5 [No obstante la cláusula de prodigalidad que contenga el fideicomiso,
+6 conforme a lo permitido en el inciso (g) del Artículo anterior,] No obstante lo
+7 dispuesto en el inciso (g) del Artículo 50 de esta Ley, un acreedor del fideicomisario
+8 de la renta o su cesionario podrá alcanzar el interés del fideicomisario de la renta,
+9 mediante embargo o ejecución, cuando la reclamación del acreedor [a] o su
+10 cesionario sea para cumplir con la obligación de alimentar dispuesta en el
+11 Código Civil [; y] o en cualquier otro caso que sea requerido por ley federal.”
+12 Sección 37.- Se enmienda el Artículo 52 de la Ley 219-2012, según enmendada,
+13 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+14 “Artículo 52. — Deudas del fideicomisario.
+15 El interés del fideicomisario responderá por las obligaciones de éste, cuando se
+16 trate de:
+17 (a) …
+18 (b) …
+19 (c) …
+20 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+21 facultad de revocar, el interés del fideicomisario se reputará como un derecho meramente
+
+31
+1 expectante y, por tanto, no responderá por deudas ni obligaciones hasta tanto dicho
+2 interés adquiera carácter de derecho adquirido conforme al acto constitutivo o a esta Ley.”
+3 Sección 38.- Se enmienda el Artículo 53 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 53. — Acciones del fiduciario contra terceros.
+6 El fiduciario puede [deducir] encausar contra terceros cualquier acción que
+7 podría instar por sí mismo, si los bienes del fideicomiso le pertenecieran, pero, si
+8 indebidamente deja de [deducir] encausar alguna, el fideicomisario puede
+9 hacerlo, uniendo al fiduciario como codemandado.
+10 En los fideicomisos revocables, mientras el fideicomitente conserve capacidad legal y la
+11 facultad de revocar, la legitimación subsidiaria del fideicomisario para ejercitar acciones
+12 se limitará a aquellos derechos que se hayan perfeccionado conforme al acto constitutivo o
+13 que constituyan derechos adquiridos, y no a meras expectativas.”
+14 Sección 39.- Se enmienda el Artículo 55 de la Ley 219-2012, según enmendada,
+15 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+16 “Artículo 55. — Responsabilidad de tercero adquirente de mala fe que no ha
+17 dispuesto de los bienes.
+18 Si el fiduciario, en contravención de sus obligaciones fiduciarias, ha transferido o
+19 enajenado bienes del fideicomiso a un tercero adquirente de mala fe que no ha
+20 dispuesto posteriormente de ellos, éste podrá ser compelido a:
+21 (a) …
+22 (b) …
+
+32
+1 (c) …
+2 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+3 producto de su disposición para garantizar su reclamación.”
+4 Sección 40.- Se enmienda el Artículo 56 de la Ley 219-2012, según enmendada,
+5 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+6 “Artículo 56. — Responsabilidad de tercero adquirente de mala fe que ha
+7 dispuesto de los bienes.
+8 Si en las mismas circunstancias del Artículo anterior, el tercero adquirente de
+9 mala fe ha dispuesto de los bienes, puede ser compelido a:
+10 (a) …
+11 …
+12 o
+13 (d) pagar el valor de los bienes a la fecha en que dispuso de ellos, más intereses.
+14 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+15 producto de su disposición para garantizar su reclamación.”
+16 Sección 41.- Se enmienda el Artículo 57 de la Ley 219-2012, según enmendada,
+17 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+18 “Artículo 57. — Derechos del tercero adquirente de mala fe.
+19 El tercero adquirente de mala fe podrá reclamar que se le abone:
+20 (a) …
+21 (b) ...
+
+33
+1 El [fideicomisario] fideicomiso tendrá un gravamen sobre los bienes o sobre el
+2 producto de su disposición para garantizar su reclamación.”
+3 Sección 42.- Se enmienda el Artículo 60 de la Ley 219-2012, según enmendada,
+4 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+5 “Artículo 60. — Efectos de la nulidad.
+6 (a) …
+7 (b) …
+8 (c) …
+9 (d) el fideicomiso por acto entre vivos no cumple los requisitos formales que
+10 requiere el Artículo [1232] 1245 del Código Civil y ni el fideicomitente, ni el
+11 fiduciario ni el fideicomisario invocan los derechos que les confieren el Artículo
+12 [1231] 277 del Código Civil o
+13 (e) …
+14 (f) …
+15 En el caso de los fideicomisos revocables, mientras el fideicomitente conserve capacidad
+16 legal y la facultad de revocar, la nulidad del fideicomiso tendrá los mismos efectos que
+17 una revocación, retornando los bienes al patrimonio del fideicomitente. Si al momento de
+18 declararse la nulidad ya hubiese fallecido o perdido la facultad de revocar, los bienes se
+19 devolverán a sus herederos conforme a derecho.”
+20 Sección 43.- Se enmienda el Artículo 61 de la Ley 219-2012, según enmendada,
+21 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+22 “Artículo 61. — Terminación del fideicomiso.
+
+34
+1 El fideicomiso termina por:
+2 (a) …
+3 (b) …
+4 (c) …
+5 (d) …
+6 (e) …
+7 (f) durante la vida del fideicomitente, mediante el consentimiento unánime y
+8 expreso de todos los fideicomitentes y fideicomisarios; en el caso de los fideicomisos
+9 revocables, bastará la revocación expresa del fideicomitente mediante escritura pública
+10 mientras conserve capacidad legal y la facultad de revocar, sin necesidad de
+11 consentimiento de los fideicomisarios, cuya condición será meramente expectante hasta
+12 dicho momento;
+13 (g) …
+14 (h) …
+15 (i) …
+16 (j) …
+17 (k) …”.
+18 Sección 44.- Se enmienda el Artículo 64 de la Ley 219-2012, según enmendada,
+19 conocida como “Ley de Fideicomisos”, para que lea como sigue:
+20 “Artículo 64. — Constitución y administración.
+21 A la constitución y administración del fideicomiso de fines públicos aplicarán las
+22 normas de los Artículos 6, párrafo tercero; 7; 9; 10; 11; 12; 14; 15; 17; 19; 21; 22; 23;
+
+35
+1 24; 25; 27; 29; 30; 31; 32; 33; 34; 38; 44; 46; 47; 48; 49; 50; 54; 55; 56; 57; 58; y 61 de
+2 esta Ley.
+3 La referencia en dichos artículos a fideicomisarios deberá entenderse hecha a
+4 fines públicos o a las personas que con arreglo a lo dispuesto en el Artículo 68
+5 tienen facultad para hacer valer el fideicomiso de fines públicos.
+6 Disponiéndose, además, que en el caso de los fideicomisos de fines públicos que
+7 se hayan constituido o se constituyan a perpetuidad por personas privadas, las
+8 personas que comparecen como fideicomitentes en la escritura de constitución
+9 del fideicomiso, así como cualquier otra persona a quien dichos fideicomitentes
+10 le concedan esa facultad, podrán, a su entera discreción, en cualquier tiempo y
+11 mediante escritura pública, (a) enmendar la escritura de fideicomiso siempre y
+12 cuando dichas enmiendas preserven el fin público del fideicomiso; (b) terminar
+13 el fideicomiso siempre y cuando a la terminación del fideicomiso los activos del
+14 fideicomiso se distribuyan, transfieran o utilicen para fines públicos; y (c)
+15 remover, reemplazar y sustituir a los fiduciarios y nombrar o designar
+16 fiduciarios sustitutos o adicionales sin necesidad de mostrar causa para ello.
+17 En ningún caso los fideicomisos de fines públicos constituidos al amparo de esta Ley
+18 podrán reputarse revocables, ni les aplicarán las disposiciones sobre revocación previstas
+19 para los fideicomisos privados.”.
+20 Sección 45.- Separabilidad.
+21 Si cualquier cláusula, párrafo, subpárrafo, oración, palabra, letra, artículo,
+22 disposición, sección, subsección, título, capítulo, subcapítulo, acápite o parte de esta Ley
+
+36
+1 fuera anulada o declarada inconstitucional, la resolución, dictamen o sentencia a tal
+2 efecto dictada no afectará, perjudicará, ni invalidará el remanente de esta Ley. El efecto
+3 de dicha sentencia quedará limitado a la cláusula, párrafo, subpárrafo, oración, palabra,
+4 letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo, acápite o
+5 parte de esta que así hubiere sido anulada o declarada inconstitucional. Si la aplicación
+6 a una persona o a una circunstancia de cualquier cláusula, párrafo, subpárrafo, oración,
+7 palabra, letra, artículo, disposición, sección, subsección, título, capítulo, subcapítulo,
+8 acápite o parte de esta Ley fuera invalidada o declarada inconstitucional, la resolución,
+9 dictamen o sentencia a tal efecto dictada no afectará ni invalidará la aplicación del
+10 remanente de esta Ley a aquellas personas o circunstancias en que se pueda aplicar
+11 válidamente. Es la voluntad expresa e inequívoca de esta Asamblea Legislativa que los
+12 tribunales hagan cumplir las disposiciones y la aplicación de esta Ley en la mayor
+13 medida posible, aunque se deje sin efecto, anule, invalide, perjudique o declare
+14 inconstitucional alguna de sus partes o, aunque se deje sin efecto, invalide o declare
+15 inconstitucional su aplicación a alguna persona o circunstancia. Esta Asamblea
+16 Legislativa hubiera aprobado esta Ley sin importar la determinación de separabilidad
+17 que el Tribunal pueda hacer.
+18 Sección 46.- Vigencia.
+19 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0   2 .dL   c c l “ d F d P Ro, a f d l r d s d e v o i e f r a l r A L d P R r e l f u f r E c t l j d l E U y e d t u c ( 6 “ T a r l r E a e e o c q a f d]
+[DELETED:  a l m d é e f s v i c l I e m o t e e q g l a s n d r a d a a D C R y c m j r e q n h u a e e d c y e d a y q l a d E U e f r e e v m u d c e d c a e q y h h s l a m d U C e o e f p b c y l p f d l E U a q n s f p e e a 2 l A L r e c l L 2 q a l c d f r E r p d c q l p g n t d p p y q l d e d c c e m]
+[DELETED:  l c j e a a c y l u e e c l m a C C d 2 I a l l y l t d t a p l l d l a l i y g q P R n s q a e l E U E u d l n h m c a l 1 S e e A 1 d l L 2 s e f e u p a q r d a p e c e l t b o ds y q s ][ ap e f p b d f o p u f]
+[DELETED:  a l d d e L E f p s r o i e r s c f p 2 S e e A 2 d l L 2 s e s e f e p q e d l a b o d f c u p t y s d l p p d f d y d f q q a a f p q s l a m d l c O y r l e d d f c a l d d e L s u e j i d l f f s e f e p q e d l a]
+[DELETED:     e6N o s a l f d r o r p p d f p s a e 3 S e e A 3 d l L 2 s e l v d f l m d b fe  E f a l v d f y e f d s d f e h a 4 S e e A 4 d l L 2 s e]
+[DELETED:  n y e d l d y f d l p s a s d p e L E e c d l f r l e f d s d e a f y l f n t d e f a f s d e 5 S e e A 5 d l L 2 s e c e R d F a a l O d I d J   d l c e P R s i e e R E d b p d n E l i s h c l ( c]
+[DELETED:  d d m s a s o E e c d l f r t e o r d n e i e e R d d s 6 S e e A 6 d l L 2 s e   i d n ( a P s e f h m l d n a a l f d f p l c E e c d l f r e s h l m d f d a]
+[DELETED:  7 S e e A 7 d l L 2 s e v d c f d d e p a p c p t o c a l f e P R s i E f p s i c d l f r e f p r l f d r. 8 S e e A 8 d l L 2 s e)   , ()u q r]
+[DELETED:  D d s c  (  9 S e e A 9 d l L 2 s e c f s t c d b s m e u f s f c b f n c u p s h l e t d l b a f é p a o s b a f c l a d y c]
+[DELETED:  E l f r e f p a r b d p y r i d l b a f P s e f a t l r E d F y e e R d l P c s t d b i s d d C C y d d c e g s l  o l d e e A 7 d C C p E p d l h f P s e c f i e f]
+[DELETED:  l c o a l m d l p n h a t p c f s e t d l m  o l l d  f e e t d t l b m e i l P a n d p f E e c d l f r a d r T r p q i e r d b i d f m e p y s e f a t ú d s i e e R d l P y e e R E d F.]
+[DELETED:  e a d c d f e f p r p m e f t o p p s o p e u t E l f r l f r p p s r p l i d l b a f y s e f a t ú d s i e e R E d F C e a c d u m e p e e d l f r d m s e e e a d m b c a q e p p d p l i d f s p d l f y d l i e e e A L l S p e]
+[DELETED:  S s c a m s d f p q l r e e c e q n e n d s p f o a u t e a c n p l m d l l v e f a p h p E l f r m e f h a p h pr a f o n n e c t c l m f c l q so .]
+[DELETED:  d a e c e f p d o g l b e c d f o d b a m q s E e f c l f d r y c l e e d l f d d p p d f e s a l i d f r   l a d f e f t c)… E l]
+[DELETED:  s e E l f r m e f c c y l f d r n p l a j d d E t c m s q o c d e a c d f s l c n l a l u e s a]
+[DELETED:  E f s c d i o f d f o c é h r e d a e f e f e o a a e f d b f d a c l t y    d d f p r t l a q s d d t l b f q a p e e a e e m m l e c a a l t d d e q c e f E]
+[DELETED:  f E t c l b c d a d c e f p l a f n p p l f d f a s m o a s o a n p c p s p s o p p E c e e a c s h p e q e f d a e p T d b i s e a c n c i s s p e r d e g e f n p]
+[DELETED:  f t d a o e r d f e s p p g e q d h i e l d f s t d a r t a l b d f s d l g r s h e m d v d l b t s q e E f e a f L b s t l p i g e q h i i e l a d]
+[DELETED:  d d p a a t a l r o e e q h i e f e l E f d r l a p r o a u g c a f i. f p r a s c u v l h a m e a f s s t d u f r y é c c l y a f o b ú e l f i a d a l c s eE f t po  ,o .]
+[DELETED:  E f f L b s p s l r u v e fa   , e    n E f d r l b c d d a y s r ú c t e D d p n s a]
+[DELETED:  f e c u c s e e e a c q l c d s f l p n o j e o a q p o n e a t d l d f e e ú c d e f p s f s q é n s e ú o q s e f d p l m o E f d r l c d f s r ú c u d e y n c u d a s e p s a f c]
+[DELETED:  n s p d a e c a r e t E f d r l d a r c e a f h]
+[DELETED:  f d l r d l r d l f q h t s d a l r e f o s h t E f c s a f d f a e s f d r o c u c s e e e a c q l c t c d f s c p q n s e f d u t t l f d r  c r a]
+[DELETED:  E f d r l f d c s l a a e d d m o r e f E l f i e c e t y t f n p i c u d a s l v C e d l d e e e i (  d e y ( cr a i d b o l p e d f d d e i t v y d n m s]
+[DELETED:  e o n s a l d d u o m f y a e ()E e c d l f r m e f c c c b r q s a l p d e l i ( y ( d e A.  d q s l b d f c r d]
+[DELETED: s s e f o e f e l f r m e i o s c p l r d s E c l r o e r s s v s p e C e v f e c o r d u d e n a 4 — R   d l f.] m  c r q r d s c]
+[DELETED:  L n d i p p s e l p l d d u f o a peE n b f c l y c e c r e e t a fU f n e r a u f s e f ()L i a l n d i p s r i f a m q l t d f o u t m o l c u f s n b l t y]
+[DELETED:   , r r o r p c a u o d c a y s ú r p l p a o e o l f y p e o l b y g d t l y l d q l c l t d f a l N o e f s r p a u o d u f a p e p f o s b d o i d d i e d o e r p s q]
+[DELETED:  m f n t d a e e r p d l c C p h i e u i d m i y c e f r c l d e p a l p d c c e e i r o a d f p t e o e s e d é p s r d c é s e l s c y s p d l d e l A 4 y 5 d e L. .]
+[DELETED:  5 — I d l c d p r d o l c d p q c e f N d e o e c l r d a   s  s p c c l o d a d e e   l” o E f]
+[DELETED:  e y p t n r p d n o h t d i f p   c t c a q en   d d   a e f p e E f s q 5 — R d t a d m f q n h]
+[DELETED:    t u g s l b o s e fn”  5 — R d t a d m f q h e l m c d A a e t a d   t u g s l b o s e fn” ]
+[DELETED:    t u g s l b o s e f e f p a e v n c l r f q e A   d C C y n e f n e 1  2 E l u d d]
+[DELETED:  d l v d f m e c u y e r b l r e d f m e p m c c l y l f d r s n d c d]
+[DELETED:  r e d a a f d e h a s d t o u p f p y ( r y s a l f y n o d E n c l f d f p c a a d e L p p c c p s o p l a]
+[DELETED:  a o d i l r d o s a t l a d s s t c s o s a t e d n a n i l a d d e L a a p o c e q s p a h c l d y l a d e L e l m p a s d s e a i p o d s a a a p o c E A]

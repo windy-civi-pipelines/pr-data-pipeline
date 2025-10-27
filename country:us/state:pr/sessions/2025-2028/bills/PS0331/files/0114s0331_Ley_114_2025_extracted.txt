@@ -1,0 +1,434 @@
+Title: ( P. . del del S. S. 331 ) u; sAdian . pol IfO TIo S
+Official Title: ( P. . del del S. S. 331 ) u; sAdian . pol IfO TIo S
+Number of Sections: 1
+Source: versions - Ley 114-2025
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+_ Ls IN
+LEY
+Para enmendar los Artículos 2, 3 y 38 de la Ley Núm. 24 del 22 de abril de 1931, según
+enmendada, conocida como <Ley del Registro Demográfico de Puerto Rico=, con el
+propósito de establecer el carácter confidencial de todos los certificados registrados
+por el Registro Demográfico; redefinir el concepto de <parte interesada= para
+aclarar en qué casos podrán los tribunales ordenar la entrega de los certificados
+expedidos por el Registro Demográfico.
+EXPOSICIÓN DE MOTIVOS
+El Registro Demográfico de Puerto Rico, creado por virtud de la Ley Núm. 24 del 22
+de abril de 1931, según enmendada, tiene el propósito de mantener las estadísticas de
+<todo lo concerniente a la inscripción de todos los eventos inscritos en el Registro Demográfico
+que ocurran o se celebren en Puerto Rico=. La información contenida en el Registro, así
+como también aquella divulgada a través de la expedición de certificados de nacimiento,
+matrimonio o defunción, es considerada como la fuente óptima para la realización de
+todo tipo de estudio demográfico o análisis estadístico sobre el país. Además de ser
+evidencia admisible <prima facie= en los tribunales de Puerto Rico al amparo de las
+Reglas de Evidencia.
+Ahora bien, la información contenida en certificados de nacimiento, matrimonio y
+defunción puede también ser usada, desafortunadamente, para fines ilícitos,
+particularmente el robo de identidad. Así ocurrió con los certificados de nacimiento,
+cuyo uso como método de identificación se convirtió en una práctica tan común, que
+motivó la aprobación por esta Asamblea Legislativa de la Ley Núm. 191-2009, <Ley para
+Prohibir la Retención, Archivo y Custodia de copias certificadas de certificados de
+nacimiento=. En la Exposición de Motivos de aquella ley, se señala lo siguiente:
+[clomo consecuencia de la fácil disponibilidad de tan privilegiado
+documento, los mismos se hurtan en gran escala por delincuentes que se
+proponen cometer algún tipo de conducta delictiva, como es la apropiación
+ilegal de identidad o el fraude de pasaportes. Esta situación es sumamente
+preocupante. Por ejemplo, la persona que obtiene sin derecho un pasaporte
+de los Estados Unidos por medios fraudulentos puede usarlo, no sólo para
+viajar al exterior y entrar a los Estados Unidos libremente, sino para
+facilitar conductas delictivas de toda clase, por ejemplo, la obtención
+fraudulenta de beneficios inmigratorios, el narco-tráfico, la obtención de
+crédito, el terrorismo y el tráfico de mujeres y niños.
+Según el Servicio de Seguridad Diplomática del Departamento de Estado de los
+Estados Unidos de América, de los ocho mil (8,000) casos de fraude de pasaportes
+investigados por dicha unidad, el cuarenta por ciento (40%) aproximadamente tienen su
+origen en situaciones que han utilizado certificados de nacimientos de personas
+puertorriqueñas. Lamentablemente, el número de casos de fraude de pasaporte,
+utilizando certificados de nacimientos de puertorriqueños, sigue aumentando. La razón
+es muy sencilla: existen demasiadas copias certificadas de certificados de nacimientos en
+circulación y de fácil acceso a delincuentes.
+Igual situación puede presentarse con los certificados de defunción, los cuales
+contienen información de carácter privilegiado (tales como nombres, números de seguro
+social, fechas y lugares de nacimiento, etc.) cuyo uso por personas inescrupulosas puede
+dar lugar a situaciones como las descritas en la antes citada Exposición de Motivos de la
+Ley Núm. 191-2009, supra.
+Por otro lado, el Departamento de Salud es una entidad cubierta bajo los estatutos
+federales de la Health Insurance Portability and Accountability Act (HIPAA, por sus
+siglas en inglés). Esta Ley establece las pautas para proteger la confidencialidad y
+privacidad de la información del paciente, así como datos médicos. La regla de
+privacidad de HIPAA, en el Rules and Regulations del Federal Register, Vol. 78, No. 17
+(45 CFR Parts 160-164) establece que la información de salud identificable de las
+personas permanece protegida durante cincuenta (50) años, después de su muerte.
+Durante este periodo de protección, según la información de salud protegida, (en
+adelante PHI, por sus siglas en inglés), generalmente se salvaguarda la información de
+salud del difunto en la misma manera que la de las personas vivas, pero incluye una
+serie de disposiciones especiales de divulgación relevantes para las personas fallecidas.
+Las disposiciones en las que una entidad cubierta puede revelar la información de
+salud protegida (PHI) de una persona fallecida son las siguientes:
+1) Alertar a las fuerzas del orden público sobre la muerte del individuo, cuando
+existe la sospecha de que la muerte fue el resultado de una conducta criminal;
+2) A médicos forenses o examinadores médicos y directores de funerarias; para la
+investigación que se centra únicamente en la información de salud protegida de los
+fallecidos;
+3) A organizaciones de obtención de órganos u otras entidades dedicadas a la
+obtención, almacenamiento o trasplante de órganos, ojos o tejidos cadavéricos con el fin
+de facilitar la donación y el trasplante de órganos, ojos o tejidos; y
+4) A un miembro de la familia u otra persona que estuvo involucrada en el cuidado
+de la salud del individuo o en el pago de la atención antes de la muerte del individuo, a
+menos que hacerlo sea inconsistente con cualquier preferencia expresada previamente
+del individuo fallecido que sea conocida por la entidad cubierta.
+Según el Departamento de Salud Federal (HHS, por sus siglas en inglés), para las
+divulgaciones de PHI a terceras personas, las entidades cubiertas por la Ley HIPAA
+deben recibir una autorización por escrito de un representante legítimo del difunto que
+pueda autorizar la divulgación de la información solicitada. Tomando en consideración
+la excepción de los datos utilizados por la agencia para fines estadísticos.
+De igual forma, esta Asamblea Legislativa aprobó la Ley Núm. 122-2019, conocida
+como la <Ley de Datos Abiertos del Gobierno de Puerto Rico=, en la cual se establecieron
+los parámetros o criterios que determinarán las circunstancias en que las agencias
+gubernamentales brindarán la información al público, incluyendo al Instituto de
+Estadística del Gobierno de Puerto Rico. La Ley 122-2019, supra, reconoce que la agencia
+puede levantar la protección de la información bajo su custodia, si así lo dispone la Ley o
+se lesionan derechos de terceros.
+Por último, debemos mencionar que el Registro Demográfico tiene el deber de
+divulgar estadísticas vitales dentro de los estándares permitidos por la Ley HIPAA, así
+también de proveer un producto estadístico, que estará disponible al público para su
+análisis. Entiéndase por estadísticas vitales la siguiente información: sexo, edad, fecha
+de nacimiento, código de zona, código postal, municipio, zona residencial (urbana o
+rural), estado civil o de convivencia, lugar de muerte, municipio de fallecimiento, fecha
+de fallecimiento, código de muerte, tipo de muerte, fecha de lesión, lesión-trabajo,
+educación, raza, ocupación y tipo de industria.
+Ciertamente, el Registro Demográfico en su deber de divulgar estadísticas vitales
+tiene la obligación de garantizar que los datos que puedan identificar personas naturales
+no serán divulgados en el proceso de recopilación de estos, ya que lo contrario
+constituiría una crasa violación a derechos de terceros.
+No obstante, recientes determinaciones judiciales han concluido que el derecho
+constitucional de acceso a la información gubernamental obliga al Estado a brindar a la
+prensa copia de los certificados de defunción que ésta, en el ejercicio de sus labores,
+solicitel, Estas determinaciones reconocen la importancia vital que tiene la prensa en el
+funcionamiento de una sociedad democrática. Considera, además, la necesidad de que la
+prensa tenga acceso a aquellos documentos generados por el Estado sobre los cuales éste
+no pueda demostrar que existe un interés apremiante.
+Estas determinaciones han revelado que existe un vacío en la Ley del Registro
+Demográfico, pues no garantiza de forma explícita la confidencialidad de la información
+que esta entidad recopila por mandato de ley. Observamos que la legislación no
+establece salvaguardas para los derechos de terceros que no interesen la divulgación
+sobre las circunstancias particulares del fallecimiento de sus familiares al público. De
+igual forma, no delimita o establece con precisión en qué circunstancias un Tribunal
+puede ordenar la entrega de información, siendo una orden judicial razón suficiente
+para entregar información, independientemente de la naturaleza del caso bajo su
+consideración. Finalmente, el estatuto tampoco dispone qué información
+(particularmente aquella contenida en los certificados de defunción) tiene un carácter
+sensitivo de tal naturaleza que justifique razonablemente la decisión del Estado de
+mantener su confidencialidad.
+1 Centro de Periodismo Investigativo v. Wanda Llovet en su capacidad de directora del Registro Demográfico de Puerto Rico, Civil
+Núm. SJ2018CV00561, consolidado con The Cable News Network, Inc. v. Wanda Llovet en su capacidad de directora del Registro
+Demográfico de Puerto Rico, Civil Núm. $J2018CV00843, Sentencia del 4 de junio de 2019,
+Esta Ley atenderá las lagunas antes señaladas, protegerá los derechos de terceros y
+delimitará con precisión la información que puede y debe ser entregada a la ciudadanía
+y ala prensa. Además, establecerá un balance entre el reconocido derecho de acceso a la
+información y la confidencialidad de información que puede ser considerada como
+sensitiva por los familiares de una persona difunta y evitar, a su vez, que pueda ser
+utilizada con fines ilícitos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se enmienda el inciso (12) del Artículo 2 de la Ley Núm. 24 de 22 de abril
+de 1931, según enmendada, para que lea como sigue:
+< Artículo 2.- Definiciones
+Cuando en esta Ley se use:
+(1) ...
+(12) Parte interesada. 4 Significará el inscrito, si es de dieciocho (18) años de edad o
+mayor, su padre, su madre, sus hijos, nietos y sus abuelos, su representante legal,
+custodio legal o tutor, o los herederos del inscrito. Los abogados autorizados a practicar
+la abogacía o notaría, siempre y cuando evidencien que representan legalmente al
+inscrito o a sus herederos, quienes, para cumplir con estas disposiciones, deberán
+acreditar ante el Registro Demográfico su carácter de parte interesada según aquí
+definido. Todo abogado y/o abogado notario podrá solicitar mediante una misiva suya
+al Registro Demográfico y copia de su identificación con foto expedida por la Oficina de
+Administración de Tribunales solicitudes de registros vitales, y ello bastará como
+acreditación de representación legal del finado y/o sus causahabientes. Será, además,
+cualquier menor que a su vez sea padre o madre de un menor para lo cual se autoriza la
+expedición de actas relacionadas tanto para su persona como para su hijo(a). <Parte
+interesada= será, además, la señalada mediante orden del Tribunal, en pleitos
+relacionados a herencia, filiación, derechos reales, o en Procedimientos Ex Parte que
+involucren anotaciones en el Registro Demográfico, aquellos donde, a juicio del
+Tribunal, revelar la identidad de las personas nombradas en el documento sea
+imprescindible para la solución del pleito.
+(13) ...=
+Sección 2.- Se enmienda el Artículo 3 de la Ley Núm. 24 de 22 de abril de 1931, según
+enmendada, para que lea como sigue:
+<Artículo 3.-
+Por la presente se crea el Registro General Demográfico de Puerto Rico, que será
+establecido en la División de Registro Demográfico y Estadísticas Vitales del
+Departamento de Salud de Puerto Rico. Dicho Departamento tendrá a su cargo todo lo
+concerniente a la inscripción de los nacimientos, casamientos y defunciones que ocurran
+o se celebren en Puerto Rico; llevará un registro de todos los divorcios que se otorguen
+en Puerto Rico; preparará las instrucciones, formas, impresos y libros necesarios para
+obtener y conservar dichos récords y procurará que los mismos sean registrados en cada
+distrito primario de registro según se constituyen por esta Ley y en la División de
+Registro Demográfico y Estadísticas Vitales del Departamento de Salud. Toda la
+información recopilada por el Registro Demográfico tendrá carácter confidencial. El
+Registro velará que la información bajo su custodia sea divulgada, únicamente, en las
+circunstancias y condiciones que dispone esta ley. Se autoriza la divulgación de
+información pertinente a la Comisión Estatal de Elecciones para fines exclusivos de
+verificación y depuración del Registro General de Electores. Esta divulgación incluirá,
+pero no se limitará a, certificados de defunción y otros documentos necesarios para
+asegurar la precisión y actualidad del registro electoral. El Secretario de Salud cuidará de
+que esta Ley sea observada y aplicada uniformemente en todo el Estado Libre Asociado
+de Puerto Rico, incluyendo las islas adyacentes de Culebra y Vieques; recomendará de
+tiempo en tiempo la legislación adicional que sea necesaria a este propósito y dictará
+aquellas reglas y reglamentos que no estén en conflicto con las disposiciones de esta Ley
+y que sean necesarios para complementar las disposiciones de la misma. Dichos
+reglamentos luego de aprobados y promulgados por el Gobernador de Puerto Rico
+tomarán fuerza de ley.=
+Sección 3.- Se añade un nuevo inciso (J) en el Artículo 38 de la Ley Núm. 24 de 22 de
+abril de 1931, según enmendada, que leerá como sigue:
+<Artículo 38. 4 Copias certificadas de certificados
+A.
+J. Confidencialidad de la información contenida en los certificados
+Toda la información contenida en certificados de nacimiento, matrimonio o
+defunción y todo documento o constancia inscrita en el Registro Demográfico tendrá
+carácter confidencial y no podrá ser entregada a terceros, más allá de las excepciones
+establecidas en los incisos A y B de este Artículo. Ninguna información que permita la
+identificación de personas individuales podrá ser entregada a terceros más allá de las
+personas definidas como <partes interesadas= en esta Ley. El Registro Demográfico
+podrá entregar, a petición de parte o por orden de un Tribunal, aquella información
+estadística necesaria para la formulación de política pública, así como para mantener
+responsablemente informada a la ciudadanía de cualquier evento o tendencia
+demográfica o salubrista de interés público. Al hacer entrega de esta información, el
+Registro Demográfico velará por mantener la confidencialidad de los nombres, números
+de seguro social y cualquier otra información que permita la identificación precisa de
+particulares.=
+Sección 4.- Se deroga cualquier otra ley, o parte de ley, que sea incompatible con ésta.
+Sección 5.- Las disposiciones de esta Ley prevalecerán sobre cualquier otra
+disposición de ley que no estuviere en armonía con lo aquí establecido.
+Sección 6.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+un tribunal de jurisdicción y competencia, este fallo no afectará ni invalidará el resto de
+la Ley y su efecto quedará limitado al aspecto objeto de dicho dictamen judicial.
+Sección 7.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED:  L I e l A 2 3 y 3 d l L N 2 d 2 d a d 1 s c c < d R D d P R c e d e e c c d t l c r e R D r e c d < i p e q c p l t o l e d l c p e R D D M R D d P R c p v d l L N 2 d 2 a d 1 s e t e p d m l e d l c a l i d t l e i e e R D o o s c e P R L i c e e R a t a d a t d l e d c d n o d e c c l f ó p l r d t d e d o a e s e p A d s a < f e l t d P R a a d l d E b l i c e c d n m y p t s u d p f i e r d i A o c l c d n u c m d i s c e u p t c q l a p e A L d l L N 1 < p l R A y C d c c d c d E l E d M d a l s s l s c d l f d d t p l m s h e g e p d q s c a t d c d c e l a d i o e f d p E s e s P e l p q o s d u p l E U p m f p u n s p a e y e a l E U l s p c d d t c p e l o d b i e n l o d e t e t d m y n e S d S D d D d E d l U d A d l o m ( c d f d p p d u e c p c ( a t s]
+[DELETED:  e s q h u c d n d p L e n d c d f d p c d n d p s a L r m s e d c c d c d n e y d f a a d s p p c l c d d l c i d c p ( c n n d s f y l d n e c u p p i p l a s c l d e l a c E d M d l N 1 s o l e D d S e u e c b l e d l H I P a A A ( p s e i E L e l p p p l c y d l i d p a c d m L r d d H e e R a R d F R V 7 N 1 C P 1 e q l i d s i d l p p d c ( a d d s m e p d p s l i d s p ( P p s s e i g s s l i d d d e l m m q l d l p v p i u d d e d d r p l p f d e l q u e c p r l i d p ( d u p f s l s A a l f d o p s l m d i c l s d q l m f e r d u c c A m f o e m y d d f p l q s c ú e l i d s p d l A o d o d ó u o e d a l a o t d ó o o t c c e f f l d e t d ó o o t y A u m d l f u o p q e i e e c l s d i o e e p d l a a d l m d i a q h s i c c p e p i f q s c p l e c e D d S F ( p s s e i p l d P a t p l e c p l L H r u a p e d u r l d d q a l d d l i s T e c e d l d u p l a p f e]
+[DELETED:  i f e A L a l L N 1 c l < d D A d G d P R e l c s e p o c q d l c e q l a b l i a p i a I d d G d P R L L 1 s r q l a l l p d l i b s c s a l d l L o l d d t ú d m q e R D t e d d e v d d l e p p l L H a d p u p e q e d a p p s E p e v l s i s e f n c d z c p m z r ( o e c o d c l d m m d f f f c d m t d m f d l l r o y t d i e R D e s d d d e v l o d g q l d q p i p n s d e e p d r d e y q l c u c v a d d t o r d j h c q e d d a a l i g o a E a b l c d l c d d q é e e e d s l E d r l i v q t l p e e d u s d C a l n d q l t a a a d g p e E s l c é p d q e u i a d h r q e u v e l L d R p n g d f e l c d l i e e r p m d l O q l l n s p l d d t q n i l d l c p d f d s f a p D f n d o e c p e q c u T o l e d i s u o j r s e i i d l n d c b s F e e t d q i a c e l c d d t u c d t n q j r l d d E d s c C d P I v W L e s c d d d R D d P R C S c c T C N N I v W L e s c d d d R d P R C N $ S d 4 d d 2]
+[DELETED:  L a l l a s p l d d t y c p l i q p y d s e a l c a p A e u b e e r d d a l y l c d i q p s c c p l f d u p d y e a s v q p s c f i P L A L D P R 1 S e e i ( d A 2 d l L N 2 d 2 d a 1 s e p q l c s 2 D e e L s u . P i 4 S e i s e d d ( a d e o s p s m s h n y s a s r l l o t o l h d i L a a a p a o n s y c e q r l a o a s h q p c c e d d a e R D s c d p i s a T a y a n p s m u m s R D y c d s i c f e p l O d d T s d r v y e b c d r l d f y s c S a m q a s v s p o m d u m p l c s a l d a r t p s p c p s h < s a l s m o d T e p a h f d r o e P E P q a e e R D a d a j d r l i d l p n e e d s p l s d p . 2 S e e A 3 d l L N 2 d 2 d a d 1 s p q l c s 3 l p s c e R G D d P R q s e l D d R D y E V d d S d P R D D t a s c t l a l i d l n c y d q o]
+[DELETED:  s c e P R l u r d t l d q s o P R p l i f i y l n p y c d r y p q l m s r e c p d r s s c p e L y e l D d D y E V d D d S T l r p e R D t c c E v q l i b s c s d ú e l y c q d e l S a l d d p a l C E d E p f e d y d d R G d E E d i n s l a c d d y o d n p l p y a d r e E S d S c d e L s o y a u e t e E L A P R i l i a d C y V r d e t l l a q s n a e p y d r y r q n e e c c l d d e L q s n p c l d d l m D l d a y p p e G d P R f d l 3 S a u n i ( e e A 3 d l L N 2 d 2 d d 1 s e q l c s 3 4 C c d c C d l i c e l c l i c e c d n m o y t d o c i e e R D t c y n p s e a t m a d l e e l i A y B d e A N i q p l d p i p s e a t m a d l d c < i e e L E R D e a p d p o p o d u T a i n p l f d p p a c p m i a l c d c e o t o s d i p A h e d e i e D v p m l c d l n n s s y c o i q p l i p d 4 S d c o l o p d l q s i c é]
+[DELETED:  5 L d d e L p s c o d l q n e e a c l a e 6 S c p d e L f d n o i p t d j y c e f n a n i e r d L y s e q l a a o d d d j 7 E L e e v i d d s a]
+
+
+================================================================================
+
+Raw Text:
+_ Ls IN
+( P. . del del S. S. 331 ) u; sAdian . pol IfO TIo S
+LEY
+Para enmendar los Artículos 2, 3 y 38 de la Ley Núm. 24 del 22 de abril de 1931, según
+enmendada, conocida como <Ley del Registro Demográfico de Puerto Rico=, con el
+propósito de establecer el carácter confidencial de todos los certificados registrados
+por el Registro Demográfico; redefinir el concepto de <parte interesada= para
+aclarar en qué casos podrán los tribunales ordenar la entrega de los certificados
+expedidos por el Registro Demográfico.
+EXPOSICIÓN DE MOTIVOS
+El Registro Demográfico de Puerto Rico, creado por virtud de la Ley Núm. 24 del 22
+de abril de 1931, según enmendada, tiene el propósito de mantener las estadísticas de
+<todo lo concerniente a la inscripción de todos los eventos inscritos en el Registro Demográfico
+que ocurran o se celebren en Puerto Rico=. La información contenida en el Registro, así
+como también aquella divulgada a través de la expedición de certificados de nacimiento,
+matrimonio o defunción, es considerada como la fuente óptima para la realización de
+todo tipo de estudio demográfico o análisis estadístico sobre el país. Además de ser
+evidencia admisible <prima facie= en los tribunales de Puerto Rico al amparo de las
+Reglas de Evidencia.
+Ahora bien, la información contenida en certificados de nacimiento, matrimonio y
+defunción puede también ser usada, desafortunadamente, para fines ilícitos,
+particularmente el robo de identidad. Así ocurrió con los certificados de nacimiento,
+cuyo uso como método de identificación se convirtió en una práctica tan común, que
+motivó la aprobación por esta Asamblea Legislativa de la Ley Núm. 191-2009, <Ley para
+Prohibir la Retención, Archivo y Custodia de copias certificadas de certificados de
+nacimiento=. En la Exposición de Motivos de aquella ley, se señala lo siguiente:
+[clomo consecuencia de la fácil disponibilidad de tan privilegiado
+documento, los mismos se hurtan en gran escala por delincuentes que se
+proponen cometer algún tipo de conducta delictiva, como es la apropiación
+ilegal de identidad o el fraude de pasaportes. Esta situación es sumamente
+preocupante. Por ejemplo, la persona que obtiene sin derecho un pasaporte
+de los Estados Unidos por medios fraudulentos puede usarlo, no sólo para
+viajar al exterior y entrar a los Estados Unidos libremente, sino para
+facilitar conductas delictivas de toda clase, por ejemplo, la obtención
+fraudulenta de beneficios inmigratorios, el narco-tráfico, la obtención de
+crédito, el terrorismo y el tráfico de mujeres y niños.
+Según el Servicio de Seguridad Diplomática del Departamento de Estado de los
+Estados Unidos de América, de los ocho mil (8,000) casos de fraude de pasaportes
+investigados por dicha unidad, el cuarenta por ciento (40%) aproximadamente tienen su
+
+origen en situaciones que han utilizado certificados de nacimientos de personas
+puertorriqueñas. Lamentablemente, el número de casos de fraude de pasaporte,
+utilizando certificados de nacimientos de puertorriqueños, sigue aumentando. La razón
+es muy sencilla: existen demasiadas copias certificadas de certificados de nacimientos en
+circulación y de fácil acceso a delincuentes.
+Igual situación puede presentarse con los certificados de defunción, los cuales
+contienen información de carácter privilegiado (tales como nombres, números de seguro
+social, fechas y lugares de nacimiento, etc.) cuyo uso por personas inescrupulosas puede
+dar lugar a situaciones como las descritas en la antes citada Exposición de Motivos de la
+Ley Núm. 191-2009, supra.
+Por otro lado, el Departamento de Salud es una entidad cubierta bajo los estatutos
+federales de la Health Insurance Portability and Accountability Act (HIPAA, por sus
+siglas en inglés). Esta Ley establece las pautas para proteger la confidencialidad y
+privacidad de la información del paciente, así como datos médicos. La regla de
+privacidad de HIPAA, en el Rules and Regulations del Federal Register, Vol. 78, No. 17
+(45 CFR Parts 160-164) establece que la información de salud identificable de las
+personas permanece protegida durante cincuenta (50) años, después de su muerte.
+Durante este periodo de protección, según la información de salud protegida, (en
+adelante PHI, por sus siglas en inglés), generalmente se salvaguarda la información de
+salud del difunto en la misma manera que la de las personas vivas, pero incluye una
+serie de disposiciones especiales de divulgación relevantes para las personas fallecidas.
+Las disposiciones en las que una entidad cubierta puede revelar la información de
+salud protegida (PHI) de una persona fallecida son las siguientes:
+1) Alertar a las fuerzas del orden público sobre la muerte del individuo, cuando
+existe la sospecha de que la muerte fue el resultado de una conducta criminal;
+2) A médicos forenses o examinadores médicos y directores de funerarias; para la
+investigación que se centra únicamente en la información de salud protegida de los
+fallecidos;
+3) A organizaciones de obtención de órganos u otras entidades dedicadas a la
+obtención, almacenamiento o trasplante de órganos, ojos o tejidos cadavéricos con el fin
+de facilitar la donación y el trasplante de órganos, ojos o tejidos; y
+4) A un miembro de la familia u otra persona que estuvo involucrada en el cuidado
+de la salud del individuo o en el pago de la atención antes de la muerte del individuo, a
+menos que hacerlo sea inconsistente con cualquier preferencia expresada previamente
+del individuo fallecido que sea conocida por la entidad cubierta.
+Según el Departamento de Salud Federal (HHS, por sus siglas en inglés), para las
+divulgaciones de PHI a terceras personas, las entidades cubiertas por la Ley HIPAA
+deben recibir una autorización por escrito de un representante legítimo del difunto que
+pueda autorizar la divulgación de la información solicitada. Tomando en consideración
+la excepción de los datos utilizados por la agencia para fines estadísticos.
+
+De igual forma, esta Asamblea Legislativa aprobó la Ley Núm. 122-2019, conocida
+como la <Ley de Datos Abiertos del Gobierno de Puerto Rico=, en la cual se establecieron
+los parámetros o criterios que determinarán las circunstancias en que las agencias
+gubernamentales brindarán la información al público, incluyendo al Instituto de
+Estadística del Gobierno de Puerto Rico. La Ley 122-2019, supra, reconoce que la agencia
+puede levantar la protección de la información bajo su custodia, si así lo dispone la Ley o
+se lesionan derechos de terceros.
+Por último, debemos mencionar que el Registro Demográfico tiene el deber de
+divulgar estadísticas vitales dentro de los estándares permitidos por la Ley HIPAA, así
+también de proveer un producto estadístico, que estará disponible al público para su
+análisis. Entiéndase por estadísticas vitales la siguiente información: sexo, edad, fecha
+de nacimiento, código de zona, código postal, municipio, zona residencial (urbana o
+rural), estado civil o de convivencia, lugar de muerte, municipio de fallecimiento, fecha
+de fallecimiento, código de muerte, tipo de muerte, fecha de lesión, lesión-trabajo,
+educación, raza, ocupación y tipo de industria.
+Ciertamente, el Registro Demográfico en su deber de divulgar estadísticas vitales
+tiene la obligación de garantizar que los datos que puedan identificar personas naturales
+no serán divulgados en el proceso de recopilación de estos, ya que lo contrario
+constituiría una crasa violación a derechos de terceros.
+No obstante, recientes determinaciones judiciales han concluido que el derecho
+constitucional de acceso a la información gubernamental obliga al Estado a brindar a la
+prensa copia de los certificados de defunción que ésta, en el ejercicio de sus labores,
+solicitel, Estas determinaciones reconocen la importancia vital que tiene la prensa en el
+funcionamiento de una sociedad democrática. Considera, además, la necesidad de que la
+prensa tenga acceso a aquellos documentos generados por el Estado sobre los cuales éste
+no pueda demostrar que existe un interés apremiante.
+Estas determinaciones han revelado que existe un vacío en la Ley del Registro
+Demográfico, pues no garantiza de forma explícita la confidencialidad de la información
+que esta entidad recopila por mandato de ley. Observamos que la legislación no
+establece salvaguardas para los derechos de terceros que no interesen la divulgación
+sobre las circunstancias particulares del fallecimiento de sus familiares al público. De
+igual forma, no delimita o establece con precisión en qué circunstancias un Tribunal
+puede ordenar la entrega de información, siendo una orden judicial razón suficiente
+para entregar información, independientemente de la naturaleza del caso bajo su
+consideración. Finalmente, el estatuto tampoco dispone qué información
+(particularmente aquella contenida en los certificados de defunción) tiene un carácter
+sensitivo de tal naturaleza que justifique razonablemente la decisión del Estado de
+mantener su confidencialidad.
+1 Centro de Periodismo Investigativo v. Wanda Llovet en su capacidad de directora del Registro Demográfico de Puerto Rico, Civil
+Núm. SJ2018CV00561, consolidado con The Cable News Network, Inc. v. Wanda Llovet en su capacidad de directora del Registro
+Demográfico de Puerto Rico, Civil Núm. $J2018CV00843, Sentencia del 4 de junio de 2019,
+
+Esta Ley atenderá las lagunas antes señaladas, protegerá los derechos de terceros y
+delimitará con precisión la información que puede y debe ser entregada a la ciudadanía
+y ala prensa. Además, establecerá un balance entre el reconocido derecho de acceso a la
+información y la confidencialidad de información que puede ser considerada como
+sensitiva por los familiares de una persona difunta y evitar, a su vez, que pueda ser
+utilizada con fines ilícitos.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+Sección 1.- Se enmienda el inciso (12) del Artículo 2 de la Ley Núm. 24 de 22 de abril
+de 1931, según enmendada, para que lea como sigue:
+< Artículo 2.- Definiciones
+Cuando en esta Ley se use:
+(1) ...
+(12) Parte interesada. 4 Significará el inscrito, si es de dieciocho (18) años de edad o
+mayor, su padre, su madre, sus hijos, nietos y sus abuelos, su representante legal,
+custodio legal o tutor, o los herederos del inscrito. Los abogados autorizados a practicar
+la abogacía o notaría, siempre y cuando evidencien que representan legalmente al
+inscrito o a sus herederos, quienes, para cumplir con estas disposiciones, deberán
+acreditar ante el Registro Demográfico su carácter de parte interesada según aquí
+definido. Todo abogado y/o abogado notario podrá solicitar mediante una misiva suya
+al Registro Demográfico y copia de su identificación con foto expedida por la Oficina de
+Administración de Tribunales solicitudes de registros vitales, y ello bastará como
+acreditación de representación legal del finado y/o sus causahabientes. Será, además,
+cualquier menor que a su vez sea padre o madre de un menor para lo cual se autoriza la
+expedición de actas relacionadas tanto para su persona como para su hijo(a). <Parte
+interesada= será, además, la señalada mediante orden del Tribunal, en pleitos
+relacionados a herencia, filiación, derechos reales, o en Procedimientos Ex Parte que
+involucren anotaciones en el Registro Demográfico, aquellos donde, a juicio del
+Tribunal, revelar la identidad de las personas nombradas en el documento sea
+imprescindible para la solución del pleito.
+(13) ...=
+Sección 2.- Se enmienda el Artículo 3 de la Ley Núm. 24 de 22 de abril de 1931, según
+enmendada, para que lea como sigue:
+<Artículo 3.-
+Por la presente se crea el Registro General Demográfico de Puerto Rico, que será
+establecido en la División de Registro Demográfico y Estadísticas Vitales del
+Departamento de Salud de Puerto Rico. Dicho Departamento tendrá a su cargo todo lo
+concerniente a la inscripción de los nacimientos, casamientos y defunciones que ocurran
+
+o se celebren en Puerto Rico; llevará un registro de todos los divorcios que se otorguen
+en Puerto Rico; preparará las instrucciones, formas, impresos y libros necesarios para
+obtener y conservar dichos récords y procurará que los mismos sean registrados en cada
+distrito primario de registro según se constituyen por esta Ley y en la División de
+Registro Demográfico y Estadísticas Vitales del Departamento de Salud. Toda la
+información recopilada por el Registro Demográfico tendrá carácter confidencial. El
+Registro velará que la información bajo su custodia sea divulgada, únicamente, en las
+circunstancias y condiciones que dispone esta ley. Se autoriza la divulgación de
+información pertinente a la Comisión Estatal de Elecciones para fines exclusivos de
+verificación y depuración del Registro General de Electores. Esta divulgación incluirá,
+pero no se limitará a, certificados de defunción y otros documentos necesarios para
+asegurar la precisión y actualidad del registro electoral. El Secretario de Salud cuidará de
+que esta Ley sea observada y aplicada uniformemente en todo el Estado Libre Asociado
+de Puerto Rico, incluyendo las islas adyacentes de Culebra y Vieques; recomendará de
+tiempo en tiempo la legislación adicional que sea necesaria a este propósito y dictará
+aquellas reglas y reglamentos que no estén en conflicto con las disposiciones de esta Ley
+y que sean necesarios para complementar las disposiciones de la misma. Dichos
+reglamentos luego de aprobados y promulgados por el Gobernador de Puerto Rico
+tomarán fuerza de ley.=
+Sección 3.- Se añade un nuevo inciso (J) en el Artículo 38 de la Ley Núm. 24 de 22 de
+abril de 1931, según enmendada, que leerá como sigue:
+<Artículo 38. 4 Copias certificadas de certificados
+A.
+J. Confidencialidad de la información contenida en los certificados
+Toda la información contenida en certificados de nacimiento, matrimonio o
+defunción y todo documento o constancia inscrita en el Registro Demográfico tendrá
+carácter confidencial y no podrá ser entregada a terceros, más allá de las excepciones
+establecidas en los incisos A y B de este Artículo. Ninguna información que permita la
+identificación de personas individuales podrá ser entregada a terceros más allá de las
+personas definidas como <partes interesadas= en esta Ley. El Registro Demográfico
+podrá entregar, a petición de parte o por orden de un Tribunal, aquella información
+estadística necesaria para la formulación de política pública, así como para mantener
+responsablemente informada a la ciudadanía de cualquier evento o tendencia
+demográfica o salubrista de interés público. Al hacer entrega de esta información, el
+Registro Demográfico velará por mantener la confidencialidad de los nombres, números
+de seguro social y cualquier otra información que permita la identificación precisa de
+particulares.=
+Sección 4.- Se deroga cualquier otra ley, o parte de ley, que sea incompatible con ésta.
+
+Sección 5.- Las disposiciones de esta Ley prevalecerán sobre cualquier otra
+disposición de ley que no estuviere en armonía con lo aquí establecido.
+Sección 6.- Si cualquier parte de esta Ley fuese declarada nula o inconstitucional por
+un tribunal de jurisdicción y competencia, este fallo no afectará ni invalidará el resto de
+la Ley y su efecto quedará limitado al aspecto objeto de dicho dictamen judicial.
+Sección 7.- Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED:  L I e l A 2 3 y 3 d l L N 2 d 2 d a d 1 s c c < d R D d P R c e d e e c c d t l c r e R D r e c d < i p e q c p l t o l e d l c p e R D D M R D d P R c p v d l L N 2 d 2 a d 1 s e t e p d m l e d l c a l i d t l e i e e R D o o s c e P R L i c e e R a t a d a t d l e d c d n o d e c c l f ó p l r d t d e d o a e s e p A d s a < f e l t d P R a a d l d E b l i c e c d n m y p t s u d p f i e r d i A o c l c d n u c m d i s c e u p t c q l a p e A L d l L N 1 < p l R A y C d c c d c d E l E d M d a l s s l s c d l f d d t p l m s h e g e p d q s c a t d c d c e l a d i o e f d p E s e s P e l p q o s d u p l E U p m f p u n s p a e y e a l E U l s p c d d t c p e l o d b i e n l o d e t e t d m y n e S d S D d D d E d l U d A d l o m ( c d f d p p d u e c p c ( a t s]
+[DELETED:  e s q h u c d n d p L e n d c d f d p c d n d p s a L r m s e d c c d c d n e y d f a a d s p p c l c d d l c i d c p ( c n n d s f y l d n e c u p p i p l a s c l d e l a c E d M d l N 1 s o l e D d S e u e c b l e d l H I P a A A ( p s e i E L e l p p p l c y d l i d p a c d m L r d d H e e R a R d F R V 7 N 1 C P 1 e q l i d s i d l p p d c ( a d d s m e p d p s l i d s p ( P p s s e i g s s l i d d d e l m m q l d l p v p i u d d e d d r p l p f d e l q u e c p r l i d p ( d u p f s l s A a l f d o p s l m d i c l s d q l m f e r d u c c A m f o e m y d d f p l q s c ú e l i d s p d l A o d o d ó u o e d a l a o t d ó o o t c c e f f l d e t d ó o o t y A u m d l f u o p q e i e e c l s d i o e e p d l a a d l m d i a q h s i c c p e p i f q s c p l e c e D d S F ( p s s e i p l d P a t p l e c p l L H r u a p e d u r l d d q a l d d l i s T e c e d l d u p l a p f e]
+[DELETED:  i f e A L a l L N 1 c l < d D A d G d P R e l c s e p o c q d l c e q l a b l i a p i a I d d G d P R L L 1 s r q l a l l p d l i b s c s a l d l L o l d d t ú d m q e R D t e d d e v d d l e p p l L H a d p u p e q e d a p p s E p e v l s i s e f n c d z c p m z r ( o e c o d c l d m m d f f f c d m t d m f d l l r o y t d i e R D e s d d d e v l o d g q l d q p i p n s d e e p d r d e y q l c u c v a d d t o r d j h c q e d d a a l i g o a E a b l c d l c d d q é e e e d s l E d r l i v q t l p e e d u s d C a l n d q l t a a a d g p e E s l c é p d q e u i a d h r q e u v e l L d R p n g d f e l c d l i e e r p m d l O q l l n s p l d d t q n i l d l c p d f d s f a p D f n d o e c p e q c u T o l e d i s u o j r s e i i d l n d c b s F e e t d q i a c e l c d d t u c d t n q j r l d d E d s c C d P I v W L e s c d d d R D d P R C S c c T C N N I v W L e s c d d d R d P R C N $ S d 4 d d 2]
+[DELETED:  L a l l a s p l d d t y c p l i q p y d s e a l c a p A e u b e e r d d a l y l c d i q p s c c p l f d u p d y e a s v q p s c f i P L A L D P R 1 S e e i ( d A 2 d l L N 2 d 2 d a 1 s e p q l c s 2 D e e L s u . P i 4 S e i s e d d ( a d e o s p s m s h n y s a s r l l o t o l h d i L a a a p a o n s y c e q r l a o a s h q p c c e d d a e R D s c d p i s a T a y a n p s m u m s R D y c d s i c f e p l O d d T s d r v y e b c d r l d f y s c S a m q a s v s p o m d u m p l c s a l d a r t p s p c p s h < s a l s m o d T e p a h f d r o e P E P q a e e R D a d a j d r l i d l p n e e d s p l s d p . 2 S e e A 3 d l L N 2 d 2 d a d 1 s p q l c s 3 l p s c e R G D d P R q s e l D d R D y E V d d S d P R D D t a s c t l a l i d l n c y d q o]
+[DELETED:  s c e P R l u r d t l d q s o P R p l i f i y l n p y c d r y p q l m s r e c p d r s s c p e L y e l D d D y E V d D d S T l r p e R D t c c E v q l i b s c s d ú e l y c q d e l S a l d d p a l C E d E p f e d y d d R G d E E d i n s l a c d d y o d n p l p y a d r e E S d S c d e L s o y a u e t e E L A P R i l i a d C y V r d e t l l a q s n a e p y d r y r q n e e c c l d d e L q s n p c l d d l m D l d a y p p e G d P R f d l 3 S a u n i ( e e A 3 d l L N 2 d 2 d d 1 s e q l c s 3 4 C c d c C d l i c e l c l i c e c d n m o y t d o c i e e R D t c y n p s e a t m a d l e e l i A y B d e A N i q p l d p i p s e a t m a d l d c < i e e L E R D e a p d p o p o d u T a i n p l f d p p a c p m i a l c d c e o t o s d i p A h e d e i e D v p m l c d l n n s s y c o i q p l i p d 4 S d c o l o p d l q s i c é]
+[DELETED:  5 L d d e L p s c o d l q n e e a c l a e 6 S c p d e L f d n o i p t d j y c e f n a n i e r d L y s e q l a a o d d d j 7 E L e e v i d d s a]

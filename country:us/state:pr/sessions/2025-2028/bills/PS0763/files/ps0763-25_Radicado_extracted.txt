@@ -1,0 +1,678 @@
+Title: Para enmendar el Artículo 2 de la Ley Núm. 10-2020, conocida como “Ley del Derecho a
+Official Title: Para enmendar el Artículo 2 de la Ley Núm. 10-2020, conocida como “Ley del Derecho a
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 763
+7 de octubre de 2025
+Presentado por la señora Moran Trinidad
+Referido a
+LEY
+la Detección Efectiva del Cáncer de Seno”; añadir el inciso (ii) a la Sección 1 del
+Artículo III, añadir un nuevo inciso (e) y redesignar los incisos (e) y (f) como (f) y
+(g), respectivamente, del subinciso (1) del inciso “Cubierta C” de la Sección 6 del
+Artículo VI de la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la
+Administración de Seguros de Salud de Puerto Rico”, con el propósito de establecer
+que todo plan de salud en Puerto Rico, incluyendo el Plan Vital, que provea
+cobertura para servicios médicos deberá incluir, como beneficio preventivo, la
+mamografía de detección mediante tomosíntesis digital de seno 3D; disponer su
+aplicabilidad; y ordenar reglamentación.
+EXPOSICIÓN DE MOTIVOS
+El cáncer de seno es una de las principales causas de morbilidad y mortalidad en
+las mujeres. La evidencia científica y las guías de práctica clínica reconocen que la
+tomosíntesis digital de seno (mamografía 3D) es una modalidad eficaz de mamografía,
+asociada con mayor detección de cáncer y menores tasas de “recall” comparada con la
+mamografía digital 2D sola. En el 2024, el U.S. Preventive Services Task Force, estableció
+que la mamografía digital y la tomosíntesis digital son modalidades efectivas de
+“screening”.
+2
+Estudios han demostrado que la tomosíntesis aumenta la detección de cáncer
+invasivo y reduce falsos positivos o “recalls”, especialmente en pacientes con mamas
+densas. En el plano regulatorio, numerosos estados en Estados Unidos requieren que
+los planes médicos cubran la tomosíntesis como mamografía de cernimiento y, en
+muchos casos, sin deducibles ni copagos. Por ejemplo, el estado de Texas enmendó su
+Código de Seguros para incluir la tomosíntesis dentro de la definición de mamografía y
+exigir la cobertura. Desde el 2021, también exige paridad para imágenes diagnósticas
+relacionadas. Asimismo, el estado de Washington requiere cobertura de DBT sin costo
+compartido desde el 2018. Por su parte, el estado de Minnesota la reconoce como
+tratamiento preventivo para personas en riesgo. Un mapa comparativo y tablas
+legislativas actualizadas confirman a estas y otras jurisdicciones con cobertura
+obligatoria.
+En Puerto Rico, la Ley Núm. 10-2020, conocida como “Ley del Derecho a la
+Detección Efectiva del Cáncer de Seno”, ordena la cobertura de mamografías y otras
+pruebas de detección o diagnóstico para poblaciones específicas y menciona
+expresamente la tomosíntesis como alternativa diagnóstica en mujeres con senos
+densos. Sin embargo, no dispuso un mandato claro que integre este tipo de prueba
+como procedimiento preventivo de rutina (con costo compartido prohibido) para el
+universo de aseguradas que cumplan criterios de cernimiento, y que establezca paridad
+para imágenes diagnósticas relacionadas. Por tanto, es necesario enmendar el referido
+estatuto, así como la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la
+Administración de Seguros de Salud de Puerto Rico”, para dotar a las aseguradas de las
+mejores prácticas clínicas, cerrando así las brechas regulatorias y de acceso.
+Entendemos que la enmienda propuesta tendrá el potencial de salvar vidas,
+reducirá costos al evitar procedimientos innecesarios y promoverá equidad en pacientes
+con mamas densas y otros factores de riesgo, alineando a Puerto Rico con la evolución
+regulatoria en múltiples estados. Además, como se ha evidenciado, los mandatos de
+cobertura aumentan el uso de DBT (acceso), lo que puede redundar en mejores precios,
+3
+sin aumentar el gasto de bolsillo de las pacientes. En vista de ello, y poniendo la salud
+de los pacientes primero, se aprueba la presente Ley.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley Núm. 10-2020, para que se lea
+2 como sigue:
+3 “Artículo 2.- Todo asegurador u organización de servicios de salud, incluyendo el
+4 Plan de Salud del Gobierno, organizado conforme a la Ley Núm. 77 de 19 de junio de 1957,
+5 según enmendada, conocida como “Código de Seguros de Puerto Rico”, todo plan de
+6 seguro que brinde servicios en Puerto Rico, toda otra entidad contratada para ofrecer
+7 beneficios de salud en Puerto Rico y toda entidad excluida a tenor con el Artículo 1.070
+8 de dicha Ley; la Administración de Seguros de Salud de Puerto Rico y toda entidad
+9 contratada para ofrecer servicios de salud o de seguros de salud en Puerto Rico, a través
+10 de la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la Administración
+11 de Seguros de Salud de Puerto Rico”; proveerá, como parte de los beneficios de cuidado
+12 preventivo de su cubierta básica, mamografías y otras pruebas de diagnóstico y
+13 detección de cáncer de seno, según las prácticas aceptables, conforme a lo siguiente:
+14 a. una mamografía de referencia “baseline mammogram”, a mujeres entre treinta
+15 y cinco (35) y treinta y nueve (39) años,
+16 b. una mamografía anual a mujeres de cuarenta (40) años o más,
+17 c. una mamografía anual, tratamiento de seguimiento o pruebas de diagnóstico
+18 suplementarias:
+4
+1 i. a mujeres de cuarenta (40) años o más, que tienen senos de tejido
+2 clasificado como heterogéneamente denso o extremadamente denso, según
+3 determinado en su mamografía por un radiólogo, a base de la escala de densidad
+4 del seno del Reporte de Proyección de Imagen y Sistema de Datos del Seno
+5 (“Breast Imaging Reporting and Data System”, BI-RADS por sus siglas en inglés),
+6 promulgada por el Colegio Americano de Radiología (“American College of
+7 Radiology”);
+8 ii. a las mujeres con alto riesgo de desarrollar cáncer seno debido:
+9 1. a su historial familiar,
+10 2. a su propio historial como paciente de cáncer,
+11 3. presencia de marcadores de alto riesgo en su perfil genético, o
+12 4. algún otro factor determinado por su médico.
+13 Las mamografías preventivas podrán realizarse mediante tomosíntesis digital de seno
+14 (DBT), acompañada de imagen 3D digital o sintetizada, según estándares clínicos aplicables.
+15 Cuando un plan cubra una mamografía de detección, deberá ofrecer cobertura para
+16 imágenes diagnósticas y de seguimiento (mamografía diagnóstica, ecografía, resonancia
+17 magnética u otras modalidades) en condiciones no menos favorables que las aplicables a la
+18 mamografía de detección, incluyendo límites, autorizaciones y redes.
+19 La selección de modalidad 3D, DBT u otras, y la necesidad de exámenes suplementarios
+20 se regirá por las guías USPSTF, ACR y otras autoridades reconocidas, y por el juicio clínico del
+21 médico que ordenó el procedimiento.
+5
+1 Nada de lo dispuesto en este Artículo limitará coberturas adicionales más favorables para
+2 los pacientes ni impedirá a los planes cubrir una DBT para poblaciones fuera de los criterios
+3 mínimos aquí establecidos.”
+4 Sección 2.- Se añade el inciso (ii) a la Sección 1 del Artículo III de la Ley Núm. 72-
+5 1993, según enmendada, para que se lea como sigue:
+6 “ARTÍCULO III
+7 DEFINICIONES
+8 Sección 1.- Término y frases
+9 Para fines de esta Ley, los siguientes términos y frases tendrán el significado que
+10 se expone a continuación:
+11 (a) Administración: …
+12 …
+13 …
+14 …
+15 (ii) Tomosíntesis digital de seno (DBT, o mamografía 3D): procedimiento mamográfico
+16 radiológico de baja dosis que adquiere múltiples proyecciones sobre un seno estacionario y
+17 reconstruye cortes seccionales del tejido mamario para su interpretación, que se realiza
+18 junto con una imagen 2D (digital o sintetizada) conforme a estándares clínicos vigentes.”
+19 Sección 3.- Se añade un nuevo inciso (e) y se redesignan los incisos (e) y (f) como
+20 (f) y (g), respectivamente, del subinciso (1) del inciso “Cubierta C” de la Sección 6 del
+21 Artículo VI de la Ley Núm. 72-1993, según enmendada, para que se lea como sigue:
+22 “ARTÍCULO VI
+6
+1 PLAN DE SEGUROS DE SALUD
+2 Sección 1.- Selección de Planes de Seguros de Salud.
+3 …
+4 Sección 6.- Cubierta y Beneficios Mínimos.
+5 Los planes de salud tendrán una cubierta amplia, con un mínimo de exclusiones.
+6 No habrá exclusiones por condiciones preexistentes, como tampoco períodos de espera,
+7 al momento de otorgarse la cubierta al beneficiario.
+8 Cubierta A. La Administración establecerá una cubierta de beneficios a ser
+9 brindados por los aseguradores contratados o proveedores participantes. La cubierta
+10 comprenderá, entre otros beneficios, los siguientes: servicios ambulatorios,
+11 hospitalizaciones, salud dental, salud mental, vacunaciones y tratamientos para el virus
+12 del Papiloma Humano, estudios, pruebas y equipos, incluso para menores de veintiún
+13 (21) años de edad, postrados en cama con diversidades físicas o fisiológicas complejas y
+14 para beneficiarios que requieran el uso de un ventilador artificial para mantenerse con
+15 vida, los suplidos que conllevan el manejo de los equipos tecnológicos, terapia física y
+16 ocupacional necesaria para el desarrollo motor de estos pacientes, laboratorios, rayos X,
+17 así como medicamentos mediante prescripción médica, los cuales deberán ser
+18 despachados en una farmacia participante, libremente seleccionada por el asegurado, y
+19 autorizada bajo las leyes de Puerto Rico. La cubierta dispondrá para que cada
+20 beneficiario tenga a su alcance anualmente los exámenes de laboratorio e inmunización
+21 apropiados para su edad, sexo y condición física. Disponiéndose, que la lista de
+22 medicamentos para los pacientes de VIH/SIDA deberán revisarse anualmente a los
+7
+1 fines de que, en caso que la Administración lo estime pertinente, incluir aquellos nuevos
+2 medicamentos que sean necesarios para el tratamiento de la condición, que serán
+3 dispensados y ofrecidos en conformidad con las mejores prácticas médicas, siempre y
+4 cuando no se afecte el State Plan suscrito por el Departamento de Salud y el Health
+5 Resources and Services Administration.
+6 Para los efectos de los servicios establecidos en esta cubierta para menores de
+7 veintiún (21) años de edad, postrados en cama con diversidades físicas o fisiológicas
+8 complejas y para beneficiarios que requieran el uso de un ventilador artificial para
+9 mantenerse con vida, se dispone que tendrán el beneficio de un mínimo de un (1) turno
+10 diario de ocho (8) horas por paciente, de servicios de enfermería o de especialistas en
+11 terapia respiratoria o de técnicos(as) de emergencias médicas-paramédico(a) (TEM-P),
+12 debidamente licenciados(as). A estos efectos, se entenderá como beneficiario a aquellas
+13 personas que utilizan tecnología médica, así como niños con traqueotomía para
+14 respirar, y cuyo funcionamiento depende de un equipo médico, entiéndase respirador o
+15 de oxígeno suplementario, por lo que va a requerir cuidado diario especializado de
+16 cualesquiera profesionales antes mencionados para evitar la muerte o un grado mayor
+17 de incapacidad; y de aquellos que hayan comenzado tratamiento siendo menores y
+18 cumplan veintiún (21) años de edad y que recibieron o reciben servicios de asistencia
+19 clínica en el hogar continúen recibiendo dichos servicios después de haber cumplido
+20 veintiún (21) años de edad, según lo establecido en esta Sección. Además, los
+21 técnicos(as) de emergencias médicas-paramédicos(as) (TEM-P) debidamente licenciados
+22 deberán tener cursos, certificaciones y adiestramientos aprobados y convalidados o los
+8
+1 requerimientos de destrezas y conocimientos establecidos mediante reglamentación por
+2 su respectiva Junta Examinadora relacionados hacia el cuidado y manejo de dichos
+3 pacientes y sus equipos médicos, según autorizado en esta Ley.
+4 La Administración revisará esta cubierta periódicamente.
+5 Cubierta B. La cubierta de los servicios hospitalarios estará disponible (24) horas
+6 al día, todos los días del año.
+7 Cubierta C. En su cubierta ambulatoria los planes deberán incluir, sin que esto
+8 constituya una limitación, lo siguiente:
+9 (1) Servicios de Salud Preventivos:
+10 (a) Vacunación de niños y adolescentes hasta los dieciocho (18) años de edad.
+11 (b) Vacunación contra la influenza y pulmonía de personas mayores de
+12 sesenta y cinco (65) años de edad, y/o niños y adultos con enfermedades de
+13 alto riesgo como enfermedades pulmonares, renales, diabetes y del corazón,
+14 entre otras. (c) Visita al médico primario para examen médico general una
+15 vez al año.
+16 (d) Exámenes de cernimiento para cáncer ginecológico, de mama y de
+17 próstata,
+18 según las prácticas aceptables. Además, incluirán criterios para exámenes de
+19 cernimiento para cáncer de mama a las mujeres que cumplan con los
+20 siguientes
+21 requisitos:
+9
+1 i. una mamografía de referencia “baseline mammogram” a las
+2 mujeres entre treinta y cinco (35) y treinta y nueve (39) años de
+3 edad;
+4 ii. una mamografía anual a las mujeres de cuarenta (40) años o más;
+5 iii. una mamografía anual, tratamiento de seguimiento o pruebas de
+6 diagnóstico suplementarias, a las mujeres de cuarenta (40) años o
+7 más que tienen senos de tejido clasificado como heterogéneamente
+8 denso o extremadamente denso, según determinado en su
+9 mamografía por un radiólogo, en base a la escala de densidad del
+10 seno del Reporte de Proyección de Imagen y Sistema de Datos del
+11 Seno (“Breast Imaging Reporting and Data System”, BI-RADS, por
+12 sus siglas en inglés), promulgada por el Colegio Americano de
+13 Radiología (“American College of Radiology”);
+14 iv. una mamografía anual, tratamiento de seguimiento o pruebas de
+15 diagnóstico suplementarias, a las mujeres con alto riesgo de
+16 desarrollar cáncer seno debido a su historial familiar, a su propio
+17 historial como paciente de cáncer, a la presencia de marcadores de
+18 alto riesgo en su perfil genético o a algún otro factor determinado
+19 por su médico.
+20 (e) Las mamografías preventivas podrán realizarse mediante tomosíntesis digital de
+21 seno (DBT), acompañada de imagen 3D digital o sintetizada, según estándares
+22 clínicos aplicables.
+10
+1 Cuando un plan cubra mamografía de detección, deberá ofrecer cobertura para
+2 imágenes diagnósticas y de seguimiento (mamografía diagnóstica, ecografía,
+3 resonancia magnética u otras modalidades) en condiciones no menos favorables que
+4 las aplicables a la mamografía de detección, incluyendo límites, autorizaciones y
+5 redes.
+6 La selección de modalidad 3D, DBT u otras, y la necesidad de exámenes
+7 suplementarios se regirá por las guías USPSTF, ACR y otras autoridades
+8 reconocidas, y por el juicio clínico del médico que ordenó el procedimiento.
+9 Nada de lo aquí dispuesto limitará coberturas adicionales más favorables para la
+10 paciente, ni impedirá a los planes cubrir una DBT para poblaciones fuera de los
+11 criterios mínimos aquí establecidos.
+12 [(e)] (f) Sigmoidoscopía en adultos mayores de cincuenta (50) años a riesgo de
+13 cáncer del colon, según las prácticas aceptables.
+14 [(f)] (g) el suministro de un monitor de glucosa cada tres (3) años con
+15 reemplazo de equipo dañado, el suministro de una (1) inyección de glucagón
+16 y reemplazo de la misma en caso de su uso o por haber expirado, y un
+17 mínimo de ciento cincuenta (150) tirillas y de ciento cincuenta (150) lancetas
+18 cada mes para pacientes diagnosticados con diabetes mellitus tipo I por un
+19 especialista en endocrinología pediátrica o endocrinología.
+20 (2) Evaluación y tratamiento de beneficiarios con enfermedades conocidas: La
+21 evaluación y tratamiento inicial de los beneficiarios se llevará a cabo por el
+11
+1 médico primario escogido por el paciente entre los proveedores del plan
+2 correspondiente.
+3 (3) La Administración rendirá un informe semestral a la Asamblea Legislativa
+4 que incluya entre otros la lista de medicamentos, las controversias que hayan
+5 surgido con el “State Plan” suscrito por el Departamento de Salud y el “Health
+6 Resources and Services Administration” y la cantidad de pacientes que se vean
+7 afectados por estas controversias. Los médicos primarios tendrán la
+8 responsabilidad del manejo ambulatorio del beneficiario bajo su cuidado,
+9 proveyéndole continuidad en el servicio. Asimismo, éstos serán los únicos
+10 autorizados a referir al beneficiario a los médicos de apoyo y proveedores
+11 primarios.
+12 (4) Acceso al tratamiento de vacunación para el virus del Papiloma Humano,
+13 cual consiste de tres (3) dosis que se administrará conforme a lo establecido por
+14 el profesional de la salud. Esta cubierta no se limitará únicamente al tratamiento
+15 expuesto en este inciso, y se extenderá a cualquier otro tratamiento o vacuna que
+16 surja para el tratamiento y prevención del virus del Papiloma Humano.
+17 (5) La Administración rendirá un informe semestral a la Asamblea Legislativa
+18 que incluya entre otros la lista de medicamentos, las controversias que hayan
+19 surgido con el State Plan suscrito por el Departamento de Salud y el Health
+20 Resources and Services Administration y la cantidad de pacientes que se vean
+21 afectados por estas controversias.
+12
+1 Los médicos primarios tendrán la responsabilidad del manejo ambulatorio del
+2 beneficiario bajo su cuidado, proveyéndole continuidad en el servicio. Asimismo, estos
+3 serán los únicos autorizados a referir al beneficiario a los médicos de apoyo y
+4 proveedores primarios. Disponiéndose, que aquellos beneficiarios que padezcan de
+5 alguna enfermedad crónica o de alto costo, según definidas por el Departamento de
+6 Salud y dispuestas en esta Sección, no necesitarán referidos del médico primario para
+7 tratar su enfermedad.
+8 Se considerará como enfermedad crónica aquella que usualmente se desarrolla
+9 lentamente, tiende a tener una larga duración y la severidad de la misma progresa con
+10 el tiempo. Puede ser controlada, pero es raramente se cura. Por su parte, se entenderá
+11 como enfermedad de alto costo aquella con un impacto similar a la enfermedad crónica,
+12 pero con la diferencia de que ésta no progresa necesariamente si es tratada y controlada
+13 a tiempo.”
+14 Sección 4.- Aplicabilidad y preeminencia.
+15 Esta Ley aplicará a todos los contratos y pólizas emitidos, enmendados o
+16 renovados luego de su vigencia por entidades sujetas al Código de Seguros de Puerto
+17 Rico. La ASES garantizará la implementación de estas disposiciones en el Plan de Salud
+18 del Gobierno.
+19 Para planes auto asegurados sujetos a prelación federal (ERISA) u otros
+20 esquemas exentos, se promoverá su adopción voluntaria. Nada de lo dispuesto en esta
+21 Ley se interpretará como una contravención a las leyes federales aplicables.
+22 Sección 5.- Reglamentación.
+13
+1 Se ordena a la Oficina del Comisionado de Seguros (OCS), Departamento de
+2 Salud, Administración de Seguros de Salud (ASES) para el Plan de Salud del Gobierno
+3 y a la Oficina del Procurador del Paciente a promulgar o atemperar reglamentos
+4 vigentes y cartas normativas en un término no mayor de ciento ochenta (180) días desde
+5 la vigencia de esta Ley para su implementación uniforme, incluyendo estándares de
+6 facturación y autorización compatibles con códigos CPT/HCPCS aplicables a las DBT y
+7 modalidades relacionadas.
+8 Sección 6.- Deber de orientación; informe anual.
+9 Será deber, tanto de la OCS como de la ASES, orientar e informar a las
+10 aseguradoras, organizaciones de seguros de salud y terceros administradores sobre el
+11 alcance y las disposiciones de las enmiendas que se incluyen en esta Ley. Además, será
+12 deber del Departamento de Salud, en coordinación con la Oficina del Procurador del
+13 Paciente, promulgar e incluir en sus programas educativos y materiales de orientación a
+14 pacientes y profesionales de la salud, así como al público en general, información sobre
+15 las DBTs, densidad mamaria y opciones de cernimiento, así como de acceso a cobertura.
+16 La OCS deberá someter informes cada doce (12) meses a la Asamblea Legislativa
+17 durante los primeros tres (3) años de vigencia de esta Ley, que incluyan métricas de
+18 acceso, utilización de las DBT, denegaciones y quejas, así como con aquellas
+19 recomendaciones de mejora que considere pertinentes.
+20 Sección 7.- Separabilidad.
+21 Si cualquier artículo, inciso, parte, párrafo o cláusula de esta Ley o su aplicación
+22 a cualquier persona o circunstancia, fuera declarada inconstitucional por un Tribunal
+14
+1 competente, la sentencia dictada no afectará ni invalidará sus demás disposiciones. El
+2 efecto de dicha sentencia quedará limitado a la cláusula, párrafo, artículo, sección o
+3 parte de esta que así hubiere sido declarada inconstitucional o inválida.
+4 Sección 8.- Vigencia.
+5 Esta Ley comenzará a regir a los ciento ochenta (180) días después de su
+6 aprobación.
+[DELETED: 0A          2  d             t p d s e P R i e P V q p p s m d i c b p l d d m tsd d s 3 d s m L e c y l g d p c r q l , l m d y l t d s m e d]
+[DELETED:  h d q l t a l d d c p m c l t c m d c y e o d e 2 P s p e e d M l r c p p p e r U m c y t a c a e y o j c c P R l L N 1 c c “ d D a l d d o d p p e y m l t c a d e m c s m p p d r ( c c p p e q l e p t e p d s v e m e A c s h e l m d]
+[DELETED:  i P 7 N d s c b m y o p d d y]
+[DELETED:  a m d c ( a o m q t s d t c h d o e d s s d R d P d I y S d D d S p e C A d R ( C oo   L m p p r m t d d s ( C u p c u m d d d o c p i d y d s ( d e r m u o m e c n m f q l a a l m L s m]
+[DELETED:  N l m.)A ( r r j.]
+[DELETED:  A L A e u c d b a s p l a c o p p L c e o b l s s a c m m p m l c d s b l l d P R L c d p q c p s e s y c f D q l l d p l p d V d r a a l]
+[DELETED: e   q s n p e t d l cn q s  y p b q r e u d u v a p q u t m a c n c t p o s p l q v a r c d e d i y d a q h c t s m y ( a d e s l e e e S A l]
+[DELETED:  r J E r h e c y m d d)S)V  V c l i y p d p m d E d c p c g d m y d p c d m a l m q c c l]
+[DELETED: .u m d r “ m a l e t y c ( y t y n ( a d.u.u o e d s d e s s e i p p e C A d.u s a l m c a r d ( s ( a d i 3 d o s s e c]
+[DELETED:  C u p c m d d d o c p i d y d s ( d e r l a a l m d d i l a y r L s d m 3 D u o y l n d e s s r p l g U A y o a r N d l a d l c a m f p l p n i a l p c u D p p f d l cS ( e s d u m d g c t ( a c ( r d l m e c d s u o p h e y u E y t d b c e c L y t i d l b s l a c p e]
+[DELETED:  p e p e p e l p d p i e o l l d m l c q h p e c L m p t l d m a d b b s c c e e s A é s l ú a r a b a l m d a y p A a t d v p e v d P H i e o l l d m l c q h c e S P s p e D d S y e H]
+[DELETED:  l ú a a r a b a l m d a y p D q a b q p d e c o d a c s d p e D d E L a a t l c y p e e o P p a a s a p f ( u o]
+[DELETED:  o a l O d C d S ( D d a l O d P d P a p o a r v d e L p s i u i e d d t d l O c d l A o e i a l u d l D d y q a c c a]
+[DELETED:  d d s q l a l c p a s o L c a r a l c o ( d d d s]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 763
+7 de octubre de 2025
+Presentado por la señora Moran Trinidad
+Referido a
+LEY
+Para enmendar el Artículo 2 de la Ley Núm. 10-2020, conocida como “Ley del Derecho a
+la Detección Efectiva del Cáncer de Seno”; añadir el inciso (ii) a la Sección 1 del
+Artículo III, añadir un nuevo inciso (e) y redesignar los incisos (e) y (f) como (f) y
+(g), respectivamente, del subinciso (1) del inciso “Cubierta C” de la Sección 6 del
+Artículo VI de la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la
+Administración de Seguros de Salud de Puerto Rico”, con el propósito de establecer
+que todo plan de salud en Puerto Rico, incluyendo el Plan Vital, que provea
+cobertura para servicios médicos deberá incluir, como beneficio preventivo, la
+mamografía de detección mediante tomosíntesis digital de seno 3D; disponer su
+aplicabilidad; y ordenar reglamentación.
+EXPOSICIÓN DE MOTIVOS
+El cáncer de seno es una de las principales causas de morbilidad y mortalidad en
+las mujeres. La evidencia científica y las guías de práctica clínica reconocen que la
+tomosíntesis digital de seno (mamografía 3D) es una modalidad eficaz de mamografía,
+asociada con mayor detección de cáncer y menores tasas de “recall” comparada con la
+mamografía digital 2D sola. En el 2024, el U.S. Preventive Services Task Force, estableció
+que la mamografía digital y la tomosíntesis digital son modalidades efectivas de
+“screening”.
+
+2
+Estudios han demostrado que la tomosíntesis aumenta la detección de cáncer
+invasivo y reduce falsos positivos o “recalls”, especialmente en pacientes con mamas
+densas. En el plano regulatorio, numerosos estados en Estados Unidos requieren que
+los planes médicos cubran la tomosíntesis como mamografía de cernimiento y, en
+muchos casos, sin deducibles ni copagos. Por ejemplo, el estado de Texas enmendó su
+Código de Seguros para incluir la tomosíntesis dentro de la definición de mamografía y
+exigir la cobertura. Desde el 2021, también exige paridad para imágenes diagnósticas
+relacionadas. Asimismo, el estado de Washington requiere cobertura de DBT sin costo
+compartido desde el 2018. Por su parte, el estado de Minnesota la reconoce como
+tratamiento preventivo para personas en riesgo. Un mapa comparativo y tablas
+legislativas actualizadas confirman a estas y otras jurisdicciones con cobertura
+obligatoria.
+En Puerto Rico, la Ley Núm. 10-2020, conocida como “Ley del Derecho a la
+Detección Efectiva del Cáncer de Seno”, ordena la cobertura de mamografías y otras
+pruebas de detección o diagnóstico para poblaciones específicas y menciona
+expresamente la tomosíntesis como alternativa diagnóstica en mujeres con senos
+densos. Sin embargo, no dispuso un mandato claro que integre este tipo de prueba
+como procedimiento preventivo de rutina (con costo compartido prohibido) para el
+universo de aseguradas que cumplan criterios de cernimiento, y que establezca paridad
+para imágenes diagnósticas relacionadas. Por tanto, es necesario enmendar el referido
+estatuto, así como la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la
+Administración de Seguros de Salud de Puerto Rico”, para dotar a las aseguradas de las
+mejores prácticas clínicas, cerrando así las brechas regulatorias y de acceso.
+Entendemos que la enmienda propuesta tendrá el potencial de salvar vidas,
+reducirá costos al evitar procedimientos innecesarios y promoverá equidad en pacientes
+con mamas densas y otros factores de riesgo, alineando a Puerto Rico con la evolución
+regulatoria en múltiples estados. Además, como se ha evidenciado, los mandatos de
+cobertura aumentan el uso de DBT (acceso), lo que puede redundar en mejores precios,
+
+3
+sin aumentar el gasto de bolsillo de las pacientes. En vista de ello, y poniendo la salud
+de los pacientes primero, se aprueba la presente Ley.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 2 de la Ley Núm. 10-2020, para que se lea
+2 como sigue:
+3 “Artículo 2.- Todo asegurador u organización de servicios de salud, incluyendo el
+4 Plan de Salud del Gobierno, organizado conforme a la Ley Núm. 77 de 19 de junio de 1957,
+5 según enmendada, conocida como “Código de Seguros de Puerto Rico”, todo plan de
+6 seguro que brinde servicios en Puerto Rico, toda otra entidad contratada para ofrecer
+7 beneficios de salud en Puerto Rico y toda entidad excluida a tenor con el Artículo 1.070
+8 de dicha Ley; la Administración de Seguros de Salud de Puerto Rico y toda entidad
+9 contratada para ofrecer servicios de salud o de seguros de salud en Puerto Rico, a través
+10 de la Ley Núm. 72-1993, según enmendada, conocida como “Ley de la Administración
+11 de Seguros de Salud de Puerto Rico”; proveerá, como parte de los beneficios de cuidado
+12 preventivo de su cubierta básica, mamografías y otras pruebas de diagnóstico y
+13 detección de cáncer de seno, según las prácticas aceptables, conforme a lo siguiente:
+14 a. una mamografía de referencia “baseline mammogram”, a mujeres entre treinta
+15 y cinco (35) y treinta y nueve (39) años,
+16 b. una mamografía anual a mujeres de cuarenta (40) años o más,
+17 c. una mamografía anual, tratamiento de seguimiento o pruebas de diagnóstico
+18 suplementarias:
+
+4
+1 i. a mujeres de cuarenta (40) años o más, que tienen senos de tejido
+2 clasificado como heterogéneamente denso o extremadamente denso, según
+3 determinado en su mamografía por un radiólogo, a base de la escala de densidad
+4 del seno del Reporte de Proyección de Imagen y Sistema de Datos del Seno
+5 (“Breast Imaging Reporting and Data System”, BI-RADS por sus siglas en inglés),
+6 promulgada por el Colegio Americano de Radiología (“American College of
+7 Radiology”);
+8 ii. a las mujeres con alto riesgo de desarrollar cáncer seno debido:
+9 1. a su historial familiar,
+10 2. a su propio historial como paciente de cáncer,
+11 3. presencia de marcadores de alto riesgo en su perfil genético, o
+12 4. algún otro factor determinado por su médico.
+13 Las mamografías preventivas podrán realizarse mediante tomosíntesis digital de seno
+14 (DBT), acompañada de imagen 3D digital o sintetizada, según estándares clínicos aplicables.
+15 Cuando un plan cubra una mamografía de detección, deberá ofrecer cobertura para
+16 imágenes diagnósticas y de seguimiento (mamografía diagnóstica, ecografía, resonancia
+17 magnética u otras modalidades) en condiciones no menos favorables que las aplicables a la
+18 mamografía de detección, incluyendo límites, autorizaciones y redes.
+19 La selección de modalidad 3D, DBT u otras, y la necesidad de exámenes suplementarios
+20 se regirá por las guías USPSTF, ACR y otras autoridades reconocidas, y por el juicio clínico del
+21 médico que ordenó el procedimiento.
+
+5
+1 Nada de lo dispuesto en este Artículo limitará coberturas adicionales más favorables para
+2 los pacientes ni impedirá a los planes cubrir una DBT para poblaciones fuera de los criterios
+3 mínimos aquí establecidos.”
+4 Sección 2.- Se añade el inciso (ii) a la Sección 1 del Artículo III de la Ley Núm. 72-
+5 1993, según enmendada, para que se lea como sigue:
+6 “ARTÍCULO III
+7 DEFINICIONES
+8 Sección 1.- Término y frases
+9 Para fines de esta Ley, los siguientes términos y frases tendrán el significado que
+10 se expone a continuación:
+11 (a) Administración: …
+12 …
+13 …
+14 …
+15 (ii) Tomosíntesis digital de seno (DBT, o mamografía 3D): procedimiento mamográfico
+16 radiológico de baja dosis que adquiere múltiples proyecciones sobre un seno estacionario y
+17 reconstruye cortes seccionales del tejido mamario para su interpretación, que se realiza
+18 junto con una imagen 2D (digital o sintetizada) conforme a estándares clínicos vigentes.”
+19 Sección 3.- Se añade un nuevo inciso (e) y se redesignan los incisos (e) y (f) como
+20 (f) y (g), respectivamente, del subinciso (1) del inciso “Cubierta C” de la Sección 6 del
+21 Artículo VI de la Ley Núm. 72-1993, según enmendada, para que se lea como sigue:
+22 “ARTÍCULO VI
+
+6
+1 PLAN DE SEGUROS DE SALUD
+2 Sección 1.- Selección de Planes de Seguros de Salud.
+3 …
+4 Sección 6.- Cubierta y Beneficios Mínimos.
+5 Los planes de salud tendrán una cubierta amplia, con un mínimo de exclusiones.
+6 No habrá exclusiones por condiciones preexistentes, como tampoco períodos de espera,
+7 al momento de otorgarse la cubierta al beneficiario.
+8 Cubierta A. La Administración establecerá una cubierta de beneficios a ser
+9 brindados por los aseguradores contratados o proveedores participantes. La cubierta
+10 comprenderá, entre otros beneficios, los siguientes: servicios ambulatorios,
+11 hospitalizaciones, salud dental, salud mental, vacunaciones y tratamientos para el virus
+12 del Papiloma Humano, estudios, pruebas y equipos, incluso para menores de veintiún
+13 (21) años de edad, postrados en cama con diversidades físicas o fisiológicas complejas y
+14 para beneficiarios que requieran el uso de un ventilador artificial para mantenerse con
+15 vida, los suplidos que conllevan el manejo de los equipos tecnológicos, terapia física y
+16 ocupacional necesaria para el desarrollo motor de estos pacientes, laboratorios, rayos X,
+17 así como medicamentos mediante prescripción médica, los cuales deberán ser
+18 despachados en una farmacia participante, libremente seleccionada por el asegurado, y
+19 autorizada bajo las leyes de Puerto Rico. La cubierta dispondrá para que cada
+20 beneficiario tenga a su alcance anualmente los exámenes de laboratorio e inmunización
+21 apropiados para su edad, sexo y condición física. Disponiéndose, que la lista de
+22 medicamentos para los pacientes de VIH/SIDA deberán revisarse anualmente a los
+
+7
+1 fines de que, en caso que la Administración lo estime pertinente, incluir aquellos nuevos
+2 medicamentos que sean necesarios para el tratamiento de la condición, que serán
+3 dispensados y ofrecidos en conformidad con las mejores prácticas médicas, siempre y
+4 cuando no se afecte el State Plan suscrito por el Departamento de Salud y el Health
+5 Resources and Services Administration.
+6 Para los efectos de los servicios establecidos en esta cubierta para menores de
+7 veintiún (21) años de edad, postrados en cama con diversidades físicas o fisiológicas
+8 complejas y para beneficiarios que requieran el uso de un ventilador artificial para
+9 mantenerse con vida, se dispone que tendrán el beneficio de un mínimo de un (1) turno
+10 diario de ocho (8) horas por paciente, de servicios de enfermería o de especialistas en
+11 terapia respiratoria o de técnicos(as) de emergencias médicas-paramédico(a) (TEM-P),
+12 debidamente licenciados(as). A estos efectos, se entenderá como beneficiario a aquellas
+13 personas que utilizan tecnología médica, así como niños con traqueotomía para
+14 respirar, y cuyo funcionamiento depende de un equipo médico, entiéndase respirador o
+15 de oxígeno suplementario, por lo que va a requerir cuidado diario especializado de
+16 cualesquiera profesionales antes mencionados para evitar la muerte o un grado mayor
+17 de incapacidad; y de aquellos que hayan comenzado tratamiento siendo menores y
+18 cumplan veintiún (21) años de edad y que recibieron o reciben servicios de asistencia
+19 clínica en el hogar continúen recibiendo dichos servicios después de haber cumplido
+20 veintiún (21) años de edad, según lo establecido en esta Sección. Además, los
+21 técnicos(as) de emergencias médicas-paramédicos(as) (TEM-P) debidamente licenciados
+22 deberán tener cursos, certificaciones y adiestramientos aprobados y convalidados o los
+
+8
+1 requerimientos de destrezas y conocimientos establecidos mediante reglamentación por
+2 su respectiva Junta Examinadora relacionados hacia el cuidado y manejo de dichos
+3 pacientes y sus equipos médicos, según autorizado en esta Ley.
+4 La Administración revisará esta cubierta periódicamente.
+5 Cubierta B. La cubierta de los servicios hospitalarios estará disponible (24) horas
+6 al día, todos los días del año.
+7 Cubierta C. En su cubierta ambulatoria los planes deberán incluir, sin que esto
+8 constituya una limitación, lo siguiente:
+9 (1) Servicios de Salud Preventivos:
+10 (a) Vacunación de niños y adolescentes hasta los dieciocho (18) años de edad.
+11 (b) Vacunación contra la influenza y pulmonía de personas mayores de
+12 sesenta y cinco (65) años de edad, y/o niños y adultos con enfermedades de
+13 alto riesgo como enfermedades pulmonares, renales, diabetes y del corazón,
+14 entre otras. (c) Visita al médico primario para examen médico general una
+15 vez al año.
+16 (d) Exámenes de cernimiento para cáncer ginecológico, de mama y de
+17 próstata,
+18 según las prácticas aceptables. Además, incluirán criterios para exámenes de
+19 cernimiento para cáncer de mama a las mujeres que cumplan con los
+20 siguientes
+21 requisitos:
+
+9
+1 i. una mamografía de referencia “baseline mammogram” a las
+2 mujeres entre treinta y cinco (35) y treinta y nueve (39) años de
+3 edad;
+4 ii. una mamografía anual a las mujeres de cuarenta (40) años o más;
+5 iii. una mamografía anual, tratamiento de seguimiento o pruebas de
+6 diagnóstico suplementarias, a las mujeres de cuarenta (40) años o
+7 más que tienen senos de tejido clasificado como heterogéneamente
+8 denso o extremadamente denso, según determinado en su
+9 mamografía por un radiólogo, en base a la escala de densidad del
+10 seno del Reporte de Proyección de Imagen y Sistema de Datos del
+11 Seno (“Breast Imaging Reporting and Data System”, BI-RADS, por
+12 sus siglas en inglés), promulgada por el Colegio Americano de
+13 Radiología (“American College of Radiology”);
+14 iv. una mamografía anual, tratamiento de seguimiento o pruebas de
+15 diagnóstico suplementarias, a las mujeres con alto riesgo de
+16 desarrollar cáncer seno debido a su historial familiar, a su propio
+17 historial como paciente de cáncer, a la presencia de marcadores de
+18 alto riesgo en su perfil genético o a algún otro factor determinado
+19 por su médico.
+20 (e) Las mamografías preventivas podrán realizarse mediante tomosíntesis digital de
+21 seno (DBT), acompañada de imagen 3D digital o sintetizada, según estándares
+22 clínicos aplicables.
+
+10
+1 Cuando un plan cubra mamografía de detección, deberá ofrecer cobertura para
+2 imágenes diagnósticas y de seguimiento (mamografía diagnóstica, ecografía,
+3 resonancia magnética u otras modalidades) en condiciones no menos favorables que
+4 las aplicables a la mamografía de detección, incluyendo límites, autorizaciones y
+5 redes.
+6 La selección de modalidad 3D, DBT u otras, y la necesidad de exámenes
+7 suplementarios se regirá por las guías USPSTF, ACR y otras autoridades
+8 reconocidas, y por el juicio clínico del médico que ordenó el procedimiento.
+9 Nada de lo aquí dispuesto limitará coberturas adicionales más favorables para la
+10 paciente, ni impedirá a los planes cubrir una DBT para poblaciones fuera de los
+11 criterios mínimos aquí establecidos.
+12 [(e)] (f) Sigmoidoscopía en adultos mayores de cincuenta (50) años a riesgo de
+13 cáncer del colon, según las prácticas aceptables.
+14 [(f)] (g) el suministro de un monitor de glucosa cada tres (3) años con
+15 reemplazo de equipo dañado, el suministro de una (1) inyección de glucagón
+16 y reemplazo de la misma en caso de su uso o por haber expirado, y un
+17 mínimo de ciento cincuenta (150) tirillas y de ciento cincuenta (150) lancetas
+18 cada mes para pacientes diagnosticados con diabetes mellitus tipo I por un
+19 especialista en endocrinología pediátrica o endocrinología.
+20 (2) Evaluación y tratamiento de beneficiarios con enfermedades conocidas: La
+21 evaluación y tratamiento inicial de los beneficiarios se llevará a cabo por el
+
+11
+1 médico primario escogido por el paciente entre los proveedores del plan
+2 correspondiente.
+3 (3) La Administración rendirá un informe semestral a la Asamblea Legislativa
+4 que incluya entre otros la lista de medicamentos, las controversias que hayan
+5 surgido con el “State Plan” suscrito por el Departamento de Salud y el “Health
+6 Resources and Services Administration” y la cantidad de pacientes que se vean
+7 afectados por estas controversias. Los médicos primarios tendrán la
+8 responsabilidad del manejo ambulatorio del beneficiario bajo su cuidado,
+9 proveyéndole continuidad en el servicio. Asimismo, éstos serán los únicos
+10 autorizados a referir al beneficiario a los médicos de apoyo y proveedores
+11 primarios.
+12 (4) Acceso al tratamiento de vacunación para el virus del Papiloma Humano,
+13 cual consiste de tres (3) dosis que se administrará conforme a lo establecido por
+14 el profesional de la salud. Esta cubierta no se limitará únicamente al tratamiento
+15 expuesto en este inciso, y se extenderá a cualquier otro tratamiento o vacuna que
+16 surja para el tratamiento y prevención del virus del Papiloma Humano.
+17 (5) La Administración rendirá un informe semestral a la Asamblea Legislativa
+18 que incluya entre otros la lista de medicamentos, las controversias que hayan
+19 surgido con el State Plan suscrito por el Departamento de Salud y el Health
+20 Resources and Services Administration y la cantidad de pacientes que se vean
+21 afectados por estas controversias.
+
+12
+1 Los médicos primarios tendrán la responsabilidad del manejo ambulatorio del
+2 beneficiario bajo su cuidado, proveyéndole continuidad en el servicio. Asimismo, estos
+3 serán los únicos autorizados a referir al beneficiario a los médicos de apoyo y
+4 proveedores primarios. Disponiéndose, que aquellos beneficiarios que padezcan de
+5 alguna enfermedad crónica o de alto costo, según definidas por el Departamento de
+6 Salud y dispuestas en esta Sección, no necesitarán referidos del médico primario para
+7 tratar su enfermedad.
+8 Se considerará como enfermedad crónica aquella que usualmente se desarrolla
+9 lentamente, tiende a tener una larga duración y la severidad de la misma progresa con
+10 el tiempo. Puede ser controlada, pero es raramente se cura. Por su parte, se entenderá
+11 como enfermedad de alto costo aquella con un impacto similar a la enfermedad crónica,
+12 pero con la diferencia de que ésta no progresa necesariamente si es tratada y controlada
+13 a tiempo.”
+14 Sección 4.- Aplicabilidad y preeminencia.
+15 Esta Ley aplicará a todos los contratos y pólizas emitidos, enmendados o
+16 renovados luego de su vigencia por entidades sujetas al Código de Seguros de Puerto
+17 Rico. La ASES garantizará la implementación de estas disposiciones en el Plan de Salud
+18 del Gobierno.
+19 Para planes auto asegurados sujetos a prelación federal (ERISA) u otros
+20 esquemas exentos, se promoverá su adopción voluntaria. Nada de lo dispuesto en esta
+21 Ley se interpretará como una contravención a las leyes federales aplicables.
+22 Sección 5.- Reglamentación.
+
+13
+1 Se ordena a la Oficina del Comisionado de Seguros (OCS), Departamento de
+2 Salud, Administración de Seguros de Salud (ASES) para el Plan de Salud del Gobierno
+3 y a la Oficina del Procurador del Paciente a promulgar o atemperar reglamentos
+4 vigentes y cartas normativas en un término no mayor de ciento ochenta (180) días desde
+5 la vigencia de esta Ley para su implementación uniforme, incluyendo estándares de
+6 facturación y autorización compatibles con códigos CPT/HCPCS aplicables a las DBT y
+7 modalidades relacionadas.
+8 Sección 6.- Deber de orientación; informe anual.
+9 Será deber, tanto de la OCS como de la ASES, orientar e informar a las
+10 aseguradoras, organizaciones de seguros de salud y terceros administradores sobre el
+11 alcance y las disposiciones de las enmiendas que se incluyen en esta Ley. Además, será
+12 deber del Departamento de Salud, en coordinación con la Oficina del Procurador del
+13 Paciente, promulgar e incluir en sus programas educativos y materiales de orientación a
+14 pacientes y profesionales de la salud, así como al público en general, información sobre
+15 las DBTs, densidad mamaria y opciones de cernimiento, así como de acceso a cobertura.
+16 La OCS deberá someter informes cada doce (12) meses a la Asamblea Legislativa
+17 durante los primeros tres (3) años de vigencia de esta Ley, que incluyan métricas de
+18 acceso, utilización de las DBT, denegaciones y quejas, así como con aquellas
+19 recomendaciones de mejora que considere pertinentes.
+20 Sección 7.- Separabilidad.
+21 Si cualquier artículo, inciso, parte, párrafo o cláusula de esta Ley o su aplicación
+22 a cualquier persona o circunstancia, fuera declarada inconstitucional por un Tribunal
+
+14
+1 competente, la sentencia dictada no afectará ni invalidará sus demás disposiciones. El
+2 efecto de dicha sentencia quedará limitado a la cláusula, párrafo, artículo, sección o
+3 parte de esta que así hubiere sido declarada inconstitucional o inválida.
+4 Sección 8.- Vigencia.
+5 Esta Ley comenzará a regir a los ciento ochenta (180) días después de su
+6 aprobación.
+
+[DELETED: 0A          2  d             t p d s e P R i e P V q p p s m d i c b p l d d m tsd d s 3 d s m L e c y l g d p c r q l , l m d y l t d s m e d]
+[DELETED:  h d q l t a l d d c p m c l t c m d c y e o d e 2 P s p e e d M l r c p p p e r U m c y t a c a e y o j c c P R l L N 1 c c “ d D a l d d o d p p e y m l t c a d e m c s m p p d r ( c c p p e q l e p t e p d s v e m e A c s h e l m d]
+[DELETED:  i P 7 N d s c b m y o p d d y]
+[DELETED:  a m d c ( a o m q t s d t c h d o e d s s d R d P d I y S d D d S p e C A d R ( C oo   L m p p r m t d d s ( C u p c u m d d d o c p i d y d s ( d e r m u o m e c n m f q l a a l m L s m]
+[DELETED:  N l m.)A ( r r j.]
+[DELETED:  A L A e u c d b a s p l a c o p p L c e o b l s s a c m m p m l c d s b l l d P R L c d p q c p s e s y c f D q l l d p l p d V d r a a l]
+[DELETED: e   q s n p e t d l cn q s  y p b q r e u d u v a p q u t m a c n c t p o s p l q v a r c d e d i y d a q h c t s m y ( a d e s l e e e S A l]
+[DELETED:  r J E r h e c y m d d)S)V  V c l i y p d p m d E d c p c g d m y d p c d m a l m q c c l]
+[DELETED: .u m d r “ m a l e t y c ( y t y n ( a d.u.u o e d s d e s s e i p p e C A d.u s a l m c a r d ( s ( a d i 3 d o s s e c]
+[DELETED:  C u p c m d d d o c p i d y d s ( d e r l a a l m d d i l a y r L s d m 3 D u o y l n d e s s r p l g U A y o a r N d l a d l c a m f p l p n i a l p c u D p p f d l cS ( e s d u m d g c t ( a c ( r d l m e c d s u o p h e y u E y t d b c e c L y t i d l b s l a c p e]
+[DELETED:  p e p e p e l p d p i e o l l d m l c q h p e c L m p t l d m a d b b s c c e e s A é s l ú a r a b a l m d a y p A a t d v p e v d P H i e o l l d m l c q h c e S P s p e D d S y e H]
+[DELETED:  l ú a a r a b a l m d a y p D q a b q p d e c o d a c s d p e D d E L a a t l c y p e e o P p a a s a p f ( u o]
+[DELETED:  o a l O d C d S ( D d a l O d P d P a p o a r v d e L p s i u i e d d t d l O c d l A o e i a l u d l D d y q a c c a]
+[DELETED:  d d s q l a l c p a s o L c a r a l c o ( d d d s]

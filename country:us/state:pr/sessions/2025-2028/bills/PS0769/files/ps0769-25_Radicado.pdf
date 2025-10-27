@@ -1,0 +1,981 @@
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 769
+7 de octubre de 2025
+Presentado por el señor Rivera Schatz
+Referido a
+LEY
+Para crear la “Ley del Instituto de Desarrollo e Innovación en Inteligencia Artificial de
+Puerto Rico”; a los fines de establecer la política pública del Gobierno de Puerto Rico
+sobre el manejo proactivo y responsable del tema de la Inteligencia Artificial (IA)
+para fomentar el desarrollo sostenible y resiliente de nuestra economía, sociedad
+infraestructura e instituciones gubernamentales; convertir a Puerto Rico en un eje
+regional y mundial para el desarrollo y aplicación de tecnologías de Inteligencia
+Artificial; definir y establecer su naturaleza, propósitos, funciones, estructura de
+gobernanza y operación que propicien la colaboración entre el sector público,
+privado y académico; establecer disposiciones y principios de transparencia, ética,
+evaluación y rendición de cuentas en todos los procesos y etapas de desarrollo,
+innovación y adopción de tecnologías de Inteligencia Artificial; fomentar la
+integración con políticas de datos abiertos para maximizar el valor de los datos
+gubernamentales en proyectos de Inteligencia Artificial; crear y capitalizar el Fondo
+de Desarrollo e Innovación de Inteligencia Artificial de Puerto Rico; enmendar las
+Secciones 2023.01,2061.01 y 5010.01 de la Ley 60-2019, según enmendada, conocida
+como el “Código de Incentivos de Puerto Rico”; enmendar el 6 de la Ley 75-2019,
+según enmendada, conocida como la “Ley de la Puerto Rico Innovation and
+Technology Service”; enmendar el Artículo 2 de la Ley 13-2017, según enmendada,
+conocida como la “Ley para Autorizar la Creación de una Corporación sin Fines de
+Lucro la cual Adoptará el Concepto Enterprise Puerto Rico”; enmendar el Artículo 3
+de la Ley 214-2004, según enmendada, conocida como la “Ley del Fideicomiso para
+Ciencia, Tecnología e Investigación de Puerto Rico”; y para otros fines relacionados.
+
+2
+EXPOSICIÓN DE MOTIVOS
+La Inteligencia Artificial (IA) constituye una de las industrias más importantes del
+mundo en el Siglo XXI, generando anualmente billones de dólares en impacto
+económico según organismos internacionales como la Organización para la
+Cooperación y el Desarrollo Económico (OCDE) y el Foro Económico Mundial. Según
+las proyecciones, se estima un crecimiento exponencial que podría alcanzar los $15.7
+billones para el año 2030, impulsado por avances en aprendizaje automático,
+procesamiento de datos masivos y aplicaciones en sectores como la salud, la educación,
+la infraestructura, la manufactura y los servicios públicos. La Organización de las
+Naciones Unidas (ONU) y la Unión Internacional de Telecomunicaciones (UIT) han
+destacado cómo la Inteligencia Artificial ha transformado el panorama global, con un
+incremento del 300% en inversiones durante la década pasada, posicionando a naciones
+como Estados Unidos, China y la Unión Europea al frente de esta revolución
+tecnológica. En las Américas, países como México y Brasil han comenzado a integrarla
+en sus estrategias nacionales, aunque muchos enfrentan rezagos en competitividad
+debido a la falta de infraestructura digital adecuada y políticas públicas coherentes.
+En el 2020, el Congreso federal aprobó el “National Artificial Intelligence Initiative Act
+of 2020”,1 el cual establece un programa coordinado en todo el gobierno federal para
+acelerar la investigación y aplicación de la Inteligencia Artificial con el objetivo de
+promover la prosperidad económica y la seguridad nacional. La misión del “National
+Artificial Intelligence Initiative” es garantizar el liderazgo de Estados Unidos en la
+investigación y desarrollo de esta tecnología, así como preparar a la fuerza laboral
+presente y futura para la integración de la misma.
+La “National Artificial Intelligence Initiative”, brinda un marco jurídico general para
+fortalecer y coordinar las actividades de investigación, desarrollo, demostración y
+educación de Inteligencia Artificial en todas las instrumentalidades del gobierno de los
+1 Véase, National Artificial Intelligence Initiative Act of 2020
+
+3
+Estados Unidos, en cooperación con organizaciones académicas, industriales, sin fines
+de lucro y de organizaciones civiles y sociales. El trabajo de esta iniciativa se organiza
+en seis (6) pilares estratégicos: innovación, avance de la Inteligencia Artificial confiable,
+educación, capacitación, infraestructura y cooperación internacional, los cuales nos
+brindan un norte para la legislación necesaria en este nuevo campo de la tecnología y
+así mantenernos a la vanguardia de los tiempos.
+Por las pasadas dos décadas, a nivel gubernamental se han formulado y ejecutado
+políticas públicas dirigidas a diversificar nuestra economía; a manera de ejemplo,
+podemos mencionar: la creación del Fideicomiso de Ciencia, Tecnología e Investigación
+(Ley Núm. 214- 2004), fomentar la exportación de servicios (Ley Núm. 20-2012), atraer
+individuos inversionistas residentes (Ley Núm. 22-2012), la creación del DMO (Ley
+Núm. 17-2017), el nuevo Código de Incentivos (Ley Núm. 60-2019), entre otros. En
+Puerto Rico, el sector de manufactura sigue siendo un pilar económico significativo.
+Datos de la Junta de Supervisión Fiscal indican que la manufactura representó $48.8
+billones en actividad económica en el año 2022, o el 43% del Producto Interno Bruto
+(PIB) de la isla. Le siguen los sectores de Bienes Raíces ($21.1 billones), Ventas al Detal
+($7.2 billones), Finanzas y Seguros ($5.3 billones), Gobierno ($5.1 billones), y Salud y
+Servicios Sociales ($4.7 billones).
+No obstante, el desarrollo y aplicación novel de la Inteligencia Artificial emerge
+como una opción viable para fortalecer y diversificar la economía, modernizar nuestra
+infraestructura, adelantar la competitividad empresarial, mejorar la educación, la salud
+y la seguridad pública a la altura de los tiempos. Asimismo, esta herramienta propende
+la transformación de servicios gubernamentales para que sean eficientes y costo-
+efectivos. Igualmente, la nueva política pública para la adopción de Inteligencia
+Artificial debe evitar desigualdades digitales, brechas de privacidad o discriminación
+algorítmica, y promover un enfoque responsable que preserve valores éticos y genere
+beneficios inclusivos.
+
+4
+Para materializar este potencial, diversas jurisdicciones han establecido institutos y
+centros de investigación y desarrollo (R&D, por sus siglas en inglés) con gobernanza
+público-privada, autonomía operativa y fuerte orientación a resultados, logrando de
+esta manera acelerar la investigación aplicada, la transferencia tecnológica y la
+formación y atracción de empresas y talento. Entre los ejemplos relevantes en Estados
+Unidos se encuentra el “Georgia Research Alliance,” (GRA), organización 501(c)(3) que
+articula a las universidades de investigación, el gobierno y la industria en el estado de
+Georgia. El GRA ha evidenciado que un ente independiente, con voz de academia e
+industria y visibilidad gubernamental, puede atraer inversión sustancial, consolidar
+cátedras eminentes y catalizar la comercialización de propiedad intelectual.
+Otros modelos exitosos de jurisdicciones líderes lo son el “Massachusetts Technology
+Collaborative” (MassTech) y el “Virginia Innovation Partnership Corporation,” (VIPC).
+Ambos integran gobernanza cuasi-pública con agilidad operativa y divisiones
+especializadas en talento, ecosistemas empresariales y académicas, e innovación. Según
+un análisis reciente publicado por la revista Forbes, estados como California,
+Massachusetts y Virginia lideran la revolución de Inteligencia Artificial mediante
+métricas clave como educación especializada, centros tecnológicos, empleos en
+tecnología, adopción empresarial e inversión, con California albergando más de 450
+empresas de Inteligencia Artificial y robustos programas de investigación en
+universidades.2 MassTech, opera con metas claras para construir estrategias, fortalecer
+conexiones y asistir a empresas, incluyendo un AI Hub que fomenta colaboraciones
+público-privadas con inversiones de $400 millones. Esto se complementa con el
+“Massachusetts Green High Performance Computing Center” (MGHPCC), consorcio sin
+fines de lucro de universidades con respaldo estatal para infraestructura de cómputo
+‑
+avanzado; combinando supervisión pública con ejecución ágil. Por otra parte, el VIPC
+enfatiza la inversión en la creación de nuevas empresas (“startups”) y comercialización
+para atraer capital externo.
+2 Véase, Revista Forbes, (Vol. Feb. 2025)
+
+5
+Adicionalmente, modelos como el “Empire AI Consortium” de Nueva York y el
+Research Triangle Park de Carolina del Norte ofrecen principios valiosos para adaptar en
+Puerto Rico. Empire AI, un consorcio público-privado de universidades líderes, se centra
+en la innovación responsable de Inteligencia Artificial mediante un centro de cómputo
+de vanguardia alojado temporalmente en la Universidad de Buffalo (SUNY),
+promoviendo colaboración estatal para investigación y desarrollo, con énfasis en
+prácticas éticas y acceso compartido a infraestructura de alto rendimiento. Este modelo
+resalta la importancia de alianzas universitarias multisectoriales para acelerar la
+adopción de IA, evitando duplicidades y maximizando impacto económico a través de
+innovación colaborativa. Por su parte, el “Research Triangle Park,” el parque de
+investigación más grande de Norteamérica en una región de 14 condados, opera bajo
+principios de colaboración entre universidades, industria y gobierno, atrayendo
+inversiones masivas (como $700 millones de Genentech para 420 empleos y más de $2
+billones de Johnson & Johnson para 500 empleos), fomentando un ecosistema de
+innovación con alta concentración de profesionales especializados. De hecho, según la
+cadena CNBC, Carolina del Norte fue seleccionado como el mejor estado para negocios
+en el 2025.
+Por otro lado, la Fundación Nacional de la Ciencia (NSF, por sus siglas en inglés), en
+colaboración con el Departamento de Agricultura de EE. UU. (USDA, por sus siglas en
+inglés) y otras agencias federales, creó en 2020 la red de AI Institutes que se financia
+mediante inversiones multimillonarias competitivas (superando los $500 millones)
+destinadas a consolidar centros de investigación en inteligencia artificial con impacto
+nacional. Estos institutos buscan aplicar la IA a desafíos estratégicos como la agricultura
+sostenible, la salud, la educación STEM, la seguridad alimentaria y la colaboración
+humano-máquina, al tiempo que fomentan la formación de talento especializado y la
+cooperación entre academia, industria y sector público. Esta iniciativa ofrece un modelo
+valioso para estructurar consorcios de investigación y desarrollo que impulsen la
+innovación local, refuercen la resiliencia agrícola y climática, y fortalezcan la economía
+del conocimiento.
+
+6
+En Puerto Rico existen precedentes que validan estructuras similares. La Ley 214-
+2004, según enmendada, conocida como, “Ley del Fideicomiso para Ciencia, Tecnología e
+Investigación de Puerto Rico,” creó el Fideicomiso para la Ciencia, la Tecnología e
+Investigación de Puerto Rico, una entidad privada sin fines de lucro con mandato
+público, capaz de administrar fondos estatales, federales y privados, desarrollar
+programas y proyectos, y colaborar con el gobierno, la academia y la industria. Por otra
+parte, Invest Puerto Rico, una organización privada sin fines de lucro, fue creada por la
+Ley Núm. 13-2017, conocida como la “Ley para autorizar la creación de una corporación
+sin fines de lucro, la cual adoptará el concepto “Enterprise Puerto Rico”, con el fin de
+promocionar a Puerto Rico como una jurisdicción de inversión competitiva para atraer
+nuevos negocios e inversiones de capital a la isla. En sectores estratégicos tales como la
+manufactura avanzada, biociencias, tecnología y aeroespacial. Similarmente, la Ley
+Núm. 17-2017, conocida como, “Ley para la Promoción de Puerto Rico como Destino,”
+creó la Organización para el Mercadeo del Destino (DMO, por sus siglas en inglés), otra
+organización sin fines de lucro para convertir a Puerto Rico como un destino de turismo
+mundial, promoviendo la economía del visitante y la industria de eventos y
+convenciones. A nivel municipal, el Municipio de Bayamón ha sido ancla de innovación
+al colaborar con la entidad privada sin fines de lucro Engine 4 Foundation en laboratorios
+y pilotos de ciudad inteligente, operando un living lab urbano que integra datos,
+‑
+infraestructura y soluciones inteligentes en beneficio de sus ciudadanos. Hoy, Engine-4
+y el Municipio de Bayamón cuentan con un espacio de creación tecnológica referente en
+el Caribe en el que incluye un laboratorio de inteligencia artificial, 5G y NB-IoT, único
+en la isla.
+Con el fin de posicionar a Puerto Rico como un modelo regional y global en
+Inteligencia Artificial responsable, la presente Ley crea el Instituto de Desarrollo e
+Innovación en Inteligencia Artificial de Puerto Rico con personalidad jurídica propia y
+reconocimiento como entidad de interés público. El Instituto tendrá la responsabilidad
+de promover la comercialización de propiedad intelectual y la aplicación de Inteligencia
+Artificial a través de condiciones competitivas para negocios. Asimismo, propiciará el
+
+7
+desarrollo de talento para un crecimiento sostenible y resiliente, basado en principios de
+transparencia y rendición de cuentas que puedan guiar la creación de ecosistemas de
+Inteligencia Artificial en Puerto Rico, dirigidos a generar empleos del Siglo XXI, formar
+y atraer capital, transformar industrias tradicionales y las estructuras gubernamentales
+a nivel estatal y municipal.
+La consolidación de recursos, procesos y talento especializado a través de la creación
+de este nuevo Instituto de Inteligencia Artificial aumentará la masa crítica para producir
+ciencia de excelencia (publicaciones arbitradas, patentes, estándares y datos de
+referencia), captar fondos competitivos externos y acelerar la innovación con impacto.
+Esta capacidad permitirá abordar los retos del Siglo XXI: resiliencia ante desastres,
+salud, educación, infraestructura, seguridad y privacidad, y el desarrollo de Inteligencia
+Artificial para mercados locales, regionales y globales.
+La relación entre el Instituto de Inteligencia Artificial y el Gobierno de Puerto Rico se
+enfocará en tres áreas principales: (i) estrategias y gestiones de desarrollo económico,
+especialmente la comercialización de propiedad intelectual, el licenciamiento
+tecnológico, la creación y expansión de empresas de base tecnológica, y el desarrollo y
+atracción del talento capacitado en las últimas tendencias y mejores prácticas de
+Inteligencia Artificial; (ii) proveer soluciones técnicas para agencias y corporaciones
+públicas (analítica avanzada, Inteligencia Artificial aplicada, modernización digital y
+ciberseguridad); y (iii) el co desarrollo de innovación pública para atender retos sociales
+y fomentar prosperidad y bienestar a nivel individual y comunitario.
+‑
+La Ley propone a Engine 4 Foundation como socio y brazo operacional del nuevo
+Instituto de Inteligencia Artificial, en colaboración directa y estrecha con el gobierno, la
+‑
+academia, el sector privado y el Municipio de Bayamón como sede, incluyendo
+instituciones existentes con mandatos de política pública de alta relevancia con la
+Inteligencia Artificial, como lo son: Invest Puerto Rico, el Fideicomiso de Ciencia,
+Tecnología e Investigación, y centros de investigación y desarrollo de la Universidad de
+Puerto Rico. Esta propuesta se justifica debido al ámbito, recursos, programas y
+
+8
+capacidades de Engine-4 Foundation: (1) ventaja técnica end to end difícil de igualar en la
+isla (infraestructura hyperscale idónea para experimentación, investigación y desarrollo
+‑ ‑
+en IA; (2) un laboratorio 5G/NB IoT de grado producción para experimentación
+inalámbrica y pruebas de dispositivos; (3) una instalación de más de 41,000 pies
+‑
+cuadrados en el corredor de ciudad inteligente de Bayamón, conectando el Tren Urbano
+con centros universitarios tales como la Universidad Ana G. Méndez, la Universidad
+Politécnica, La Universidad de Puerto Rico y la Universidad Sagrado Corazón, y
+makerspace con más de 19 impresoras 3D industriales e instrumentación de precisión
+para llevar ideas de IA a prototipos instrumentados y pilotos.
+Esta Ley asegura y consolida la integración de un Instituto no gubernamental pero
+de interés público, con gobernanza diversa, fondos diversificados y mecanismos de
+transparencia inspirados en modelos probados. Esto ofrece claridad, continuidad y
+velocidad de implementación, con salvaguardas de transparencia, ética y evaluación de
+desempeño.
+El cumplimiento con normas de transparencia y gobiernos abiertos, como
+establecido en la Ley Núm. 122-2019, según enmendada, conocida como, “Ley de Datos
+Abiertos del Gobierno de Puerto Rico", reconociendo que los datos gubernamentales
+son esenciales para innovación, mejoramiento continuo y resultados tangibles, es
+fundamental el equilibrio en la divulgación proactiva con protecciones de privacidad y
+seguridad. La Inteligencia Artificial, al depender de datos masivos, debe integrarse con
+estos principios para evitar riesgos éticos, discriminación o brechas de ciberseguridad,
+mientras genera valor económico mediante reutilización de datos en formatos abiertos.
+Por ello, con la creación de este Instituto, posicionamos a Puerto Rico en la ruta para
+ser un destino competitivo y resiliente, donde cada dólar público movilice recursos
+externos, acelere la adopción responsable de Inteligencia Artificial y convierta
+conocimiento en impacto socioeconómico, alineado con la evolución global de datos
+como activo estratégico, preservando nuestros valores y recursos naturales para futuras
+generaciones.
+
+9
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1 — Título
+2 Esta Ley se conocerá como la “Ley del Instituto de Desarrollo e Innovación en
+3 Inteligencia Artificial de Puerto Rico”.
+4 Artículo 2 — Declaración de Política Pública
+5 Será política pública del Gobierno de Puerto Rico promover la competitividad, la
+6 investigación, la innovación y las actividades que aumenten el crecimiento
+7 económico sostenible a largo plazo de Puerto Rico a través del desarrollo y
+8 aplicación de tecnologías relacionadas a la Inteligencia Artificial. Este nuevo Instituto
+9 persigue proveer el ambiente, las oportunidades y las herramientas adecuadas para
+10 mejorar la eficiencia gubernamental, la salud, la educación y la seguridad pública, así
+11 como modernizar nuestra infraestructura y fomentar el desarrollo y atracción de
+12 empresas y talento, con el fin de ofrecer una mejor calidad de vida y lograr bienestar
+13 comunitario.
+14 Este Instituto busca garantizar una relación colaborativa entre el sector privado,
+15 la academia y el Gobierno de Puerto Rico para la implantación de una política
+16 pública de Inteligencia Artificial responsable, fundamentada en la estabilidad,
+17 certeza y credibilidad. Asimismo, se busca impulsar y ejercer controles a fin de
+18 lograr procesos basados en transparencia y rendición de cuentas, enfocado en
+19 agilidad y resultados medibles: generación de propiedad intelectual, la
+20 modernización de nuestra infraestructura, atraer inversión foránea directa, fomentar
+21 la inversión de capital local, la atracción y el establecimiento de nuevos negocios, el
+
+10
+1 desarrollo de talento y la creación de empleos, así como fortalecer las actividades de
+2 alto impacto, la cadena de suministros y de valor, y la creación de conglomerados en
+3 sectores estratégicos.
+4 A nivel gubernamental, será política pública que la Inteligencia Artificial sea
+5 administrada de forma tal, que se alcance un nivel óptimo de eficiencia en las
+6 dependencias públicas, se expanda la disponibilidad y el acceso a los servicios
+7 esenciales de manera costo-efectiva, y se fomenten las iniciativas públicas y privadas
+8 que propendan a eliminar la brecha digital en nuestra sociedad. La política pública
+9 que se adopta y promulga es cónsona con el objetivo de lograr que la tecnología y el
+10 uso de ésta se inserte más en la cotidianidad de la vida de nuestros ciudadanos.
+11 Además, es de vital importancia el desarrollo y aplicación de tecnologías basadas en
+12 Inteligencia Artificial para cumplir con las expectativas de la ciudadanía en cuanto a
+13 la educación, salud, vivienda y seguridad pública, así como con los estándares
+14 modernos de gobernanza.
+15 Artículo 3 — Definiciones
+16 Para propósitos de esta Ley, las siguientes palabras o frases tendrán el significado
+17 que a continuación se expresa:
+18 (a) “Acuerdo Operacional” – Significa el instrumento vinculante que regula la
+19 relación operativa entre el Instituto y Engine 4 Foundation, así como con entidades
+‑
+20 colaboradoras, según disponga esta Ley.
+21 (b) “Agencia” — Significa cualquier junta, cuerpo, tribunal examinador,
+22 comisión, corporación pública, oficina, división, administración, negociado,
+
+11
+1 departamento, autoridad, funcionario, empleado, persona, entidad o cualquier
+2 instrumentalidad de la Rama Ejecutiva del Gobierno de Puerto Rico.
+3 (c) “Divisiones o Centros de Excelencia” – Significa las unidades programáticas
+4 del Instituto orientadas a investigación aplicada, transferencia tecnológica y
+5 formación de talento en dominios priorizados.
+6 (d) “Código” — Se refiere al “Código de Incentivos de Puerto Rico” creado bajo
+7 la Ley Núm. 60-2019.
+8 (e) “Código de Ética” – Significa la política interna de ética, integridad, manejo de
+9 conflictos de interés y transparencia adoptada por el Instituto en cumplimiento
+10 con esta Ley
+11 (f) “Consorcio” – Significa la alianza entre universidades públicas y privadas
+12 para el establecimiento y operación del centro de computación de IA.
+13 (g) “Datos Abiertos” – Significa datos puestos a disposición pública en formatos
+14 abiertos, reutilizables y redistribuibles, conforme a la Ley Núm. 122-2019,
+15 conocida como “Ley de Datos Abiertos del Gobierno de Puerto Rico”.
+16 (h) DDEC – Significa el Departamento de Desarrollo Económico y Comercio,
+17 conforme a la Ley Núm. 141 de 11 de julio de 2018, conocida como “Ley de Ejecución
+18 del Plan de Reorganización del Departamento de Desarrollo Económico y Comercio de 2018”
+19 (i) “Engine 4” – Significa Engine 4 Foundation, corporación sin fines de lucro
+‑ ‑
+20 organizada bajo las leyes de Puerto Rico y la Sección 501(c)(3) del Código de
+21 Rentas Internas de Estados Unidos.
+
+12
+1 (j) “Entidad Beneficiada o Entidades Beneficiadas” —Significara cualquier
+2 persona natural o jurídica, incluyendo cualquier entidad gubernamental, a la cual
+3 se le provea la asistencia del Instituto.
+4 (k) “FCTIPR” – Significa el Fideicomiso de Ciencia, Tecnología e Investigación de
+5 Puerto Rico, creado de conformidad con la Ley Núm. 214 de 18 de agosto de
+6 2004, según enmendada y conocida como “Ley del Fideicomiso para Ciencia,
+7 Tecnología e Investigación de Puerto Rico”.
+8 (l) “Fondo” – Significa el Fondo para el Desarrollo e Innovación de IA de Puerto
+9 Rico.
+10 (m) “Gobernador” — Significa el Gobernador de Puerto Rico.
+11 (n) “Gobierno” — Significa el Gobierno de Puerto Rico
+12 (o) “Inteligencia Artificial Responsable” – Significa el desarrollo y aplicación de
+13 Inteligencia Artificial con principios de ética, no discriminación, explicabilidad,
+14 privacidad y gobernanza de datos.
+15 (p) Innovación — Significa un proceso colaborativo, creativo y aplicado de
+16 discusión y análisis de ideas y soluciones a retos. La innovación presume la
+17 creación de algo nuevo o mejorado a través de servicios, procesos, tecnologías,
+18 productos o modelos.
+19 (q) “Instituto” – Significa el Instituto de Desarrollo e Innovación en Inteligencia
+20 Artificial de Puerto Rico creado mediante esta Ley.
+21 (r)“Invest PR” – Significa Invest Puerto Rico, creado al amparo de la Ley 13-2017,
+22 según enmendada.
+
+13
+1 (s) “Junta” – Significa la Junta de Directores del Instituto de IA.
+2 (t) “Municipio” — Significa los municipios del Gobierno de Puerto Rico
+3 (u)“Pequeñas y Medianas Empresas (PYMES)” — Son negocios según definido
+4 en la Ley Núm. 60-2019 (Código de Incentivos de Puerto Rico).
+5 (v) “Persona” — Significa cualquier persona natural o jurídica; disponiéndose
+6 que, en caso de personas jurídicas, podrán ser de naturaleza pública o privada, y
+7 estar organizadas o existiendo bajo las leyes del Gobierno de Puerto Rico, de los
+8 Estados Unidos de América o de cualquier Estado de los Estados Unidos de
+9 América.
+10 (w) “Plan Estratégico” — Significa el “Plan Estratégico de Desarrollo e
+11 Innovación en Inteligencia Artificial de Puerto Rico”, que establecerá el Instituto.
+12 (x) “PRITS” - Significa el Puerto Rico Innovation and Technology Service, según
+13 creado por la Ley 75-2019, concocida como “Ley de la Puerto Rico Innovation and
+14 Technology Service”.
+15 (y) “Propiedad Intelectual” — Significa patentes, inventos, fórmulas, procesos,
+16 diseños, patrones, conocimiento (know-how), derechos de autor (copyrights),
+17 secretos de negocios, composiciones literarias, musicales o artísticas, marcas de
+18 fábrica, sellos de fábrica, nombres de fábrica (trade names), nombres de marcas
+19 (brand names), franquicias, licencias, contratos, métodos, programas, sistemas,
+20 procedimientos, plusvalías, campañas, perspectivas (surveys), estudios, pruebas
+21 (trials), proyecciones, estimados, listas de clientes, data técnica o cualquier otra
+22 propiedad similar.
+
+14
+1 (z) “Proponente o Proponentes” — Significa la persona que solicita asistencia del
+2 Instituto.
+3 (aa) “Proyectos del Instituto” — Significa aquellos proyectos de desarrollo e
+4 innovación en Inteligencia Artificial que la Junta determine que cualifican para
+5 ser promovidos por el Instituto.
+6 (bb) “Proyectos Estratégicos” — Significa aquellos proyectos según se disponga
+7 en el Reglamento de Incentivos conforme a lo dispuesto en la Sección 2014.01 de
+8 la Ley Núm. 60-2019.
+9 (cc) “Secretos de Negocio” — La definición de este término se hará según
+10 dispuesto en las Reglas de Evidencia de Puerto Rico.
+11 (dd) “Universidad” – Significa la Universidad de Puerto Rico.
+12 (ee) “Universidad Privada” – Significa cualquier universidad privada licenciada.
+13 Artículo 4 — Creación y Naturaleza
+14 Se crea el Instituto como una corporación sin fines de lucro, con personalidad
+15 jurídica y patrimonio propios, de perpetua sucesión, independiente del Gobierno de
+16 Puerto Rico, aunque reconocido en ley como entidad de interés público. No
+17 constituirá una agencia, corporación ni instrumentalidad gubernamental; tendrá
+18 fines públicos y operará de manera abierta, transparente y accesible.
+19 (a) Se designa al DDEC como ente organizador transitorio. El Instituto tendrá su
+20 sede principal en Engine-4 en el Municipio de Bayamón.
+
+15
+1 (b) El DDEC, en colaboración con Engine-4, será responsable de incorporar y
+2 organizar el Instituto de conformidad con la Ley Núm. 164-2009, conocida como
+3 la “Ley General de Corporaciones”.
+4 (c) El Secretario del DDEC, en colaboración con Engine-4, será responsable de
+5 convocar y coordinar un Comité de Nominaciones para recomendar a los
+6 miembros iniciales de la Junta según el Artículo 6 de esta Ley.
+7 (d) El DDEC será responsable de custodiar y administrar los fondos iniciales para
+8 gastos de organización hasta que se confeccione la Junta.
+9 (e) El DDEC, en colaboración con Engine-4 y el Municipio de Bayamón, será
+10 responsable de preparar el Acuerdo Operacional, convocar la primera reunión de
+11 la Junta para su juramentación y la aprobación del Acuerdo Operacional, el cual
+12 deberá incluir un plan de implantación administrativo y operacional conforme a
+13 las mejores prácticas para organizaciones similares, y las leyes estatales
+14 aplicables.
+15 (f) El Acuerdo Operacional definirá el alcance de servicios y responsabilidades a
+16 ser delegadas a Engine-4, incluyendo pero sin limitarse a, implementar la
+17 estructura de gobernanza, coordinar la ejecución programática, administrar
+18 personal y recursos, y requisitos de informes periódicos, cláusulas de
+19 cumplimiento y terminación con causa, y procesos de revisión anual de
+20 desempeño.
+
+16
+1 (g) El personal del Instituto no será considerado empleado público y estará sujeto
+2 a políticas de mérito, igualdad de oportunidades, integridad y desempeño,
+3 conforme a reglamentación que apruebe la Junta.
+4 (h) El rol transitorio del DDEC cesará al quedar juramentada la Junta y aprobado
+5 el Acuerdo Operacional, momento en el cual toda autoridad operacional se
+6 transferirá al Instituto conforme a esta Ley.
+7 (i) Se garantiza la autonomía operacional y decisional del Instituto. Ninguna
+8 agencia o instrumentalidad del Gobierno de Puerto Rico podrá invalidar las
+9 determinaciones de política pública o gerenciales adoptadas por el Instituto
+10 conforme a esta Ley, ni ejercer control sobre sus actuaciones más allá de lo aquí
+11 dispuesto. El Instituto estará sujeto únicamente a la supervisión que
+12 expresamente establezcan las leyes aplicables a las corporaciones sin fines de
+13 lucro de interés público y los términos de esta Ley.
+14 Artículo 5 — Propósitos, Funciones y Deberes del Instituto
+15 En aras de cumplir con los objetivos de esta Ley, el Instituto deberá realizar las
+16 siguientes encomiendas, entre otras:
+17 (a) Desarrollar e implementar un plan estratégico con metas a corto, mediano y
+18 largo plazo, con el fin de alcanzar la política pública definida en esta Ley. El plan
+19 estratégico deberá evitar duplicidad de tareas y gestiones realizadas por otras
+20 entidades, ni sustituirá o competirá con programas estatales cuya misión
+21 principal sea distinta a la investigación y desarrollo de Inteligencia Artificial. Por
+
+17
+1 el contrario, colaborará y coordinará con dichas entidades mediante convenios,
+2 subcontratación competitiva, convocatorias y compra de servicios.
+3 (b) Liderar la inserción de Puerto Rico en las principales evaluaciones
+4 internacionales de capacidades y preparación en Inteligencia Artificial,
+5 generando diagnósticos periódicos para identificar y cerrar brechas
+6 institucionales, regulatorias, científicas y de infraestructura, con el fin de elevar
+7 sostenidamente la competitividad económica de Puerto Rico.
+8 (c) Promover actividades de investigación e innovación en Inteligencia Artificial y
+9 disciplinas afines, con foco en retos y oportunidades de alto impacto para Puerto
+10 Rico en sectores estratégicos, infraestructura y eficiencia gubernamental, al igual
+11 que temas prioritarios tales como educación, desarrollo económico, eficiencia
+12 gubernamental, salud y seguridad pública.
+13 (d) Desarrollar y coordinar programas de capacitación, talleres, becas y
+14 certificación en Inteligencia Artificial para estudiantes, profesionales, servidores
+15 públicos y comunidades.
+16 (e) En coordinación con la Universidad, FCTIPR y universidades privadas,
+17 facilitar la transferencia de tecnología, la comercialización responsable de
+18 resultados de innovación, y la creación de empresas derivadas (spin offs) y
+‑
+19 conglomerados industriales relacionados a Inteligencia Artificial.
+20 (f) En coordinación con el DDEC, la Universidad, universidades privadas y el
+21 FCTIPR, apoyar la formación y el crecimiento de empresas pertenecientes al
+22 sector de Inteligencia Artificial, redundando en la creación de nuevos empleos y
+
+18
+1 el desarrollo, atracción y retención de talento, mediante esfuerzos de
+2 emprendimiento, aceleración, crecimiento y comercialización, expandiendo
+3 industrias y ecosistemas regionales de innovación al apalancar empresas locales
+4 con la academia y empresas multinacionales.
+5 (g) En coordinación con PRITS, proveer asesoramiento técnico y acompañamiento
+6 a agencias del Gobierno de Puerto Rico en la adopción de soluciones de
+7 Inteligencia Artificial
+8 (h) Proveer asesoramiento técnico y acompañamiento a municipios en la
+9 adopción de soluciones de IA.
+10 (i) Establecer y gestionar Divisiones o Centros de Excelencia, incluyendo alianzas
+11 municipales, con organizaciones académicas y entidades privadas.
+12 (j) Establecer nodos y facilidades en otras regiones de Puerto Rico inspirado en
+13 modelos como el Research Triangle Park en Carolina del Norte para fomentar
+14 ecosistemas colaborativos de innovación y emprendimiento a escala regional.
+15 (k) Desarrollar y establecer un consorcio entre las principales universidades
+16 públicas y privadas de Puerto Rico, sin limitarse a otras universidades en otras
+17 jurisdicciones, y el sector privado, con el fin de establecer un centro de
+18 computación de IA de vanguardia como parte de la infraestructura del Instituto,
+19 ubicado en las facilidades de Engine-4, y con capacidad de expandirse a otros
+20 nodos. Dicho centro proveerá acceso a potencia informática de alto rendimiento
+21 para apoyar proyectos de investigación, desarrollo e innovación en Inteligencia
+
+19
+1 Artificial, abarcando todo el ciclo de vida, desde la investigación básica hasta la
+2 aplicación práctica y la comercialización.
+3 (l) Coordinar con PRITS, DDEC, Invest PR y el FCTIPR la ejecución de proyectos
+4 estratégicos y proyectos del Instituto alineados a la política pública de
+5 Inteligencia Artificial esbozada en esta Ley, así como fortalecer la competitividad
+6 económica de Puerto Rico mediante la adopción de tecnologías de Inteligencia
+7 Artificial en los sectores estratégicos definidos por Invest PR y el DDEC.
+8 (m) Preparar y publicar anualmente un Mapa de Capacidades de IA de Puerto
+9 Rico, identificando actores y fortalezas, y un Plan de Complementariedad que
+10 detalle mecanismos de coordinación para evitar duplicidad y maximizar
+11 sinergias utilizando modelos y herramientas reconocidas globalmente.
+12 (n) Adoptar y ejecutar un Reglamento para la administración del Fondo para el
+13 Desarrollo e Innovación de Inteligencia Artificial de Puerto Rico, conforme al
+14 Artículo 10 de esta Ley.
+15 (o) Establecer convocatorias competitivas, abiertas y transparentes, para que
+16 universidades, consorcios y organizaciones sin fines de lucro o empresas puedan
+17 proponer proyectos de Inteligencia Artificial alineados al plan estratégico.
+18 (p) Adoptar y ejecutar una Política de Inteligencia Artificial Responsable que
+19 incorpore, entre otros, principios de seguridad, no discriminación, explicabilidad,
+20 privacidad y gobernanza de datos.
+21 (q) Adoptar y ejecutar un Código de Ética.
+
+20
+1 (r) Adoptar y ejecutar una Política de Propiedad Intelectual, la cual debe incluir el
+2 desarrollar y administrar propiedad intelectual, así como suscribir acuerdos de
+3 licencia y participación en regalías.
+4 (s) Integrar principios de datos abiertos conforme a la Ley Núm. 122-2019,
+5 asegurando que los datos generados o utilizados en proyectos de Inteligencia
+6 Artificial sean divulgados proactivamente en formatos abiertos, salvo
+7 excepciones de privacidad o seguridad, y colaborando con PRITS para la
+8 gobernanza de datos.
+9 (t) Establecer mecanismos de evaluación, medición de resultados e informes
+10 públicos sobre su ejecución y desempeño.
+11 (u) Adoptar reglamentos internos, políticas y procedimientos para su adecuada
+12 operación.
+13 (v) Celebrar contratos, acuerdos, memorandos de entendimiento y subcontratos
+14 con entidades públicas y privadas, locales e internacionales.
+15 (w) Adquirir, arrendar, administrar y enajenar bienes muebles e inmuebles; y
+16 gestionar permisos y autorizaciones necesarias.
+17 (x) Aceptar donativos, legados y subvenciones; y recibir ingresos por servicios y
+18 actividades propias de su misión.
+19 (y) Contratar personal y consultores, fijar su compensación conforme a prácticas
+20 de mercado para talento especializado, y establecer sistemas de mérito,
+21 evaluación y desarrollo.
+
+21
+1 (z) Establecer subsidiarias o entidades afiliadas necesarias para fines
+2 operacionales o de cumplimiento, siempre que toda ganancia o ingreso neto se
+3 reinvierta en el cumplimiento de su misión.
+4 (aa) Establecer programas de becas y reconocimientos para estudiantes y
+5 profesionales en el área de Inteligencia Artificial, incluyendo la concesión de
+6 ayudas para estudios graduados especializados y la creación de residencias o
+7 internados en el Instituto, con el fin de desarrollar y retener el talento local.
+8 (bb) Implementar iniciativas de colaboración con expertos y organizaciones en
+9 otras jurisdicciones de los Estados Unidos y a nivel internacional, tales como
+10 programas de investigadores visitantes o intercambios, que permitan la
+11 transferencia de conocimiento hacia Puerto Rico y eleven la exposición global del
+12 ecosistema de Inteligencia Artificial local.
+13 Artículo 6 — Composición, Derechos, Poderes y Funciones de la Junta
+14 La Junta de Directores será el órgano rector del Instituto y establecerá su política
+15 pública para cumplir con los objetivos de esta Ley.
+16 La Junta estará constituida por nueve (9) miembros:
+17 (a) El Secretario del DDEC o su designado (ex oficio).
+18 (b) El Principal Ejecutivo de Innovación e Información del Gobierno (PEII) o su
+19 designado (ex oficio).
+20 (c) El Alcalde del Municipio de Bayamón, o su designado.
+21 (d) El Director Ejecutivo del FCTIPR o su designado.
+22 (e) El Presidente de la Universidad o su designado.
+
+22
+1 (f) Dos (2) representantes del sector privado con experiencia en el desarrollo,
+2 innovación y proyectos de Inteligencia Artificial a ser nombrados por el
+3 Gobernador.
+4 (g) Dos (2) representantes del sector privado con experiencia en el desarrollo,
+5 innovación y proyectos de Inteligencia Artificial a ser nombrados por la Junta.
+6 Los miembros designados por el Gobernador y por la Junta (salvo los ex oficio)
+7 tendrán términos escalonados de tres (3) años y podrán ser renominados por un
+8 término adicional. Las vacantes se cubrirán por el término remanente mediante el
+9 mecanismo de nombramiento correspondiente. Los miembros que no sean
+10 funcionarios ejercerán sus funciones ad honórem, recibiendo únicamente reembolso
+11 de gastos razonables incurridos en el desempeño de sus deberes, según lo determine
+12 la Junta mediante reglamento.
+13 Los ciudadanos particulares del sector privado designados como miembros de la
+14 Junta no serán considerados funcionarios para todos los efectos, incluyendo las
+15 disposiciones de la Ley 1-2012, según enmendada, conocida como “Ley Orgánica de
+16 la Oficina de Ética Gubernamental de Puerto Rico”.
+17 La Junta seleccionará de entre sus miembros a un Presidente y un Vice-
+18 Presidente, quien sustituirá al Presidente en ausencia de éste, así como un Secretario
+19 los cuales deberán ser elegidos de entre los considerados funcionarios.
+20 Una mayoría de los miembros de la Junta constituirá quorum para todos los fines
+21 y los acuerdos se tomarán por la mayoría de los presentes. Disponiéndose que
+22 cualquier acción necesaria o permitida en cualquier reunión de la Junta, será
+
+23
+1 autorizada sin que medie una reunión, siempre y cuando todos los miembros de la
+2 Junta den su consentimiento escrito a dicha acción. En tal caso, el documento escrito
+3 constará en las actas de la Junta. Se dispone, además que los miembros de la Junta
+4 podrán participar, respectivamente, en cualquier reunión de la Junta o cualquier
+5 comité de ésta, mediante conferencia telefónica, u otro medio de comunicación, a
+6 través del cual todas las personas participantes en la reunión puedan escucharse
+7 simultáneamente. La participación de cualquier miembro de la Junta en la forma
+8 antes descrita constituirá asistencia a dicha reunión. Disponiéndose que cuando la
+9 participación en alguna reunión sea mediante conferencia telefónica, los miembros
+10 no podrán cobrar dietas.
+11 Los integrantes de la Junta no serán responsables en su carácter personal en casos
+12 de reclamaciones monetarias por daños derivados de sus actuaciones, o del
+13 incumplimiento de sus obligaciones como integrantes de la Junta, excepto por actos
+14 u omisiones que no son de buena fe o que consistan de conducta impropia
+15 intencional o de violaciones a la ley con conocimiento de ello, o por cualquier
+16 transacción donde el integrante reciba un beneficio personal indebido. El Instituto
+17 podrá indemnizar a cualquier persona que sea o haya sido miembro de la Junta,
+18 oficial, empleado o agente del Instituto bajo los mismos parámetros que una
+19 corporación puede indemnizar a sus directores, oficiales, empleados o agentes bajo
+20 la Ley 164-2009, según enmendada, conocida como “Ley General de Corporaciones”.
+21 La Junta tendrá, entre otros, las siguientes poderes, deberes y facultades:
+
+24
+1 (a) Establecer la política pública y mecanismos administrativos y operacionales
+2 que aseguren el cumplimiento con los objetivos de esta Ley.
+3 (b) Aprobar el plan estratégico y presupuestos.
+4 (c) Supervisar el cumplimiento del Acuerdo Operacional.
+5 (d) Nombrar un Director Ejecutivo alineado al acuerdo operacional, establecer
+6 sus deberes y poderes en armonía con lo dispuesto en esta Ley y fijar la
+7 compensación a base de estudios de competitividad salarial para posiciones
+8 similares en Puerto Rico, y en otras jurisdicciones comparables con Puerto Rico.
+9 El Director Ejecutivo ocupará una posición de libre selección, libre remoción y
+10 servirá conforme a los parámetros establecidos por la Junta. Deberá ser reclutado
+11 a base de su experiencia, conocimientos, capacidad administrativa y gerencial en
+12 el área de manejo de instituciones con fines similares al Instituto.
+13 (e) Nombrar otros oficiales según se requiera para lograr una operación eficiente
+14 y el cumplimiento con los objetivos de esta Ley.
+15 (f) Crear y supervisar el desempeño del consorcio universitario para el centro de
+16 computación de IA, conforme al Artículo 9 de esta Ley.
+17 (g) Aprobar el establecimiento de Divisiones o Centros de Excelencia adicionales
+18 a los que se definen en el Artículo 8 de esta Ley.
+19 (h) Establecer Comités de Asesores y Comités de Trabajo.
+20 (i) Aprobar nodos y facilidades en otras regiones de Puerto Rico.
+
+25
+1 (j) Aprobar el Reglamento del Fondo, conforme al Artículo 10 de esta Ley, así
+2 como todos aquellos reglamentos que sean necesarios para adelantar los fines de esta
+3 legislación.
+4 (k) Aprobar el Mapa de Capacidades de IA y el Plan de Complementariedad
+5 (l) Asegurar la integración de principios de datos abiertos conforme a la Ley
+6 Núm. 122-2019.
+7 (m) Aprobar políticas, procedimientos y guías, incluyendo pero sin limitarse a, la
+8 Política de IA Responsable, un Código de Ética y la Política de Propiedad
+9 Intelectual., así como aquellas determinaciones administrativas que aseguren una
+10 sana gobernanza del Instituto.
+11 (n) Celebrar al menos cuatro (4) reuniones anuales y una (1) audiencia pública
+12 para insumos de partes interesadas.
+13 (ñ) Cualquier otra acción y determinación que sea cónsona con los propósitos de
+14 esta legislación.
+15 Artículo 7 — Deberes y Responsabilidades del Director Ejecutivo
+16 El Director Ejecutivo ejecutará el plan estratégico del Instituto, y dirigirá y
+17 supervisará los asuntos administrativos del Instituto, el consorcio, las divisiones o
+18 centros de excelencia, y de cualquier comité, nodo o facilidad regional, subsidiaria, u
+19 ente creado por la Junta, y en conformidad con el Acuerdo Colaborativo. Además,
+20 gestionará alianzas, proyectos y fondos, y será responsable del cumplimiento con las
+21 políticas, procedimientos y guías aprobadas por la Junta, incluyendo la Política de IA
+22 Responsable, el Código de Ética y la Política de Propiedad Intelectual, entre otros,
+
+26
+1 conforme al Artículos 13 y 14 de esta Ley. También, será responsable de cumplir con
+2 el Artículo 15 (Informe Anual y Auditorías) y el Artículo 10 (Capitalización del
+3 Instituto y Fondos) de esta Ley.
+4 La Junta podrá delegarle al Director Ejecutivo aquellos poderes y
+5 responsabilidades que considere apropiados. El Director Ejecutivo tendrá la
+6 autoridad de contratar, administrar y sancionar a los empleados del Instituto, y de
+7 determinar su compensación, dentro de los límites presupuestarios aprobados y los
+8 reglamentos internos aplicables. El Director Ejecutivo establecerá las políticas de
+9 personal, participará en la preparación del plan estratégico y el presupuesto anual,
+10 contratará los servicios de profesionales externos, atenderá la operación del día a día
+11 del Instituto, y ejecutará las instrucciones de la Junta. también podrá recomendar la
+12 creación de puestos ejecutivos, sujeto a aprobación de la Junta. Además, preparará el
+13 informe anual dispuesto en el Artículo 15 de esta Ley y cualesquiera otros informes
+14 que le sean requeridos por el Gobernador, la Asamblea Legislativa, o la Junta.
+15 Artículo 8 — Divisiones o Centros de Excelencias, y Comités de Asesores del
+16 Instituto
+17 Se crearán las siguientes Divisiones o Centros de Excelencia dentro del Instituto,
+18 cada una con un Comité Asesor cuyos miembros serán designados por la Junta:
+19 (a) División de Investigación y Desarrollo, enfocada en proyectos en ciclo de
+20 innovación de IA, y acceso a cómputo avanzado.
+
+27
+1 (b) División de Ecosistemas Empresariales, enfocada en apoyar startups y
+2 expansión regional.
+3 (c) División de Inversiones, enfocada en proveer financiamiento semilla y capital
+4 de riesgo.
+5 (d) División de Comercialización, enfocada en la transferencia tecnológica y
+6 licenciamiento.
+7 (e) División de Desarrollo de Talento, enfocada en la capacitación y retención de
+8 la fuerza laboral y en atraer talento especializado.
+9 (f) División de Alianzas Estratégicas, enfocada en convenios multisectoriales
+10 entre el gobierno, la academia y el sector privado.
+11 (g) Comité Asesor de Inteligencia Artificial Responsable y Ética, compuesto por
+12 hasta cinco (5) miembros expertos en ética tecnológica, derecho, protección de
+13 datos y representantes de la ciudadanía, designados por la Junta. Este Comité
+14 asesorará a la Junta y al Director Ejecutivo en la elaboración e implementación de
+15 la Política de IA Responsable, el Código de Ética y en la evaluación de posibles
+16 riesgos en los proyectos del Instituto.
+17 Los Comités Asesores asesorarán en metas específicas, asegurando alineación con
+18 el plan estratégico. La Junta podrá autorizar otras divisiones o centros de excelencia,
+19 y comités asesores y de trabajo, con el fin de avanzar con la política pública de esta
+20 Ley, dentro de unos parámetros de sana administración.
+21 Artículo 9 — Consorcio para el Centro de Computación de Inteligencia Artificial
+
+28
+1 La Junta creará un consorcio entre universidades públicas y privadas para
+2 establecer un centro de computación de IA de vanguardia como parte de la
+3 infraestructura del Instituto, inspirado en el modelo de Empire AI para promover
+4 acceso compartido y responsable. La Junta aprobará las políticas, procedimientos y
+5 guías necesarias para permitir que el consorcio establezca acuerdos colaborativos,
+6 aporte y reciba recursos, y que facilite el acceso compartido a facilidades, datos y
+7 talento, integrando gobernanza de datos abiertos.
+8 Artículo 10 – Capitalización del Instituto y Fondo de Desarrollo e Innovación de
+9 Inteligencia Artificial de Puerto Rico
+10 Se crea el Fondo para el Desarrollo e Innovación de Inteligencia Artificial de
+11 Puerto Rico. El Fondo se nutrirá de:
+12 (a) Una cantidad anual de diez millones de dólares ($10,000,000) del ingreso
+13 recaudado anualmente por el Departamento de Hacienda y destinado a nutrir el
+14 Fondo de Incentivos Económicos (“FIE”) administrado por el DDEC, ingreso
+15 recaudado anualmente en virtud de la Sección 5010.01 de la Ley Núm. 60-2019,
+16 según enmendada.
+17 (b) Aportación anual mínima de cinco mil dólares ($5,000) de Individuos
+18 Residentes Inversionistas con decretos activos bajo la Ley 60-2019 (o Ley 22-2012),
+19 en good standing.
+20 (c) Las compañías recibirán un crédito contributivo suplementario del 10%
+21 (aumentando del 50% al 60%) si contratan sus actividades de Research &
+
+29
+1 Development a través del Instituto sujeto a un tope fiscal establecido por el
+2 DDEC y el Secretario de Hacienda.
+3 (d) La Junta deberá identificar y gestionar dinero de asignaciones para el Centro
+4 de Computación de Inteligencia Artificial.
+5 (e) Subvenciones federales relacionadas a IA, solicitadas por el Instituto.
+6 (f) Subvenciones privadas, patrocinios, donaciones y contribuciones de
+7 organizaciones filantrópicas, empresas e instituciones académicas en y fuera de
+8 Puerto Rico.
+9 (g) Aportaciones anuales de instituciones académicas participantes en el
+10 consorcio, establecidas por acuerdos y reglamentación.
+11 Nada limitará ingresos por servicios, reinvertidos en la misión del Instituto, ni la
+12 atracción de inversiones masivas de impacto económico como en modelos
+13 referenciados.
+14 La Junta establecerá, mediante políticas y reglamento, procesos competitivos, y
+15 criterios transparentes basados en las mejores prácticas y en el mejor valor de política
+16 pública, para recibir y evaluar solicitudes y desembolsar fondos de subvención y de
+17 capital de riesgo, priorizando proyectos alineados con el plan estratégico, impacto
+18 medible y cumplimiento ético. Incluirá convocatorias abiertas para personas y
+19 proponentes elegibles, tales como universidades, consorcios, municipio y empresas
+20 privadas.
+21 Artículo 11 — Relación con la Universidad
+
+30
+1 La Universidad (de Puerto Rico) será socio académico estratégico del Instituto y
+2 tendrá representación en la Junta conforme al Artículo 6 de esta Ley. Podrá aportar
+3 investigadores, docentes, estudiantes, laboratorios, datos y otras capacidades, y se
+4 beneficiará de acceso a facilidades, programas y recursos del Instituto.
+5 El Instituto y la Universidad suscribirán convenios para investigación
+6 patrocinada, uso compartido de facilidades y equipos, codirección de Divisiones o
+7 Centros de Excelencia, y programas de formación e intercambio de personal
+8 académico, respetando la autonomía universitaria.
+9 La titularidad y explotación de propiedad intelectual resultante de proyectos
+10 colaborativos se regirá por acuerdos específicos, pudiendo contemplar co titularidad
+‑
+11 y distribución de beneficios conforme a aportaciones y normativa aplicable,
+12 conforme apruebe la Junta.
+13 Artículo 12 — Coordinación Intergubernamental y Municipal
+14 El Instituto coordinará con PRITS la identificación de retos, oportunidades,
+15 proyectos, iniciativas y pilotos de IA que aporten a la modernización gubernamental.
+16 PRITS servirá como enlace entre el Instituto y el gobierno y sus agencias.
+17 El Instituto apoyará, mediante un acuerdo de colaboración o contratos de servicios
+18 profesionales, las gestiones que el DDEC realiza para adelantar las actividades
+19 elegibles de investigación y desarrollo llevadas a cabo en Puerto Rico que estén
+20 relacionadas a IA incentivadas a través de la Sección 3030.01 de la Ley Núm. 60-2019,
+21 según enmendada (Crédito Contributivo para Ciencia y Tecnología), gestiones para
+22 impulsar las Pymes Innovadoras en Puerto Rico, incentivadas por el DDEC a través
+
+31
+1 del Reglamento MO-DEC-015 (Programas e Incentivos Económicos en el DDEC), así
+2 como gestiones para impulsar incubadoras de negocios, conforme a la Sección
+3 2100.03 de la Ley Núm. 60-2019, según enmendada (Programa de Incubadoras de
+4 Negocio).
+5 Además, el Instituto podrá suscribir acuerdos y contratos con municipios para
+6 implementaciones, laboratorios urbanos, formación de talento y validación de
+7 soluciones en entornos reales.
+8 Artículo 13 — Propiedad Intelectual y Comercialización
+9 La propiedad intelectual generada en proyectos del Instituto se regirá por su
+10 Política de Propiedad Intelectual y por los acuerdos específicos con colaboradores,
+11 pudiendo contemplar co titularidad y esquemas de participación en ingresos, según
+‑
+12 apruebe la Junta. El Instituto podrá participar en empresas derivadas o recibir
+13 regalías u otros retornos, siempre en cumplimiento con su naturaleza sin fines de
+14 lucro y reinvirtiendo todo ingreso neto en su misión, según apruebe la Junta.
+15 Artículo 14 — Políticas de Ética, Conflictos de Interés, Datos, Privacidad y
+16 Cumplimiento
+17 El Instituto adoptará un Código de Ética aplicable a miembros de la Junta,
+18 oficiales y personal, que incluya, como mínimo: divulgación anual de intereses;
+19 recusación obligatoria en asuntos que presenten conflicto; prohibición de dádivas
+20 indebidas; y normas de contratación con partes relacionadas mediante salvaguardas
+21 y evaluación de terceros independientes. La Junta velará por la implantación del
+
+32
+1 Código y la presentación de informes anuales. Los contratos entre el Instituto y otras
+2 entidades vinculadas deberán ser evaluados y aprobados por la Junta sin
+3 participación de miembros con potencial conflicto de interés.
+4 El Instituto adoptará una Política de Inteligencia Artificial Responsable que
+5 establezca principios, salvaguardas y procesos de evaluación de riesgos para
+6 proyectos internos y colaboraciones. Se adoptarán lineamientos de gobernanza de
+7 datos, privacidad y seguridad de la información, con controles de acceso,
+8 minimización de datos y medidas de ciberseguridad. Los datos personales tratados
+9 por el Instituto se manejarán conforme a leyes y buenas prácticas aplicables, y a
+10 políticas internas aprobadas por la Junta.
+11 Artículo 15 — Métricas, Informes y Auditorías
+12 El Instituto presentará un Informe Anual al Gobernador y a la Asamblea
+13 Legislativa que incluirá, entre otras cosas, lo siguiente:
+14 (a) Estados financieros auditados.
+15 (b) Informe completo de actividades, contratos y transacciones.
+16 (c) Situación y progreso de programas, divisiones o centros de excelencia, nodos
+17 o facilidades regionales, el consorcio universitario, iniciativas y proyectos, con
+18 logros cuantificables vs. Metas (meticas, proyectos ejecutados, acuerdos suscritos,
+19 y utilización de fondos públicos, entre otros.
+20 (d) Información sobre nuevos proyectos y actividades educativas.
+21 La Junta nombrará un Auditor General para auditorías semestrales de fondos. El
+22 Instituto estará sujeto a la jurisdicción de la Oficina del Contralor y facultades de la
+
+33
+1 Oficina de Gerencia y Presupuesto (OGP) para auditorías de desempeño y uso de
+2 fondos públicos.
+3 Artículo 16 — Disposiciones Transitorias
+4 El DDEC, en colaboración con Engine-4, tendrá ciento ochenta (180) días a partir
+5 de la vigencia de esta Ley para incorporar y organizar el Instituto de conformidad
+6 con la Ley Núm. 164-2009, convocar y coordinar un Comité de Nominaciones (en
+7 colaboración con Engine-4, la Universidad y PRITS) para recomendar a los miembros
+8 iniciales de la Junta, custodiar y administrar los fondos iniciales para gastos de
+9 organización hasta que se confeccione la Junta, preparar el Acuerdo Operacional,
+10 convocar la primera reunión de la Junta, y aprobar el Acuerdo Colaborativo con
+11 Engine-4.
+12 Dentro de ciento ochenta (180) días de constituida la Junta, se realizará un
+13 proceso transparente y competitivo para seleccionar al Director Ejecutivo, se
+14 preparará, aprobará y publicará el plan estratégico, y se prepararán y aprobarán las
+15 políticas, códigos, procedimientos y guías requeridas por esta Ley.
+16 Dentro de ciento ochenta (180) días de constituida la Junta, el Instituto ejecutará
+17 los acuerdos o convenios con el Gobierno para implementar las disposiciones
+18 establecidas en esta Ley relacionadas a la transferencia de fondos públicos para la
+19 operación, administración y ejecución de la política pública del Instituto.
+20 Artículo 17 —Para enmendar el Artículo 2 de la Ley Núm. 13-2017, según
+21 enmendada, y añadir el inciso (n) a los fines de disponer lo siguiente:
+
+34
+1 “Art. 2 — Propósitos y Facultades. — (23 L.P.R.A. § 11302) La Corporación será la
+2 organización encargada de impulsar a Puerto Rico como un lugar idóneo para hacer
+3 negocios y estará encargada principalmente de atraer negocios nuevos de capital
+4 externo, capaces de aportar capital adicional a nuestra economía. Para ello, contará
+5 con la pericia de los sectores público y privado en colaboración con el Departamento
+6 de Desarrollo Económico y Comercio de Puerto Rico. Las facultades de la
+7 Corporación incluirán, entre otras:
+8 (a)
+9 (b)…
+10 (n) Coordinar y colaborar con el Instituto de Desarrollo e Innovación en Inteligencia
+11 Artificial de Puerto Rico en el desarrollo e implementación de iniciativas, estrategias y
+12 proyectos dirigidos a fortalecer la competitividad económica de Puerto Rico mediante la
+13 investigación, el desarrollo, la adopción y la comercialización de tecnologías de Inteligencia
+14 Artificial en los sectores estratégicos de la economía de Puerto Rico.
+15 Artículo 18 - Se enmienda el Articulo 3 de la Ley Num.214 – 2004, según
+16 enmendada, para añadir un nuevo inciso que lea como sigue:
+17 “Artículo 3. — Creación, Propósito y Deberes. (23 L.P.R.A. § 695a) Se autoriza al
+18 Secretario del Departamento de Desarrollo Económico y Comercio, actuando como
+19 fideicomitente, a otorgar la Escritura Constituyente mediante la cual se establecerá
+20 un fideicomiso privado con fines no pecuniarios, el cual se conocerá como el
+21 “Fideicomiso para Ciencia, Tecnología e Investigación de Puerto Rico”, y en adelante
+
+35
+1 el “Fideicomiso”. Por la presente se le otorga personalidad jurídica al Fideicomiso,
+2 independiente de sus Fiduciarios o Síndicos.
+3 (1)…
+4 (2)….
+5 …
+6 (12) Coordinar y colaborar con el Instituto para la Innovación en Inteligencia Artificial de
+7 Puerto Rico en la identificación de prioridades de investigación, la asignación de fondos, la
+8 creación de programas de becas, y el desarrollo de proyectos estratégicos en el campo de la
+9 Inteligencia Artificial, así como en el fortalecimiento de capacidades científico-tecnológicas e
+10 infraestructura de innovación.”
+11 Artículo 19 - Se enmienda el inciso (b) de la Sección 5010.01 de la Ley Núm. 60-
+12 2019, según enmendada, para que lea como sigue:
+13 “(b) En la cuenta denominada Fondo de Incentivos Económicos, ingresará el diez
+14 por ciento (10%) tanto de los recaudos provenientes de la contribución sobre ingresos
+15 que paguen todos los Negocios Exentos con un Decreto bajo este Código o leyes de
+16 incentivos anteriores, como de los recaudos por el pago de contribuciones retenidas
+17 por concepto de regalías relacionadas a las operaciones exentas bajo este Código o
+18 Leyes de Incentivos Anteriores y cualquier otra asignación para estos fines. En
+19 ningún año fiscal la cantidad que ingresará a la cuenta denominada Fondo de
+20 Incentivos Económicos excederá la cantidad de [ciento veinticinco millones de
+21 dólares ($125,000,00.00)] ciento treinta y cinco millones de dólares ($135,000,000), de los
+
+36
+1 cuales diez millones de dólares ($10,000,000) se destinarán al Fondo de Desarrollo e
+2 Innovación de Inteligencia Artificial de Puerto Rico.”
+3 Artículo 20 - Se enmienda el inciso (c) de la Sección 2023.01 de la Ley 60-2019,
+4 según enmendada para que lea como sigue:
+5 “Todo Individuo Residente Inversionista, comenzando el segundo Año
+6 Contributivo de haber recibido su Decreto, junto con los informes anuales, deberá
+7 incluir evidencia de haber realizado una aportación anual de por lo menos diez mil
+8 dólares ($10,000) a entidades sin fines de lucro que operen en Puerto Rico y estén
+9 certificadas bajo la Sección 1101.01 del Código de Rentas Internas de Puerto Rico,
+10 que no sea controlada por la misma persona que posee el Decreto ni por sus
+11 descendientes o ascendientes.
+12 Adicionalmente, todo Individuo Residente Inversionista deberá incluir evidencia de haber
+13 realizado una aportación anual mínima de cinco mil dólares ($5,000) al Fondo de Desarrollo e
+14 Innovación de Inteligencia Artificial de Puerto Rico.
+15 La evidencia de las aportaciones anuales requeridas en este inciso deberá
+16 incluirse como parte del informe anual requerido por el apartado (a) de la Sección
+17 6020.10.”
+18 Artículo 21 - Se enmienda el inciso (a)(1) de la Sección 3030.01 de la Ley 60-2019,
+19 según enmendada, para que lea como sigue:
+20 “(a) Crédito Contributivo por Inversión en Investigación y Desarrollo. —
+
+37
+1 (1) Cualquier Negocio Exento que posea un Decreto bajo este Código o Leyes
+2 de Incentivos Anteriores podrá reclamar, sujeto a la aprobación del Secretario del
+3 DDEC, un Crédito Contributivo por inversión de hasta un cincuenta por ciento (50%)
+4 de la Inversión Elegible Especial hecha en Puerto Rico dentro del Año Contributivo
+5 después de la aprobación de este Código, sujeto a los límites, términos y condiciones
+6 establecidas por el Secretario del DDEC. Cualquier Negocio Exento que contrate sus
+7 actividades de Investigación y Desarrollo a través del Instituto para la Innovación en
+8 Inteligencia Artificial de Puerto Rico podrá recibir un crédito contributivo suplementario de
+9 un diez por ciento (10%) adicional, elevando el tope máximo aplicable de cincuenta por ciento
+10 (50%) a sesenta por ciento (60%) de la Inversión Elegible Especial, a un tope fiscal anual
+11 establecido por el Secretario del DDEC y el Secretario de Hacienda.”
+12 Artículo 22 - Se enmienda el Artículo 6 de la Ley Núm. 75-2019, según
+13 enmendada, para añadir un nuevo inciso (gg) para que lea como sigue:
+14 “Artículo 6. — Deberes y Funciones de la Oficina de Innovación y Servicios de
+15 Tecnología (PRITS).
+16 (…)
+17 (gg) Coordinar con el Instituto para la Innovación en Inteligencia Artificial de Puerto
+18 Rico la identificación de retos, oportunidades, proyectos, iniciativas y programas piloto en
+19 materia de inteligencia artificial que contribuyan a la modernización y eficiencia
+20 gubernamental. Para estos fines, PRITS servirá como enlace principal entre el Instituto y las
+21 agencias, instrumentalidades y corporaciones públicas del Gobierno de Puerto Rico,
+
+38
+1 facilitando la colaboración, intercambio de información y ejecución de proyectos de
+2 inteligencia artificial que promuevan la transformación digital del sector público.”
+3 Artículo 23 - No Existencia de Derecho Propio
+4 Nada de lo dispuesto en esta Ley se interpretará como la creación de un derecho
+5 privado de acción a favor de terceros contra el Instituto, su Junta, directivos o
+6 personal, salvo lo dispuesto por otras leyes aplicables.
+7 Artículo 24 — Supremacía
+8 Cualquier disposición de ley o reglamentación incompatible con esta Ley queda
+9 derogada en la medida de la incompatibilidad.
+10 Artículo 25 — Separabilidad
+11 Si cualquiera disposición, palabra, oración, inciso o sección de esta Ley fuera
+12 impugnado por cualquier razón ante un tribunal y declarado inconstitucional o nulo,
+13 tal sentencia no afectará, menoscabará o invalidará las restantes disposiciones de esta
+14 Ley.
+15 Artículo 26 — Vigencia
+16 Esta Ley empezará a regir inmediatamente después de su aprobación.
+
+[DELETED: 0 2S  f e d s y r d n e s y m p e d y a d t d I d y e s n p f e d y o q p l c e e s p y r d c e t l p y e d d y a d t d I A f l c p d d a p m e v d l d e c c l “ d l P R I a]
+[DELETED:  e e S X g a b d d e i s o i c l O p l p e a 2 i p a e a a i l m y l s p L O d l U ( y l U I d T ( h E U C y l U E a f d e r s e n a m e r e c,  l i y a d l I A c e o d I I e g e l d E U e l y d d e t a c p a l f l“” y c l a d i d d y]
+[DELETED:  c i y c i l c n p d a d n e a m d e i r ( N 2 l c d D ( 1 e n C d I ( N 6 e o E R e s d m s s u p e s S l o e d y a n d l I A e t d s g p q s e y c I l n p p p l a d I]
+[DELETED:  a o y f o a r l d m a l i a l t t y l“  y v g p a i s c”V I P C( y e “ ( i g c c a o y d a r p p l r F e c C y V l l r d I A m c c e e c t e e a e e i c C a m d 4 d I A y r p d i e.  y a a e i u  q f c H c i d $ m E s c c e ( c s G HhP C C]
+[DELETED:  m c e “ d N Y y e A C , v a t e l U d B ( c e p i y d c é e l i d a u m p a l c P s p e “, e p d T P d c e u i y g a d J & J p 5 e f u e d   i m c ( l $ m l s l e S l s a y l c p e c d i y d q i l]
+[DELETED:  d P Rc e F p l C l T e d P R u e p s f d l c m c d a f e f y p d a b t y a S l L p l e d v y l i d e y  e4 p d c i o u  u q i d l  e f d p a P R c u m r y g e A r l p L c e I d D e]
+[DELETED:  d e ( a p e y d d c p a l r d S X r a d l c d p i e l d t c e l ú t y m p d A ( p s t p a y c ( a I A a m d yod L p a  c s b o d ne4 F e s p y e M d B c s i e c m d p p d a r c l A c l s I P R e F d C R E p s j d a á r p y]
+[DELETED:  :  nedtoe   I ( u l 5BI d g p p e y p d d ( u i d m d 4 p L U d P R y l U S C yc m d 1 i 3 i e i d p i p c g d f d y m d i e m p E o c c y c c n d t y g a c d G d P r q l d g e p i m c y r t e u d c y r d c d p m r a l a r d I A y c e i s a c l e g d d]
+[DELETED:  l i y l a q a e c s a l p d P R a t d d y m n i y f e d y a d a y e G d P R p l i d u p d I A r f e l e y c A s b i y e c a f d p b e t y r d c e e y r m g d p i l]
+[DELETED:  n g s p p q l I A s d f t q s a u n ó d e e l p s e l d y e a a l s d é s i m e l c d l v d n c e s v y s p a c c l e “ O – S e i v q r l ,e4 “ — S c j c t e c p o d a n]
+[DELETED:  a f e p e o c I o a i a t t y)“ – S l a e u p y p r y r c a l L N 1 D – S e D d D E y C “e4 – S Ee4 F c s f d l b l l d P R y l S 5 d C d]
+[DELETED:  “ B o E B — c R c d c c l L N 2 d 1 d a d s e y c c “ d F p C I — S u p c c y a d y a d i y s a r L i p l]
+[DELETED:  “ — S c p n o j d U d A o d c E d l E U d “ E — S e “ E d D e p l L 7 c c  d l P R I a “ I — S p i f p p c () d d a ()wc()) f l c m p s n p c p () e p]
+[DELETED:  “ d I — S a p d d e “ d N — L d d e t s h s c e I c c s f d l c p R a r e l c e d i p N u a c n i g t]
+[DELETED:  E D e c c E s r d i y E S d D e c c E s r d y c u C d N p r a l E D e c c E y e M d B s m p p o s y l l e d a E i p s l a i l d g c l e p a y r y r d i p c d y t c c y p d r a d]
+[DELETED:  p d m i d o i y d A O m e e c t a o s S g l a o y d d I N o i d G d P R p i l d p p o g a p e I E I e s ú a l s q e l l a a l c s f d d e d d t y g r p o n s o c c p e c m]
+[DELETED:  L l i d P R e l p e d c y p e I A d p p i y c b t p t c e d e e D y c p d c t b y E c c l U F y u p l t d t l c r d d i y l c d e d () yno E c c e D l U u p y e a l f y e c d e p a]
+[DELETED:  d a y r d t m e d a c y c e a d G d P R e l a d s d P a t y a a m e l c e  e C d N p f T P D y e u c e l p u y e s p c e f d e u c d c]
+[DELETED:  y p d I a a l p p d i a y f y u P d C q m d c p e d y m e I d I A d P R c a E c c a y t p q A y e u P d I A R q]
+[DELETED:  I p d d a c a l L N 1 q l d g o u e p d I s d p e f a s d p o s y c c P p l E m d e m d r e i A a a y e b m e i y m p t e y e s d m]
+[DELETED:  E s o e a n p f E p d b y r p e y e e á d I A i l c d p e g e y l c d r o I i d c c e y o e j d l E U y a n i t c d i v o i q p l()()]
+[DELETED:  D ( r d s p c e e e d y p d I A a s n p e D ( r d s p c e e e d t e d t ( a y p s r p u d n c L m q n s f , n s c f p t l e i l J s d e s m a u P y u V l a s t p l m d l p D q a n o p e c r d l J s]
+[DELETED:  p r e c r d l J o c d é m c t u o m d c a d c t l p p e l r p e L p d c m d l J e l f r m p d d d s a o d o q n s d b f o q c d c i o d v a l l c c d e o p c i a c p q s o h s m d l J e o a d I b l m p q u]
+[DELETED:  N u D E a a a o e d y p e a c l d e e L y f l a b d e d c s p p]
+[DELETED:  A l i d p d d a c a l L d I R u C d É y l P d P D E e e p e d I y d y]
+[DELETED:  A 1 ( A y A y e A 1 ( d J p d a D E a p y q c a E D E t l i a E D E e l p d 8 — D o C d E y C d A d d I y D e e p e c d]
+[DELETED:  d E E e e a  y d C e e l t t y)D d A E e e c m c ( m e e é t d p d y r d l c d p l J E C]
+[DELETED:  J c u c e u p y p p u c d c d I d v c p d l d I i e e m d  p p A n p p q e c e a c c e F p e D e I d I A d.E U c a d d m d d ( d i d I E ( a p e D i A a m d c m d ( d I . L c r u c c s d 1 d 5 a 6 s c s a d R &]
+[DELETED:  a t d I s a u t f e p e S p p d y c d a d i a p e e d i m d i e c e m y c é I c a p p y]
+[DELETED:  I y l U s c p i d E y p d f e i d p t y e d p i r d pot d d b c a a y n a I c c P l i d r o l g q e D r p a l a d i y d l a c e P R q e]
+[DELETED:  g p i i d n c a l S e I p s a y c c m p l u f d t y v d p i g e p d I s r p sot l J E I p p e e d o r 1 — P d É C d I D P y I a u C d É a a m d l J y p q i c m d a d i o e a q p c p d d e d t i L J v p l i d]
+[DELETED:  v d s e y a p l J s I a u P d I A R q p s y p d e d r p i y c S a l d g d p y s d l i c c d a e I s m c a l y b p a y a I p u I A a G y a l A f r e c u i y p c]
+[DELETED:  d l J c y a l f i p g d h q s c l J p e A O l p r d l J y a e A C c d c o ( d d c l J s r u t y c p s a D E s a o c c e G p i l d 1 — e e A 2 d l L N 1 s]
+[DELETED:  y e e p d a n n d c D E y C d P R L f d l C y c c e I d D e I e I d P R e e d e i d i e y d a f l c e d P R m l 1 - S e e A 3 d l L N – 2 s f p c f n p e c s c c e]
+[DELETED:  d I A y c o a p e f E a f l c q i a l c d F d E e l c [ v m d) ]
+[DELETED:  d m d d ( s d a F d D e I R I c e s A n s c p l m p q p e D n p s e d l a a r e e i d]
+[DELETED:  p e S d D N E q c s d I y D a t d I p l I e 2 - S e e A 6 d l L N 7 s d i a q c a l m y e i y c p d G d P R]
+[DELETED:  l c i d i y e d p d d a a f d t c e I s J d o c d p o i o s d e L f]
