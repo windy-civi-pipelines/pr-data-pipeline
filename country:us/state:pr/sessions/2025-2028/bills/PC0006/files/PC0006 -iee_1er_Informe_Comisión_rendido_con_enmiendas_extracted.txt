@@ -1,0 +1,1889 @@
+Title: La Comisi6n de Asuntos Municipales de la Camara de Representantes de Puerto Rico,
+Official Title: La Comisi6n de Asuntos Municipales de la Camara de Representantes de Puerto Rico,
+Number of Sections: 1
+Source: versions - 1er Informe Comisión rendido con enmiendas
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+ORIGIN/\!
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 1ra Sesi6n
+Legislativa Ordinaria
+CAMARA DE REPRESENT ANTES
+INFORME POSITIVO
+P. de la C. 6
+5 de febrero de 2025
+A LA CAMARA DE REPRESENTANTES:
+previo estudio y consideraci6n del Proyecto de la Camara 6, tiene el honor de recomendar
+a este Alto Cuerpo su aprobaci6n, con las enmiendas que se incluyen en el entrillado
+electr6nico que acompafia este Informe.
+ALCANCE DE LA MEDIDA
+El Proyecto de la Camara 6, segun radicado, pretende enmendar el Articulo 2.048 de la
+Ley 107-2020, segun enmendada, conocida como "C6digo Municipal de Puerto Rico";
+enmendar la Secci6n 6.8 de la Ley 8-2017, segun enmendada, conocida como "Ley para
+la Administraci6n y Transformaci6n de los Recursos Humanos en el Gobierno de Puerto
+Rico"; enmendar los articulos 5 y 7, y afiadir un nuevo Articulo 10-B, en el Plan de
+Reorganizaci6n 2-2011, segun enmendado, conocido como "Plan de Reorganizaci6n del
+Departamento de Correcci6n y Rehabilitaci6n de 2011"; y enmendar los articulos 1 y 6 de
+la Ley Num. 254 de 27 de julio de 1974, segun enmendada, mediante la cual se autoriza
+al Negociado de la Policia del Departamento de Seguridad Publica a expedir los
+denominados "certificados de antecedentes penales", con el prop6sito de restituir la
+facultad del Departamento de Correcci6n y Rehabilitaci6n para expedir el denominado
+"Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar", y para permitir el empleo
+de exconfinados en el servicio publico municipal, salvo por las excepciones enumeradas
+en esta Ley, en aras de fomentar su reinserci6n en la comunidad como personas
+productivas y utiles y restaurar el dafio ocasionado a la victima y a la sociedad; hacer
+correcciones tecnicas; y para otros fines relacionados
+Informe Positivo P. de la C. 6 Pagina 2
+De la Exposici6n de Motivos de la medida surge que la Secci6n 19 del Articulo VI de la
+Constituci6n de Puerto Rico establece como politica publica del Estado la regulaci6n de
+las instituciones penales para que cumplan eficazmente sus prop6sitos y fomenten,
+dentro de los recursos disponibles, el tratamiento adecuado de los delincuentes para su
+rehabilitaci6n moral y social. En consonancia con este mandato, el Gobierno de Puerto
+Rico ha desarrollado un sistema integrado de seguridad y administraci6n correccional
+que armoniza la imposici6n de penas con procesos de rehabilitaci6n, permitiendo la
+reincorporaci6n social de los individuos que han infringido la ley.
+Con la aprobaci6n del "Plan de Reorganizaci6n del Departamento de Correcci6n y
+Rehabilitaci6n de 2011", se reorientaron las funciones de la agenda hacia la custodia y
+rehabilitaci6n, asegurando un tratamiento adecuado por personal capacitado y
+promoviendo la reintegraci6n de los confinados a la sociedad. El Departamento de
+Correcci6n y Rehabilitaci6n (DCR) es responsable de implementar la politica publica
+correccional en Puerto Rico, ofreciendo custodia y rehabilitaci6n mediante programas
+educativos, religiosos, vocacionales y de reinserci6n comunitaria.
+La estructura organizacional del DCR incluye la Oficina del Secretario, varias Secretarias
+Auxiliares (d e Recursos Humanos, Gerencia y Administraci6n, Presupuesto y Finanzas,
+Asuntos Legales e Investigativos, Programas y Servicios, y Seguridad), la Oficina de
+Prensa y Protocolo, y las Oficinas Regionales. Este modelo administrativo proporciona
+una jerarquia clara, alineada con principios modernos de gerencia.
+El DCR tambien es responsable de garantizar la continuidad de programas esenciales
+como el Programa de Servicios con Antelaci6n al Juicio (PSAJ), el Programa de Empresas
+de Adiestramiento, Trabajo y Cooperativas (PEATC), el Programa de Salud Correccional
+y la Junta de Libertad Bajo Palabra. En materia de rehabilitaci6n, la Secretaria Auxiliar de
+Programas y Servicios ofrece diversos servicios, tales como atenci6n en salud fisica,
+mental y dental, programas educativos y vocacionales, trabajo social institucional y
+comunitario, y servicios religiosos y recreativos.
+El DCR ha desarrollado un sistema diversificado de instituciones y programas para
+asegurar un tratamiento individualizado de los confinados. Como parte de esta
+estrategia, se cre6 el Programa Integral de Reinserci6n Comunitaria, que integra distintas
+entidades del sistema correccional para priorizar la rehabilitaci6n sin comprometer la
+seguridad publica. Entre los componentes clave de este programa estan el Negociado de
+Rehabilitaci6n y Tratamiento, el Negociado de Instituciones Correccionales, la Oficina de
+Capellania y el Negociado de Comunidad.
+Asimismo, el DCR estableci6 una Oficina de Colocaci6n de Empleos con el objetivo de
+facilitar la evaluaci6n, clasificaci6n y ubicaci6n de confinados y exconfinados en empleos
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Pagina 3
+dentro de la comunidad. Esta oficina tambien monitorea y evahia las necesidades
+laborales de esta poblaci6n, colabora con el sector privado para promover oportunidades
+de empleo y recolecta datos sobre los servicios ofrecidos. Ademas, prepara un informe
+anual dirigido al Gobernador y a la Asamblea Legislativa que documenta el impacto de
+estos esfuerzos.
+A pesar de los avances logrados, la reinserci6n comunitaria de los confinados enfrenta
+obstaculos legales. En 2004, se aprob6 la "Ley del Mandato Constitucional de
+Rehabilitaci6n", la cual establecia que los recursos gubernamentales debian enfocarse en
+la rehabilitaci6n moral y social de los confinados. Como parte de este esfuerzo, se cre6 un
+Certificado de Rehabilitaci6n que acreditaba la rehabilitaci6n del sentenciado y le
+permitia solicitar la terminaci6n anticipada de su pena. Ademas, se disefi6 el Certificado
+de Rehabilitaci6n y Capacitaci6n para Trabajar, que complementaba el certificado de
+antecedentes penales y facilitaba la obtenci6n de empleo para exconfinados.
+Sin embargo, con la derogaci6n del C6digo Penal de 2004 y de la Ley del Mandato
+Constitucional de Rehabilitaci6n, se gener6 incertidumbre respecto a la vigencia y
+aplicabilidad del Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar. Esta
+situaci6n ha afectado la reinserci6n laboral de los exconfinados, quienes, al no poder
+obtener un certificado de buena conducta, enfrentan serias dificultades para acceder a
+empleos.
+Por ello, se propone restituir la facultad del DCR para expedir el Certificado de
+Rehabilitaci6n y Capacitaci6n para Trabajar, lo que permitira una mayor integraci6n de
+los exconfinados al mercado laboral. Ademas, se busca permitir el empleo de
+exconfinados en el servicio publico municipal, sujeto a ciertas excepciones. No podran
+aspirar a estos empleos quienes figuren en el Registro de Personas Convictas por Delitos
+Sexuales y Abuso Contra Menores, el Registro de Personas Convictas por Corrupci6n y
+Delitos Relacionados, o quienes hayan incurrido en conducta deshonrosa, sido
+destituidos del servicio publico por razones inhabilitantes, sido convictos por delitos de
+depravaci6n moral o de incumplimiento de deberes oficiales, sean adictos a sustancias
+controladas o bebidas alcoh6licas, o hayan proporcionado informaci6n falsa en
+solicitudes de empleo.
+No obstante, estas restricciones no aplicarian a quienes hayan sido habilitados por el
+Secretario del Departamento del Trabajo o posean un Certificado de Rehabilitaci6n y
+Capacitaci6n para Trabajar. Con estas disposiciones, se pretende darcumplimiento a la
+Secci6n 19 del Articulo VI de la Constituci6n de Puerto Rico y fortalecer los programas
+de reinserci6n laboral para confinados y exconfinados.
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 4
+La ampliaci6n de estos programas representa una oportunidad para que los confinados
+participen activamente en el desarrollo econ6mico de Puerto Rico, facilitando su
+reintegraci6n y reduciendo la reincidencia criminal. La aprobaci6n de estas medidas
+fortalecera la politica publica de rehabilitaci6n y garantizara el cumplimiento efectivo del
+mandato constitucional en materia correccional.
+Luego de expresada la intenci6n del Proyecto de la Camara 6, la Comisi6n de Asuntos
+Municipales de la Camara de Representantes solicito la comparecencia de la Asociaci6n
+de Alcaldes de Puerto Rico, Federaci6n de Alcaldes de Puerto Rico, Departamento de
+Seguridad Publica, Departamento de Correcci6n y Rehabilitaci6n, Departamento del
+Trabajo y Recursos Humanos, Departamento de Justicia , Oficina de Administraci6n y
+Transformaci6n de los Recursos Humanos, Teen Challenge y Hogares Crea, Inc.
+TRAMITE LEGISLATIVO
+Dentro del proceso legislativo, se realizaron dos vistas publicas con los siguientes
+deponentes:
+Vista Publica; 12 de febrero de 2025: Departamento de Seguridad Publica, Teen
+Challenge, Hogares Crea:
+Teen Challenge de Puerto Rico (TCPR), representada por el Dr. Jose Martinez, quien
+expone que aproximadamente el 95 % de las personas que sufren de trastornos por
+consumo de opioides u otras drogas se encuentran desempleadas. De este grupo, mas del
+50% requiere rehabilitaci6n vocacional para adquirir las destrezas basicas o
+especializadas necesarias para reintegrarse al mercado laboral al concluir su tratamiento.
+TCPR respald6 su posici6n con estudios que indican que, a medida que aumenta el
+desempleo, tambien se incrementan las tasas de mortalidad por opioides y las visitas a
+salas de emergencia, reflejando c6mo la angustia psicol6gica derivada de la perdida de
+empleo puede llevar al consumo de drogas ilegales.
+En este contexto, TCPR recomend6 la inclusion de una disposici6n en el Articulo l0B,
+letra (£), que establezca que, en caso de que una persona arroje positivo en las pruebas de
+consumo, se le provea un tratamiento adecuado que le permita obtener el certificado tras
+completar dicho proceso. Ademas, se propane que los confinados diagnosticados con
+trastorno de uso de sustancias sean gestionados mediante un manejo de caso coordinado
+por el Departamento de Correcci6n y Rehabilitaci6n, ASSMCA o instituciones
+licenciadas, de modo que se garantice el apoyo necesario para la reinserci6n, evitando la
+reincidencia y promoviendo una mayor estabilidad social. Finalmente, TCPR aboga por
+la asignaci6n de recursos econ6micos para prevenir recaidas y fortalecer el apoyo
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 5
+comunitario, evidenciando que dichas medidas tienen un impacto positivo en la
+reducci6n del reingreso a comportamientos autodestructivos.
+El Departamento de Seguridad Pitblica (DSP), a traves de la Leda. Omara Arias Nieves,
+se remiti6 a la Ley Num. 254 ya sus enmiendas, como la Ley 314-2004, la reciente Ley 56-
+2024 y la Ley 174-2011, para enmarcar el procedimiento de expedici6n de certificados de
+antecedentes penales y de rehabilitaci6n. Estas normativas permiten que, en ciertos casos,
+las condenas por delitos menos graves sean eliminadas automaticamente o a traves de un
+procedimiento simplificado, siempre y cuando se cumplan determinados requisitos.
+El DSP destac6 que dichas disposiciones han sido actualizadas para facilitar la
+coordinaci6n entre la Policia de Puerto Rico, el Departamento de Correcci6n y
+Rehabilitaci6n; y el Departamento de Justicia, lo que a su vez agiliza la emisi6n de
+certificados de rehabilitaci6n y capacitaci6n laboral para ex convictos. En este sentido, el
+DSP apoya las enmiendas al C6digo Municipal y a la Ley 254, ya que estas medidas
+permitiran una integraci6n mas eficaz de los exconvictos en la sociedad, consolidando un
+marco jurf dico que promueve la reinserci6n laboral y social de las personas rehabilitadas.
+Hagar Crea, Inc., representado por el Sr. Hector L. Figueroa, propane que el Proyecto de
+la Camara 6 se extienda a los municipios y a las agendas del Gobierno Estatal encargadas
+de prestar servicios a esta poblaci6n vulnerable. Hogar Crea, sugiere la creaci6n de un
+comite intergubernamental que incluya, ademas, a organizaciones sin fines de lucro con
+experiencia en el manejo de casos de consumo de sustancias, lo que permitiria una
+coordinaci6n mas eficiente y un uso 6ptimo de los fondos publicos. Ademas, se resalta
+que, gracias a la implementaci6n de salas especializadas para el tratamiento de casos de
+sustancias, mas de 6,500 personas han logrado completar exitosamente su rehabilitaci6n.
+Datos adicionales indican que durante los afios 2022-2023 se atendieron 1,022 casos,
+mientras que en 2023-2024 se gestionaron 1,233 casos referidos por las Cortes de Drogas,
+representando el 51 % del total, lo cual evidencia la capacidad y experiencia de Hogar
+Crea en la materia.
+- Vista Publica; 19 de febrero de 2025: Departamento de Correcci6n y
+Rehabilitaci6n, Departamento del Trabajo y Recursos Humanos; y el
+Departamento de Justicia.
+El Departamento de Justicia (DJ), representado por la Leda. Viviana Catala Diaz, quien
+explic6 que la Secci6n 1 del Proyecto de la Camara 6 pretende enmendar la Ley 107-2020,
+segun enmendada, conocida como C6digo Municipal de Puerto Rico. Esta enmienda
+tiene el objetivo de establecer, como condici6n para el ingreso al ambito laboral de los
+municipios, que el candidato no pueda formar parte del Registro de Personas Convictas
+por Delitos Sexuales y Abuso contra Menores ni del Registro de Personas Convictas por
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Pagina 6
+Corrupci6n y Delitos Relacionados, y que, ademas, la persona contratada no hubiera sido
+convicta por delitos que impliquen depravaci6n moral o infracci6n de los deberes
+oficiales.
+Asimismo, el DJ se refiri6 a la Secci6n 6.8 de la Ley 8-2017, la cual disponia que los
+servidores publicos no deben haber incurrido en conductas impropias, tales como
+conductas deshonrosas, adicci6n al uso habitual y excesivo de sustancias controladas o
+bebidas alcoh6licas, o destituci6n del servicio publico, sin perjuicio de que aquellos que
+cumplieran ciertas excepciones pudieran solicitar su habilitaci6n. Ademas, menciona que
+se busca afiadir un inciso adicional que permitiera a toda persona que ostentara un
+Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar someter su solicitud de
+habilitaci6n en cualquier momento.
+El DJ consider6 que, en terminos generales, el prop6sito de la medida es un ejerc1c10
+valido y loable de la Asamblea Legislativa en pro del bienestar ciudadano, orientado a la
+rehabilitaci6n de los confinados y exconfinados. No obstante, advirti6 que la medida
+omite, el texto introductorio del Articulo 2.048 establecido en la Secci6n 7 de la Ley 106-
+2024, el cual prohibia el discrimen por condiciones tales como ser victima de agresi6n
+sexual, acecho, o pertenecer a ciertos grupos protegidos. Por ello, recomend6 evaluar si
+era preciso enmendar la medida para atemperarla a la redacci6n actual antes de continuar
+con el tramite legislativo, y sugiri6 ademas que se consultara con otras agendas
+pertinentes para la correcta implementaci6n de la misma.
+El Departamento de Correcci6n y Rehabilitaci6n (DCR), representado por el Ledo.
+Francisco Mendez, expuso que, a pesar de los esfuerzos realizados por la agenda en favor
+de la reinserci6n comunitaria de los confinados y exconfinados, las leyes vigentes han
+impedido el logro completo de la politica publica establecida en la Constituci6n de Puerto
+Rico. Sefial6 que la eliminaci6n del antiguo "certificado de rehabilitaci6n", instituido bajo
+la ya derogada Ley del Mandato Constitucional de Rehabilitaci6n, habia generado
+incertidumbre respecto al proceso de expedici6n de nuevos certificados de rehabilitaci6n
+y capacitaci6n para trabajar, conforme los confinados iban extinguiendo sus penas. Por
+ello, consider6 razonable que la medida aclarara el estado juridico actual y restituyera la
+facultad al DCR para expedir dichos certificados, en linea con el objetivo de permitir el
+empleo de exconfinados en el servicio publico municipal.
+En ese sentido, explic6 que la inserci6n de un nuevo Articulo 10-B en el Plan de
+Reorganizaci6n del DCR facultaria al Secretario de la agenda, luego de realizar
+evaluaciones y recomendaciones psicol6gicas, para certificar la rehabilitaci6n del
+sentenciado y levantar, en consulta con el Secretario de Justicia, una solicitud ante el
+tribunal para considerar cumplida la pena privativa de libertad. El DCR destac6 que esta
+medida, ademas de fortalecer los mecanismos de rehabilitaci6n, abria la posibilidad de
+que los municipios, quienes enfrentaban grandes retos en materia de contrataci6n,
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Pagina 7
+contaran con una fuente adicional de trabajadores capacitados, como lo evidenciaban los
+acuerdos existentes en programas como el de Brigadas y Ornato.
+El Departamento de Trabajo y Recursos Humanos (DTRH), representado por la Leda.
+Coralis Sosa Castellanos, manifesto que la Seccion 1 del proyecto busca establecer que,
+como condicion general para el ingreso al servicio publico, los candidatos no deban
+formar parte de los registros de personas convictas por delitos sexuales o por corrupcion.
+Sefialo que, si bien el proyecto dispone cinco causales en las que la inhabilidad para el
+empleo no se aplicaria en caso de que el candidato hubiera sido habilitado o poseyera el
+Certificado de Rehabilitacion y Capacitacion para Trabajar, se habia observado la omision
+de un subinciso que explicitara esta condicion de exclusion.
+El DTRH enfatizo que la intencion de la medida es constituir un mecanismo adicional
+para fomentar la reinsercion del exconfinado en la comunidad, permitiendole acceder al
+empleo en el servicio publico municipal siempre y cuando cumpla con determinados
+estandares eticos y profesionales. Ademas, aclaro que la limitacion en la expedicion del
+certificado, establecida en la Ley 254, no impedia que las personas afectadas solicitaran
+habilitacion de conformidad con lo dispuesto en la Ley 8-2017, recomendando que se
+O
+clarificara si la exclusion de los registros se mantendria de forma permanente. Tambien
+Zf
+sugirio que se introduzca una enmienda al Articulo 2.062 de la Ley 107-2020 para precisar
+que las personas que cumplieran con las causales de inhabilidad debian solicitar
+habilitacion ante el DTRH en ausencia del certificado.
+Por ultimo, se sefialo que la Seccion 7 del proyecto, que pretende enmendar el Articulo 6
+de la Ley 254 para ajustar los fundamentos legales relativos a la expedicion de los
+certificados de antecedentes penales, debe ser modificado para reflejar de manera
+adecuada la jurisdiccion actual del DTRH sobre el proceso de habilitacion. A pesar de
+estas observaciones, el DTRH reconocio el espiritu loable de la medida y manifesto su
+respaldo al proyecto, siempre y cuando se atendieran las recomendaciones planteadas.
+Durante el turno de preguntas, se solicito al DCR que, en un plazo de cinco dias, remitiera
+informacion detallada , a la Comision acerca del numero de confinados que cumplian con
+los criterios de elegibilidad para el proceso de rehabilitacion y certificacion para empleo,
+los resultados y aprendizajes obtenidos de programas previos de reinsercion laboral, la
+disponibilidad de recursos humanos y administrativos para llevar a cabo las evaluaciones
+y certificaciones requeridas, y un borrador de reglamento para la supervision prospectiva
+de los exconvictos.
+Memoriales y otras solicitudes:
+La Federacion de Alcaldes de Puerto Rico, asi como la Asociacion de Alcaldes de Puerto
+Rico sometieron su posicion mediante memorial explicativo. Mientras que Oficina de
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 8
+Administracion y Transformacion de los Recursos Humanos, solicito excusarse, sin
+haber presentado su posicion, al momento de la redaccion de este informe.
+La Federaci6n de Alcaldes de Puerto Rico (FAPR), expresa que la medida en referencia
+pretendio enmendar el Artfculo 2.048 de la Ley 107-2020, segun enmendada, con el fin de
+establecer un mecanismo adicional que fomentara la reinsercion del ex confinado en la
+comunidad como persona productiva y util, al mismo tiempo que se buscaba restaurar el
+dafio ocasionado a la vfctima ya la sociedad. En este sentido, se estipulo que, para acceder
+al empleo en el servicio publico municipal, el candidato no debfa formar parte del
+"Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores" ni del
+"Registro de Personas Convictas por Corrupcion y Delitos Relacionados". Ademas, se
+considero la exclusion de aquellos que ostentaran el Certificado de Rehabilitacion y
+Capacitacion para Trabajar, conforme a lo dispuesto en el Articulo 10-B del Plan de
+Reorganizacion 2-2011, segun enmendado.
+Por otro lado, se enmendo el inciso (1) del Artfculo 5 del mencionado Plan de
+Reorganizacion, permitiendo a los municipios emplear a confinados y exconfinados. Los
+municipios prepararon analisis, estudios y un inventario de las plazas de trabajo
+disponibles, de modo que se ofreciera a esta poblacion la oportunidad de obtener
+experiencias laborales que pudieran derivar en una retencion a largo plazo. La
+participacion municipal resulto haber sido de caracter voluntario, mientras que el Estado
+se encargo de proveer a la comunidad confinada las herramientas necesarias para su
+rehabilitacion, capacitacion en nuevas vocaciones y el desarrollo de habilidades
+compatibles con su reintegracion a la sociedad.
+Ademas, la aprobacion de la Ley Num. 106-2024, el 23 de julio de 2024, establecio una
+polftica publica contra el discrimen racial, en particular en lo que respecta a peinados
+protectores y texturas de cabello asociados con identidades de raza y origen nacional
+particulares. Dicha ley enmendo varios artfculos de la Ley Num. 107-2020 y se recomendo
+que el Articulo 2.048 se ajustara para incorporar el nuevo lenguaje, garantizando que todo
+municipio ofreciera oportunidades de empleo en el servicio publico sin discriminacion
+por motivos de raza, color, sexo, edad, orientacion sexual, identidad de genero, origen o
+condicion social, entre otros.
+La F APR, se manifesto en apoyo a la medida, resaltando que la implementacion de estos
+mecanismos para la reinsercion laboral de confinados y exconfinados representaba una
+herramienta esencial para que estos individuos pudieran contribuir al desarrollo
+economico y social de sus comunidades. La F APR enfatizo que esta estrategia ofrecfa a
+los municipios la posibilidad de acceder a un recurso humano calificado, lo cual resultaba
+especialmente relevante para mitigar el deficit laboral evidenciado en los ultimos afios,
+agravado por la emergencia del COVID-19 y otros factores. Segun la Federacion, la
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 9
+medida no solo favorecfa la rehabilitacion y recuperacion personal de los exconfinados,
+sino que tambien contribufa a generar un entorno laboral inclusivo y productivo en el
+ambito municipal.
+La Asociaci6n de Alcaldes de Puerto Rico (AAPR) expreso su respaldo al P. de la C. 6, al
+considerar que la medida representa un mecanismo adicional para fomentar la
+reinsercion de los exconfinados en la comunidad como individuos productivos y utiles,
+al tiempo que permite restaurar el dafio causado a las vfctimas y a la sociedad. Apoyaron
+la disposicion que autoriza su empleo en el servicio publico municipal, sujeto a ciertas
+excepciones. Entre estas, se establece que los candidatos no podran formar parte del
+Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores ni del
+Registro de Personas Convictas por Corrupcion y Delitos Relacionados. Asimismo,
+deberan cumplir con requisitos que excluyen a quienes hayan incurrido en conducta
+deshomosa, sido destituidos del servicio publico por causas que los inhabiliten, sido
+convictos por delitos de depravacion moral o infraccion de deberes oficiales, sean adictos
+al uso habitual y excesivo de sustancias controladas o bebidas alcoholicas, o hayan
+presentado informacion falsa o engafiosa en solicitudes de empleo.
+La AAPR respaldo que, en caso de que un candidato se encuentre en alguna de estas
+circunstancias, pueda ser elegible para el servicio publico si ha sido habilitado por el
+Secretario del Departamento del Trabajo y Recursos Humanos o si posee un Certificado
+de Rehabilitacion y Capacitacion para Trabajar. En cuanto a la enmienda propuesta al
+Artfculo 2.048(3) del Codigo Municipal, que aclara la exclusion de personas inscritas en
+el Registro de Ofensores Sexuales, la AAPR expreso su conformidad. Tambien apoyaron
+la eliminacion de la tipificacion de delito grave en el inciso (5) y la inclusion del requisito
+de un Certificado de Rehabilitacion y Capacitacion para Trabajar como condicion para la
+elegibilidad en el empleo municipal. En conclusion, la AAPR endoso el Proyecto, al
+considerar que la medida fomenta la reinsercion efectiva de los exconfinados y ofrece una
+oportunidad justa de empleo dentro del ambito municipal.
+Consenso de los Deponentes:
+En conjunto, las posiciones de los deponentes evidencian un consenso en que el Proyecto
+de la Camara 6 representa un avance significativo y necesario para promover la
+reinsercion social y laboral de los exconfinados, a la vez que se reforzaba la integridad y
+calidad del servicio publico. Cada una de las entidades apoyo la medida, reconociendo
+que, con las aclaraciones y enmiendas pertinentes, el proyecto contribuirfa a restituir
+funciones esenciales y a ampliar las oportunidades de empleo para personas
+rehabilitadas, en beneficio tanto de la sociedad como de los propios individuos. Asf, se
+constato que la aprobacion de la medida constituye un paso decisivo hacia el
+fortalecimiento del bienestar social y la integracion de exconfinados en la vida productiva
+de los municipios.
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 10
+ENMIENDAS RECOMENDADAS
+En el tf tulo de la medida, en la exposici6n de motivos y en el decretase, se recomienda
+una enmienda en el lenguaje que utiliza expresiones como 11convicta11 11exconvicta" y
+,
+11exconfinada11 garantizando de manera inequivoca que la disposici6n se aplica a todas
+,
+las personas, sin excepci6n de genero. Esta formulaci6n no solo reconoce las experiencias
+y necesidades particulares de las mujeres dentro del sistema correccional, sino que
+tambien reafirma el compromiso de la Asamblea Legislativa, con la igualdad y la justicia,
+asegurando que los beneficios y oportunidades de reinserci6n y rehabilitaci6n se
+extiendan de forma plena y equitativa a las personas femeninas. Al incluir explicitamente
+estos terminos en su forma femenina, se elimina cualquier ambigiiedad sobre la
+aplicabilidad de la medida, promoviendo un enfoque integral que atiende a la diversidad
+y respeta los derechos de todas las personas.
+En la Secci6n 1 del decretase, especificamente en la linea 9 de la pagina 5 del entirillado,
+se enmend6 para incluir que la participaci6n en el servicio publico municipal no sera
+denegada "ni por ser victima de agresi6n sexual o acecho, ni por ser veterano(a) de las
+Fuerzas Armadas, ni tampoco por impedimento fisico o mental, ni por tener peinados
+protectores y texturas de cabello que regularmente se asocian con identidades de raza y
+origen nacional particulares." Este lenguaje responde a las enmiendas introducidas al
+C6digo Municipal a traves de la Ley 106, aprobada el 23 de julio de 2024, que ampli6 y
+fortaleci6 el marco legal en materia de discriminaci6n. Con ello se pretende garantizar
+que el acceso a oportunidades de empleo en el sector publico sea plenamente inclusivo y
+libre de cualquier forma de discriminaci6n, asegurando que todas las personas,
+independientemente de su historial personal, condiciones fisicas o expresiones culturales,
+tengan igualdad de oportunidades para contribuir al servicio publico y al desarrollo
+social.
+En la Secci6n 1, Secci6n 6, Secci6n 7 y la Exposici6n de Motivos se estableci6 que las
+personas que aparezcan en el Registro de Personas Convictas por Maltrato a Adultos
+Mayores, en cumplimiento del Art. 11 de la Ley Num. 121-2019 del 1 de agosto de 2019,
+no podran acceder a los beneficios del servicio publico, garantizando asi que el
+Departamento de Justicia mantenga actualizado dicho registro y protegiendo a este
+grupo vulnerable.
+En la Secci6n 1, pagina 7, linea 1 del entirillado, se cambi6 el lenguaje original para que
+lea como sigue: "No hacer uso ilegal, problematico, o en incumplimiento de las
+recomendaciones medicas, de sustancias controladas. Lo anterior para utilizar un
+lenguaje que no resulte estigmatizante evitar juicios de valor y favorecer un enfoque de
+salud publica.
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Pagina 11
+Segun la recomendacion del DTRH, en la Seccion 7 del entirillado (pagina 15) se modifico
+el lenguaje que hacia referenda a la 11Administracion de Recursos Humanos y
+Transformacion del Gobierno de Puerto Rico11 dado que la facultad de habilitar a las
+,
+personas inelegibles para el servicio publico fue delegada al DTRH conforme a lo
+establecido en la Ley Num. 8-2017.
+Por ultimo, a solicitud del DTRH se afiadio una nueva Seccion 8 al entirillado para
+clarificar lo dispuesto en el Articulo 2.062 de la Ley Num. 107-2020. Dicho articulo
+establece que toda persona que se someta al procedimiento de reclutamiento para
+ingresar al Gobierno Municipal, o todo empleado que haya sido destituido, podra
+solicitar su habilitacion al Secretario del Departamento del Trabajo y Recursos Humanos.
+En consecuencia, se recomendo que, en caso de aprobarse la enmienda propuesta por la
+Seccion 1 del presente proyecto, se modifique el Articulo 2.062 para precisar que aquellas
+personas que cumplan con alguna de las causas de inelegibilidad establecidas por ley y
+no dispongan de un Certificado de Rehabilitacion y Capacitacion para Trabajar, conforme
+a lo establecido en el Articulo 2.048 del Codigo Municipal, deberan solicitar su
+habilitacion ante el DTRH.
+ANALISIS LEGAL
+Segun informacion publica del afio 2023, el promedio de la poblacion correccional
+masculina fue de 6,735 confinados (96 %) , mientras que la poblacion femenina represento
+un 4 %, con un total de 246 confinadas. Se des taco que la unica institucion para mujeres
+esta ubicada en la Region Norte (Bayamon) y, aun asi, el 93% de los confinados en dicha
+region son hombres, evidenciando la marcada diferencia en la composicion poblacional
+del sistema correccional.
+Asimismo, de la investigacion de esta Comision se encontro, que el DCR tiene la
+responsabilidad de custodiar a los individuos cuyo ingreso a instituciones penales ha sido
+ordenado por los tribunales. Para ello, el sistema correccional cuenta con 33 instituciones
+a nivel isla, de las cuales actualmente 24 estan en operacion. Estas facilidades estan
+organizadas en dos regiones: Region Norte y Region Sur. En la Region Norte, existen 15
+instalaciones, de las cuales 14 estan en uso, mientras que en la Region Sur hay 18
+facilidades, de las cuales 10 estan operacionales. Esta distribucion demuestra la estructura
+actual del sistema correccional y la disponibilidad de espacios en las instituciones que
+continuan activas.
+El mandato constitucional en la Seccion 19 del Articulo VI de la Constitucion del Estado
+Libre Asociado de Puerto Rico establece de manera inequivoca que sera politica publica
+reglamentar las instituciones penales para que cumplan de forma efectiva sus fines y se
+propenda, dentro de los recursos disponibles, el tratamiento adecuado de los
+Comisi6n de Asuntos Municipales
+Informe Positivo P. de la C. 6 Ptigina 12
+delincuentes para posibilitar su rehabilitacion moral y social (CONST. PR art. VI, § 19).
+En consonancia con este mandato, el Plan de Reorganizacion del Departamento de
+Correccion y Rehabilitacion de 2011, 3 LPRA Ap. XVIII (2011 & Supl. 2017), manifesto el
+objetivo de crear un sistema integrado de seguridad y administracion correccional, en el
+cual las funciones y deberes se armonizaran para facilitar tanto la imposicion de penas
+como la implementacion de medidas de seguridad.
+De igual forma, se establecio que, para que se considerara que un confinado habia
+satisfecho el requisito de buena conducta, este debia haber cumplido con el plan
+institucional trazado y con los reglamentos y leyes que garantizan una sana convivencia
+dentro de la facilidad correccional o bajo supervision del Departamento de Correccion y
+Rehabilitacion, tal como se ha interpretado en Vargas Serrano v. Institucion Correccional,
+198 DPR 230, 248-49 (2017).
+Esta integracion de principios constitucionales y normativos reafirmo la necesidad de que
+el sistema penal no solo se centre en el castigo, sino que tambien incorpore medidas de
+rehabilitacion que favorezcan la reinsercion social de los individuos, contribuyendo de
+esta forma a la transformacion y mejora de la convivencia en la sociedad. En ese sentido,
+esta Comision entiende que el Proyecto de la Camara 6, va alineado al estado de derecho
+~ vigente en Puerto Rico, y anteriormente discutido.
+lMPACTO FISCAL MUNICIPAL
+f
+En cumplimiento con lo dispuesto en el Articulo 1.007 de la Ley 107-2020, (21 L.P.R.A. §
+7012) supra, conocida como "Codigo Municipal de Puerto Rico, la Comision de Asuntos
+Municipales certifica que la pieza legislativa bajo analisis no impone una carga economica
+negativa en el presupuesto de los gobiernos municipales.
+CONCLUSI6N
+Por todos los fundamentos antes expuestos, la Comision de Asuntos Municipales de la
+Camara de Representantes, recomienda a este Alto Cuerpo la aprobacion del Proyecto de
+la Camara 6, con las enmiendas que se incluyen en el entrillado electronico que acompafta
+este Informe.
+Respetuosamente sometido,
+li(Jl
+ere
+Presidente
+Comision de Asuntos Municipales
+Comisi6n de Asuntos Municipales
+ENTIRILLAD0 ELECTR0NIC0
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 1ra. Sesi6n
+Legislativa Ordinaria
+CAMARA DE REPRESENT ANTES
+P. de la C. 6
+2 DE ENERO DE 2025
+Presentado por el representante Mendez Nunez
+Referido a la Comisi6n de Asuntos Municipales
+LEY
+Para enmendar el Articulo las Articulos 2.048 y 2.062 de la Ley 107-2020, segun
+enmendada, conocida como "C6digo Municipal de Puerto Rico"; enmendar la
+Secci6n 6.8 de la Ley 8-2017, segun enmendada, conocida como "Ley para la
+Administraci6n y Transformaci6n de los Recursos Humanos en el Gobierno de
+Puerto Rico"; enmendar los articulos 5 y 7, y afiadir un nuevo Articulo 10-B, en el
+Plan de Reorganizaci6n 2-2011, segun enmendado, conocido como "Plan de
+Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011"; y
+enmendar los articulos 1 y 6 de la Ley N um. 254 de 27 de julio de 1974 , segun
+enmendada, mediante la cual se autoriza al Negociado de la Policia del
+Departamento de Seguridad Publica a expedir los denominados "certificados de
+antecedentes penales", con el prop6sito de restituir la facultad del Departamento
+de Correcci6n y Rehabilitaci6n para expedir el denominado "Certificado de
+Rehabilitaci6n y Capacitaci6n para Trabajar", y para permitir el empleo de
+exconfinados y exconfinadas en el servicio publico municipal, salvo por las
+excepciones enumeradas en esta Ley, en aras de fomentar su reinserci6n en la
+comunidad como personas productivas y utiles y restaurar el dafio ocasionado a la
+victima y a la sociedad; hacer correcciones tecnicas; y para otros fines relacionados.
+EXPOSICION DE MOTIVOS
+La Secci6n 19 del Articulo VI de la Constituci6n de Puerto Rico, en su parte
+pertinente nos indica que, sera la politica publica del Estado " ... reglamentar las
+instituciones penales para que sirvan a sus prop6sitos en forma efectiva y propender, dentro de
+las recursos disponibles, al tratamiento adecuado de las delincuentes para hacer posible su
+2
+rehabilitaci6n moral y social". A esos efectos, es la politica publica del Gobierno de Puerto
+Rico, la creaci6n de un sistema integrado de seguridad y administraci6n correccional
+donde las funciones y deberes se armonicen en un proceso facilitador a la imposici6n de
+penas y medidas de seguridad, asi como a la custodia de los ciudadanos que han sido
+encontrados incursos en la comisi6n de un delito o falta y que establezcan procesos de
+rehabilitaci6n moral y social del miembro de la poblaci6n correccional o transgresor, a
+fin de fomentar su reincorporaci6n a la sociedad.
+Con la aprobaci6n del "Plan de Reorganizaci6n del Departamento de Correcci6n y
+Rehabilitaci6n de 2011", se reenfocaron y redirigieron las funciones de la Agenda, hacia
+la custodia y la rehabilitaci6n, proveyendo un tratamiento adecuado por personal
+capacitado, de tal forma que, conforme a los ajustes institucionales de la clientela, se
+pueda evidenciar su rehabilitaci6n.
+Dicho lo anterior, el Departamento de Correcci6n y Rehabilitaci6n es la Agenda de
+la Rama Ejecutiva encargada de implementar la politica publica del Gobierno de Puerto
+Rico en el sistema correccional para menores transgresores y para adultos. Su misi6n es
+proveer custodia y rehabilitaci6n a los miembros de la poblaci6n correccional,
+imputados y menores transgresores, por medio de la implementaci6n de servicios de
+calidad, la integraci6n, combinaci6n e innovaci6n de programas educativos, de fe y de
+reinserci6n comunitaria.
+La administraci6n y operac1on de la agenda recae en los componentes de su
+estructura organizacional, la cual esta compuesta por la Oficina del Secretario, la
+Secretaria Auxiliar de Recursos Humanos, la Secretaria Auxiliar de Gerencia y
+Administraci6n, la Secretaria de Presupuesto y Finanzas, la Oficina de Prensa y
+Protocolo, la Secretaria Auxiliar de Asuntos Legales e Investigativos, las Oficinas
+Regionales, la Secretaria Auxiliar de Programas y Servicios y la Secretaria Auxiliar de
+Seguridad. A nuestro juicio, este diagrama organizacional ha propiciado una linea de
+administraci6n y jerarquia mas clara, a tono con una adecuada vision de gerencia.
+Por otra parte, y de conformidad con el antes citado Plan de Reorganizaci6n, el
+Departamento de Correcci6n y Rehabilitaci6n propende, asiste y garantiza la
+continuidad de los servicios del Programa de Servicios con Antelaci6n al Juicio (PSAJ),
+el Programa de Empresas de Adiestramiento, Trabajo y Cooperativas (PEATC), el
+Programa de Salud Correccional y la agenda adjunta conocida como la Junta de
+Libertad Bajo Palabra.
+Respecto a la rehabilitaci6n de los miembros de la poblaci6n correccional, la
+Secretaria Auxiliar de Programas y Servicios ha establecido diversos servicios, entre los
+que destacan, alimentos, salud fisica, salud mentat y- dental, educativos, vocacionales,
+trabajo social institucional y comunitario, socio penales institucional y comunitario,
+record penal, remedios administrativos, recreativos y religiosos, entre otros.
+3
+De igual manera, el Departamento disefi6 un sistema diversificado de instituciones,
+programas y recursos humanos para que se viabilice un mejor tratamiento
+individualizado. Para esto, se cre6 el Programa Integral de Reinserci6n Comunitaria, a
+traves del cual se integraron varios componentes del sistema correccional, para trabajar
+en lo que es su mayor prioridad: la rehabilitaci6n de los que han delinquido, sin
+menoscabar la seguridad publica. Forman parte de este esfuerzo el Negociado de
+Rehabilitaci6n y Tratamiento, el cual les provee servicios biopsicosociales; el Negociado
+de Instituciones Correccionales; la Oficina de Capellania que brinda ayuda espiritual; y
+el Negociado de Comunidad, a traves del cual, los tecnicos de servicios socio penales
+supervisan a las personas integradas en las distintas instituciones.
+Como si lo anterior no fuera poco, se estableci6 una Oficina de Colocaci6n de
+Empleos con la finalidad de ofrecer servicios de evaluaci6n, clasificaci6n, ubicaci6n y
+seguimiento en cuanto a empleos de confinadosL y- exconfinados, confinadas y
+exconfinadas, que extingan sus penas en la libre comunidad y / o se beneficien de algun
+programa de desvio, libertad a prueba o bajo palabra y / o supervision electr6nica, entre
+otros. C6nsono con esto, el Departamento tiene la encomienda de preparar un informe
+anual sobre los servicios prestados por la Oficina, las necesidades de los confinados
+relacionadas al empleo, proyecciones de clientela a ser impactada el pr6ximo afio,
+numero de clientela servida, servicios ofrecidos, satisfacci6n de la clientela y de los
+patronos que ofrecieron sus servicios, el cual se le hace llegar al Gobernador y a la
+Asamblea Legislativa de Puerto Rico.
+Asimismo, tiene la obligaci6n de buscar la colaboraci6n de distintos patronos del
+sector privado, con o sin fines de lucro, para emplear a los confinados y exconfinados;
+ademas, efectua monitorias y evaluaciones de la Oficina, de manera que pueda
+identificar las deficiencias e implementar las medidas de acci6n correctiva de
+inmediato; se lleva a cabo un proceso que facilita la colecci6n de datos e informaci6n
+estadistica con respecto a la necesidad de adiestramientos de los confinados y confinadas,
+los servicios de empleo ofrecidos, para que haya un marco de referenda real sobre la
+situaci6n y necesidacles de los confinados y confinadas, y se puedan desarrollar sus
+planes de acci6n de forma integral con las entidades concernidas. Tambien, se trabaja
+con la preparaci6n de analisis de estudios, inventarios de plazas de trabajo disponibles
+en el sector privado, se suscriben acuerdos contractuales de cooperaci6n con empresas
+privadas para que los confinados y exconfinados puedan realizar su experiencia de
+empleo y se les brinde la oportunidad de ser retenidos en los mismos.
+Lamentablemente, a A pesar de los arduos esfuerzos generados desde el
+Departamento de Correcci6n y Rehabilitaci6n a favor de la reinserci6n comunitaria de
+los confinados y exconfinados, existen leyes que impiden que se logre la cabal
+consecuci6n de la politica publica contenida en la Constituci6n de Puerto Rico. Para el
+afio 2004, fue promulgada la ahora extinta Ley del Mandato Constitucional de
+Rehabilitaci6n, la cual fue derogada. En sintesis, esta Ley establecia que la filosofia, la
+4
+politica correccional y los recursos del Gobierno de Puerto Rico tenian que asignarse y
+utilizarse para lograr la rehabilitaci6n moral y social de los confinados y confinadas a
+fin de que el sistema correccional cumpla con el mandato constitucional dispuesto. A
+esos efectos, la Ley buscaba que las agendas gubernamentales y las organizaciones
+comunitarias, crearan programas dinamicos y participativos para facilitar y potenciar el
+desarrollo de las capacidades de los convictos, convictas, confi.nadas y confinados para
+fomentar su reinserci6n en la comunidad como personas productivas y utiles y
+restaurar el dafio ocasionado a la victima y a la sociedad.
+En torno a lo dicho en el parrafo que antecede, la Ley del Mandato Constitucional de
+Rehabilitaci6n provey6 para la emisi6n de un certificado de rehabilitaci6n que
+acreditaba que el sentenciado recluido en una instituci6n penal se habia rehabilitado.
+Esto, daba base para presentar una solicitud ante el Tribunal que dict6 sentencia para
+que se diera por cumplida el resto de la pena privativa de libertad. Se sabe que las
+disposiciones relativas a la Ley que permite la emisi6n de certificados de antecedentes
+penales tienen como consecuencia que los ex confinados que recien cumplen su
+sentencia no puedan obtener un certificado de buena conducta y, por ende, tampoco un
+empleo. Este Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar se hizo para
+que funcionara de forma complementaria al certificado de antecedentes penales.
+Especificamente, les permite tener mayores oportunidades de obtener un empleo para
+lograr la tan deseada reinserci6n comunitaria.
+Al igual queen la Ley del Mandato Constitucional, la existencia de dicho certificado
+fue reconocido en el Plan de Reorganizaci6n 2-2011, segun enmendado, conocido como
+"Plan de Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011", en
+el derogado C6digo Penal de Puerto Rico de 2004 y en la Ley Num. 254 de 27 de julio de
+1974, segun enmendada, que es la que autoriza la expedici6n de los antes mencionados
+"certificados de antecedentes penales".
+Sin embargo, tal y como se mencionara anteriormente, tanto la Ley 149-2004, segun
+enmendada, conocida como "C6digo Penal de Puerto Rico", asi como la Ley 377-2004,
+segun enmendada, conocida como "Ley del Mandato Constitucional de Rehabilitaci6n",
+fueron derogadas, lo que ha dejado incertidumbre con respecto a c6mo proceder con la
+otorgaci6n de los certificados de rehabilitaci6n y capacitaci6n para trabajar. Por ello, se
+entiende prudente necesario y razonable aclarar el estado de derecho con respecto a este
+documento, y restituir la facultad del Departamento de Correcci6n y Rehabilitaci6n
+para expedir el denominado "Certificado de Rehabilitaci6n y Capacitaci6n para
+Trabajar", luego de haber sido derogada la Ley 377, antes citada.
+En adici6n a lo anterior, y como un mecanismo adicional para fomentar la
+reinserci6n del ex confinado, y la exconfi.nada, en la comunidad como personas
+productivas y utiles y restaurar el dafio ocasionado a la victima y a la sociedad, es la
+intenci6n de esta Ley, permitirles el empleo en el servicio publico municipal, salvo por
+5
+varias excepciones. Entre las excepciones, se dispone que cualquier persona cualificada
+que interese participar en las funciones publicas del municipio no podra formar parte
+del "Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores" e
+l
+del "Registro de Personas Convictas por Corrupci6n y Delitos Relacionados"; Registro de
+Persanas Canvictas par Maltrata a Adultas Mai1ares, no podra haber incurrido en conducta
+deshonrosa; no podra haber sido destituido del servicio publico por causa que le
+inhabilite; no haber sido convicto a canvicta de delito que implique depravaci6n moral o
+infracci6n de los deberes oficiales; no podra ser adicto al use habitual y e)(cesivo de
+sustancias controladas o bebidas alcoh6licas; y no podra haber sometido o intentado
+someter informaci6n falsa o engaftosa en solicitudes de examen o de empleo.
+De presentarse algunas de estas circunstancias, estas no aplicarian cuando el
+candidate haya side habilitado para el servicio publico per el Secretario del
+Departamento del Trabajo o cuando este ostente un Certificado de Rehabilitaci6n y
+Capacitaci6n para Trabajar.
+Sin duda, Resulta evidente que las disposiciones contenidas en la presente Ley ayudan
+a dar cumplimiento al mandato expreso incluido en la Secci6n 19 del Articulo VI de la
+Constituci6n de Puerto Rico. Con la ampliaci6n de los programas de trabajo del
+Departamento de Correcci6n y Rehabilitaci6n se impacta a la poblaci6n sentenciada
+interesada en ser participes del mejoramiento econ6mico de Puerto Rico, a traves de su
+reinserci6n al mundo laboral.
+DECRETASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Secci6n 1.-Se enmienda el Articulo 2.048 de la Ley 107-2020, segun enmendada, para
+2 que se lea como sigue:
+3 "Articulo 2.048- Disposiciones sobre Reclutamiento y Selecci6n
+4 Todo municipio debera ofrecer la oportunidad de ocupar puestos de carrera o
+5 transitorios a cualquier persona cualificada que interese participar en las funciones
+6 publicas del municipio. Esta participaci6n se establecera en atenci6n al merito del
+7 candidato a candidata, sin discrimen por raz6n de raza, color, sexo, nacimiento, edad,
+8 orientaci6n sexual, identidad de genero, origen o condici6n social, ni por ideas politicas
+9 o religiosas, ni parser victima de agresi6n sexual a acecha, ni parser veterana(a) de las Fuerzas
+6
+l Armadas, ni tampoco por impedimenta fisico o mental, ni por tener peinados protectores lf
+2 texturas de cabello que regularmente se asocian con identidades de raza l/ origen nacional de
+3 particulares.
+4 (a) Condiciones generales para ingreso - Se establecen las siguientes condiciones
+5 generales para ingreso al servicio publico municipal:
+6 (1) Estar fisica y mentalmente capacitado o capacitada para desempefiar las
+7 funciones del puesto.
+8 (2) Ser ciudadano o ciudadana de Estados Unidos de America o extranjero
+9 legalmente autorizado a trabajar en Estados Unidos de America.
+10 (3) No formar parte del "Registro de Personas Convictas por Delitos Sexuales y
+11 Abuso Contra Menores"L e del "Registro de Personas Convictas por Corrupci6n y
+12 Delitos Relacionados", ni del "Registro de Personas Convictas por Maltrato a Adultos
+13 Mayores".
+14 [(3)] (4) No haber incurrido en conducta deshonrosa.
+15 [(4)] (5) No haber sido destituido o destituida del servicio publico por causa
+16 que le inhabilite.
+17 [(5)] (6) No haber sido convicto o convicta, de delito [grave o por cualquier
+18 otro delito] que implique depravaci6n moral, o infracci6n de los deberes
+19 oficiales, y aquellos inelegibles de forma permanente para empleo, segun establecido por
+20 la Secci6n 6.8, Ley 8-2017.
+7
+1 [(6)] (7) No ser adicto al uso habitual y e)(cesivo de sustancias controladas o
+2 bebidas alcoh6lica. No hacer uso ilegal, problematico, o en incumplimiento de las
+3 recomendaciones medicas, de sustancias controladas.
+4 [(7)] (8) No haber sometido o intentado someter informaci6n falsa o engafiosa
+5 en solicitudes de examen o de empleo.
+6 Las ultimas cinco (5) seis (6) causales nose aplicaran cuando el candidato haya sido
+7 habilitado para el servicio publico por el Secretario del Departamento del Trabajo o
+8 cuando este ostente un Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar, conforme lo
+9 dispuesto en el Articulo 10-B del Plan de Reorganizaci6n 2-2011, segun enmendado, conocido
+10 coma "Plan de Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011 ".
+(b) ...
+II
+Secci6n 2.- Se enmienda la Secci6n 6.8 de la Ley 8-2017, segun enmendada, para que
+14 se lea como sigue:
+15 "Secci6n 6.8. - Habilitaci6n en el Servicio Publico.
+16 Es necesario que las personas que formen parte del Servicio Publico no hayan
+17 incurrido en conducta impropia sancionada por el ordenamiento juridico. No obstante,
+18 el Estado tiene un gran interes gubernamental de que todas aquellas personas que en
+19 determinado tiempo quedaron inhabilitadas para ocupar puestos en el servicio publico
+20 puedan, por sus propios meritos, superar la situaci6n que los inhabilit6 e integrarse o
+21 reintegrarse, segun sea el caso, al servicio publico. A continuaci6n, se disponen las
+22 normas que haran viable ese prop6sito.
+8
+1 1. ..
+2 2. La persona que sea inelegible para el servicio publico a tenor con lo dispuesto en
+3 el inciso 1 de la presente Secci6n, tendra derecho a solicitar ante el Departamento del
+4 Trabajo y Recursos Humanos su habilitaci6n luego de transcurrido un (1) afio desde la
+5 fecha en que ocurri6 el hecho o se determinaron las circunstancias que causaron su
+6 inhabilidad, excepto en los siguientes casos:
+7 a ...
+8
+9 d ...
+D
+e. Toda persona que ostente un Certificado de Rehabilitaci6n y Capacitaci6n para
+Trabajar, podra someter su solicitud de habilitaci6n en cualquier momenta.
+II
+13 Secci6n 3.- Se enmienda el inciso (1) del Articulo 5 del Plan de Reorganizaci6n 2-
+14 2011, segun enmendado, para que se lea como sigue:
+15 "Articulo 5.- Funciones, Facultades y Deberes del Departamento.
+16 El Departamento tendra las siguientes funciones, facultades y deberes:
+17 a) ...
+18
+19 1) establecer, formalmente, una Oficina de Colocaci6n de Empleos con la finalidad de
+20 ofrecer servicios de evaluaci6n, clasificaci6n, ubicaci6n y seguimiento en cuanto a
+21 empleos de confinados y exconfinados que extingan sus penas en la libre comunidad
+22 y / o se beneficien de algun programa de desvio, libertad a prueba o bajo palabra y / o
+9
+1 supervision electr6nica, o que ostenten un Certificado de Rehabilitaci6n y Capacitaci6n para
+2 Trabajar, entre otros; disponiendose que el Departamento preparara un informe anual
+3 sabre los servicios prestados por la Oficina, las necesidades de los confinados, confinadas
+4 y exconfinados, exconfinadas, relacionadas al empleo, proyecciones de clientela a ser
+5 impactada el pr6ximo afio, numero de clientela servida, servicios ofrecidos, satisfacci6n
+6 de la clientela y de los patronos y municipios que ofrecieron sus servicios, el cual hara
+7 llegar al (a la) Gobernador(a) ya la Asamblea Legislativa de Puerto Rico, no mas tarde
+8 de sesenta (60) dias de haberse concluido cada afio fiscal; asimismo, la Agenda tendra la
+9 obligaci6n de buscar la colaboraci6n de distintos patronos del sector privado, con o sin
+fines de lucro, asi coma la de las municipios, para emplear a los confinados y exconfinados;
+ademas, efectuara monitorias y evaluaciones de la Oficina, de manera que pueda
+12 identificar las deficiencias e implementar las medidas de acci6n correctiva de
+13 inmediato; llevara a cabo un proceso que le facilite la colecci6n de datos e informaci6n
+14 estadistica con respecto a la necesidad de adiestramientos de los confinados y
+15 exconfinados, o exconfinadas[,] y los servicios de empleo ofrecidos, de manera que [una
+16 vez establecida la oficina, sus directivos tengan] se pueda contar con un marco de
+17 referenda real sabre la situaci6n y necesidades de los confinados y exconfinadosL-2_
+18 exconfinadas y se puedan desarrollar [s us] planes de acci6n de forma integral con las
+19 entidades concernidas; de igual forma, se coordinara con la Oficina de Administraci6n y
+20 Transformaci6n de los Recursos Humanos del Gobierno de Puerto Rico, con el
+21 Departamento del Trabajo y Recursos Humanos y con las municipios, para la preparaci6n de
+22 analisis de estudios, inventarios de las plazas de trabajo disponibles en el sector privado
+1 yen las municipios, los acuerdos contractuales de cooperaci6n con las empresas privadas
+2 y municipios, para que los confinados y exconfinados puedan realizar su experiencia de
+3 empleo y se les brinde la oportunidad de ser retenidos en los mismos; estableciendose
+4 que la participaci6n por parte del sector privado, con o sin fines de lucro, y la de las
+5 municipios no sera obligatorio, sino de caracter voluntario; y
+6 ff
+GD
+7 Secci6n 4.- Se enmienda el inciso del Articulo 7 del Plan de Reorganizaci6n 2-
+8 2011, segun enmendado, para que se lea como sigue:
+9 "Articulo 7.- Facultades, Funciones y Deberes del Secretario.
+10 El Secretario tendra entre otras, las siguientes funciones, facultades y deberes:
+a) ...
+13 jj) formular junto con el Secretario de Justicia la reglamentaci6n necesaria para
+14 expedir y tramitar la [certificaci6n de rehabilitaci6n] el Certificado de Rehabilitaci6n y
+15 Capacitaci6n para Trabajar, segun establecida en el [C6digo Penal de Puerto Rico de
+16 2004] Articulo 10-B de este Plan de Reorganizaci6n;
+17 ff
+18 Secci6n 5.- Se afiade un nuevo Articulo 10-B en el Plan de Reorganizaci6n 2-2011,
+19 segun enmendado, que se leera como sigue:
+20 "Articula 10-B.- Certificaci6n de Rehabilitaci6n y Capacitaci6n para Trabajar
+21 Se dispone que el tribunal Tribunal que dict6 sentencia podra dar par cumplida la sentencia
+22 de cualquier persona convicta de delito ~, incluyendo a las sentenciados con anterioridad a la
+11
+1 vzgencza del presente Plan de Reorganizaci6n, sujeto al procedimiento de certificaci6n de
+2 rehabilitaci6n y capacitaci6n para trabajar que se describe en las parrafos subsiguientes.
+3 De concluir el Secretario del Departamento de Correcci6n y Rehabilitaci6n, a base de las
+4 evaluaciones realizadas, que el sentenciado recluido en una instituci6n penal se ha rehabilitado,
+5 levantara una certificaci6n y radicara a nombre del sentenciado yen consulta con el Secretario de
+6 Justicia una solicitud ante el tribunal Tribunal para que se de par cumplida el resto de la pena
+7 privativa de libertad.
+8 Sera requisito para la expedici6n de dicha certificaci6n, que el Secretario del Departamento de
+Correcci6n y Rehabilitaci6n cuente con una evaluaci6n y recomendaci6n sicol6gica psicol6gica a
+las efectos de que el sentenciado esta capacitado para convivir libremente en la sociedad y de que
+las otros profesionales que lo evaluaron informen detalladamente y par escrito sus
+12 determinaciones de la condici6n de rehabilitado del sentenciado; especialmente si ya no existe
+13 ningun peligro de que se manifieste la peligrosidad representada par el acto par el cual cumple
+14 sentencia.
+15 Para ser elegible a este procedimiento, las personas que hay-an dejado extinguida la sentencia
+16 y que cumplan deberan cumplir con las siguientes criterios:
+17 (a) Haber extinguido su sentencia (en confinamiento, en libertad bajo palabra, penas alternas,
+18 libertad a prueba a programas de desvio y comunitarios);
+19 (b) Haber observado buen comportamiento mientras extinguia la sentencia y estar clasificado
+20 en custodia minima, al momenta de extinguir su sentencia;
+12
+l (c) En las casos de penas alternas, haber extinguido satisfactoriamente las condiciones
+2 impuestas par el Tribunal. En las casos de libertad bajo palabra, haber cumplido con las
+3 condiciones impuestas par la Junta de Libertad Baja Palabra;
+4 (d) No haber sido objeto de sanciones disciplinarias durante su ultimo aii.o de confinamiento;
+5 (e) No haber sido revocado del privilegio de libertad a prueba o libertad bajo palabra par
+6 comision de nuevo delito o violacion de condiciones impuestas durante su ultimo aii.o de
+7 confinamiento;
+8 (f) No haber arrojado resultados positivos en pruebas de deteccion de sustancias controladas
+9 durante su ultimo aii.o de confinamiento o durante su proceso de supervision y no estar activo en
+0
+10 el uso de sustancias controladas;
+_b f,
+(g) No tener pendiente ningiin proceso judidal criminal en su contra, tanto en las tribunales
+\ ~2 de jurisdiccion estatal coma federal. Tampoco, haber sido acusado de la comision de delitos en el
+13 periodo de tiempo que ha permanecido en la libre comunidad.
+14 Los secretarios de las departamentos de Correccion y Rehabilitacion; y Justicia,
+l 5 conjuntamente, adoptaran la reglamentacion que establezca el procedimiento para evaluar el
+l 6 ajuste del confinado, y para expedir y tramitar la certificacion de rehabilitacion.
+17 El trihumll Tribunal celebrara vista y tendra plena facultad para decidir la solicitud tomando
+18 en consideracion la prueba que se le presente, la opinion de la victima o sus familiares, y las
+19 ohjeciones opiniones, que el Secretario de Justicia, o representante del Departamento de Tusticia,
+20 pueda plantear. Dicha prueba contendra necesariamente la certificacion del Secretario del
+21 Departamento de Correccion y Rehabilitacion debidamente justificada, mediante una evaluacion
+22 del ajuste integral y del comportamiento social durante la reclusion y el cumplimiento del plan
+13
+1 de rehabilitaci6n. De resolver favorablemente la certificaci6n de rehabilitaci6n, el tribunal
+2 Tribunal ordenara al Comisionado del Negociado de la Policia del Departamento de Seguridad
+3 Publica de Puerto Rico que no incluya la convicci6n en el Certificado de Antecedentes Penales,
+4 pero mantenga la misma en el historial del convicto o convicta unicamente para fines de
+5 reincidencia."
+6 Secci6n 6.- Se enmienda el Articulo 1 de la Ley Num. 254 de 27 de julio de 1974,
+7 segun enmendada, para que se lea como sigue:
+8 "Articulo 1.-Expedici6n - Autorizaci6n [a] al Negociado de Ia Policia.
+[\ Se autoriza [a] al Negociado de Ia Policia del Departamento de Seguridad Publica de
+0(/ Puerto Rico la expedici6n de una certificaci6n, denominada "Certificado de
+1 Antecedentes Penales", contentiva de una relaci6n de las sentencias condenatorias que
+aparezcan archivadas en el expediente de cada persona que por haber sido sentenciada
+13 en cualquier tribunal Tribunal de justicia de Puerto Rico, o de cualquier otra jurisdicci6n
+14 locat estatal o federal de los Estados Unidos de America, ya tenga un expediente
+15 abierto en dicha dependencia o en cualquier otra dependencia analoga o sistema de
+16 datos oficial de cualquier jurisdicci6n local, estatal o federal de los Estados Unidos de
+17 America.
+18 En el caso de personas con historial delictivo y / o que no cumplan con los terminos
+19 de cinco a:fios en los casos de delitos graves, y de seis meses en los casos de delitos
+20 menos graves, segun dispuesto respectivamente en los Articulos 3 y 4 de esta Ley,
+21 podran obtener un certificado de rehabilitaci6n y capacitaci6n para trabajar que podra
+22 sustituir, el certificado de buena conducta. El proceso de evaluaci6n para la obtenci6n
+14
+1 del mismo sera determinado par el Departamento de Correcci6n y Rehabilitaci6n, [e l
+2 cual podra utilizar como guia el ya dispuesto para otorgar el certificado de
+3 rehabilitaci6n establecido bajo el Articulo 104 de la Ley Num. 149 de 18 de junio de
+4 2004, segun enmendada] conforme lo dispuesto en el Articulo 10-B del Plan de
+5 Reorganizaci6n 2-2011, segun enmendado, conocido coma "Plan de Reorganizaci6n del
+6 Departamento de Correcci6n y Rehabilitaci6n de 2011 ". EI patrono se reservara el derecho
+7 de solicitar el certificado de antecedentes penales buena conducta, en adici6n al certificado
+8 de rehabilitaci6n y [rehabilitaci6n] capacitaci6n para trabajar.
+~f)
+La posible expedici6n del certificado de rehabilitaci6n y capacitaci6n para trabajo
+~t
+I
+aqui contemplado no sera de aplicaci6n para personas que formen parte del "Registro
+11 de Personas Convictas par Delitos Sexuales [Violentos] y Abuso Contra Menores" o del
+12 "Registro de Personas Convictas par Corrupci6n y Delitos Relacionados" ni del "Registro
+13 de Personas Convictas par Maltrato a Adultos Mayores." "
+14 Secci6n 7.- Se enmienda el Articulo 6 de la Ley Num. 254 de 27 de julio de 1974,
+15 segun enmendada, para que se lea coma sigue:
+16 "Articulo 6.-Sentencia revocada.
+17 No se incluira en el certificado de antecedentes penales que se expida, toda
+18 sentencia:
+19 (a) .. .
+20 (b) .. .
+21 (c) que se de par cumplida par un tribunal Tribunal conforme [el Articulo 104 del
+22 nuevo C6digo Penal del Estado Libre Asociado de Puerto Rico] a la Ley 146-2012, segun
+l enmendada, conocida coma 11C6digo Penal de Puerto Rico" o a lo dispuesto en el Articulo 10-B
+2 del Plan de Reorganizaci6n 2-2011, segun enmendado, conocido coma "Plan de Reorganizaci6n
+3 del Departamento de Correcci6n y Rehabilitaci6n de 2011" [ el Articulo 7 de la Ley del
+4 Mandato Constitucional de Rehabilitaci6n];
+5 (d ) que haya sido habilitada per la Oficina [Central de sesoramiento Laboral y
+1"..
+6 Administraci6n de Recurses Humanos (OCALARH)] de Administraci6n y
+7 Transformaci6n de las Recurses Humanos del Gobierno de Puerto Rico (OATRH), o a tenor con
+rocedimiento ue a esos e ectos dis Num. 8-2017 o·
+(e) que haya sido eliminada del Registro de Personas Convictas por Delitos Sexuales
+10 Violentos y Abuso Contra Menores o del Registro de Personas Convictas par Maltrato a
+l l Adultos Mayores."
+12 Secci6n 8.- Se enmienda el Articulo 2.062 de la Ley 107-2020, segun enmendada, para que se
+13 lea coma sigue:
+14 "Articulo 2.062 - Funciones de la Oficina de Administraci6n y Transformaci6n de las
+15 Recursos Humanos (21 L.P.R.A. § 7251)
+16 La Oficina de Administraci6n y Transformaci6n de las Recursos Humanos, a solicitud del
+17 municipio, proveera el asesoramiento y avuda tecnica necesaria para desarrollar sus sistemas de
+18 personal, segun dispone este C6digo. El municipio sufragara el costo de dichos servicios, excepto
+l 9 en las casos en que el Director de la Oficina de Administraci6n y Transformaci6n de las Recursos
+20 Humanos determine ofrecer el servicio sin costo alguno. Posteriormente, la Ofi,cina de
+21 Administraci6n y Transformaci6n de las Recursos Humanos estudiara el desarrollo del principio
+16
+1 de merito en las municipios, a las fines de estar en meiores condiciones para suplir la ayuda
+2 tecnica lf asesoramiento conforme en este Articulo.
+3 Toda persona que se someta al procedimiento de reclutamiento para ingresar al Gobierno
+4 Municipal y resulte inelegible par haber incurrido en las causas de inelegibilidad establecidas par
+5 ley y todo empleado de carrera, transitorio o irregular que haya sido destituido par cualquier
+6 Gobierno Municipal, podra solicitar su habilitaci6n al Secretario del Departamento del Trabaio y
+7 Recursos Humanos, siempre y cuando no posea un Certificado de Rehabilitaci6n y Capacitaci6n,
+8 para Trabajar, segun se establece en la Ley 8-2017, segun enmendada, conocida coma "Ley para
+Administraci6n Trans ormaci6n de las Recursos Humanos en el Gobierno de Puerto Rico.
+II
+Secci6n g 9.-Salvedad.
+12 Si cualquier palabra, inciso, secci6n, articulo o parte de esta Ley fuese declarado
+13 inconstitucional o nulo por un Tribunal tribunal, tal declaraci6n no afectara,
+14 menoscabara o invalidara las restantes disposiciones y partes de esta Ley, sino que su
+15 efecto se limitara a la palabra, inciso, oraci6n, articulo o parte especifica y se entendera
+16 que no afecta o perjudica en sentido alguno su aplicaci6n o validez en el remanente de
+17 sus disposiciones.
+18 Secci6n 9-10.- Derogaci6n Tacita.
+19 Por la presente queda derogada cualquier ley, regla de procedimiento o norma que
+20 se encuentre en conflicto con las disposiciones aqui contenidas.
+21 Secci6n l-011.- Clausula de Supremacia.
+17
+1 Las disposiciones de esta Ley prevaleceran sobre cualquier otra disposici6n de ley
+2 que no estuviere en armonia con lo aquf establecido.
+Secci6n -1-± 12.- Vigencia.
+Esta Ley comenzara a regir inmediatamente despues de su aprobaci6n.
+[DELETED:  1 C e e a y 7 y a u e P N d l P d D d S P a e l " d a p c p d r e L e a d f s r e l c c p]
+[DELETED:  6 i p p q c e s p y f a r p l a d " d R d D d C y a u t a p p c y l r d l c a l s E D d R ( e r d o r e I P S y S d D S o d s t c a f y d p e y v t s i y D u d d i y p p u t i d l c C p d e]
+[DELETED:  6 d l c E o t m y e l n l E 2 s a l " d M C d d R q a l r d s y l C q c d C d y d d M d R s g i r a l v y d C d R y C p T E q e s p r l f d D p e e C d e a m l A s b p e e d R o q h i e c d s o b a o h p i f e q p]
+[DELETED:  a e e d e d P R f s r r L a m l D P D d C y R D d d p l s r d v p c l s D C d P R ( r D M q 9 d p s p r r v p a l d b o s q i a m q A e D d C y R A o i a d r e p p r y f e a]
+[DELETED:  6 e q d m t u i p e l D d q d d h s a p f l l P d P R e D d C y y e D d l q a s a l C a l y F H m d c d c d s l q p u a i d l a 2 s a c dV P 1 d f d 2 D d C y D d T y R H y e r c E]
+[DELETED:  6 p d q i d m o i d l d e D s r a l l p n d h i e c i t c b a u a q p a t p o d R y C p T s s s d D c e c e N e t l y s a q s c c o a D d C R ( r p e L y d L d M C d R h g e s e q l i d u n A 1 e e P d d D f a S d l a l d r y r p p c l r d l S u l m e g r e d c]
+[DELETED:  D R ( r c p i a s p l c d D s c l p q c c l c d i d s l L 2 p a l f l r a l e d l d a p d s m p r d m A o m e M q O d]
+[DELETED:  6 y T d l R H s e s e e s p m e c n d f p d D A l a q o C d R c a l d A d P o l s e e i ( d A 5 d m P d p a e y u i d l p d t m q s o a e p l o d o l q p d e u r a l p L p c e n v y e d d h d p o e p q e i p c a d e d C y o f S F l]
+[DELETED:  6 q l m r u m a p f l s e q c p A d P C p C y D R A q h y e d s c o b a o h e E l A e P a l C 6 r u a s y n p p l e p r e y a a l o d e p p q l a d l m c u p d h e]
+[DELETED:  t l q c cae y1111ag n p d l m d d s c s q q l b y o d r y r s t e s f f s e c a s l s E d c f d d a q t l p s p y a d S l A a a l b d s p g a q e d m a d r y p a e c s " h u i p o e i d l m d s c L a p u u]
+[DELETED:  P l q h r a l A d R H yod l i e s p f d a D c a l a s d D s a u a e p l d e A 2 d l L N 1 D a t p q s s a p d r p a G M o t e q h s d p l e e e A 2 d C M d s s i p d a 2 e p d l p c m c d l i d e C s e q e D t l n i d c a 2 e E f e d l c 1 e e u m q e R S h 1 d d l r d e t a d l]
+[DELETED:  6 1 c c e e P d R d D d S i f s e q q s c q u h e r d b c e d h c c e p i c d]
+[DELETED:  A C 6 e e A 2 2 d l L 1 s A c c " M d P R e l 6 l L 8 s e c c " p l T l R H G d d R 2 s e c c " d d D d C y R d 2 y y 6 N d d , s m l c s a a N d l P d e d C y R p e e d " d y C p T y p p e e d e e s p m s p l e e L e d f s e S 1 d A V d l C d P R e s p n i q s l p p d E " l p d r d a t a d l d p h p s]
+[DELETED:  s l a y l r p u t a p p q c l a s c y r a l m d l p c m p y a y o d l a r e l c d s o l c e c p l O d S l A d R H l S A d G y l S P y F l O d P y l S A d A L e I l O o y d c c a c P d R e d C y R p a y g l P d E d A T y C ( e d S C y l a a c c l J d a l r d l m d l p c l m d s i y c s p i y c]
+[DELETED:  y r h p q s v u m t l q e s m p l r d l q h d s l s p F p d e e e N d N t s l a n f p s e u O d C d d e c a e d c e s s p p l n d c a e p d c a s i e p a d c s s o s d l c y d l q o e c s l h l G a l t e m y e l O d m q p l d e i l m d a c d y n l c y s p d s p l c y e p s e d a p d l a e g d e c y e e l q i q s l l c P 2 f p l a e L d M C d E e L e q l c f d]
+[DELETED:  s e l L b q l a g y l o y c s r e l c c p p y u y p p l e d u c d r q s d r d p S s q t c c q l e c q r c s E C C h p f d f c a c d a p y y r l f d D d C y R e e d " d R y C p a a l a y c u m a p f l d e c y e l c c p u a]
+[DELETED:  e n p h s d d s p p c q l d d n a u e d b y n i a d e c e n a c e h s h p e s p p e S d d T o c e o u d R l d d P R C l a d l p d t d d C R s i a l p-S-D m d o l o d o p d c o a c c q i p e l f d m E p s e e a a m d s]
+[DELETED:  n t p i f o n p t p p d c q r s a c i d r o n d ( C -S e g E m c p l f ( S c d E U d A o e l N f p d " d P C p D S C M e d " d P C p C R n " d P C p a o d N d o p o d q i d m o i d l d f p s L]
+[DELETED:  N e a h u i p o e i d l N c s p p S d D d T R C T c d P d R s c C R-e -H n q l p q f p d S P n h d s e c a s A c d l p s]
+[DELETED:  2 L e T a f e o e h o s d c q c i a T p q o u C d R C p 5-S e i d A d-F D d . 1 o s d e c u s e c a e o p o y]
+[DELETED:  C d R C p e s r a e p d c a s e d p q l d o p e m y e l O d m q p i l d e i l m d a c d i e c r a l n d a d l c o l d e u m d e l o s d t p c c r r s l s y n d l c y p p i s e T d l R H d G d P R e p T y a]
+[DELETED:  e s s s d d l-S e i d-F D d . f j c e S d J l r n p t d C d R y p T e P d P R d-S e-C t]
+[DELETED:  d p P d R s a p d c d r D c S d D d C y R a d l e q s l u t r d l p S o p q l e i d y p e s d l c d r d s e s y n e n q p p p c s P l q ( H l H]
+[DELETED:  ( E l c d p a h e s l c p e T E l c d l b p h c c l c ( ( N h s r d p d l a o b p p d n d o v d c i d s u a d p d d d s d n e ~ d T h l d p L s d l d d C R J y c a l r q e e p p e e a p t y E t t e c l p q s l p l o d l v o l o q o D T p p D p c n l c d S d C R m a d c d l r e p y]
+[DELETED:  r D r f l c d r e t o C d N d l P d D d S P c C A m l m e e h d c o c u p f d S-S e A d d d s-A I S a [ I P d N d d D d S P R l e d u c d " d e d e o f d l E U d A y t u e e d o e d s a e c d g y d d m g s r e l A 3 y 4 d e L s p]
+[DELETED:  d R p u c g e y d p o e c d c l d e e A 1 d P d s e R 2 s e c c " d R d E p C y R 2 b d p d c d y " D n " d S-S e A 2 d d s s " N s i e e c d a p q s e t s . ( ( q c a]
+[DELETED:  e C P a d d P R c " R D d C R d 2 [ A 7 d l L d ( ) q d s L d A d R H ( T a u V y A R d P C p M a A 2-S d l 2 F d l O d A y T d l § L 7 O d A T d l R a E d H d o s s c a P l O d]
+[DELETED:  m e l m a f d e m c p s a a p q s s a p d r p i a G y t e d c t o h s d p c p T s s L s c " T-S S c p i s a o p e f d i o n p u t t d n a m e q s S-D P s S-C]
+[DELETED:  L V]
+
+
+================================================================================
+
+Raw Text:
+ORIGIN/\!
+GOBIERNO DE PUERTO RICO
+20ma Asamblea 1ra Sesi6n
+Legislativa Ordinaria
+CAMARA DE REPRESENT ANTES
+INFORME POSITIVO
+P. de la C. 6
+5 de febrero de 2025
+A LA CAMARA DE REPRESENTANTES:
+La Comisi6n de Asuntos Municipales de la Camara de Representantes de Puerto Rico,
+previo estudio y consideraci6n del Proyecto de la Camara 6, tiene el honor de recomendar
+a este Alto Cuerpo su aprobaci6n, con las enmiendas que se incluyen en el entrillado
+electr6nico que acompafia este Informe.
+ALCANCE DE LA MEDIDA
+El Proyecto de la Camara 6, segun radicado, pretende enmendar el Articulo 2.048 de la
+Ley 107-2020, segun enmendada, conocida como "C6digo Municipal de Puerto Rico";
+enmendar la Secci6n 6.8 de la Ley 8-2017, segun enmendada, conocida como "Ley para
+la Administraci6n y Transformaci6n de los Recursos Humanos en el Gobierno de Puerto
+Rico"; enmendar los articulos 5 y 7, y afiadir un nuevo Articulo 10-B, en el Plan de
+Reorganizaci6n 2-2011, segun enmendado, conocido como "Plan de Reorganizaci6n del
+Departamento de Correcci6n y Rehabilitaci6n de 2011"; y enmendar los articulos 1 y 6 de
+la Ley Num. 254 de 27 de julio de 1974, segun enmendada, mediante la cual se autoriza
+al Negociado de la Policia del Departamento de Seguridad Publica a expedir los
+denominados "certificados de antecedentes penales", con el prop6sito de restituir la
+facultad del Departamento de Correcci6n y Rehabilitaci6n para expedir el denominado
+"Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar", y para permitir el empleo
+de exconfinados en el servicio publico municipal, salvo por las excepciones enumeradas
+en esta Ley, en aras de fomentar su reinserci6n en la comunidad como personas
+productivas y utiles y restaurar el dafio ocasionado a la victima y a la sociedad; hacer
+correcciones tecnicas; y para otros fines relacionados
+
+Informe Positivo P. de la C. 6 Pagina 2
+De la Exposici6n de Motivos de la medida surge que la Secci6n 19 del Articulo VI de la
+Constituci6n de Puerto Rico establece como politica publica del Estado la regulaci6n de
+las instituciones penales para que cumplan eficazmente sus prop6sitos y fomenten,
+dentro de los recursos disponibles, el tratamiento adecuado de los delincuentes para su
+rehabilitaci6n moral y social. En consonancia con este mandato, el Gobierno de Puerto
+Rico ha desarrollado un sistema integrado de seguridad y administraci6n correccional
+que armoniza la imposici6n de penas con procesos de rehabilitaci6n, permitiendo la
+reincorporaci6n social de los individuos que han infringido la ley.
+Con la aprobaci6n del "Plan de Reorganizaci6n del Departamento de Correcci6n y
+Rehabilitaci6n de 2011", se reorientaron las funciones de la agenda hacia la custodia y
+rehabilitaci6n, asegurando un tratamiento adecuado por personal capacitado y
+promoviendo la reintegraci6n de los confinados a la sociedad. El Departamento de
+Correcci6n y Rehabilitaci6n (DCR) es responsable de implementar la politica publica
+correccional en Puerto Rico, ofreciendo custodia y rehabilitaci6n mediante programas
+educativos, religiosos, vocacionales y de reinserci6n comunitaria.
+La estructura organizacional del DCR incluye la Oficina del Secretario, varias Secretarias
+Auxiliares (d e Recursos Humanos, Gerencia y Administraci6n, Presupuesto y Finanzas,
+Asuntos Legales e Investigativos, Programas y Servicios, y Seguridad), la Oficina de
+Prensa y Protocolo, y las Oficinas Regionales. Este modelo administrativo proporciona
+una jerarquia clara, alineada con principios modernos de gerencia.
+El DCR tambien es responsable de garantizar la continuidad de programas esenciales
+como el Programa de Servicios con Antelaci6n al Juicio (PSAJ), el Programa de Empresas
+de Adiestramiento, Trabajo y Cooperativas (PEATC), el Programa de Salud Correccional
+y la Junta de Libertad Bajo Palabra. En materia de rehabilitaci6n, la Secretaria Auxiliar de
+Programas y Servicios ofrece diversos servicios, tales como atenci6n en salud fisica,
+mental y dental, programas educativos y vocacionales, trabajo social institucional y
+comunitario, y servicios religiosos y recreativos.
+El DCR ha desarrollado un sistema diversificado de instituciones y programas para
+asegurar un tratamiento individualizado de los confinados. Como parte de esta
+estrategia, se cre6 el Programa Integral de Reinserci6n Comunitaria, que integra distintas
+entidades del sistema correccional para priorizar la rehabilitaci6n sin comprometer la
+seguridad publica. Entre los componentes clave de este programa estan el Negociado de
+Rehabilitaci6n y Tratamiento, el Negociado de Instituciones Correccionales, la Oficina de
+Capellania y el Negociado de Comunidad.
+Asimismo, el DCR estableci6 una Oficina de Colocaci6n de Empleos con el objetivo de
+facilitar la evaluaci6n, clasificaci6n y ubicaci6n de confinados y exconfinados en empleos
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Pagina 3
+dentro de la comunidad. Esta oficina tambien monitorea y evahia las necesidades
+laborales de esta poblaci6n, colabora con el sector privado para promover oportunidades
+de empleo y recolecta datos sobre los servicios ofrecidos. Ademas, prepara un informe
+anual dirigido al Gobernador y a la Asamblea Legislativa que documenta el impacto de
+estos esfuerzos.
+A pesar de los avances logrados, la reinserci6n comunitaria de los confinados enfrenta
+obstaculos legales. En 2004, se aprob6 la "Ley del Mandato Constitucional de
+Rehabilitaci6n", la cual establecia que los recursos gubernamentales debian enfocarse en
+la rehabilitaci6n moral y social de los confinados. Como parte de este esfuerzo, se cre6 un
+Certificado de Rehabilitaci6n que acreditaba la rehabilitaci6n del sentenciado y le
+permitia solicitar la terminaci6n anticipada de su pena. Ademas, se disefi6 el Certificado
+de Rehabilitaci6n y Capacitaci6n para Trabajar, que complementaba el certificado de
+antecedentes penales y facilitaba la obtenci6n de empleo para exconfinados.
+Sin embargo, con la derogaci6n del C6digo Penal de 2004 y de la Ley del Mandato
+Constitucional de Rehabilitaci6n, se gener6 incertidumbre respecto a la vigencia y
+aplicabilidad del Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar. Esta
+situaci6n ha afectado la reinserci6n laboral de los exconfinados, quienes, al no poder
+obtener un certificado de buena conducta, enfrentan serias dificultades para acceder a
+empleos.
+Por ello, se propone restituir la facultad del DCR para expedir el Certificado de
+Rehabilitaci6n y Capacitaci6n para Trabajar, lo que permitira una mayor integraci6n de
+los exconfinados al mercado laboral. Ademas, se busca permitir el empleo de
+exconfinados en el servicio publico municipal, sujeto a ciertas excepciones. No podran
+aspirar a estos empleos quienes figuren en el Registro de Personas Convictas por Delitos
+Sexuales y Abuso Contra Menores, el Registro de Personas Convictas por Corrupci6n y
+Delitos Relacionados, o quienes hayan incurrido en conducta deshonrosa, sido
+destituidos del servicio publico por razones inhabilitantes, sido convictos por delitos de
+depravaci6n moral o de incumplimiento de deberes oficiales, sean adictos a sustancias
+controladas o bebidas alcoh6licas, o hayan proporcionado informaci6n falsa en
+solicitudes de empleo.
+No obstante, estas restricciones no aplicarian a quienes hayan sido habilitados por el
+Secretario del Departamento del Trabajo o posean un Certificado de Rehabilitaci6n y
+Capacitaci6n para Trabajar. Con estas disposiciones, se pretende darcumplimiento a la
+Secci6n 19 del Articulo VI de la Constituci6n de Puerto Rico y fortalecer los programas
+de reinserci6n laboral para confinados y exconfinados.
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 4
+La ampliaci6n de estos programas representa una oportunidad para que los confinados
+participen activamente en el desarrollo econ6mico de Puerto Rico, facilitando su
+reintegraci6n y reduciendo la reincidencia criminal. La aprobaci6n de estas medidas
+fortalecera la politica publica de rehabilitaci6n y garantizara el cumplimiento efectivo del
+mandato constitucional en materia correccional.
+Luego de expresada la intenci6n del Proyecto de la Camara 6, la Comisi6n de Asuntos
+Municipales de la Camara de Representantes solicito la comparecencia de la Asociaci6n
+de Alcaldes de Puerto Rico, Federaci6n de Alcaldes de Puerto Rico, Departamento de
+Seguridad Publica, Departamento de Correcci6n y Rehabilitaci6n, Departamento del
+Trabajo y Recursos Humanos, Departamento de Justicia , Oficina de Administraci6n y
+Transformaci6n de los Recursos Humanos, Teen Challenge y Hogares Crea, Inc.
+TRAMITE LEGISLATIVO
+Dentro del proceso legislativo, se realizaron dos vistas publicas con los siguientes
+deponentes:
+Vista Publica; 12 de febrero de 2025: Departamento de Seguridad Publica, Teen
+Challenge, Hogares Crea:
+Teen Challenge de Puerto Rico (TCPR), representada por el Dr. Jose Martinez, quien
+expone que aproximadamente el 95 % de las personas que sufren de trastornos por
+consumo de opioides u otras drogas se encuentran desempleadas. De este grupo, mas del
+50% requiere rehabilitaci6n vocacional para adquirir las destrezas basicas o
+especializadas necesarias para reintegrarse al mercado laboral al concluir su tratamiento.
+TCPR respald6 su posici6n con estudios que indican que, a medida que aumenta el
+desempleo, tambien se incrementan las tasas de mortalidad por opioides y las visitas a
+salas de emergencia, reflejando c6mo la angustia psicol6gica derivada de la perdida de
+empleo puede llevar al consumo de drogas ilegales.
+En este contexto, TCPR recomend6 la inclusion de una disposici6n en el Articulo l0B,
+letra (£), que establezca que, en caso de que una persona arroje positivo en las pruebas de
+consumo, se le provea un tratamiento adecuado que le permita obtener el certificado tras
+completar dicho proceso. Ademas, se propane que los confinados diagnosticados con
+trastorno de uso de sustancias sean gestionados mediante un manejo de caso coordinado
+por el Departamento de Correcci6n y Rehabilitaci6n, ASSMCA o instituciones
+licenciadas, de modo que se garantice el apoyo necesario para la reinserci6n, evitando la
+reincidencia y promoviendo una mayor estabilidad social. Finalmente, TCPR aboga por
+la asignaci6n de recursos econ6micos para prevenir recaidas y fortalecer el apoyo
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 5
+comunitario, evidenciando que dichas medidas tienen un impacto positivo en la
+reducci6n del reingreso a comportamientos autodestructivos.
+El Departamento de Seguridad Pitblica (DSP), a traves de la Leda. Omara Arias Nieves,
+se remiti6 a la Ley Num. 254 ya sus enmiendas, como la Ley 314-2004, la reciente Ley 56-
+2024 y la Ley 174-2011, para enmarcar el procedimiento de expedici6n de certificados de
+antecedentes penales y de rehabilitaci6n. Estas normativas permiten que, en ciertos casos,
+las condenas por delitos menos graves sean eliminadas automaticamente o a traves de un
+procedimiento simplificado, siempre y cuando se cumplan determinados requisitos.
+El DSP destac6 que dichas disposiciones han sido actualizadas para facilitar la
+coordinaci6n entre la Policia de Puerto Rico, el Departamento de Correcci6n y
+Rehabilitaci6n; y el Departamento de Justicia, lo que a su vez agiliza la emisi6n de
+certificados de rehabilitaci6n y capacitaci6n laboral para ex convictos. En este sentido, el
+DSP apoya las enmiendas al C6digo Municipal y a la Ley 254, ya que estas medidas
+permitiran una integraci6n mas eficaz de los exconvictos en la sociedad, consolidando un
+marco jurf dico que promueve la reinserci6n laboral y social de las personas rehabilitadas.
+Hagar Crea, Inc., representado por el Sr. Hector L. Figueroa, propane que el Proyecto de
+la Camara 6 se extienda a los municipios y a las agendas del Gobierno Estatal encargadas
+de prestar servicios a esta poblaci6n vulnerable. Hogar Crea, sugiere la creaci6n de un
+comite intergubernamental que incluya, ademas, a organizaciones sin fines de lucro con
+experiencia en el manejo de casos de consumo de sustancias, lo que permitiria una
+coordinaci6n mas eficiente y un uso 6ptimo de los fondos publicos. Ademas, se resalta
+que, gracias a la implementaci6n de salas especializadas para el tratamiento de casos de
+sustancias, mas de 6,500 personas han logrado completar exitosamente su rehabilitaci6n.
+Datos adicionales indican que durante los afios 2022-2023 se atendieron 1,022 casos,
+mientras que en 2023-2024 se gestionaron 1,233 casos referidos por las Cortes de Drogas,
+representando el 51 % del total, lo cual evidencia la capacidad y experiencia de Hogar
+Crea en la materia.
+- Vista Publica; 19 de febrero de 2025: Departamento de Correcci6n y
+Rehabilitaci6n, Departamento del Trabajo y Recursos Humanos; y el
+Departamento de Justicia.
+El Departamento de Justicia (DJ), representado por la Leda. Viviana Catala Diaz, quien
+explic6 que la Secci6n 1 del Proyecto de la Camara 6 pretende enmendar la Ley 107-2020,
+segun enmendada, conocida como C6digo Municipal de Puerto Rico. Esta enmienda
+tiene el objetivo de establecer, como condici6n para el ingreso al ambito laboral de los
+municipios, que el candidato no pueda formar parte del Registro de Personas Convictas
+por Delitos Sexuales y Abuso contra Menores ni del Registro de Personas Convictas por
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Pagina 6
+Corrupci6n y Delitos Relacionados, y que, ademas, la persona contratada no hubiera sido
+convicta por delitos que impliquen depravaci6n moral o infracci6n de los deberes
+oficiales.
+Asimismo, el DJ se refiri6 a la Secci6n 6.8 de la Ley 8-2017, la cual disponia que los
+servidores publicos no deben haber incurrido en conductas impropias, tales como
+conductas deshonrosas, adicci6n al uso habitual y excesivo de sustancias controladas o
+bebidas alcoh6licas, o destituci6n del servicio publico, sin perjuicio de que aquellos que
+cumplieran ciertas excepciones pudieran solicitar su habilitaci6n. Ademas, menciona que
+se busca afiadir un inciso adicional que permitiera a toda persona que ostentara un
+Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar someter su solicitud de
+habilitaci6n en cualquier momento.
+El DJ consider6 que, en terminos generales, el prop6sito de la medida es un ejerc1c10
+valido y loable de la Asamblea Legislativa en pro del bienestar ciudadano, orientado a la
+rehabilitaci6n de los confinados y exconfinados. No obstante, advirti6 que la medida
+omite, el texto introductorio del Articulo 2.048 establecido en la Secci6n 7 de la Ley 106-
+2024, el cual prohibia el discrimen por condiciones tales como ser victima de agresi6n
+sexual, acecho, o pertenecer a ciertos grupos protegidos. Por ello, recomend6 evaluar si
+era preciso enmendar la medida para atemperarla a la redacci6n actual antes de continuar
+con el tramite legislativo, y sugiri6 ademas que se consultara con otras agendas
+pertinentes para la correcta implementaci6n de la misma.
+El Departamento de Correcci6n y Rehabilitaci6n (DCR), representado por el Ledo.
+Francisco Mendez, expuso que, a pesar de los esfuerzos realizados por la agenda en favor
+de la reinserci6n comunitaria de los confinados y exconfinados, las leyes vigentes han
+impedido el logro completo de la politica publica establecida en la Constituci6n de Puerto
+Rico. Sefial6 que la eliminaci6n del antiguo "certificado de rehabilitaci6n", instituido bajo
+la ya derogada Ley del Mandato Constitucional de Rehabilitaci6n, habia generado
+incertidumbre respecto al proceso de expedici6n de nuevos certificados de rehabilitaci6n
+y capacitaci6n para trabajar, conforme los confinados iban extinguiendo sus penas. Por
+ello, consider6 razonable que la medida aclarara el estado juridico actual y restituyera la
+facultad al DCR para expedir dichos certificados, en linea con el objetivo de permitir el
+empleo de exconfinados en el servicio publico municipal.
+En ese sentido, explic6 que la inserci6n de un nuevo Articulo 10-B en el Plan de
+Reorganizaci6n del DCR facultaria al Secretario de la agenda, luego de realizar
+evaluaciones y recomendaciones psicol6gicas, para certificar la rehabilitaci6n del
+sentenciado y levantar, en consulta con el Secretario de Justicia, una solicitud ante el
+tribunal para considerar cumplida la pena privativa de libertad. El DCR destac6 que esta
+medida, ademas de fortalecer los mecanismos de rehabilitaci6n, abria la posibilidad de
+que los municipios, quienes enfrentaban grandes retos en materia de contrataci6n,
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Pagina 7
+contaran con una fuente adicional de trabajadores capacitados, como lo evidenciaban los
+acuerdos existentes en programas como el de Brigadas y Ornato.
+El Departamento de Trabajo y Recursos Humanos (DTRH), representado por la Leda.
+Coralis Sosa Castellanos, manifesto que la Seccion 1 del proyecto busca establecer que,
+como condicion general para el ingreso al servicio publico, los candidatos no deban
+formar parte de los registros de personas convictas por delitos sexuales o por corrupcion.
+Sefialo que, si bien el proyecto dispone cinco causales en las que la inhabilidad para el
+empleo no se aplicaria en caso de que el candidato hubiera sido habilitado o poseyera el
+Certificado de Rehabilitacion y Capacitacion para Trabajar, se habia observado la omision
+de un subinciso que explicitara esta condicion de exclusion.
+El DTRH enfatizo que la intencion de la medida es constituir un mecanismo adicional
+para fomentar la reinsercion del exconfinado en la comunidad, permitiendole acceder al
+empleo en el servicio publico municipal siempre y cuando cumpla con determinados
+estandares eticos y profesionales. Ademas, aclaro que la limitacion en la expedicion del
+certificado, establecida en la Ley 254, no impedia que las personas afectadas solicitaran
+habilitacion de conformidad con lo dispuesto en la Ley 8-2017, recomendando que se
+O
+clarificara si la exclusion de los registros se mantendria de forma permanente. Tambien
+Zf
+sugirio que se introduzca una enmienda al Articulo 2.062 de la Ley 107-2020 para precisar
+que las personas que cumplieran con las causales de inhabilidad debian solicitar
+habilitacion ante el DTRH en ausencia del certificado.
+Por ultimo, se sefialo que la Seccion 7 del proyecto, que pretende enmendar el Articulo 6
+de la Ley 254 para ajustar los fundamentos legales relativos a la expedicion de los
+certificados de antecedentes penales, debe ser modificado para reflejar de manera
+adecuada la jurisdiccion actual del DTRH sobre el proceso de habilitacion. A pesar de
+estas observaciones, el DTRH reconocio el espiritu loable de la medida y manifesto su
+respaldo al proyecto, siempre y cuando se atendieran las recomendaciones planteadas.
+Durante el turno de preguntas, se solicito al DCR que, en un plazo de cinco dias, remitiera
+informacion detallada , a la Comision acerca del numero de confinados que cumplian con
+los criterios de elegibilidad para el proceso de rehabilitacion y certificacion para empleo,
+los resultados y aprendizajes obtenidos de programas previos de reinsercion laboral, la
+disponibilidad de recursos humanos y administrativos para llevar a cabo las evaluaciones
+y certificaciones requeridas, y un borrador de reglamento para la supervision prospectiva
+de los exconvictos.
+Memoriales y otras solicitudes:
+La Federacion de Alcaldes de Puerto Rico, asi como la Asociacion de Alcaldes de Puerto
+Rico sometieron su posicion mediante memorial explicativo. Mientras que Oficina de
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 8
+Administracion y Transformacion de los Recursos Humanos, solicito excusarse, sin
+haber presentado su posicion, al momento de la redaccion de este informe.
+La Federaci6n de Alcaldes de Puerto Rico (FAPR), expresa que la medida en referencia
+pretendio enmendar el Artfculo 2.048 de la Ley 107-2020, segun enmendada, con el fin de
+establecer un mecanismo adicional que fomentara la reinsercion del ex confinado en la
+comunidad como persona productiva y util, al mismo tiempo que se buscaba restaurar el
+dafio ocasionado a la vfctima ya la sociedad. En este sentido, se estipulo que, para acceder
+al empleo en el servicio publico municipal, el candidato no debfa formar parte del
+"Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores" ni del
+"Registro de Personas Convictas por Corrupcion y Delitos Relacionados". Ademas, se
+considero la exclusion de aquellos que ostentaran el Certificado de Rehabilitacion y
+Capacitacion para Trabajar, conforme a lo dispuesto en el Articulo 10-B del Plan de
+Reorganizacion 2-2011, segun enmendado.
+Por otro lado, se enmendo el inciso (1) del Artfculo 5 del mencionado Plan de
+Reorganizacion, permitiendo a los municipios emplear a confinados y exconfinados. Los
+municipios prepararon analisis, estudios y un inventario de las plazas de trabajo
+disponibles, de modo que se ofreciera a esta poblacion la oportunidad de obtener
+experiencias laborales que pudieran derivar en una retencion a largo plazo. La
+participacion municipal resulto haber sido de caracter voluntario, mientras que el Estado
+se encargo de proveer a la comunidad confinada las herramientas necesarias para su
+rehabilitacion, capacitacion en nuevas vocaciones y el desarrollo de habilidades
+compatibles con su reintegracion a la sociedad.
+Ademas, la aprobacion de la Ley Num. 106-2024, el 23 de julio de 2024, establecio una
+polftica publica contra el discrimen racial, en particular en lo que respecta a peinados
+protectores y texturas de cabello asociados con identidades de raza y origen nacional
+particulares. Dicha ley enmendo varios artfculos de la Ley Num. 107-2020 y se recomendo
+que el Articulo 2.048 se ajustara para incorporar el nuevo lenguaje, garantizando que todo
+municipio ofreciera oportunidades de empleo en el servicio publico sin discriminacion
+por motivos de raza, color, sexo, edad, orientacion sexual, identidad de genero, origen o
+condicion social, entre otros.
+La F APR, se manifesto en apoyo a la medida, resaltando que la implementacion de estos
+mecanismos para la reinsercion laboral de confinados y exconfinados representaba una
+herramienta esencial para que estos individuos pudieran contribuir al desarrollo
+economico y social de sus comunidades. La F APR enfatizo que esta estrategia ofrecfa a
+los municipios la posibilidad de acceder a un recurso humano calificado, lo cual resultaba
+especialmente relevante para mitigar el deficit laboral evidenciado en los ultimos afios,
+agravado por la emergencia del COVID-19 y otros factores. Segun la Federacion, la
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 9
+medida no solo favorecfa la rehabilitacion y recuperacion personal de los exconfinados,
+sino que tambien contribufa a generar un entorno laboral inclusivo y productivo en el
+ambito municipal.
+La Asociaci6n de Alcaldes de Puerto Rico (AAPR) expreso su respaldo al P. de la C. 6, al
+considerar que la medida representa un mecanismo adicional para fomentar la
+reinsercion de los exconfinados en la comunidad como individuos productivos y utiles,
+al tiempo que permite restaurar el dafio causado a las vfctimas y a la sociedad. Apoyaron
+la disposicion que autoriza su empleo en el servicio publico municipal, sujeto a ciertas
+excepciones. Entre estas, se establece que los candidatos no podran formar parte del
+Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores ni del
+Registro de Personas Convictas por Corrupcion y Delitos Relacionados. Asimismo,
+deberan cumplir con requisitos que excluyen a quienes hayan incurrido en conducta
+deshomosa, sido destituidos del servicio publico por causas que los inhabiliten, sido
+convictos por delitos de depravacion moral o infraccion de deberes oficiales, sean adictos
+al uso habitual y excesivo de sustancias controladas o bebidas alcoholicas, o hayan
+presentado informacion falsa o engafiosa en solicitudes de empleo.
+La AAPR respaldo que, en caso de que un candidato se encuentre en alguna de estas
+circunstancias, pueda ser elegible para el servicio publico si ha sido habilitado por el
+Secretario del Departamento del Trabajo y Recursos Humanos o si posee un Certificado
+de Rehabilitacion y Capacitacion para Trabajar. En cuanto a la enmienda propuesta al
+Artfculo 2.048(3) del Codigo Municipal, que aclara la exclusion de personas inscritas en
+el Registro de Ofensores Sexuales, la AAPR expreso su conformidad. Tambien apoyaron
+la eliminacion de la tipificacion de delito grave en el inciso (5) y la inclusion del requisito
+de un Certificado de Rehabilitacion y Capacitacion para Trabajar como condicion para la
+elegibilidad en el empleo municipal. En conclusion, la AAPR endoso el Proyecto, al
+considerar que la medida fomenta la reinsercion efectiva de los exconfinados y ofrece una
+oportunidad justa de empleo dentro del ambito municipal.
+Consenso de los Deponentes:
+En conjunto, las posiciones de los deponentes evidencian un consenso en que el Proyecto
+de la Camara 6 representa un avance significativo y necesario para promover la
+reinsercion social y laboral de los exconfinados, a la vez que se reforzaba la integridad y
+calidad del servicio publico. Cada una de las entidades apoyo la medida, reconociendo
+que, con las aclaraciones y enmiendas pertinentes, el proyecto contribuirfa a restituir
+funciones esenciales y a ampliar las oportunidades de empleo para personas
+rehabilitadas, en beneficio tanto de la sociedad como de los propios individuos. Asf, se
+constato que la aprobacion de la medida constituye un paso decisivo hacia el
+fortalecimiento del bienestar social y la integracion de exconfinados en la vida productiva
+de los municipios.
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 10
+ENMIENDAS RECOMENDADAS
+En el tf tulo de la medida, en la exposici6n de motivos y en el decretase, se recomienda
+una enmienda en el lenguaje que utiliza expresiones como 11convicta11 11exconvicta" y
+,
+11exconfinada11 garantizando de manera inequivoca que la disposici6n se aplica a todas
+,
+las personas, sin excepci6n de genero. Esta formulaci6n no solo reconoce las experiencias
+y necesidades particulares de las mujeres dentro del sistema correccional, sino que
+tambien reafirma el compromiso de la Asamblea Legislativa, con la igualdad y la justicia,
+asegurando que los beneficios y oportunidades de reinserci6n y rehabilitaci6n se
+extiendan de forma plena y equitativa a las personas femeninas. Al incluir explicitamente
+estos terminos en su forma femenina, se elimina cualquier ambigiiedad sobre la
+aplicabilidad de la medida, promoviendo un enfoque integral que atiende a la diversidad
+y respeta los derechos de todas las personas.
+En la Secci6n 1 del decretase, especificamente en la linea 9 de la pagina 5 del entirillado,
+se enmend6 para incluir que la participaci6n en el servicio publico municipal no sera
+denegada "ni por ser victima de agresi6n sexual o acecho, ni por ser veterano(a) de las
+Fuerzas Armadas, ni tampoco por impedimento fisico o mental, ni por tener peinados
+protectores y texturas de cabello que regularmente se asocian con identidades de raza y
+origen nacional particulares." Este lenguaje responde a las enmiendas introducidas al
+C6digo Municipal a traves de la Ley 106, aprobada el 23 de julio de 2024, que ampli6 y
+fortaleci6 el marco legal en materia de discriminaci6n. Con ello se pretende garantizar
+que el acceso a oportunidades de empleo en el sector publico sea plenamente inclusivo y
+libre de cualquier forma de discriminaci6n, asegurando que todas las personas,
+independientemente de su historial personal, condiciones fisicas o expresiones culturales,
+tengan igualdad de oportunidades para contribuir al servicio publico y al desarrollo
+social.
+En la Secci6n 1, Secci6n 6, Secci6n 7 y la Exposici6n de Motivos se estableci6 que las
+personas que aparezcan en el Registro de Personas Convictas por Maltrato a Adultos
+Mayores, en cumplimiento del Art. 11 de la Ley Num. 121-2019 del 1 de agosto de 2019,
+no podran acceder a los beneficios del servicio publico, garantizando asi que el
+Departamento de Justicia mantenga actualizado dicho registro y protegiendo a este
+grupo vulnerable.
+En la Secci6n 1, pagina 7, linea 1 del entirillado, se cambi6 el lenguaje original para que
+lea como sigue: "No hacer uso ilegal, problematico, o en incumplimiento de las
+recomendaciones medicas, de sustancias controladas. Lo anterior para utilizar un
+lenguaje que no resulte estigmatizante evitar juicios de valor y favorecer un enfoque de
+salud publica.
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Pagina 11
+Segun la recomendacion del DTRH, en la Seccion 7 del entirillado (pagina 15) se modifico
+el lenguaje que hacia referenda a la 11Administracion de Recursos Humanos y
+Transformacion del Gobierno de Puerto Rico11 dado que la facultad de habilitar a las
+,
+personas inelegibles para el servicio publico fue delegada al DTRH conforme a lo
+establecido en la Ley Num. 8-2017.
+Por ultimo, a solicitud del DTRH se afiadio una nueva Seccion 8 al entirillado para
+clarificar lo dispuesto en el Articulo 2.062 de la Ley Num. 107-2020. Dicho articulo
+establece que toda persona que se someta al procedimiento de reclutamiento para
+ingresar al Gobierno Municipal, o todo empleado que haya sido destituido, podra
+solicitar su habilitacion al Secretario del Departamento del Trabajo y Recursos Humanos.
+En consecuencia, se recomendo que, en caso de aprobarse la enmienda propuesta por la
+Seccion 1 del presente proyecto, se modifique el Articulo 2.062 para precisar que aquellas
+personas que cumplan con alguna de las causas de inelegibilidad establecidas por ley y
+no dispongan de un Certificado de Rehabilitacion y Capacitacion para Trabajar, conforme
+a lo establecido en el Articulo 2.048 del Codigo Municipal, deberan solicitar su
+habilitacion ante el DTRH.
+ANALISIS LEGAL
+Segun informacion publica del afio 2023, el promedio de la poblacion correccional
+masculina fue de 6,735 confinados (96 %) , mientras que la poblacion femenina represento
+un 4 %, con un total de 246 confinadas. Se des taco que la unica institucion para mujeres
+esta ubicada en la Region Norte (Bayamon) y, aun asi, el 93% de los confinados en dicha
+region son hombres, evidenciando la marcada diferencia en la composicion poblacional
+del sistema correccional.
+Asimismo, de la investigacion de esta Comision se encontro, que el DCR tiene la
+responsabilidad de custodiar a los individuos cuyo ingreso a instituciones penales ha sido
+ordenado por los tribunales. Para ello, el sistema correccional cuenta con 33 instituciones
+a nivel isla, de las cuales actualmente 24 estan en operacion. Estas facilidades estan
+organizadas en dos regiones: Region Norte y Region Sur. En la Region Norte, existen 15
+instalaciones, de las cuales 14 estan en uso, mientras que en la Region Sur hay 18
+facilidades, de las cuales 10 estan operacionales. Esta distribucion demuestra la estructura
+actual del sistema correccional y la disponibilidad de espacios en las instituciones que
+continuan activas.
+El mandato constitucional en la Seccion 19 del Articulo VI de la Constitucion del Estado
+Libre Asociado de Puerto Rico establece de manera inequivoca que sera politica publica
+reglamentar las instituciones penales para que cumplan de forma efectiva sus fines y se
+propenda, dentro de los recursos disponibles, el tratamiento adecuado de los
+Comisi6n de Asuntos Municipales
+
+Informe Positivo P. de la C. 6 Ptigina 12
+delincuentes para posibilitar su rehabilitacion moral y social (CONST. PR art. VI, § 19).
+En consonancia con este mandato, el Plan de Reorganizacion del Departamento de
+Correccion y Rehabilitacion de 2011, 3 LPRA Ap. XVIII (2011 & Supl. 2017), manifesto el
+objetivo de crear un sistema integrado de seguridad y administracion correccional, en el
+cual las funciones y deberes se armonizaran para facilitar tanto la imposicion de penas
+como la implementacion de medidas de seguridad.
+De igual forma, se establecio que, para que se considerara que un confinado habia
+satisfecho el requisito de buena conducta, este debia haber cumplido con el plan
+institucional trazado y con los reglamentos y leyes que garantizan una sana convivencia
+dentro de la facilidad correccional o bajo supervision del Departamento de Correccion y
+Rehabilitacion, tal como se ha interpretado en Vargas Serrano v. Institucion Correccional,
+198 DPR 230, 248-49 (2017).
+Esta integracion de principios constitucionales y normativos reafirmo la necesidad de que
+el sistema penal no solo se centre en el castigo, sino que tambien incorpore medidas de
+rehabilitacion que favorezcan la reinsercion social de los individuos, contribuyendo de
+esta forma a la transformacion y mejora de la convivencia en la sociedad. En ese sentido,
+esta Comision entiende que el Proyecto de la Camara 6, va alineado al estado de derecho
+~ vigente en Puerto Rico, y anteriormente discutido.
+lMPACTO FISCAL MUNICIPAL
+f
+En cumplimiento con lo dispuesto en el Articulo 1.007 de la Ley 107-2020, (21 L.P.R.A. §
+7012) supra, conocida como "Codigo Municipal de Puerto Rico, la Comision de Asuntos
+Municipales certifica que la pieza legislativa bajo analisis no impone una carga economica
+negativa en el presupuesto de los gobiernos municipales.
+CONCLUSI6N
+Por todos los fundamentos antes expuestos, la Comision de Asuntos Municipales de la
+Camara de Representantes, recomienda a este Alto Cuerpo la aprobacion del Proyecto de
+la Camara 6, con las enmiendas que se incluyen en el entrillado electronico que acompafta
+este Informe.
+Respetuosamente sometido,
+li(Jl
+ere
+Presidente
+Comision de Asuntos Municipales
+Comisi6n de Asuntos Municipales
+
+ENTIRILLAD0 ELECTR0NIC0
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 1ra. Sesi6n
+Legislativa Ordinaria
+CAMARA DE REPRESENT ANTES
+P. de la C. 6
+2 DE ENERO DE 2025
+Presentado por el representante Mendez Nunez
+Referido a la Comisi6n de Asuntos Municipales
+LEY
+Para enmendar el Articulo las Articulos 2.048 y 2.062 de la Ley 107-2020, segun
+enmendada, conocida como "C6digo Municipal de Puerto Rico"; enmendar la
+Secci6n 6.8 de la Ley 8-2017, segun enmendada, conocida como "Ley para la
+Administraci6n y Transformaci6n de los Recursos Humanos en el Gobierno de
+Puerto Rico"; enmendar los articulos 5 y 7, y afiadir un nuevo Articulo 10-B, en el
+Plan de Reorganizaci6n 2-2011, segun enmendado, conocido como "Plan de
+Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011"; y
+enmendar los articulos 1 y 6 de la Ley N um. 254 de 27 de julio de 1974 , segun
+enmendada, mediante la cual se autoriza al Negociado de la Policia del
+Departamento de Seguridad Publica a expedir los denominados "certificados de
+antecedentes penales", con el prop6sito de restituir la facultad del Departamento
+de Correcci6n y Rehabilitaci6n para expedir el denominado "Certificado de
+Rehabilitaci6n y Capacitaci6n para Trabajar", y para permitir el empleo de
+exconfinados y exconfinadas en el servicio publico municipal, salvo por las
+excepciones enumeradas en esta Ley, en aras de fomentar su reinserci6n en la
+comunidad como personas productivas y utiles y restaurar el dafio ocasionado a la
+victima y a la sociedad; hacer correcciones tecnicas; y para otros fines relacionados.
+EXPOSICION DE MOTIVOS
+La Secci6n 19 del Articulo VI de la Constituci6n de Puerto Rico, en su parte
+pertinente nos indica que, sera la politica publica del Estado " ... reglamentar las
+instituciones penales para que sirvan a sus prop6sitos en forma efectiva y propender, dentro de
+las recursos disponibles, al tratamiento adecuado de las delincuentes para hacer posible su
+
+2
+rehabilitaci6n moral y social". A esos efectos, es la politica publica del Gobierno de Puerto
+Rico, la creaci6n de un sistema integrado de seguridad y administraci6n correccional
+donde las funciones y deberes se armonicen en un proceso facilitador a la imposici6n de
+penas y medidas de seguridad, asi como a la custodia de los ciudadanos que han sido
+encontrados incursos en la comisi6n de un delito o falta y que establezcan procesos de
+rehabilitaci6n moral y social del miembro de la poblaci6n correccional o transgresor, a
+fin de fomentar su reincorporaci6n a la sociedad.
+Con la aprobaci6n del "Plan de Reorganizaci6n del Departamento de Correcci6n y
+Rehabilitaci6n de 2011", se reenfocaron y redirigieron las funciones de la Agenda, hacia
+la custodia y la rehabilitaci6n, proveyendo un tratamiento adecuado por personal
+capacitado, de tal forma que, conforme a los ajustes institucionales de la clientela, se
+pueda evidenciar su rehabilitaci6n.
+Dicho lo anterior, el Departamento de Correcci6n y Rehabilitaci6n es la Agenda de
+la Rama Ejecutiva encargada de implementar la politica publica del Gobierno de Puerto
+Rico en el sistema correccional para menores transgresores y para adultos. Su misi6n es
+proveer custodia y rehabilitaci6n a los miembros de la poblaci6n correccional,
+imputados y menores transgresores, por medio de la implementaci6n de servicios de
+calidad, la integraci6n, combinaci6n e innovaci6n de programas educativos, de fe y de
+reinserci6n comunitaria.
+La administraci6n y operac1on de la agenda recae en los componentes de su
+estructura organizacional, la cual esta compuesta por la Oficina del Secretario, la
+Secretaria Auxiliar de Recursos Humanos, la Secretaria Auxiliar de Gerencia y
+Administraci6n, la Secretaria de Presupuesto y Finanzas, la Oficina de Prensa y
+Protocolo, la Secretaria Auxiliar de Asuntos Legales e Investigativos, las Oficinas
+Regionales, la Secretaria Auxiliar de Programas y Servicios y la Secretaria Auxiliar de
+Seguridad. A nuestro juicio, este diagrama organizacional ha propiciado una linea de
+administraci6n y jerarquia mas clara, a tono con una adecuada vision de gerencia.
+Por otra parte, y de conformidad con el antes citado Plan de Reorganizaci6n, el
+Departamento de Correcci6n y Rehabilitaci6n propende, asiste y garantiza la
+continuidad de los servicios del Programa de Servicios con Antelaci6n al Juicio (PSAJ),
+el Programa de Empresas de Adiestramiento, Trabajo y Cooperativas (PEATC), el
+Programa de Salud Correccional y la agenda adjunta conocida como la Junta de
+Libertad Bajo Palabra.
+Respecto a la rehabilitaci6n de los miembros de la poblaci6n correccional, la
+Secretaria Auxiliar de Programas y Servicios ha establecido diversos servicios, entre los
+que destacan, alimentos, salud fisica, salud mentat y- dental, educativos, vocacionales,
+trabajo social institucional y comunitario, socio penales institucional y comunitario,
+record penal, remedios administrativos, recreativos y religiosos, entre otros.
+
+3
+De igual manera, el Departamento disefi6 un sistema diversificado de instituciones,
+programas y recursos humanos para que se viabilice un mejor tratamiento
+individualizado. Para esto, se cre6 el Programa Integral de Reinserci6n Comunitaria, a
+traves del cual se integraron varios componentes del sistema correccional, para trabajar
+en lo que es su mayor prioridad: la rehabilitaci6n de los que han delinquido, sin
+menoscabar la seguridad publica. Forman parte de este esfuerzo el Negociado de
+Rehabilitaci6n y Tratamiento, el cual les provee servicios biopsicosociales; el Negociado
+de Instituciones Correccionales; la Oficina de Capellania que brinda ayuda espiritual; y
+el Negociado de Comunidad, a traves del cual, los tecnicos de servicios socio penales
+supervisan a las personas integradas en las distintas instituciones.
+Como si lo anterior no fuera poco, se estableci6 una Oficina de Colocaci6n de
+Empleos con la finalidad de ofrecer servicios de evaluaci6n, clasificaci6n, ubicaci6n y
+seguimiento en cuanto a empleos de confinadosL y- exconfinados, confinadas y
+exconfinadas, que extingan sus penas en la libre comunidad y / o se beneficien de algun
+programa de desvio, libertad a prueba o bajo palabra y / o supervision electr6nica, entre
+otros. C6nsono con esto, el Departamento tiene la encomienda de preparar un informe
+anual sobre los servicios prestados por la Oficina, las necesidades de los confinados
+relacionadas al empleo, proyecciones de clientela a ser impactada el pr6ximo afio,
+numero de clientela servida, servicios ofrecidos, satisfacci6n de la clientela y de los
+patronos que ofrecieron sus servicios, el cual se le hace llegar al Gobernador y a la
+Asamblea Legislativa de Puerto Rico.
+Asimismo, tiene la obligaci6n de buscar la colaboraci6n de distintos patronos del
+sector privado, con o sin fines de lucro, para emplear a los confinados y exconfinados;
+ademas, efectua monitorias y evaluaciones de la Oficina, de manera que pueda
+identificar las deficiencias e implementar las medidas de acci6n correctiva de
+inmediato; se lleva a cabo un proceso que facilita la colecci6n de datos e informaci6n
+estadistica con respecto a la necesidad de adiestramientos de los confinados y confinadas,
+los servicios de empleo ofrecidos, para que haya un marco de referenda real sobre la
+situaci6n y necesidacles de los confinados y confinadas, y se puedan desarrollar sus
+planes de acci6n de forma integral con las entidades concernidas. Tambien, se trabaja
+con la preparaci6n de analisis de estudios, inventarios de plazas de trabajo disponibles
+en el sector privado, se suscriben acuerdos contractuales de cooperaci6n con empresas
+privadas para que los confinados y exconfinados puedan realizar su experiencia de
+empleo y se les brinde la oportunidad de ser retenidos en los mismos.
+Lamentablemente, a A pesar de los arduos esfuerzos generados desde el
+Departamento de Correcci6n y Rehabilitaci6n a favor de la reinserci6n comunitaria de
+los confinados y exconfinados, existen leyes que impiden que se logre la cabal
+consecuci6n de la politica publica contenida en la Constituci6n de Puerto Rico. Para el
+afio 2004, fue promulgada la ahora extinta Ley del Mandato Constitucional de
+Rehabilitaci6n, la cual fue derogada. En sintesis, esta Ley establecia que la filosofia, la
+
+4
+politica correccional y los recursos del Gobierno de Puerto Rico tenian que asignarse y
+utilizarse para lograr la rehabilitaci6n moral y social de los confinados y confinadas a
+fin de que el sistema correccional cumpla con el mandato constitucional dispuesto. A
+esos efectos, la Ley buscaba que las agendas gubernamentales y las organizaciones
+comunitarias, crearan programas dinamicos y participativos para facilitar y potenciar el
+desarrollo de las capacidades de los convictos, convictas, confi.nadas y confinados para
+fomentar su reinserci6n en la comunidad como personas productivas y utiles y
+restaurar el dafio ocasionado a la victima y a la sociedad.
+En torno a lo dicho en el parrafo que antecede, la Ley del Mandato Constitucional de
+Rehabilitaci6n provey6 para la emisi6n de un certificado de rehabilitaci6n que
+acreditaba que el sentenciado recluido en una instituci6n penal se habia rehabilitado.
+Esto, daba base para presentar una solicitud ante el Tribunal que dict6 sentencia para
+que se diera por cumplida el resto de la pena privativa de libertad. Se sabe que las
+disposiciones relativas a la Ley que permite la emisi6n de certificados de antecedentes
+penales tienen como consecuencia que los ex confinados que recien cumplen su
+sentencia no puedan obtener un certificado de buena conducta y, por ende, tampoco un
+empleo. Este Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar se hizo para
+que funcionara de forma complementaria al certificado de antecedentes penales.
+Especificamente, les permite tener mayores oportunidades de obtener un empleo para
+lograr la tan deseada reinserci6n comunitaria.
+Al igual queen la Ley del Mandato Constitucional, la existencia de dicho certificado
+fue reconocido en el Plan de Reorganizaci6n 2-2011, segun enmendado, conocido como
+"Plan de Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011", en
+el derogado C6digo Penal de Puerto Rico de 2004 y en la Ley Num. 254 de 27 de julio de
+1974, segun enmendada, que es la que autoriza la expedici6n de los antes mencionados
+"certificados de antecedentes penales".
+Sin embargo, tal y como se mencionara anteriormente, tanto la Ley 149-2004, segun
+enmendada, conocida como "C6digo Penal de Puerto Rico", asi como la Ley 377-2004,
+segun enmendada, conocida como "Ley del Mandato Constitucional de Rehabilitaci6n",
+fueron derogadas, lo que ha dejado incertidumbre con respecto a c6mo proceder con la
+otorgaci6n de los certificados de rehabilitaci6n y capacitaci6n para trabajar. Por ello, se
+entiende prudente necesario y razonable aclarar el estado de derecho con respecto a este
+documento, y restituir la facultad del Departamento de Correcci6n y Rehabilitaci6n
+para expedir el denominado "Certificado de Rehabilitaci6n y Capacitaci6n para
+Trabajar", luego de haber sido derogada la Ley 377, antes citada.
+En adici6n a lo anterior, y como un mecanismo adicional para fomentar la
+reinserci6n del ex confinado, y la exconfi.nada, en la comunidad como personas
+productivas y utiles y restaurar el dafio ocasionado a la victima y a la sociedad, es la
+intenci6n de esta Ley, permitirles el empleo en el servicio publico municipal, salvo por
+
+5
+varias excepciones. Entre las excepciones, se dispone que cualquier persona cualificada
+que interese participar en las funciones publicas del municipio no podra formar parte
+del "Registro de Personas Convictas por Delitos Sexuales y Abuso Contra Menores" e
+l
+del "Registro de Personas Convictas por Corrupci6n y Delitos Relacionados"; Registro de
+Persanas Canvictas par Maltrata a Adultas Mai1ares, no podra haber incurrido en conducta
+deshonrosa; no podra haber sido destituido del servicio publico por causa que le
+inhabilite; no haber sido convicto a canvicta de delito que implique depravaci6n moral o
+infracci6n de los deberes oficiales; no podra ser adicto al use habitual y e)(cesivo de
+sustancias controladas o bebidas alcoh6licas; y no podra haber sometido o intentado
+someter informaci6n falsa o engaftosa en solicitudes de examen o de empleo.
+De presentarse algunas de estas circunstancias, estas no aplicarian cuando el
+candidate haya side habilitado para el servicio publico per el Secretario del
+Departamento del Trabajo o cuando este ostente un Certificado de Rehabilitaci6n y
+Capacitaci6n para Trabajar.
+Sin duda, Resulta evidente que las disposiciones contenidas en la presente Ley ayudan
+a dar cumplimiento al mandato expreso incluido en la Secci6n 19 del Articulo VI de la
+Constituci6n de Puerto Rico. Con la ampliaci6n de los programas de trabajo del
+Departamento de Correcci6n y Rehabilitaci6n se impacta a la poblaci6n sentenciada
+interesada en ser participes del mejoramiento econ6mico de Puerto Rico, a traves de su
+reinserci6n al mundo laboral.
+DECRETASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Secci6n 1.-Se enmienda el Articulo 2.048 de la Ley 107-2020, segun enmendada, para
+2 que se lea como sigue:
+3 "Articulo 2.048- Disposiciones sobre Reclutamiento y Selecci6n
+4 Todo municipio debera ofrecer la oportunidad de ocupar puestos de carrera o
+5 transitorios a cualquier persona cualificada que interese participar en las funciones
+6 publicas del municipio. Esta participaci6n se establecera en atenci6n al merito del
+7 candidato a candidata, sin discrimen por raz6n de raza, color, sexo, nacimiento, edad,
+8 orientaci6n sexual, identidad de genero, origen o condici6n social, ni por ideas politicas
+9 o religiosas, ni parser victima de agresi6n sexual a acecha, ni parser veterana(a) de las Fuerzas
+
+6
+l Armadas, ni tampoco por impedimenta fisico o mental, ni por tener peinados protectores lf
+2 texturas de cabello que regularmente se asocian con identidades de raza l/ origen nacional de
+3 particulares.
+4 (a) Condiciones generales para ingreso - Se establecen las siguientes condiciones
+5 generales para ingreso al servicio publico municipal:
+6 (1) Estar fisica y mentalmente capacitado o capacitada para desempefiar las
+7 funciones del puesto.
+8 (2) Ser ciudadano o ciudadana de Estados Unidos de America o extranjero
+9 legalmente autorizado a trabajar en Estados Unidos de America.
+10 (3) No formar parte del "Registro de Personas Convictas por Delitos Sexuales y
+11 Abuso Contra Menores"L e del "Registro de Personas Convictas por Corrupci6n y
+12 Delitos Relacionados", ni del "Registro de Personas Convictas por Maltrato a Adultos
+13 Mayores".
+14 [(3)] (4) No haber incurrido en conducta deshonrosa.
+15 [(4)] (5) No haber sido destituido o destituida del servicio publico por causa
+16 que le inhabilite.
+17 [(5)] (6) No haber sido convicto o convicta, de delito [grave o por cualquier
+18 otro delito] que implique depravaci6n moral, o infracci6n de los deberes
+19 oficiales, y aquellos inelegibles de forma permanente para empleo, segun establecido por
+20 la Secci6n 6.8, Ley 8-2017.
+
+7
+1 [(6)] (7) No ser adicto al uso habitual y e)(cesivo de sustancias controladas o
+2 bebidas alcoh6lica. No hacer uso ilegal, problematico, o en incumplimiento de las
+3 recomendaciones medicas, de sustancias controladas.
+4 [(7)] (8) No haber sometido o intentado someter informaci6n falsa o engafiosa
+5 en solicitudes de examen o de empleo.
+6 Las ultimas cinco (5) seis (6) causales nose aplicaran cuando el candidato haya sido
+7 habilitado para el servicio publico por el Secretario del Departamento del Trabajo o
+8 cuando este ostente un Certificado de Rehabilitaci6n y Capacitaci6n para Trabajar, conforme lo
+9 dispuesto en el Articulo 10-B del Plan de Reorganizaci6n 2-2011, segun enmendado, conocido
+10 coma "Plan de Reorganizaci6n del Departamento de Correcci6n y Rehabilitaci6n de 2011 ".
+(b) ...
+II
+Secci6n 2.- Se enmienda la Secci6n 6.8 de la Ley 8-2017, segun enmendada, para que
+14 se lea como sigue:
+15 "Secci6n 6.8. - Habilitaci6n en el Servicio Publico.
+16 Es necesario que las personas que formen parte del Servicio Publico no hayan
+17 incurrido en conducta impropia sancionada por el ordenamiento juridico. No obstante,
+18 el Estado tiene un gran interes gubernamental de que todas aquellas personas que en
+19 determinado tiempo quedaron inhabilitadas para ocupar puestos en el servicio publico
+20 puedan, por sus propios meritos, superar la situaci6n que los inhabilit6 e integrarse o
+21 reintegrarse, segun sea el caso, al servicio publico. A continuaci6n, se disponen las
+22 normas que haran viable ese prop6sito.
+
+8
+1 1. ..
+2 2. La persona que sea inelegible para el servicio publico a tenor con lo dispuesto en
+3 el inciso 1 de la presente Secci6n, tendra derecho a solicitar ante el Departamento del
+4 Trabajo y Recursos Humanos su habilitaci6n luego de transcurrido un (1) afio desde la
+5 fecha en que ocurri6 el hecho o se determinaron las circunstancias que causaron su
+6 inhabilidad, excepto en los siguientes casos:
+7 a ...
+8
+9 d ...
+D
+e. Toda persona que ostente un Certificado de Rehabilitaci6n y Capacitaci6n para
+Trabajar, podra someter su solicitud de habilitaci6n en cualquier momenta.
+II
+13 Secci6n 3.- Se enmienda el inciso (1) del Articulo 5 del Plan de Reorganizaci6n 2-
+14 2011, segun enmendado, para que se lea como sigue:
+15 "Articulo 5.- Funciones, Facultades y Deberes del Departamento.
+16 El Departamento tendra las siguientes funciones, facultades y deberes:
+17 a) ...
+18
+19 1) establecer, formalmente, una Oficina de Colocaci6n de Empleos con la finalidad de
+20 ofrecer servicios de evaluaci6n, clasificaci6n, ubicaci6n y seguimiento en cuanto a
+21 empleos de confinados y exconfinados que extingan sus penas en la libre comunidad
+22 y / o se beneficien de algun programa de desvio, libertad a prueba o bajo palabra y / o
+
+9
+1 supervision electr6nica, o que ostenten un Certificado de Rehabilitaci6n y Capacitaci6n para
+2 Trabajar, entre otros; disponiendose que el Departamento preparara un informe anual
+3 sabre los servicios prestados por la Oficina, las necesidades de los confinados, confinadas
+4 y exconfinados, exconfinadas, relacionadas al empleo, proyecciones de clientela a ser
+5 impactada el pr6ximo afio, numero de clientela servida, servicios ofrecidos, satisfacci6n
+6 de la clientela y de los patronos y municipios que ofrecieron sus servicios, el cual hara
+7 llegar al (a la) Gobernador(a) ya la Asamblea Legislativa de Puerto Rico, no mas tarde
+8 de sesenta (60) dias de haberse concluido cada afio fiscal; asimismo, la Agenda tendra la
+9 obligaci6n de buscar la colaboraci6n de distintos patronos del sector privado, con o sin
+fines de lucro, asi coma la de las municipios, para emplear a los confinados y exconfinados;
+ademas, efectuara monitorias y evaluaciones de la Oficina, de manera que pueda
+12 identificar las deficiencias e implementar las medidas de acci6n correctiva de
+13 inmediato; llevara a cabo un proceso que le facilite la colecci6n de datos e informaci6n
+14 estadistica con respecto a la necesidad de adiestramientos de los confinados y
+15 exconfinados, o exconfinadas[,] y los servicios de empleo ofrecidos, de manera que [una
+16 vez establecida la oficina, sus directivos tengan] se pueda contar con un marco de
+17 referenda real sabre la situaci6n y necesidades de los confinados y exconfinadosL-2_
+18 exconfinadas y se puedan desarrollar [s us] planes de acci6n de forma integral con las
+19 entidades concernidas; de igual forma, se coordinara con la Oficina de Administraci6n y
+20 Transformaci6n de los Recursos Humanos del Gobierno de Puerto Rico, con el
+21 Departamento del Trabajo y Recursos Humanos y con las municipios, para la preparaci6n de
+22 analisis de estudios, inventarios de las plazas de trabajo disponibles en el sector privado
+
+1 yen las municipios, los acuerdos contractuales de cooperaci6n con las empresas privadas
+2 y municipios, para que los confinados y exconfinados puedan realizar su experiencia de
+3 empleo y se les brinde la oportunidad de ser retenidos en los mismos; estableciendose
+4 que la participaci6n por parte del sector privado, con o sin fines de lucro, y la de las
+5 municipios no sera obligatorio, sino de caracter voluntario; y
+6 ff
+GD
+7 Secci6n 4.- Se enmienda el inciso del Articulo 7 del Plan de Reorganizaci6n 2-
+8 2011, segun enmendado, para que se lea como sigue:
+9 "Articulo 7.- Facultades, Funciones y Deberes del Secretario.
+10 El Secretario tendra entre otras, las siguientes funciones, facultades y deberes:
+a) ...
+13 jj) formular junto con el Secretario de Justicia la reglamentaci6n necesaria para
+14 expedir y tramitar la [certificaci6n de rehabilitaci6n] el Certificado de Rehabilitaci6n y
+15 Capacitaci6n para Trabajar, segun establecida en el [C6digo Penal de Puerto Rico de
+16 2004] Articulo 10-B de este Plan de Reorganizaci6n;
+17 ff
+18 Secci6n 5.- Se afiade un nuevo Articulo 10-B en el Plan de Reorganizaci6n 2-2011,
+19 segun enmendado, que se leera como sigue:
+20 "Articula 10-B.- Certificaci6n de Rehabilitaci6n y Capacitaci6n para Trabajar
+21 Se dispone que el tribunal Tribunal que dict6 sentencia podra dar par cumplida la sentencia
+22 de cualquier persona convicta de delito ~, incluyendo a las sentenciados con anterioridad a la
+
+11
+1 vzgencza del presente Plan de Reorganizaci6n, sujeto al procedimiento de certificaci6n de
+2 rehabilitaci6n y capacitaci6n para trabajar que se describe en las parrafos subsiguientes.
+3 De concluir el Secretario del Departamento de Correcci6n y Rehabilitaci6n, a base de las
+4 evaluaciones realizadas, que el sentenciado recluido en una instituci6n penal se ha rehabilitado,
+5 levantara una certificaci6n y radicara a nombre del sentenciado yen consulta con el Secretario de
+6 Justicia una solicitud ante el tribunal Tribunal para que se de par cumplida el resto de la pena
+7 privativa de libertad.
+8 Sera requisito para la expedici6n de dicha certificaci6n, que el Secretario del Departamento de
+Correcci6n y Rehabilitaci6n cuente con una evaluaci6n y recomendaci6n sicol6gica psicol6gica a
+las efectos de que el sentenciado esta capacitado para convivir libremente en la sociedad y de que
+las otros profesionales que lo evaluaron informen detalladamente y par escrito sus
+12 determinaciones de la condici6n de rehabilitado del sentenciado; especialmente si ya no existe
+13 ningun peligro de que se manifieste la peligrosidad representada par el acto par el cual cumple
+14 sentencia.
+15 Para ser elegible a este procedimiento, las personas que hay-an dejado extinguida la sentencia
+16 y que cumplan deberan cumplir con las siguientes criterios:
+17 (a) Haber extinguido su sentencia (en confinamiento, en libertad bajo palabra, penas alternas,
+18 libertad a prueba a programas de desvio y comunitarios);
+19 (b) Haber observado buen comportamiento mientras extinguia la sentencia y estar clasificado
+20 en custodia minima, al momenta de extinguir su sentencia;
+
+12
+l (c) En las casos de penas alternas, haber extinguido satisfactoriamente las condiciones
+2 impuestas par el Tribunal. En las casos de libertad bajo palabra, haber cumplido con las
+3 condiciones impuestas par la Junta de Libertad Baja Palabra;
+4 (d) No haber sido objeto de sanciones disciplinarias durante su ultimo aii.o de confinamiento;
+5 (e) No haber sido revocado del privilegio de libertad a prueba o libertad bajo palabra par
+6 comision de nuevo delito o violacion de condiciones impuestas durante su ultimo aii.o de
+7 confinamiento;
+8 (f) No haber arrojado resultados positivos en pruebas de deteccion de sustancias controladas
+9 durante su ultimo aii.o de confinamiento o durante su proceso de supervision y no estar activo en
+0
+10 el uso de sustancias controladas;
+_b f,
+(g) No tener pendiente ningiin proceso judidal criminal en su contra, tanto en las tribunales
+\ ~2 de jurisdiccion estatal coma federal. Tampoco, haber sido acusado de la comision de delitos en el
+13 periodo de tiempo que ha permanecido en la libre comunidad.
+14 Los secretarios de las departamentos de Correccion y Rehabilitacion; y Justicia,
+l 5 conjuntamente, adoptaran la reglamentacion que establezca el procedimiento para evaluar el
+l 6 ajuste del confinado, y para expedir y tramitar la certificacion de rehabilitacion.
+17 El trihumll Tribunal celebrara vista y tendra plena facultad para decidir la solicitud tomando
+18 en consideracion la prueba que se le presente, la opinion de la victima o sus familiares, y las
+19 ohjeciones opiniones, que el Secretario de Justicia, o representante del Departamento de Tusticia,
+20 pueda plantear. Dicha prueba contendra necesariamente la certificacion del Secretario del
+21 Departamento de Correccion y Rehabilitacion debidamente justificada, mediante una evaluacion
+22 del ajuste integral y del comportamiento social durante la reclusion y el cumplimiento del plan
+
+13
+1 de rehabilitaci6n. De resolver favorablemente la certificaci6n de rehabilitaci6n, el tribunal
+2 Tribunal ordenara al Comisionado del Negociado de la Policia del Departamento de Seguridad
+3 Publica de Puerto Rico que no incluya la convicci6n en el Certificado de Antecedentes Penales,
+4 pero mantenga la misma en el historial del convicto o convicta unicamente para fines de
+5 reincidencia."
+6 Secci6n 6.- Se enmienda el Articulo 1 de la Ley Num. 254 de 27 de julio de 1974,
+7 segun enmendada, para que se lea como sigue:
+8 "Articulo 1.-Expedici6n - Autorizaci6n [a] al Negociado de Ia Policia.
+[\ Se autoriza [a] al Negociado de Ia Policia del Departamento de Seguridad Publica de
+0(/ Puerto Rico la expedici6n de una certificaci6n, denominada "Certificado de
+1 Antecedentes Penales", contentiva de una relaci6n de las sentencias condenatorias que
+aparezcan archivadas en el expediente de cada persona que por haber sido sentenciada
+13 en cualquier tribunal Tribunal de justicia de Puerto Rico, o de cualquier otra jurisdicci6n
+14 locat estatal o federal de los Estados Unidos de America, ya tenga un expediente
+15 abierto en dicha dependencia o en cualquier otra dependencia analoga o sistema de
+16 datos oficial de cualquier jurisdicci6n local, estatal o federal de los Estados Unidos de
+17 America.
+18 En el caso de personas con historial delictivo y / o que no cumplan con los terminos
+19 de cinco a:fios en los casos de delitos graves, y de seis meses en los casos de delitos
+20 menos graves, segun dispuesto respectivamente en los Articulos 3 y 4 de esta Ley,
+21 podran obtener un certificado de rehabilitaci6n y capacitaci6n para trabajar que podra
+22 sustituir, el certificado de buena conducta. El proceso de evaluaci6n para la obtenci6n
+
+14
+1 del mismo sera determinado par el Departamento de Correcci6n y Rehabilitaci6n, [e l
+2 cual podra utilizar como guia el ya dispuesto para otorgar el certificado de
+3 rehabilitaci6n establecido bajo el Articulo 104 de la Ley Num. 149 de 18 de junio de
+4 2004, segun enmendada] conforme lo dispuesto en el Articulo 10-B del Plan de
+5 Reorganizaci6n 2-2011, segun enmendado, conocido coma "Plan de Reorganizaci6n del
+6 Departamento de Correcci6n y Rehabilitaci6n de 2011 ". EI patrono se reservara el derecho
+7 de solicitar el certificado de antecedentes penales buena conducta, en adici6n al certificado
+8 de rehabilitaci6n y [rehabilitaci6n] capacitaci6n para trabajar.
+~f)
+La posible expedici6n del certificado de rehabilitaci6n y capacitaci6n para trabajo
+~t
+I
+aqui contemplado no sera de aplicaci6n para personas que formen parte del "Registro
+11 de Personas Convictas par Delitos Sexuales [Violentos] y Abuso Contra Menores" o del
+12 "Registro de Personas Convictas par Corrupci6n y Delitos Relacionados" ni del "Registro
+13 de Personas Convictas par Maltrato a Adultos Mayores." "
+14 Secci6n 7.- Se enmienda el Articulo 6 de la Ley Num. 254 de 27 de julio de 1974,
+15 segun enmendada, para que se lea coma sigue:
+16 "Articulo 6.-Sentencia revocada.
+17 No se incluira en el certificado de antecedentes penales que se expida, toda
+18 sentencia:
+19 (a) .. .
+20 (b) .. .
+21 (c) que se de par cumplida par un tribunal Tribunal conforme [el Articulo 104 del
+22 nuevo C6digo Penal del Estado Libre Asociado de Puerto Rico] a la Ley 146-2012, segun
+
+l enmendada, conocida coma 11C6digo Penal de Puerto Rico" o a lo dispuesto en el Articulo 10-B
+2 del Plan de Reorganizaci6n 2-2011, segun enmendado, conocido coma "Plan de Reorganizaci6n
+3 del Departamento de Correcci6n y Rehabilitaci6n de 2011" [ el Articulo 7 de la Ley del
+4 Mandato Constitucional de Rehabilitaci6n];
+5 (d ) que haya sido habilitada per la Oficina [Central de sesoramiento Laboral y
+1"..
+6 Administraci6n de Recurses Humanos (OCALARH)] de Administraci6n y
+7 Transformaci6n de las Recurses Humanos del Gobierno de Puerto Rico (OATRH), o a tenor con
+rocedimiento ue a esos e ectos dis Num. 8-2017 o·
+(e) que haya sido eliminada del Registro de Personas Convictas por Delitos Sexuales
+10 Violentos y Abuso Contra Menores o del Registro de Personas Convictas par Maltrato a
+l l Adultos Mayores."
+12 Secci6n 8.- Se enmienda el Articulo 2.062 de la Ley 107-2020, segun enmendada, para que se
+13 lea coma sigue:
+14 "Articulo 2.062 - Funciones de la Oficina de Administraci6n y Transformaci6n de las
+15 Recursos Humanos (21 L.P.R.A. § 7251)
+16 La Oficina de Administraci6n y Transformaci6n de las Recursos Humanos, a solicitud del
+17 municipio, proveera el asesoramiento y avuda tecnica necesaria para desarrollar sus sistemas de
+18 personal, segun dispone este C6digo. El municipio sufragara el costo de dichos servicios, excepto
+l 9 en las casos en que el Director de la Oficina de Administraci6n y Transformaci6n de las Recursos
+20 Humanos determine ofrecer el servicio sin costo alguno. Posteriormente, la Ofi,cina de
+21 Administraci6n y Transformaci6n de las Recursos Humanos estudiara el desarrollo del principio
+
+16
+1 de merito en las municipios, a las fines de estar en meiores condiciones para suplir la ayuda
+2 tecnica lf asesoramiento conforme en este Articulo.
+3 Toda persona que se someta al procedimiento de reclutamiento para ingresar al Gobierno
+4 Municipal y resulte inelegible par haber incurrido en las causas de inelegibilidad establecidas par
+5 ley y todo empleado de carrera, transitorio o irregular que haya sido destituido par cualquier
+6 Gobierno Municipal, podra solicitar su habilitaci6n al Secretario del Departamento del Trabaio y
+7 Recursos Humanos, siempre y cuando no posea un Certificado de Rehabilitaci6n y Capacitaci6n,
+8 para Trabajar, segun se establece en la Ley 8-2017, segun enmendada, conocida coma "Ley para
+Administraci6n Trans ormaci6n de las Recursos Humanos en el Gobierno de Puerto Rico.
+II
+Secci6n g 9.-Salvedad.
+12 Si cualquier palabra, inciso, secci6n, articulo o parte de esta Ley fuese declarado
+13 inconstitucional o nulo por un Tribunal tribunal, tal declaraci6n no afectara,
+14 menoscabara o invalidara las restantes disposiciones y partes de esta Ley, sino que su
+15 efecto se limitara a la palabra, inciso, oraci6n, articulo o parte especifica y se entendera
+16 que no afecta o perjudica en sentido alguno su aplicaci6n o validez en el remanente de
+17 sus disposiciones.
+18 Secci6n 9-10.- Derogaci6n Tacita.
+19 Por la presente queda derogada cualquier ley, regla de procedimiento o norma que
+20 se encuentre en conflicto con las disposiciones aqui contenidas.
+21 Secci6n l-011.- Clausula de Supremacia.
+
+17
+1 Las disposiciones de esta Ley prevaleceran sobre cualquier otra disposici6n de ley
+2 que no estuviere en armonia con lo aquf establecido.
+Secci6n -1-± 12.- Vigencia.
+Esta Ley comenzara a regir inmediatamente despues de su aprobaci6n.
+
+[DELETED:  1 C e e a y 7 y a u e P N d l P d D d S P a e l " d a p c p d r e L e a d f s r e l c c p]
+[DELETED:  6 i p p q c e s p y f a r p l a d " d R d D d C y a u t a p p c y l r d l c a l s E D d R ( e r d o r e I P S y S d D S o d s t c a f y d p e y v t s i y D u d d i y p p u t i d l c C p d e]
+[DELETED:  6 d l c E o t m y e l n l E 2 s a l " d M C d d R q a l r d s y l C q c d C d y d d M d R s g i r a l v y d C d R y C p T E q e s p r l f d D p e e C d e a m l A s b p e e d R o q h i e c d s o b a o h p i f e q p]
+[DELETED:  a e e d e d P R f s r r L a m l D P D d C y R D d d p l s r d v p c l s D C d P R ( r D M q 9 d p s p r r v p a l d b o s q i a m q A e D d C y R A o i a d r e p p r y f e a]
+[DELETED:  6 e q d m t u i p e l D d q d d h s a p f l l P d P R e D d C y y e D d l q a s a l C a l y F H m d c d c d s l q p u a i d l a 2 s a c dV P 1 d f d 2 D d C y D d T y R H y e r c E]
+[DELETED:  6 p d q i d m o i d l d e D s r a l l p n d h i e c i t c b a u a q p a t p o d R y C p T s s s d D c e c e N e t l y s a q s c c o a D d C R ( r p e L y d L d M C d R h g e s e q l i d u n A 1 e e P d d D f a S d l a l d r y r p p c l r d l S u l m e g r e d c]
+[DELETED:  D R ( r c p i a s p l c d D s c l p q c c l c d i d s l L 2 p a l f l r a l e d l d a p d s m p r d m A o m e M q O d]
+[DELETED:  6 y T d l R H s e s e e s p m e c n d f p d D A l a q o C d R c a l d A d P o l s e e i ( d A 5 d m P d p a e y u i d l p d t m q s o a e p l o d o l q p d e u r a l p L p c e n v y e d d h d p o e p q e i p c a d e d C y o f S F l]
+[DELETED:  6 q l m r u m a p f l s e q c p A d P C p C y D R A q h y e d s c o b a o h e E l A e P a l C 6 r u a s y n p p l e p r e y a a l o d e p p q l a d l m c u p d h e]
+[DELETED:  t l q c cae y1111ag n p d l m d d s c s q q l b y o d r y r s t e s f f s e c a s l s E d c f d d a q t l p s p y a d S l A a a l b d s p g a q e d m a d r y p a e c s " h u i p o e i d l m d s c L a p u u]
+[DELETED:  P l q h r a l A d R H yod l i e s p f d a D c a l a s d D s a u a e p l d e A 2 d l L N 1 D a t p q s s a p d r p a G M o t e q h s d p l e e e A 2 d C M d s s i p d a 2 e p d l p c m c d l i d e C s e q e D t l n i d c a 2 e E f e d l c 1 e e u m q e R S h 1 d d l r d e t a d l]
+[DELETED:  6 1 c c e e P d R d D d S i f s e q q s c q u h e r d b c e d h c c e p i c d]
+[DELETED:  A C 6 e e A 2 2 d l L 1 s A c c " M d P R e l 6 l L 8 s e c c " p l T l R H G d d R 2 s e c c " d d D d C y R d 2 y y 6 N d d , s m l c s a a N d l P d e d C y R p e e d " d y C p T y p p e e d e e s p m s p l e e L e d f s e S 1 d A V d l C d P R e s p n i q s l p p d E " l p d r d a t a d l d p h p s]
+[DELETED:  s l a y l r p u t a p p q c l a s c y r a l m d l p c m p y a y o d l a r e l c d s o l c e c p l O d S l A d R H l S A d G y l S P y F l O d P y l S A d A L e I l O o y d c c a c P d R e d C y R p a y g l P d E d A T y C ( e d S C y l a a c c l J d a l r d l m d l p c l m d s i y c s p i y c]
+[DELETED:  y r h p q s v u m t l q e s m p l r d l q h d s l s p F p d e e e N d N t s l a n f p s e u O d C d d e c a e d c e s s p p l n d c a e p d c a s i e p a d c s s o s d l c y d l q o e c s l h l G a l t e m y e l O d m q p l d e i l m d a c d y n l c y s p d s p l c y e p s e d a p d l a e g d e c y e e l q i q s l l c P 2 f p l a e L d M C d E e L e q l c f d]
+[DELETED:  s e l L b q l a g y l o y c s r e l c c p p y u y p p l e d u c d r q s d r d p S s q t c c q l e c q r c s E C C h p f d f c a c d a p y y r l f d D d C y R e e d " d R y C p a a l a y c u m a p f l d e c y e l c c p u a]
+[DELETED:  e n p h s d d s p p c q l d d n a u e d b y n i a d e c e n a c e h s h p e s p p e S d d T o c e o u d R l d d P R C l a d l p d t d d C R s i a l p-S-D m d o l o d o p d c o a c c q i p e l f d m E p s e e a a m d s]
+[DELETED:  n t p i f o n p t p p d c q r s a c i d r o n d ( C -S e g E m c p l f ( S c d E U d A o e l N f p d " d P C p D S C M e d " d P C p C R n " d P C p a o d N d o p o d q i d m o i d l d f p s L]
+[DELETED:  N e a h u i p o e i d l N c s p p S d D d T R C T c d P d R s c C R-e -H n q l p q f p d S P n h d s e c a s A c d l p s]
+[DELETED:  2 L e T a f e o e h o s d c q c i a T p q o u C d R C p 5-S e i d A d-F D d . 1 o s d e c u s e c a e o p o y]
+[DELETED:  C d R C p e s r a e p d c a s e d p q l d o p e m y e l O d m q p i l d e i l m d a c d i e c r a l n d a d l c o l d e u m d e l o s d t p c c r r s l s y n d l c y p p i s e T d l R H d G d P R e p T y a]
+[DELETED:  e s s s d d l-S e i d-F D d . f j c e S d J l r n p t d C d R y p T e P d P R d-S e-C t]
+[DELETED:  d p P d R s a p d c d r D c S d D d C y R a d l e q s l u t r d l p S o p q l e i d y p e s d l c d r d s e s y n e n q p p p c s P l q ( H l H]
+[DELETED:  ( E l c d p a h e s l c p e T E l c d l b p h c c l c ( ( N h s r d p d l a o b p p d n d o v d c i d s u a d p d d d s d n e ~ d T h l d p L s d l d d C R J y c a l r q e e p p e e a p t y E t t e c l p q s l p l o d l v o l o q o D T p p D p c n l c d S d C R m a d c d l r e p y]
+[DELETED:  r D r f l c d r e t o C d N d l P d D d S P c C A m l m e e h d c o c u p f d S-S e A d d d s-A I S a [ I P d N d d D d S P R l e d u c d " d e d e o f d l E U d A y t u e e d o e d s a e c d g y d d m g s r e l A 3 y 4 d e L s p]
+[DELETED:  d R p u c g e y d p o e c d c l d e e A 1 d P d s e R 2 s e c c " d R d E p C y R 2 b d p d c d y " D n " d S-S e A 2 d d s s " N s i e e c d a p q s e t s . ( ( q c a]
+[DELETED:  e C P a d d P R c " R D d C R d 2 [ A 7 d l L d ( ) q d s L d A d R H ( T a u V y A R d P C p M a A 2-S d l 2 F d l O d A y T d l § L 7 O d A T d l R a E d H d o s s c a P l O d]
+[DELETED:  m e l m a f d e m c p s a a p q s s a p d r p i a G y t e d c t o h s d p c p T s s L s c " T-S S c p i s a o p e f d i o n p u t t d n a m e q s S-D P s S-C]
+[DELETED:  L V]
