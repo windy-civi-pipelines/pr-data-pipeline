@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run text extraction action
-        uses: windy-civi/toolkit/actions/extract@refactor/v2-data-structure
+        uses: windy-civi/toolkit/actions/extract@main
         with:
           state: pr # Puerto Rico
           github-token: ${{ secrets.GITHUB_TOKEN }}
