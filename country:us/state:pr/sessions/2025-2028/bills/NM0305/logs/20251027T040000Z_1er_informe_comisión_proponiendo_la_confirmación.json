@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+    "date": "2025-10-27T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "NM0305"
+}
