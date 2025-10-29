@@ -144,6 +144,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:52Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Carretera PR 420 KM 7.8 Municipio de Moca",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -241,7 +251,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:52Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T10:00:57.789668Z"
   }
 }

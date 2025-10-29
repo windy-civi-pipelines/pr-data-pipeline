@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0829",
+  "title": "\u201cPara enmendar el Art\u00edculo XII de la Ley N\u00fam. 379-1948, seg\u00fan enmendada, conocida como \u201cLey\npara Establecer la Jornada de Trabajo en Puerto Rico\u201d, con el fin de garantizar transparencia entre\npatronos y empleados respecto a las n\u00f3minas de pago y horas trabajadas; estableciendo la\nobligaci\u00f3n de parte del patrono a proveerle al empleado un desglose de las horas trabajadas de as\u00ed\nsolicitarlo el empleado, y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159271/ps0829-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159271",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T03:47:24Z"
+  }
+}

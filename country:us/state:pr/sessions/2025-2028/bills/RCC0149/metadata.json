@@ -173,24 +173,34 @@
     },
     {
       "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
-      "date": "2025-10-27T04:00:00+00:00",
+      "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "amendment-amendment"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-28T03:49:10Z"
+        "log_file_created": "2025-10-29T03:47:23Z"
       }
     },
     {
-      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
-      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Entirillado del Informe",
+      "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-28T03:49:10Z"
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
       }
     }
   ],
@@ -260,6 +270,28 @@
       ],
       "date": "2025-09-29",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156427/rcc0149-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156427/rcc0149-ent.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -278,7 +310,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-28T08:49:11.040742Z"
   }
 }

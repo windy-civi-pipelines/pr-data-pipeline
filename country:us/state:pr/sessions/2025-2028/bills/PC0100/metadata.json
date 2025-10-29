@@ -256,6 +256,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:52Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,7 +407,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:52Z",
+    "logs_latest_update": "2025-10-29T03:47:24Z",
     "text_extraction_latest_update": "2025-10-27T09:50:04.832970Z"
   }
 }

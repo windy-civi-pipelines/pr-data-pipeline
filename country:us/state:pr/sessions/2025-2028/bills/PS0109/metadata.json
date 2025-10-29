@@ -146,6 +146,40 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -222,6 +256,28 @@
       ],
       "date": "2025-04-10",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Conjunto Comisiones rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152641/PS0109-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-28",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152641/PS0109-ee.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -240,7 +296,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T09:14:43.835636Z"
   }
 }

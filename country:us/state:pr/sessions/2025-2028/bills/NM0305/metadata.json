@@ -64,6 +64,26 @@
       "_processing": {
         "log_file_created": "2025-10-28T03:49:10Z"
       }
+    },
+    {
+      "description": "Confirmado por Senado",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Notificado a la Gobernadora",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -90,6 +110,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Notificado a la Gobernadora",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158870/0305 - notificaci\u00f3n a la gobernadora.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -108,7 +139,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-28T08:49:53.744856Z"
   }
 }

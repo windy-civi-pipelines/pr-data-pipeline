@@ -254,23 +254,33 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Jos\u00e9 E. Torres Zamora - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Jos\\u00e9 E. Torres Zamora - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 E. Torres Zamora - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 E. Torres Zamora - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -403,7 +413,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T09:51:13.385421Z"
   }
 }

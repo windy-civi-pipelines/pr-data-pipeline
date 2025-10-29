@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0830",
+  "title": "\u201cPara enmendar el Art\u00edculo 6.033 y a\u00f1adir el Art\u00edculo 6.043 la Ley 107-2020, seg\u00fan enmendada,\nmejor conocida como \u201cC\u00f3digo Municipal de Puerto Rico\u201d, para que en virtud de la pol\u00edtica p\u00fablica\nde descentralizaci\u00f3n, transferir a los municipios competencias espec\u00edficas de las agencias e\ninstrumentalidades p\u00fablicas del ELA, y asegurar la transferencia del presupuesto correspondiente a\nlos municipios; y para otros fines; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159272/ps0830-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-24",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159272",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-29T03:47:24Z"
+  }
+}

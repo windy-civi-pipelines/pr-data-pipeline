@@ -170,6 +170,38 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:52Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -238,6 +270,28 @@
       ],
       "date": "2025-06-17",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153923/pc0350-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-27",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153923/pc0350-ent.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -256,7 +310,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:52Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T08:55:16.828637Z"
   }
 }

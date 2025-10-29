@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0225",
-  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado de Puerto Rico realizar una investigaci\u00f3n profunda y exhaustiva sobre la viabilidad de reactivar los terrenos y la infraestructura de la Central Coloso en Aguada como atractivo tur\u00edstico que apoye el desarrollo econ\u00f3mico tanto municipal como a nivel local, nacional e internacional y para otros fines.",
+  "title": "Para ordenar a la Comisi\u00f3n de Turismo, Recursos Naturales y Ambientales del Senado de Puerto Rico, realizar una investigaci\u00f3n profunda y exhaustiva sobre la viabilidad de reactivar los terrenos y la infraestructura de la Central Coloso en Aguada como atractivo tur\u00edstico que apoye el desarrollo econ\u00f3mico tanto municipal, como a nivel local, nacional e internacional.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:55Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +191,17 @@
       ],
       "date": "2025-10-20",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156448/rs0225a-25.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -197,7 +220,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T10:36:14.304836Z"
   }
 }

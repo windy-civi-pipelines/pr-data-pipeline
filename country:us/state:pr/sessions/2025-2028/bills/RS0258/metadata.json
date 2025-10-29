@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0258",
-  "title": "Para ordenar a la Comisi\u00f3n de ___________________ a realizar una investigaci\u00f3n exhaustiva sobre las condiciones de acceso, mantenimiento y jurisdicci\u00f3n de la carretera PR-136, incluyendo los accesos a Punta Verraco y Punta Ventana, en el municipio de Guayanilla; evaluar si las limitaciones al acceso p\u00fablico est\u00e1n autorizadas por el Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP) o la Autoridad de Carreteras y Transportaci\u00f3n (ACT); y para otros fines relacionados.",
+  "title": "Para ordenar a  las comisiones de Planificaci\u00f3n, Permisos e Infraestructura; y de Vivienda y Bienestar Social del Senado de Puerto Rico, realizar una investigaci\u00f3n exhaustiva sobre las condiciones de acceso, mantenimiento y jurisdicci\u00f3n de la carretera PR-136, incluyendo los accesos a Punta Verraco y Punta Ventana, en el municipio de Guayanilla; evaluar si las limitaciones al acceso p\u00fablico est\u00e1n autorizadas por el Departamento de Transportaci\u00f3n y Obras P\u00fablicas (DTOP) o la Autoridad de Carreteras y Transportaci\u00f3n (ACT).",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:55Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +191,17 @@
       ],
       "date": "2025-10-16",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156755/rs0258a-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-16",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -197,7 +220,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z",
+    "logs_latest_update": "2025-10-29T03:47:24Z",
     "text_extraction_latest_update": "2025-10-27T09:34:36.722357Z"
   }
 }

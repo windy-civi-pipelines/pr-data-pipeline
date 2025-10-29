@@ -276,6 +276,26 @@
       }
     },
     {
+      "description": "4to Informe Parcial rendido",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
       "description": "Cuerpo recibe 3er informe parcial rendido",
       "date": "2025-10-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -283,6 +303,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-10-28T03:49:10Z"
+      }
+    },
+    {
+      "description": "5to Informe Parcial rendido",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
+    },
+    {
+      "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
       }
     }
   ],
@@ -387,6 +427,17 @@
       "classification": ""
     },
     {
+      "note": "4to Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/rs0081-Inf (4to parcial).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-27",
+      "classification": ""
+    },
+    {
       "note": "Cuerpo recibe 3er informe parcial rendido",
       "links": [
         {
@@ -395,6 +446,17 @@
         }
       ],
       "date": "2025-10-27",
+      "classification": ""
+    },
+    {
+      "note": "5to Informe Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154128/rs0081-Inf (5to parcial).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-28",
       "classification": ""
     }
   ],
@@ -414,7 +476,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-28T08:47:29.402650Z"
   }
 }

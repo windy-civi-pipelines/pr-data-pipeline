@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0194",
-  "title": "Para ordenar a la Comisi\u00f3n con jurisdicci\u00f3n del Senado de Puerto Rico realizar un estudio sobre la viabilidad y conveniencia de establecer horarios escalonados en las agencias de Gobierno, Rama Judicial, Legislatura de Puerto Rico y Municipios.",
+  "title": "Para ordenar a la Comisi\u00f3n de Trabajo y Relaciones Laborales del Senado de Puerto Rico, realizar un estudio sobre la viabilidad y conveniencia de establecer horarios escalonados en las agencias de Gobierno, Rama Judicial, Legislatura de Puerto Rico y Municipios.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:55Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-29T03:47:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -179,6 +191,17 @@
       ],
       "date": "2025-10-20",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155892/rs0194a-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-20",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -197,7 +220,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z",
+    "logs_latest_update": "2025-10-29T03:47:23Z",
     "text_extraction_latest_update": "2025-10-27T10:24:00.337827Z"
   }
 }
