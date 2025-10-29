@@ -30,12 +30,8 @@ jobs:
         if: always()
         shell: bash
         run: |
-          echo "📊 Text Extraction Summary"
-          echo "================================"
-          echo "✅ Check country:us/state:*/sessions/*/bills/*/files/ for extracted text files"
-          echo "📄 Look for *_extracted.txt files in the files/ directories"
-          echo ""
-          echo "ℹ️  Features:"
-          echo "  - Incremental processing (skips already-processed bills)"
-          echo "  - Auto-saves progress every 30 minutes"
-          echo "  - Can be safely restarted if timeout occurs"
+          if [ -f ".extraction_summary.txt" ]; then
+            cat .extraction_summary.txt
+          else
+            echo "⚠️  Summary file not found"
+          fi
