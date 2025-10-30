@@ -1,0 +1,65 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0953",
+  "title": "Para crear la \u201cLey de Rescate Municipal para tu Vivienda\u201d, a los fines de desarrollar un programa que le otorgue financiamiento a los municipios en Puerto Rico para que puedan comprar propiedades abandonadas y deterioradas en sus respectivos cascos urbanos, rehabilitarlas y venderlas a un costo asequible para las y los j\u00f3venes puertorrique\u00f1os pertenecientes a la clase trabajadora; establecer sus requisitos; separar doscientos cincuenta millones de d\u00f3lares ($250,000,000) del Fondo de Reserva de Emergencia del Gobierno para viabilizar su implantaci\u00f3n; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-30T03:39:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159297",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-30T03:39:35Z"
+  }
+}

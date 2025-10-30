@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0237",
-  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n, Telecomunicaciones, Servicios P\u00fablicos y Asuntos del Consumidor del Senado de Puerto Rico, realizar un estudio sobre el aparente aumento desmedido de veh\u00edculos de motor abandonados en el estacionamiento p\u00fablico del Aeropuerto Internacional Luis Mu\u00f1oz Mar\u00edn, afectando adversamente la capacidad del espacio y las operaciones del estacionamiento, lo que conlleva alzas significativas en los costos de manejo de la instalaci\u00f3n; as\u00ed como identificar y elaborar los estatutos necesarios, para acelerar la adecuada disposici\u00f3n de estos veh\u00edculos de motor, en beneficio de los usuarios de este estacionamiento; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n, Telecomunicaciones, Servicios P\u00fablicos y Asuntos del Consumidor del Senado de Puerto Rico, realizar un estudio sobre el aparente aumento desmedido de veh\u00edculos de motor abandonados en el estacionamiento p\u00fablico del Aeropuerto Internacional Luis Mu\u00f1oz Mar\u00edn, afectando adversamente la capacidad  de espacio y las operaciones del estacionamiento, lo que conlleva alzas significativas en los costos de manejo de la instalaci\u00f3n; as\u00ed como identificar y elaborar los estatutos necesarios para acelerar la adecuada disposici\u00f3n de estos veh\u00edculos , en beneficio de los usuarios de este estacionamiento.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -134,6 +134,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:51Z"
       }
+    },
+    {
+      "description": "Inspecci\u00f3n Ocular: Aeropuerto Luis Mu\u00f1oz Mar\u00edn",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-30T03:39:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,6 +201,17 @@
       ],
       "date": "2025-10-14",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156540/rs0237a-25.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -209,7 +230,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:51Z",
+    "logs_latest_update": "2025-10-30T03:39:35Z",
     "text_extraction_latest_update": "2025-10-27T09:14:12.519742Z"
   }
 }

@@ -1,0 +1,57 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0954",
+  "title": "Para enmendar el inciso (1) del apartado (c) de la Secci\u00f3n 4050.06 y el inciso (2) del apartado (a) de la Secci\u00f3n 4050.07 de la Ley 1-2011, seg\u00fan enmendada, conocida como el \u201cC\u00f3digo de Rentas Internas de Puerto Rico 2011\u201d, as\u00ed como el inciso (a) del Art\u00edculo 7.298 y el inciso (1) del apartado (a) del Art\u00edculo 7.299 del C\u00f3digo Municipal de Puerto Rico, Ley 107-2020, seg\u00fan enmendada, a los fines de trasferir un cincuenta por ciento (50%) anual de los recaudos por impuesto sobre ventas despachadas por correo, que incluye los recaudos por venta de internet, al Fondo de Desarrollo Municipal para que los municipios de Puerto Rico puedan obtener los recursos adecuados para la realizaci\u00f3n de obras, gastos de operaci\u00f3n y administrativos, brindar servicios a sus constituyentes, entre otros asuntos, seg\u00fan dispuesto en las normas y reglamentaci\u00f3n sobre el uso de dicho fondo; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-30T03:39:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ram\u00f3n  A. Torres Cruz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ram\\u00f3n  A. Torres Cruz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159298",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-30T03:39:35Z"
+  }
+}
