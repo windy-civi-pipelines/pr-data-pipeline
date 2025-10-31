@@ -316,6 +316,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Veto Expreso",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -469,6 +491,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Veto Expreso",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154292/PC420 Veto Expreso.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -487,7 +520,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-10-31T03:38:29Z",
     "text_extraction_latest_update": "2025-10-27T09:42:06.065598Z"
   }
 }

@@ -56,23 +56,47 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:55Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Remitido a Comisi\u00f3n de Calendarios de la C\u00e1mara",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Estrella   Mart\u00ednez Soto - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Estrella   Mart\\u00ednez Soto - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -87,6 +111,17 @@
         }
       ],
       "date": "2025-03-25",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154467/PC0455-i.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-30",
       "classification": ""
     }
   ],
@@ -106,6 +141,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z"
+    "logs_latest_update": "2025-10-31T03:38:29Z"
   }
 }

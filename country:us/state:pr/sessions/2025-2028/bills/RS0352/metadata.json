@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0352",
+  "title": "\u201cPara enmendar la Secci\u00f3n 3 de la R. del S. 264, que ordena a la Comisi\u00f3n de Turismo, Recursos\nNaturales y Ambientales del Senado de Puerto Rico a realizar una investigaci\u00f3n exhaustiva en torno\na la asignaci\u00f3n de 36.3 millones de d\u00f3lares de la Agencia Federal para el Manejo de Emergencias\n(FEMA) al Municipio de Arecibo para la construcci\u00f3n de dos rompeolas en la zona costera de la\nAvenida Atl\u00e1ntico, evaluar el estado de ejecuci\u00f3n del proyecto y las gestiones municipales para\nasegurar la utilizaci\u00f3n efectiva de los recursos antes de su fecha de expiraci\u00f3n; y para otros fines\nrelacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado conforme a la Regla 18.3",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marissa   Jim\u00e9nez Santoni - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Marissa   Jim\\u00e9nez Santoni - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159304/rs0352-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado conforme a la Regla 18.3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159304/MeasuresAndVotes-15.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159304",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-31T03:38:29Z"
+  }
+}

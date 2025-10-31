@@ -248,23 +248,43 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:52Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "\u00c1ngel  Morey Noble - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel  Morey Noble - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -357,6 +377,28 @@
       ],
       "date": "2025-10-14",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152782/PC0143 Conc. Vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152782/PC0143 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -375,7 +417,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:52Z",
+    "logs_latest_update": "2025-10-31T03:38:29Z",
     "text_extraction_latest_update": "2025-10-27T09:00:42.232984Z"
   }
 }

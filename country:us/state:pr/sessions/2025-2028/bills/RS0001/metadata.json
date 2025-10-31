@@ -189,24 +189,34 @@
     },
     {
       "description": "2do Informe Conjunto Parcial rendido",
-      "date": "2025-10-27T04:00:00+00:00",
+      "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "amendment-amendment"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-28T03:49:10Z"
+        "log_file_created": "2025-10-31T03:38:29Z"
       }
     },
     {
       "description": "Informe Parcial Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
-      "date": "2025-10-27T04:00:00+00:00",
+      "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-28T03:49:10Z"
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
       }
     }
   ],
@@ -298,6 +308,17 @@
       ],
       "date": "2025-08-25",
       "classification": ""
+    },
+    {
+      "note": "2do Informe Conjunto Parcial rendido",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152473/rs0001-lnf (2do parcial).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -316,7 +337,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-10-31T03:38:29Z",
     "text_extraction_latest_update": "2025-10-28T08:48:11.993697Z"
   }
 }

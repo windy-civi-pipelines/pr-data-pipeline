@@ -90,6 +90,16 @@
       "_processing": {
         "log_file_created": "2025-10-30T03:39:35Z"
       }
+    },
+    {
+      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en la C\u00e1mara",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-31T03:38:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -154,6 +164,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-30T03:39:35Z"
+    "logs_latest_update": "2025-10-31T03:38:29Z"
   }
 }
