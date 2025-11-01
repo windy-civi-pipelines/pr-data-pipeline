@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0121",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas y la Autoridad de Carreteras y Transportaci\u00f3n a que se proceda con el debido proceso de renombre de la v\u00eda p\u00fablica desde la intersecci\u00f3n de la carretera PR-107 con la carretera PR-111; luego Calle Agust\u00edn Stahl; y el Paseo Real Marina, compuesto por la carretera PR-440; la carretera PR-4442, la PR-442 y el Paseo Crist\u00f3bal Col\u00f3n dentro de la jurisdicci\u00f3n del Municipio de Aguadilla; y para otros fines relacionados.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas y a la Autoridad de Carreteras y Transportaci\u00f3n, a que procedan con la debida rotulaci\u00f3n de la intersecci\u00f3n de la carretera PR-107 con la carretera PR-111; luego Calle Agust\u00edn Stahl; y el Paseo Real Marina, compuesto por la carretera PR-440; la carretera PR- 4442, la carretera PR-442 y el Paseo Crist\u00f3bal Col\u00f3n dentro de la jurisdicci\u00f3n del Municipio de Aguadilla, con el nombre de \"Carlos M\u00e9ndez Mart\u00ednez\", a tenor con lo ordenado en la Ley 97-2020, conocida como \"Ley Carlos M\u00e9ndez Mart\u00ednez\".",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -276,6 +276,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:51Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  39-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -399,6 +419,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  39-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155513/Res. Conj. 39-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -417,7 +448,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:51Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:40:55.364818Z"
   }
 }

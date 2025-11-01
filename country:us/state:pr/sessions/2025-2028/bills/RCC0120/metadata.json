@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0120",
-  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, la Autoridad de Carreteras y Transportaci\u00f3n y al Municipio de Moca a que se proceda con las medidas necesarias para la rotulaci\u00f3n correspondiente para designar con el nombre de \u201cV\u00edctor Ra\u00fal Hern\u00e1ndez Nieves\u201d el tramo de la Carretera PR-420 que discurre por el barrio Voladoras del Municipio de Moca; y para otros fines relacionados.",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, a la Autoridad de\nCarreteras y Transportaci\u00f3n y al Municipio de Moca, que procedan a cumplir con las directrices impartidas a trav\u00e9s de la Res. Conj. 59-2024, relativas a la rotulaci\u00f3n con el nombre de \"V\u00edctor Ra\u00fal Hern\u00e1ndez Nieves\", del tramo de la Carretera PR- 420 que discurre por el barrio Voladoras del Municipio de Moca; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -274,6 +274,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  38-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -397,6 +417,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  38-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155512/Res. Conj. 38-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -415,7 +446,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:11:35.172565Z"
   }
 }

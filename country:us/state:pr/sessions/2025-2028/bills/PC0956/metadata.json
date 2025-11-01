@@ -1,0 +1,65 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0956",
+  "title": "Para enmendar los Art\u00edculos 21, 22 y 27 de la Ley 42-2017, seg\u00fan enmendada, conocida como la \u201cLey para la Implantaci\u00f3n del Plan para la Reorganizaci\u00f3n de la Industria del Cannabis Medicinal de Puerto Rico\u201d; a los fines de disponer que una fracci\u00f3n de los fondos recaudados bajo dicha Ley se destinar\u00e1 al Fideicomiso para el Retiro de la Polic\u00eda; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "F\u00e9lix E. Pacheco  Burgos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"F\\u00e9lix E. Pacheco  Burgos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159318",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-01T03:31:20Z"
+  }
+}

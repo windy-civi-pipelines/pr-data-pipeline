@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0066",
-  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por la Ley 26-2017, seg\u00fan enmendada, mejor conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d, evaluar conforme a las disposiciones de la Ley y el reglamento, la transferencia o traspaso de t\u00edtulo al Municipio de Lo\u00edza, la antigua Escuela Superior Carlos Escobar L\u00f3pez, localizada en la Calle A Final de la Urbanizaci\u00f3n Santiago, en Lo\u00edza, Puerto Rico, a los fines de desarrollar proyectos de impacto social y brindar servicios p\u00fablicos que redunden en el desarrollo y bienestar de las comunidades circundantes; y para otros fines relacionados.",
+  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por la Ley 26-2017, seg\u00fan enmendada, conocida como \"Ley de Cumplimiento con el Plan Fiscal\", evaluar conforme a las disposiciones  de  la Ley y el reglamento, la transferencia o traspaso de t\u00edtulo de la antigua Escuela Superior Carlos Escobar L\u00f3pez, localizada en la Calle A Final de la Urbanizaci\u00f3n Santiago, en Lo\u00edza, Puerto Rico, al Municipio de Lo\u00edza, a los fines de desarrollar proyectos de impacto social y brindar servicios  p\u00fablicos que  redunden en el desarrollo  y bienestar de las comunidades circundantes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -266,6 +266,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  36-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -389,6 +409,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  36-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153910/Res. Conj. 36-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -407,7 +438,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:03:46.200467Z"
   }
 }

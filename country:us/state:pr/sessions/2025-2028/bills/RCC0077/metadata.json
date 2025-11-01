@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0077",
-  "title": "Para ordenar a la Autoridad de Edificios P\u00fablicos, al Departamento de Seguridad P\u00fablica o cualquier otra agencia, instrumentalidad o corporaci\u00f3n p\u00fablica del Gobierno de Puerto Rico que surja como titular, transferir al Municipio de Cabo Rojo por el precio nominal de un d\u00f3lar ($1.00) el terreno y la estructura que comprende el antiguo cuartel de la polic\u00eda estatal del barrio Boquer\u00f3n de Cabo Rojo, con el fin de utilizarlo para establecer diversos proyectos de desarrollo econ\u00f3mico, educativos, comunitarios, tur\u00edsticos y deportivos, as\u00ed como otros proyectos que sea de beneficio para la ciudadan\u00eda en general.",
+  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por virtud de la Ley 26-2017, seg\u00fan enmendada, conocida como \"Ley de Cumplimiento con el Plan Fiscal\", evaluar la transferencia al Municipio de Cabo Rojo, mediante los mecanismos contemplados en dicha Ley, del terreno y la estructura que comprende el antiguo cuartel de la polic\u00eda estatal del barrio Boquer\u00f3n de Cabo Rojo, con el fin de utilizarlo para establecer diversos proyectos de desarrollo econ\u00f3mico, educativos, comunitarios, tur\u00edsticos y deportivos, as\u00ed como otros proyectos que sea de beneficio para la ciudadan\u00eda en general.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -232,6 +232,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  37-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -333,6 +353,17 @@
       ],
       "date": "2025-10-01",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  37-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154175/Res. Conj. 37-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -351,7 +382,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T08:56:45.665449Z"
   }
 }

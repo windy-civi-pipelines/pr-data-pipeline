@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0580",
-  "title": "Para a\u00f1adir un nuevo inciso (t) al Art\u00edculo 66 de la Ley N\u00fam. 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d a los fines de incluir como circunstancia agravante a la pena cuando el delito se comete contra un funcionario del orden p\u00fablico mientras estaba en el cumplimiento de sus deberes; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo inciso (t) al Art\u00edculo 66 de la Ley N\u00fam.146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de Puerto Rico\" a los fines de incluir como circunstancia agravante a la pena cuando el delito se comete contra un funcionario del orden p\u00fablico mientras estaba en el cumplimiento de sus deberes; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -220,23 +220,43 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Ley 120-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "F\u00e9lix E. Pacheco  Burgos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"F\\u00e9lix E. Pacheco  Burgos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -318,6 +338,17 @@
       ],
       "date": "2025-09-22",
       "classification": ""
+    },
+    {
+      "note": "Ley 120-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155540/Ley 120-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -336,7 +367,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:21:11.058117Z"
   }
 }

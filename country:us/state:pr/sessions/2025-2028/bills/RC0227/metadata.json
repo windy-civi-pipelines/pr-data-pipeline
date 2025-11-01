@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0227",
-  "title": "Para ordenar a la Autoridad Metropolitana de Autobuses a realizar un abarcador estudio sobre la viabilidad de establecer un programa adicional de paradas de autobuses en zonas donde se ubican centros de cuidado, al igual que complejos de vivienda, para adultos mayores en la jurisdicci\u00f3n del municipio de San Juan, y para otros fines.",
+  "title": "Para ordenar a la Comisi\u00f3n de Adultos Mayores y Bienestar Social de la C\u00e1mara de Representantes de Puerto Rico, realizar un estudio abarcador sobre la viabilidad de establecer un programa adicional de paradas de autobuses en zonas donde se ubican centros de cuidado, al igual que complejos de vivienda, para adultos mayores en la jurisdicci\u00f3n del Municipio de San Juan; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -134,6 +134,18 @@
       "_processing": {
         "log_file_created": "2025-10-31T03:38:29Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -188,6 +200,17 @@
       ],
       "date": "2025-10-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154609/RC0227-ta.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -206,6 +229,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T03:38:29Z"
+    "logs_latest_update": "2025-11-01T03:31:20Z"
   }
 }

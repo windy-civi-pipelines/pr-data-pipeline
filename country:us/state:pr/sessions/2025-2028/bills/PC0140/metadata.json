@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0140",
-  "title": "Para derogar la Ley N\u00fam. 312 de 13 de mayo de 1949, seg\u00fan enmendada, mediante la cual se autoriz\u00f3 a la otrora figura del Inspector de Cooperativas a que examinara e investigara las cuentas, libros, acuerdos, transacciones, propiedades, contratos, fondos, inversiones y cualesquiera otras materias y actividades relacionadas con la situaci\u00f3n econ\u00f3mica y funcionamiento de las cooperativas, por haberse convertido esta Ley, en una obsoleta e inoficiosa.",
+  "title": "Para derogar la Ley N\u00fam. 312 de 13 de mayo de 1949, seg\u00fan enmendada, mediante la cual se autoriz\u00f3 a la otrora figura del Inspector de Cooperativas a que examinara e investigara las cuentas, libros, acuerdos, transacciones, propiedades, contratos, fondos, inversiones y cualesquiera otras materias y actividades relacionadas con la situaci\u00f3n econ\u00f3mica y funcionamiento de las cooperativas.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -266,6 +266,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Ley 119-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -378,6 +398,17 @@
       ],
       "date": "2025-10-01",
       "classification": ""
+    },
+    {
+      "note": "Ley 119-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152779/Ley 119-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -396,7 +427,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:22:58.341115Z"
   }
 }

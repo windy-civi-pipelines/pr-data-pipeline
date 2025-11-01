@@ -1,0 +1,57 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCC0238",
+  "title": "Para ordenar al Departamento de Educaci\u00f3n de Puerto Rico y la Autoridad de Edificios P\u00fablicos atender de inmediato la construcci\u00f3n de la cancha bajo techo de la Escuela Intermedia Jardines de Ponce en dicho municipio por representar un peligro inminente para toda la comunidad escolar; evaluar la construcci\u00f3n de un muro de contenci\u00f3n debido a los deslizamientos de terreno que ponen en peligro la perdida de infraestructura del plantel escolar; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Domingo  J. Torres Garc\u00eda - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Domingo  J. Torres Garc\\u00eda - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159321",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-01T03:31:20Z"
+  }
+}

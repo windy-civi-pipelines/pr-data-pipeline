@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0297",
-  "title": "Para establecer la \u201cLey para establecer protocolo de manejo de casos de abortos en menores de quince a\u00f1os o menos en Puerto Rico\u201d con el prop\u00f3sito de para requerir la intervenci\u00f3n de la implementaci\u00f3n de un protocolo para el manejo de casos de menores de quince a\u00f1os o menos que est\u00e9n embarazadas y acudan a un m\u00e9dico para efectuarse un aborto, as\u00ed como para requerir que en estos casos al menos uno de los padres que ostente la patria potestad o del custodio legal de una menor de dieciocho a\u00f1os edad al momento de consentir tenga que otorgar su consentimiento informado por escrito previo a que se lleve a cabo el aborto a realizarse un aborto en Puerto Rico\u201d; y para otros fines relacionados.",
+  "title": "Para establecer  la \"Ley para establecer  un  protocolo  de  manejo de casos de terminaciones de embarazos en menores de quince (15) a\u00f1os o menos en Puerto Rico\" con el prop\u00f3sito de requerir la intervenci\u00f3n de la implementaci\u00f3n de un protocolo para el manejo de casos de menores de quince a\u00f1os o menos que est\u00e9n embarazadas y acudan a un m\u00e9dico para terminar su embarazo conforme al estado de derecho vigente, as\u00ed como para requerir que en estos casos al menos uno de los padres que ostente la patria potestad o quien sea el custodio legal de la menor tenga que otorgar su consentimiento informado por escrito previo a que se termine el embarazo en Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -255,22 +255,32 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2025-10-23T04:00:00+00:00",
+      "date": "2025-10-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:28:51Z"
+        "log_file_created": "2025-11-01T03:31:20Z"
       }
     },
     {
       "description": "Enviado a la Gobernadora",
-      "date": "2025-10-23T04:00:00+00:00",
+      "date": "2025-10-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:28:51Z"
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Ley 122-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
       }
     }
   ],
@@ -373,6 +383,17 @@
       ],
       "date": "2025-10-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 122-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153505/Ley 122-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -391,7 +412,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:51Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T09:37:37.869544Z"
   }
 }

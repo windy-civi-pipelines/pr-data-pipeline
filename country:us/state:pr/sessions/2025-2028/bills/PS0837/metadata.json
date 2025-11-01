@@ -1,0 +1,69 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0837",
+  "title": "Para a\u00f1adir un nuevo inciso (j) al Art\u00edculo 4, un nuevo inciso (k) al Art\u00edculo 11, un nuevo inciso (n) al Art\u00edculo 37 y enmendar el Art\u00edculo 9 de la Ley N\u00fam. 173-1988, seg\u00fan enmendada, conocida como \"Ley de la Junta Examinadora de Ingenieros, Arquitectos, Agrimensores y Arquitectos Paisajistas de Puerto Rico\", con el fin de establecer una v\u00eda alterna de licenciamiento por experiencia profesional para ingenieros y agrimensores; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159334/ps0837-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-31",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159334",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-01T03:31:20Z"
+  }
+}

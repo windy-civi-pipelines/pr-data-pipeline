@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0454",
-  "title": "Para ordenar a la Comisi\u00f3n de Asuntos del Consumidor de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre los procesos de subastas de unidades residenciales repose\u00eddas, ofrecidas por distintas plataformas digitales, los procedimientos utilizados y las salvaguardas que se ofrecen a los consumidores puertorrique\u00f1os; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Asuntos del Consumidor de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n sobre los procesos de subasta de unidades residenciales repose\u00eddas, ofrecidas mediante plataformas digitales, los procedimientos aplicables y las salvaguardas disponibles para los consumidores en Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2025-10-31T03:38:29Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-10-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +190,17 @@
       ],
       "date": "2025-10-22",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158762/RC0454-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-30",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -196,6 +219,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T03:38:29Z"
+    "logs_latest_update": "2025-11-01T03:31:20Z"
   }
 }

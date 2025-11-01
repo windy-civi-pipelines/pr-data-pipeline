@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0581",
-  "title": "Para enmendar el Art\u00edculo 109 de la Ley N\u00fam. 146-2012, seg\u00fan enmendada, conocida como \u201cC\u00f3digo Penal de Puerto Rico\u201d a los fines de incluir como delito grave, con pena de reclusi\u00f3n de cinco (5) a\u00f1os, la agresi\u00f3n que se comete contra un funcionario del orden p\u00fablico mientras este est\u00e1 en el cumplimiento de sus deberes; y para otros fines relacionados.",
+  "title": "Para enmendar el Art\u00edculo 108 de la Ley 146-2012, seg\u00fan enmendada, conocida como \"C\u00f3digo Penal de \nPuerto Rico\", a los fines de incluir como delito grave, con pena de reclusi\u00f3n de cinco (5) a\u00f1os, la \nagresi\u00f3n que se comete contra un funcionario del orden p\u00fablico mientras este est\u00e1 en el \ncumplimiento de sus deberes; y para oh\u00b7os fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -306,6 +306,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:52Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
+    },
+    {
+      "description": "Ley 121-2025",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-01T03:31:20Z"
+      }
     }
   ],
   "sponsorships": [
@@ -448,6 +468,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Ley 121-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155541/Ley 121-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-29",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -466,7 +497,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:52Z",
+    "logs_latest_update": "2025-11-01T03:31:20Z",
     "text_extraction_latest_update": "2025-10-27T10:32:23.058812Z"
   }
 }
