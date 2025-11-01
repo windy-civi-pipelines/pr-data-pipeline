@@ -1,0 +1,478 @@
+Title: Para enmendar el Artículo 1.02, 2.16, 3.05, 4.01, 4.03, 4.04 y 6.10 de la Ley 168-2019,
+Official Title: Para enmendar el Artículo 1.02, 2.16, 3.05, 4.01, 4.03, 4.04 y 6.10 de la Ley 168-2019,
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 835
+30 de octubre de 2025
+Presentado por el señor Ríos Santiago
+Referido a la
+LEY
+conocida como “Ley de Armas de Puerto Rico de 2020”, a los fines de autorizar el uso
+limitado de los supresores de sonido exclusivamente en las armerías con polígonos
+de tiro debidamente autorizados, como medida de protección auditiva y de salud
+ocupacional; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El deporte del tiro ha ocupado un lugar importante en Puerto Rico, no solo como
+actividad recreativa y deportiva, sino también como disciplina de precisión y
+responsabilidad ciudadana. Miles de personas participan cada año en los polígonos
+autorizados, los cuales están diseñados para garantizar seguridad, supervisión y
+cumplimiento estricto con la Ley de Armas de Puerto Rico. Sin embargo, quienes
+practican este deporte están expuestos a niveles de ruido extremos que representan un
+riesgo considerable para la salud auditiva. Ante esta realidad, se hace necesario
+considerar medidas que reduzcan estos riesgos sin menoscabar la seguridad pública.
+Actualmente, la Ley de Armas de Puerto Rico de 2020, en su Artículo 2.16, prohíbe de
+manera absoluta a civiles la fabricación o hacer fabricar, ofrecer, vender, alquilar, prestar,
+poseer, usar, traspasar, o importar un supresores de sonido. Esta prohibición, aunque
+2
+concebida para evitar un posible uso indebido, no toma en cuenta el valor de estos
+dispositivos en contextos regulados, como los polígonos de tiro, donde podrían servir
+como herramienta de protección auditiva y salud ocupacional. La medida que aquí se
+propone busca enmendar esa disposición para crear una excepción limitada que permita
+el uso de supresores en los polígonos.
+La exposición prolongada al ruido de armas de fuego constituye un riesgo bien
+documentado para la audición. Organizaciones como la Asociación Americana del Habla,
+Lenguaje y Audición (ASHA) han señalado que los disparos pueden generar niveles de
+presión sonora que oscilan entre 140 y 175 decibelios pico (dBP), con pistolas que
+alcanzan desde los 140 dBP y rifles de alto calibre que pueden superar los 175 dBP.1 Según
+la Administración de Seguridad y Salud Ocupacional (OSHA, por sus siglas en inglés) y
+el Instituto Nacional para la Seguridad y Salud Ocupacional (NIOSH, por sus siglas en
+inglés), cualquier exposición por encima de los 140 dBP podría ocasionar daño coclear
+irreversible con tan solo un impacto. 2 La situación se agrava en los polígonos cerrados,
+donde las reverberaciones amplifican el efecto del disparo y aumentan la exposición
+acumulativa tanto de tiradores como de instructores, personal y espectadores. Distintos
+estudios han demostrado que alrededor de la mitad de los tiradores no utilizan
+protección auditiva de forma consistente, lo que incrementa el riesgo de daño
+permanente.
+En este contexto, los supresores de sonido constituyen una alternativa eficaz de
+mitigación. Si bien no eliminan por completo el riesgo auditivo, reducen la intensidad del
+disparo en un promedio de 17 a 26 decibelios. Esto significa que un disparo de 176 dB
+podría reducirse a aproximadamente 150 dB al usar munición de alta velocidad y hasta
+137 dB. Al combinarse con dispositivos de protección auditiva como: orejeras o tapones,
+la reducción es aún más significativa, lo que contribuye a disminuir la incidencia de
+daños permanentes en la salud auditiva. De hecho, ASHA ha respaldado la efectividad
+1 https://www.asha.org/public/hearing/recreational-firearm-noise-exposure/
+2 https://www.osha.gov/otm/section-3-health-hazards/chapter-5
+3
+de este enfoque combinado, recomendando particularmente el uso de protectores
+auditivos electrónicos que, además de bloquear impulsos dañinos, permiten la
+comunicación verbal entre participantes e instructores.
+Por estas razones, se propone la adopción de una excepción limitada en la legislación
+vigente. La autorización del uso de supresores en polígonos autorizados no responde a
+un interés de flexibilizar las restricciones de armas, sino a una necesidad de salud pública
+y seguridad ocupacional.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1.02 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 1.02. — Definiciones. (25 L.P.R.A. § 461a)
+4 Para los propósitos de esta Ley, término tendrá el significado que se dispone a
+5 continuación, salvo que del propio texto se desprenda otro significado:
+6 (ll) [“Silenciador de Arma de Fuego”] “Supresor de sonido” — es
+7 cualquier artefacto, dispositivo o mecanismo para silenciar, amortiguar o
+8 disminuir el sonido de un arma de fuego, incluyendo cualquier combinación
+9 de partes, diseñado, rediseñados o destinados para su uso en el montaje o la
+10 fabricación, y/o cualquier parte destinada sólo para el uso a tales propósitos.”
+11 …”
+12 Sección 2.- Se enmienda el Artículo 2.16 de la Ley 168-2019, conocida como “Ley
+13 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+4
+1 “Artículo 2.16. — Armas de Asalto Automáticas o Semiautomáticas y
+2 Ametralladoras, [Silenciador] Supresor de sonido, Fabricación, Importación,
+3 Distribución, Venta, Posesión y Transferencia.
+4 (a) No se podrá fabricar o hacer fabricar, ofrecer, vender, alquilar, prestar,
+5 poseer, usar, traspasar o importar un Arma de Asalto Semiautomática. No
+6 obstante, esta prohibición no será de aplicación a:
+7 …
+8 (b) Las Armas de Asalto Semiautomáticas a que se refiere este Artículo son las
+9 siguientes:
+10 (1) …
+11 …
+12 (10) …
+13 Además, será considerada como un arma de asalto semiautomática:
+14 …
+15 (2) Una pistola semiautomática que pueda ser alimentada mediante
+16 retroalimentación por un abastecedor o receptáculo removible y que contenga
+17 más de dos (2) de las siguientes características:
+18 (i) …
+19 (ii) un cañón con rosca en su punta delantera capaz de aceptar
+20 una extensión al cañón, supresor de fuego (flash suppressor),
+21 agarre para la mano al frente del arma o un [silenciador]
+22 supresor de sonido;
+5
+1 (3) …
+2 (c) No se podrá fabricar o hacer fabricar, ofrecer, vender, alquilar, prestar,
+3 poseer, usar, traspasar, o importar un [silenciador] supresor de sonido según
+4 definido en esta Ley. No obstante, esta prohibición no será de aplicación al uso
+5 de supresores de sonido exclusivamente alquilados en las armerías con polígonos
+6 de tiro debidamente licenciados y regulados conforme a esta Ley. A manera de
+7 excepción, se permite a aquellas armerías que tienen polígono en sus facilidades a
+8 poder comprar, ofrecer alquiler, prestar, poseer o importar supresores de sonido
+9 para el uso exclusivo en sus polígonos.
+10 (1) El armero deberá establecer los mecanismos de seguridad para velar por el
+11 fiel cumplimiento de este Artículo:
+12 (i) Los supresores de sonido estarán permanentemente asignados a la
+13 armería con polígono y no podrán salir de las instalaciones bajo ninguna
+14 circunstancia, requiriéndose además que el usuario deje su identificación
+15 como garantía para su uso.
+16 (ii) El polígono deberá contar con un armero responsable del control,
+17 mantenimiento y registro de los supresores.
+18 (iii)Se mantendrá un registro diario firmado por el armero y el cliente, sujeto
+19 a inspecciones periódicas.
+20 (d) …
+21 …”
+6
+1 Sección 3.- Se enmienda el Artículo 3.05 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 3.05. — Uso de Polígonos por Personas sin Licencia de Armas. (25
+4 L.P.R.A. § 463d)
+5 Toda persona mayor de veintiún (21) años, que tenga y presente una
+6 identificación oficial con foto, podrá utilizar los polígonos sin necesidad de tener
+7 una licencia de armas vigente. Bajo ninguna circunstancia, se puede entender que
+8 una persona sin licencia de armas pueda poseer, portar, o transportar un arma de
+9 fuego y esto será una violación al Artículo 6.05 de esta Ley.
+10 Se autoriza a los armeros que tienen polígonos en sus facilidades, a que puedan
+11 alquilar armas de fuego, supresores de sonido y vender las correspondientes
+12 municiones, para el uso exclusivo en sus polígonos, a toda persona mayor de
+13 veintiún (21) años, que tenga y presente una identificación oficial con foto. Bajo
+14 ninguna circunstancia se permite que dichas armas de fuego, supresores de sonido y
+15 municiones sean retiradas del polígono por una persona sin licencia de armas. El
+16 armero deberá establecer los mecanismos de seguridad para velar por el fiel
+17 cumplimiento de este Artículo. Cualquier desviación por parte del armero a lo
+18 aquí dispuesto, será una violación al Artículo 6.03 “Prohibición a la Venta de
+19 Armas de Fuego a Personas sin Licencia” y por parte de la persona sin licencia
+20 será una violación al Artículo 6.05 de esta Ley.
+21 …’’
+7
+1 Sección 4.- Se enmienda el Artículo 4.01 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 4.01. — Licencia de Armero; Informes de Transacciones. (25 L.P.R.A. §
+4 464)
+5 (a) …
+6 (b) Toda transacción de armas de fuego, supresores de sonido y/o municiones
+7 realizada por un armero deberá ser inscrita en el Registro Electrónico. El
+8 Comisionado establecerá por reglamento, el procedimiento a seguir, en casos
+9 de fuerza mayor o que por razones no atribuibles al armero, este no tenga
+10 acceso al Registro Electrónico. Independientemente, el armero deberá
+11 actualizar la información a la mayor brevedad posible.
+12 …”
+13 Sección 5.- Se enmienda el Artículo 4.03 de la Ley 168-2019, conocida como “Ley
+14 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+15 “Artículo 4.03. — Condiciones para Operaciones de Armeros; Constancias de
+16 Transacciones. (25 L.P.R.A. § 464b)
+17 Una persona, natural o jurídica, a la cual se le hubiera expedido una licencia de
+18 armero podrá dedicarse a la venta de armas, municiones y de contar con un polígono de
+19 tiro en las facilidades podrán alquilar supresores de sonido para uso en el mismo, o al negocio
+20 de armero bajo las siguientes condiciones:
+21 (a) …
+8
+1 (b) toda transacción de armas de fuego, supresores de sonido y/o municiones será
+2 anotada en el libro que para esos fines mantendrá el armero y notificada al
+3 Registro Electrónico. Todo Armero al que se le haya expedido una licencia
+4 bajo las disposiciones de este Capítulo, que deje de llevar las constancias y
+5 libros que aquí se exigen, incurrirá en delito menos grave, y convicto que
+6 fuere, se impondrá una pena de reclusión de seis (6) meses y una multa de
+7 cinco mil (5,000) dólares;
+8 …”
+9 Sección 6.- Se enmienda el Artículo 4.04 de la Ley 168-2019, conocida como “Ley
+10 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+11 “Artículo 4.04. — Almacenamiento y Custodia de Armas de Fuego. (25 L.P.R.A. §
+12 464c)
+13 Todo armero vendrá obligado a implementar las medidas de seguridad exigidas
+14 por esta Ley o por Reglamento para el almacenamiento o custodia de las armas de
+15 fuego, supresores de sonido y municiones. El Negociado de la Policía examinará cada
+16 seis (6) meses los locales de los armeros; a menos que exista motivos fundados o
+17 alguna querella radicada en donde podrán examinar el local sin tener que respetar el
+18 término anteriormente dispuesto, a los fines de:
+19 (a) realizar un inventario de las armas, supresores de sonido y municiones y
+20 comparar el mismo con el Registro Electrónico;
+21 (b) …
+22 (c) …
+9
+1 De no cumplir con las medidas de seguridad exigidas, la persona con licencia
+2 de armero tendrá treinta (30) días para cumplir con las mismas o de lo contrario,
+3 deberá depositar las armas, supresores de sonido y municiones que posea para la
+4 venta, para su almacenamiento y custodia en la bóveda de otro armero o en el
+5 Depósito de Armas y Municiones del Negociado de la Policía de Puerto Rico,
+6 dentro del término que determine el Comisionado, en lo que corrigen la
+7 deficiencia.
+8 …”
+9 Sección 7.- Se enmienda el Artículo 6.10 de la Ley 168-2019, conocida como “Ley
+10 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+11 “Artículo 6.10. — Posesión o Venta de Accesorios para Silenciar. (25 L.P.R.A. §
+12 466i)
+13 Toda persona que tenga en su posesión, venda, tenga para la venta, preste,
+14 ofrezca, entregue o disponga de cualquier instrumento, dispositivo, artefacto o
+15 accesorio que silencie o reduzca el ruido del disparo de cualquier arma de fuego,
+16 incurrirá en delito grave, y convicta que fuere, será sancionada con pena de
+17 reclusión por un término fijo de doce (12) años, sin derecho a sentencia
+18 suspendida, o a disfrutar de los beneficios de algún programa de desvío, o a
+19 cualquier alternativa a la reclusión reconocida en esta jurisdicción. De mediar
+20 circunstancias agravantes, la pena fija establecida podrá ser aumentada hasta un
+21 máximo de veinticuatro (24) años; de mediar circunstancias atenuantes, podrá ser
+22 reducida hasta un mínimo de seis (6) años. Sin embargo, no constituirá delito el
+10
+1 alquiler de supresores de sonido en las armerías con polígonos que cuenten con la debida
+2 licencia y regulación conforme a esta Ley.”
+3 Sección 8.- Vigencia
+4 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+[DELETED: 0 A 2S.dL   e e A 1 2 3 4 4 4 y 6 d l L 1 r y d s t c d d p y c M d p p c a e l p l c e d p g s s y e c l L d A d P R S e q c p l s a A e r s h n]
+[DELETED:  p e u p u i n t e c e v d e e p a r d a d f c u r b s q o e 1 y 1 d p ( c p q.    l r a e e d d a l e h d q a d l m d l t n u a d f c l q i e r d d e c l s d s c u a e d]
+[DELETED:  e e c r p e u d p e q a d b i d p l  “” — e d A d F S d s a d o m p s a o]
+[DELETED:  2 — A d A A o S y , F I  S d s)N)L)… A U p s q p s a m)…)  p l m a f d a o u  s]
+[DELETED: )…)N    s N d d e p p ()E f ()L s d s e p a a l a c c ()E p d c c u a r d c m ( a)…]
+[DELETED:  p m d v ( a q t y p u a d f  y v l c s d s ,ss  d e l m d s p v p e f d s u v a A 6 “ a l V d]
+[DELETED: )…)T t d a d f  y m s d s p u a d s i e e R E E a R E I e a d 4 — C p O d A C d y t)…]
+[DELETED: )t   s   s ( m l l d l a a q e m f o)r u i d l a y m y s d s)…)…]
+[DELETED:    s d t q d e C e l q c l e d g y c q f s s c p d p u t f d d ( a s d a s o a d d l b d a p d d o a a a l r r e e j D m h u m d s ( a S e n c d e]
+[DELETED:  a l]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20ma. Asamblea 2da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 835
+30 de octubre de 2025
+Presentado por el señor Ríos Santiago
+Referido a la
+LEY
+Para enmendar el Artículo 1.02, 2.16, 3.05, 4.01, 4.03, 4.04 y 6.10 de la Ley 168-2019,
+conocida como “Ley de Armas de Puerto Rico de 2020”, a los fines de autorizar el uso
+limitado de los supresores de sonido exclusivamente en las armerías con polígonos
+de tiro debidamente autorizados, como medida de protección auditiva y de salud
+ocupacional; y para otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+El deporte del tiro ha ocupado un lugar importante en Puerto Rico, no solo como
+actividad recreativa y deportiva, sino también como disciplina de precisión y
+responsabilidad ciudadana. Miles de personas participan cada año en los polígonos
+autorizados, los cuales están diseñados para garantizar seguridad, supervisión y
+cumplimiento estricto con la Ley de Armas de Puerto Rico. Sin embargo, quienes
+practican este deporte están expuestos a niveles de ruido extremos que representan un
+riesgo considerable para la salud auditiva. Ante esta realidad, se hace necesario
+considerar medidas que reduzcan estos riesgos sin menoscabar la seguridad pública.
+Actualmente, la Ley de Armas de Puerto Rico de 2020, en su Artículo 2.16, prohíbe de
+manera absoluta a civiles la fabricación o hacer fabricar, ofrecer, vender, alquilar, prestar,
+poseer, usar, traspasar, o importar un supresores de sonido. Esta prohibición, aunque
+
+2
+concebida para evitar un posible uso indebido, no toma en cuenta el valor de estos
+dispositivos en contextos regulados, como los polígonos de tiro, donde podrían servir
+como herramienta de protección auditiva y salud ocupacional. La medida que aquí se
+propone busca enmendar esa disposición para crear una excepción limitada que permita
+el uso de supresores en los polígonos.
+La exposición prolongada al ruido de armas de fuego constituye un riesgo bien
+documentado para la audición. Organizaciones como la Asociación Americana del Habla,
+Lenguaje y Audición (ASHA) han señalado que los disparos pueden generar niveles de
+presión sonora que oscilan entre 140 y 175 decibelios pico (dBP), con pistolas que
+alcanzan desde los 140 dBP y rifles de alto calibre que pueden superar los 175 dBP.1 Según
+la Administración de Seguridad y Salud Ocupacional (OSHA, por sus siglas en inglés) y
+el Instituto Nacional para la Seguridad y Salud Ocupacional (NIOSH, por sus siglas en
+inglés), cualquier exposición por encima de los 140 dBP podría ocasionar daño coclear
+irreversible con tan solo un impacto. 2 La situación se agrava en los polígonos cerrados,
+donde las reverberaciones amplifican el efecto del disparo y aumentan la exposición
+acumulativa tanto de tiradores como de instructores, personal y espectadores. Distintos
+estudios han demostrado que alrededor de la mitad de los tiradores no utilizan
+protección auditiva de forma consistente, lo que incrementa el riesgo de daño
+permanente.
+En este contexto, los supresores de sonido constituyen una alternativa eficaz de
+mitigación. Si bien no eliminan por completo el riesgo auditivo, reducen la intensidad del
+disparo en un promedio de 17 a 26 decibelios. Esto significa que un disparo de 176 dB
+podría reducirse a aproximadamente 150 dB al usar munición de alta velocidad y hasta
+137 dB. Al combinarse con dispositivos de protección auditiva como: orejeras o tapones,
+la reducción es aún más significativa, lo que contribuye a disminuir la incidencia de
+daños permanentes en la salud auditiva. De hecho, ASHA ha respaldado la efectividad
+1 https://www.asha.org/public/hearing/recreational-firearm-noise-exposure/
+2 https://www.osha.gov/otm/section-3-health-hazards/chapter-5
+
+3
+de este enfoque combinado, recomendando particularmente el uso de protectores
+auditivos electrónicos que, además de bloquear impulsos dañinos, permiten la
+comunicación verbal entre participantes e instructores.
+Por estas razones, se propone la adopción de una excepción limitada en la legislación
+vigente. La autorización del uso de supresores en polígonos autorizados no responde a
+un interés de flexibilizar las restricciones de armas, sino a una necesidad de salud pública
+y seguridad ocupacional.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Sección 1.- Se enmienda el Artículo 1.02 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 1.02. — Definiciones. (25 L.P.R.A. § 461a)
+4 Para los propósitos de esta Ley, término tendrá el significado que se dispone a
+5 continuación, salvo que del propio texto se desprenda otro significado:
+6 (ll) [“Silenciador de Arma de Fuego”] “Supresor de sonido” — es
+7 cualquier artefacto, dispositivo o mecanismo para silenciar, amortiguar o
+8 disminuir el sonido de un arma de fuego, incluyendo cualquier combinación
+9 de partes, diseñado, rediseñados o destinados para su uso en el montaje o la
+10 fabricación, y/o cualquier parte destinada sólo para el uso a tales propósitos.”
+11 …”
+12 Sección 2.- Se enmienda el Artículo 2.16 de la Ley 168-2019, conocida como “Ley
+13 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+
+4
+1 “Artículo 2.16. — Armas de Asalto Automáticas o Semiautomáticas y
+2 Ametralladoras, [Silenciador] Supresor de sonido, Fabricación, Importación,
+3 Distribución, Venta, Posesión y Transferencia.
+4 (a) No se podrá fabricar o hacer fabricar, ofrecer, vender, alquilar, prestar,
+5 poseer, usar, traspasar o importar un Arma de Asalto Semiautomática. No
+6 obstante, esta prohibición no será de aplicación a:
+7 …
+8 (b) Las Armas de Asalto Semiautomáticas a que se refiere este Artículo son las
+9 siguientes:
+10 (1) …
+11 …
+12 (10) …
+13 Además, será considerada como un arma de asalto semiautomática:
+14 …
+15 (2) Una pistola semiautomática que pueda ser alimentada mediante
+16 retroalimentación por un abastecedor o receptáculo removible y que contenga
+17 más de dos (2) de las siguientes características:
+18 (i) …
+19 (ii) un cañón con rosca en su punta delantera capaz de aceptar
+20 una extensión al cañón, supresor de fuego (flash suppressor),
+21 agarre para la mano al frente del arma o un [silenciador]
+22 supresor de sonido;
+
+5
+1 (3) …
+2 (c) No se podrá fabricar o hacer fabricar, ofrecer, vender, alquilar, prestar,
+3 poseer, usar, traspasar, o importar un [silenciador] supresor de sonido según
+4 definido en esta Ley. No obstante, esta prohibición no será de aplicación al uso
+5 de supresores de sonido exclusivamente alquilados en las armerías con polígonos
+6 de tiro debidamente licenciados y regulados conforme a esta Ley. A manera de
+7 excepción, se permite a aquellas armerías que tienen polígono en sus facilidades a
+8 poder comprar, ofrecer alquiler, prestar, poseer o importar supresores de sonido
+9 para el uso exclusivo en sus polígonos.
+10 (1) El armero deberá establecer los mecanismos de seguridad para velar por el
+11 fiel cumplimiento de este Artículo:
+12 (i) Los supresores de sonido estarán permanentemente asignados a la
+13 armería con polígono y no podrán salir de las instalaciones bajo ninguna
+14 circunstancia, requiriéndose además que el usuario deje su identificación
+15 como garantía para su uso.
+16 (ii) El polígono deberá contar con un armero responsable del control,
+17 mantenimiento y registro de los supresores.
+18 (iii)Se mantendrá un registro diario firmado por el armero y el cliente, sujeto
+19 a inspecciones periódicas.
+20 (d) …
+21 …”
+
+6
+1 Sección 3.- Se enmienda el Artículo 3.05 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 3.05. — Uso de Polígonos por Personas sin Licencia de Armas. (25
+4 L.P.R.A. § 463d)
+5 Toda persona mayor de veintiún (21) años, que tenga y presente una
+6 identificación oficial con foto, podrá utilizar los polígonos sin necesidad de tener
+7 una licencia de armas vigente. Bajo ninguna circunstancia, se puede entender que
+8 una persona sin licencia de armas pueda poseer, portar, o transportar un arma de
+9 fuego y esto será una violación al Artículo 6.05 de esta Ley.
+10 Se autoriza a los armeros que tienen polígonos en sus facilidades, a que puedan
+11 alquilar armas de fuego, supresores de sonido y vender las correspondientes
+12 municiones, para el uso exclusivo en sus polígonos, a toda persona mayor de
+13 veintiún (21) años, que tenga y presente una identificación oficial con foto. Bajo
+14 ninguna circunstancia se permite que dichas armas de fuego, supresores de sonido y
+15 municiones sean retiradas del polígono por una persona sin licencia de armas. El
+16 armero deberá establecer los mecanismos de seguridad para velar por el fiel
+17 cumplimiento de este Artículo. Cualquier desviación por parte del armero a lo
+18 aquí dispuesto, será una violación al Artículo 6.03 “Prohibición a la Venta de
+19 Armas de Fuego a Personas sin Licencia” y por parte de la persona sin licencia
+20 será una violación al Artículo 6.05 de esta Ley.
+21 …’’
+
+7
+1 Sección 4.- Se enmienda el Artículo 4.01 de la Ley 168-2019, conocida como “Ley
+2 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+3 “Artículo 4.01. — Licencia de Armero; Informes de Transacciones. (25 L.P.R.A. §
+4 464)
+5 (a) …
+6 (b) Toda transacción de armas de fuego, supresores de sonido y/o municiones
+7 realizada por un armero deberá ser inscrita en el Registro Electrónico. El
+8 Comisionado establecerá por reglamento, el procedimiento a seguir, en casos
+9 de fuerza mayor o que por razones no atribuibles al armero, este no tenga
+10 acceso al Registro Electrónico. Independientemente, el armero deberá
+11 actualizar la información a la mayor brevedad posible.
+12 …”
+13 Sección 5.- Se enmienda el Artículo 4.03 de la Ley 168-2019, conocida como “Ley
+14 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+15 “Artículo 4.03. — Condiciones para Operaciones de Armeros; Constancias de
+16 Transacciones. (25 L.P.R.A. § 464b)
+17 Una persona, natural o jurídica, a la cual se le hubiera expedido una licencia de
+18 armero podrá dedicarse a la venta de armas, municiones y de contar con un polígono de
+19 tiro en las facilidades podrán alquilar supresores de sonido para uso en el mismo, o al negocio
+20 de armero bajo las siguientes condiciones:
+21 (a) …
+
+8
+1 (b) toda transacción de armas de fuego, supresores de sonido y/o municiones será
+2 anotada en el libro que para esos fines mantendrá el armero y notificada al
+3 Registro Electrónico. Todo Armero al que se le haya expedido una licencia
+4 bajo las disposiciones de este Capítulo, que deje de llevar las constancias y
+5 libros que aquí se exigen, incurrirá en delito menos grave, y convicto que
+6 fuere, se impondrá una pena de reclusión de seis (6) meses y una multa de
+7 cinco mil (5,000) dólares;
+8 …”
+9 Sección 6.- Se enmienda el Artículo 4.04 de la Ley 168-2019, conocida como “Ley
+10 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+11 “Artículo 4.04. — Almacenamiento y Custodia de Armas de Fuego. (25 L.P.R.A. §
+12 464c)
+13 Todo armero vendrá obligado a implementar las medidas de seguridad exigidas
+14 por esta Ley o por Reglamento para el almacenamiento o custodia de las armas de
+15 fuego, supresores de sonido y municiones. El Negociado de la Policía examinará cada
+16 seis (6) meses los locales de los armeros; a menos que exista motivos fundados o
+17 alguna querella radicada en donde podrán examinar el local sin tener que respetar el
+18 término anteriormente dispuesto, a los fines de:
+19 (a) realizar un inventario de las armas, supresores de sonido y municiones y
+20 comparar el mismo con el Registro Electrónico;
+21 (b) …
+22 (c) …
+
+9
+1 De no cumplir con las medidas de seguridad exigidas, la persona con licencia
+2 de armero tendrá treinta (30) días para cumplir con las mismas o de lo contrario,
+3 deberá depositar las armas, supresores de sonido y municiones que posea para la
+4 venta, para su almacenamiento y custodia en la bóveda de otro armero o en el
+5 Depósito de Armas y Municiones del Negociado de la Policía de Puerto Rico,
+6 dentro del término que determine el Comisionado, en lo que corrigen la
+7 deficiencia.
+8 …”
+9 Sección 7.- Se enmienda el Artículo 6.10 de la Ley 168-2019, conocida como “Ley
+10 de Armas de Puerto Rico de 2020”, para que lea como sigue:
+11 “Artículo 6.10. — Posesión o Venta de Accesorios para Silenciar. (25 L.P.R.A. §
+12 466i)
+13 Toda persona que tenga en su posesión, venda, tenga para la venta, preste,
+14 ofrezca, entregue o disponga de cualquier instrumento, dispositivo, artefacto o
+15 accesorio que silencie o reduzca el ruido del disparo de cualquier arma de fuego,
+16 incurrirá en delito grave, y convicta que fuere, será sancionada con pena de
+17 reclusión por un término fijo de doce (12) años, sin derecho a sentencia
+18 suspendida, o a disfrutar de los beneficios de algún programa de desvío, o a
+19 cualquier alternativa a la reclusión reconocida en esta jurisdicción. De mediar
+20 circunstancias agravantes, la pena fija establecida podrá ser aumentada hasta un
+21 máximo de veinticuatro (24) años; de mediar circunstancias atenuantes, podrá ser
+22 reducida hasta un mínimo de seis (6) años. Sin embargo, no constituirá delito el
+
+10
+1 alquiler de supresores de sonido en las armerías con polígonos que cuenten con la debida
+2 licencia y regulación conforme a esta Ley.”
+3 Sección 8.- Vigencia
+4 Esta Ley entrará en vigor inmediatamente después de su aprobación.
+
+[DELETED: 0 A 2S.dL   e e A 1 2 3 4 4 4 y 6 d l L 1 r y d s t c d d p y c M d p p c a e l p l c e d p g s s y e c l L d A d P R S e q c p l s a A e r s h n]
+[DELETED:  p e u p u i n t e c e v d e e p a r d a d f c u r b s q o e 1 y 1 d p ( c p q.    l r a e e d d a l e h d q a d l m d l t n u a d f c l q i e r d d e c l s d s c u a e d]
+[DELETED:  e e c r p e u d p e q a d b i d p l  “” — e d A d F S d s a d o m p s a o]
+[DELETED:  2 — A d A A o S y , F I  S d s)N)L)… A U p s q p s a m)…)  p l m a f d a o u  s]
+[DELETED: )…)N    s N d d e p p ()E f ()L s d s e p a a l a c c ()E p d c c u a r d c m ( a)…]
+[DELETED:  p m d v ( a q t y p u a d f  y v l c s d s ,ss  d e l m d s p v p e f d s u v a A 6 “ a l V d]
+[DELETED: )…)T t d a d f  y m s d s p u a d s i e e R E E a R E I e a d 4 — C p O d A C d y t)…]
+[DELETED: )t   s   s ( m l l d l a a q e m f o)r u i d l a y m y s d s)…)…]
+[DELETED:    s d t q d e C e l q c l e d g y c q f s s c p d p u t f d d ( a s d a s o a d d l b d a p d d o a a a l r r e e j D m h u m d s ( a S e n c d e]
+[DELETED:  a l]
