@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PC0445",
-  "title": "Para enmendar el Art\u00edculo 1.05, a\u00f1adir un nuevo Art\u00edculo 1.17, y reenumerar los actuales art\u00edculos del 1.17 al 1.21, como los art\u00edculos del 1.18 al 1.22, respectivamente, en la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d, con el prop\u00f3sito de proveer, formalmente, para la creaci\u00f3n del \u201cCuerpo Interdenominacional de Capellanes\u201d del Departamento de Seguridad P\u00fablica, cuyos integrantes podr\u00e1n ofrecerle a la ciudadan\u00eda y a los miembros pertenecientes a los distintos Negociados que comprenden la Agencia, servicios voluntarios de consejer\u00eda y cuidado pastoral en situaciones de emergencias, desastres naturales y crisis; derogar la Ley 168-2012, conocida como \u201cLey para la Creaci\u00f3n del Cuerpo Voluntario de Capellanes del Gobierno de Puerto Rico\u201d; y para otros fines relacionados.",
+  "title": "Para enmendar el inciso (y) del Art\u00edculo 1.05, a\u00f1adir un nuevo Art\u00edculo 1.17, y reenumerar los \nactuales art\u00edculos del 1.17 al 1.21, como los art\u00edculos del 1.18 al 1.22, respectivamente, de la \nLey 20-2017, seg\u00fan enmendada, conocida como \"Ley del Departamento de Seguridad P\u00fablica de Puerto \nRico\", con el prop\u00f3sito de proveer, formalmente, para la creaci\u00f3n del \"Cuerpo Interdenominacional \nde Capellanes de Puerto Rico\" adscrito al Departamento de Seguridad P\u00fablica, cuyos integrantes \nbrindar\u00e1n a la ciudadan\u00eda en general y a todos los empleados del Gobierno de Puerto Rico y a sus \nfamilias, servicios voluntarios de consejer\u00eda en situaciones de emergencias, desastres naturales y \ncrisis; disponer que todos los Cuerpos de Capellanes de las distintas agencias del Gobierno ser\u00e1n \nparte del \"Cuerpo Interdenominacional de Capellanes de Puerto Rico\"; derogar la Ley 168-2012, \nconocida como \"Ley para la Creaci\u00f3n del Cuerpo Voluntario de Capellanes del Gobierno de Puerto \nRico\"; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -278,23 +278,43 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "Ley 123-2025",
+      "date": "2025-10-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -409,6 +429,17 @@
       ],
       "date": "2025-10-07",
       "classification": ""
+    },
+    {
+      "note": "Ley 123-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154446/Ley 123-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-31",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -427,7 +458,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-04T03:38:42Z",
     "text_extraction_latest_update": "2025-10-27T10:29:06.831210Z"
   }
 }

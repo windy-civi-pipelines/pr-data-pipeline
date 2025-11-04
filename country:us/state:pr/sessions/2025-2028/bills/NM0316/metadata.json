@@ -32,6 +32,58 @@
       "_processing": {
         "log_file_created": "2025-10-28T03:49:10Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "Confirmado por Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "Notificado a la Gobernadora",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -46,6 +98,17 @@
         }
       ],
       "date": "2025-10-22",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n proponiendo la confirmaci\u00f3n",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159254/0316-informe.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-03",
       "classification": ""
     }
   ],
@@ -65,7 +128,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-11-04T03:38:42Z",
     "text_extraction_latest_update": "2025-10-28T08:49:57.715411Z"
   }
 }

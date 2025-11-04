@@ -49,34 +49,44 @@
     },
     {
       "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
-      "date": "2025-10-30T04:00:00+00:00",
+      "date": "2025-10-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "amendment-amendment"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-31T03:38:29Z"
+        "log_file_created": "2025-11-04T03:38:42Z"
       }
     },
     {
       "description": "Entirillado del Informe",
-      "date": "2025-10-30T04:00:00+00:00",
+      "date": "2025-10-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-31T03:38:29Z"
+        "log_file_created": "2025-11-04T03:38:42Z"
       }
     },
     {
       "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
-      "date": "2025-10-30T04:00:00+00:00",
+      "date": "2025-10-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-31T03:38:29Z"
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
       }
     }
   ],
@@ -102,6 +112,28 @@
       ],
       "date": "2025-08-18",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158066/ps0690-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-28",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158066/ps0690-ent.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-10-28",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -120,6 +152,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T03:38:29Z"
+    "logs_latest_update": "2025-11-04T03:38:42Z"
   }
 }

@@ -166,6 +166,16 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:47:24Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -239,8 +249,8 @@
       "note": "Informe Final rendido Comisi\u00f3n(es)",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/155759/rs0188-Inf Final.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155759/rs0188-Inf Final.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2025-10-28",
@@ -263,7 +273,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:47:24Z",
+    "logs_latest_update": "2025-11-04T03:38:42Z",
     "text_extraction_latest_update": "2025-10-29T08:48:00.664183Z"
   }
 }

@@ -90,6 +90,26 @@
       "_processing": {
         "log_file_created": "2025-10-31T03:38:29Z"
       }
+    },
+    {
+      "description": "Se retira 1er Informe",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
+    },
+    {
+      "description": "Devuelto a la Comisi\u00f3n(es)",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,7 +139,7 @@
       "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/155555/PC0592-i.docx",
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155555/PC0592i.docx",
           "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
@@ -154,6 +174,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T03:38:29Z"
+    "logs_latest_update": "2025-11-04T03:38:42Z"
   }
 }

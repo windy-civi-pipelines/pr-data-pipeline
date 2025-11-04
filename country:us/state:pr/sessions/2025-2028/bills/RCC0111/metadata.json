@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCC0111",
-  "title": "Para enmendar la Resoluci\u00f3n Conjunta 85-2020, a los fines de extender la vigencia y ampliar el alcance del Fondo Rotatorio disponible para otorgar pr\u00e9stamos, l\u00edneas de cr\u00e9dito o adelantos a agencias del gobierno central, corporaciones p\u00fablicas, instrumentalidades y municipios del Gobierno de Puerto Rico, de forma tal que se pueda continuar agiliza0ndo la recuperaci\u00f3n y reconstrucci\u00f3n de la infraestructura cr0\u00edtica de Puerto Rico; y para otros fines relacionados.",
+  "title": "Para enmendar la Resoluci\u00f3n Conjunta 85-2020, a los fines de extender la vigencia y ampliar el alcance del Fondo Rotatorio disponible para otorgar pr\u00e9stamos, l\u00edneas de cr\u00e9dito o adelantos a agencias del gobierno central, corporaciones p\u00fablicas, instrumentalidades y municipios del Gobierno de Puerto Rico, de forma tal que se pueda continuar agilizando la recuperaci\u00f3n y reconstrucci\u00f3n de la infraestructura cr0\u00edtica de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -212,6 +212,16 @@
       "_processing": {
         "log_file_created": "2025-10-28T03:49:10Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-04T03:38:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -328,7 +338,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-11-04T03:38:42Z",
     "text_extraction_latest_update": "2025-10-28T08:50:09.397097Z"
   }
 }
