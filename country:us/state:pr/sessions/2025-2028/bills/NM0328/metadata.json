@@ -62,6 +62,16 @@
       "_processing": {
         "log_file_created": "2025-11-04T03:38:42Z"
       }
+    },
+    {
+      "description": "Notificado a la Gobernadora",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:30:26Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -76,6 +86,17 @@
         }
       ],
       "date": "2025-10-30",
+      "classification": ""
+    },
+    {
+      "note": "Notificado a la Gobernadora",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159310/0328 - notificaci\u00f3n a la gobernadora - rechazado.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-03",
       "classification": ""
     }
   ],
@@ -95,7 +116,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T03:38:42Z",
+    "logs_latest_update": "2025-11-05T03:30:26Z",
     "text_extraction_latest_update": "2025-11-04T08:50:49.918402Z"
   }
 }

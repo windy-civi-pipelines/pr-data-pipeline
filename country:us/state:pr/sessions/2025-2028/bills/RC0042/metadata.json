@@ -216,13 +216,23 @@
       }
     },
     {
-      "description": "Inspecci\u00f3n Ocular:  Bah\u00eda de San Juan",
+      "description": "Inspecci\u00f3n Ocular:  Central de San Juan",
       "date": "2025-10-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-28T03:49:10Z"
+        "log_file_created": "2025-11-05T03:30:26Z"
+      }
+    },
+    {
+      "description": "Vista P\u00fablica:  Sal\u00f3n de Audiencias #1",
+      "date": "2025-11-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-05T03:30:26Z"
       }
     }
   ],
@@ -296,6 +306,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z"
+    "logs_latest_update": "2025-11-05T03:30:26Z"
   }
 }
