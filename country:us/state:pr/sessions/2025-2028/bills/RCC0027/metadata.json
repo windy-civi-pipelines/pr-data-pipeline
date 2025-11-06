@@ -188,6 +188,42 @@
       "_processing": {
         "log_file_created": "2025-11-04T03:38:42Z"
       }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -267,6 +303,17 @@
       ],
       "date": "2025-10-10",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153044/MeasuresAndVotes (2)-23.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -285,7 +332,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T03:38:42Z",
+    "logs_latest_update": "2025-11-06T03:32:18Z",
     "text_extraction_latest_update": "2025-11-04T08:50:38.756747Z"
   }
 }

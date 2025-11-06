@@ -1,0 +1,57 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0962",
+  "title": "Para crear la \u201cLey para la Implementaci\u00f3n de Sistemas de Alerta de Emergencias en las Dependencias Gubernamentales de Puerto Rico\u201d, a los fines de establecer la instalaci\u00f3n obligatoria de dos sistemas de alarma diferenciados y auditivos/visuales, uno destinado a alertar ante eventos s\u00edsmicos y otro ante situaciones de tirador activo o amenazas de violencia armada; disponer sobre la coordinaci\u00f3n interagencial entre el Departamento de Seguridad P\u00fablica (DSP), la Oficina de Gerencia y Presupuesto (OGP), la Oficina de Seguridad de la Asamblea Legislativa y la Oficina de Gerencia de la Fortaleza; establecer protocolos de respuesta y simulacros peri\u00f3dicos; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sergio  E. Est\u00e9vez V\u00e9lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sergio  E. Est\\u00e9vez V\\u00e9lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159357",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-06T03:32:18Z"
+  }
+}

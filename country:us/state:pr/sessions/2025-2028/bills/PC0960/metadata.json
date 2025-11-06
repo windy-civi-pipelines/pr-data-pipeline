@@ -1,0 +1,65 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0960",
+  "title": "Para establecer la pol\u00edtica p\u00fablica sobre el acceso a la salud en Puerto Rico; establecer un Seguro Nacional de Salud con cobertura universal; crear la Corporaci\u00f3n del Seguro Nacional de Salud, corporaci\u00f3n p\u00fablica que pondr\u00e1 en vigor y administrar\u00e1 el Seguro Nacional de Salud; enmendar los Art\u00edculos 2(I)(P) y 12(A)(B)(C), de la Ley N\u00fam. 111-2020, conocida como \u201cLey de Protecci\u00f3n Social por Accidentes de Veh\u00edculos de Motor\u201d; enmendar el inciso (1), enmendar el inciso (3) y renumerarlo como el nuevo inciso (2), enmendar el inciso (4) y renumerarlo como el nuevo inciso (3) del Art\u00edculo 1-B; enmendar los Art\u00edculos 1-C (a)(b)(C)(4)(8) y 36 de la Ley N\u00fam. 45 de abril de 1935, seg\u00fan enmendada, conocida como \u201cLey del Sistema de Compensaciones por Accidentes del Trabajo\u201d; y derogar la Ley N\u00fam. 72 de 7 de septiembre de 1993, seg\u00fan enmendada, conocida como \u201cLey de la Administraci\u00f3n de Seguros de Salud de Puerto Rico\u201d; y para decretar otras disposiciones complementarias.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adriana   Guti\u00e9rrez Col\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adriana   Guti\\u00e9rrez Col\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159353",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-06T03:32:18Z"
+  }
+}

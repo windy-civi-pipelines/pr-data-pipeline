@@ -1,0 +1,57 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0963",
+  "title": "Para crear la \u201cLey para la Creaci\u00f3n del Programa de Identificaci\u00f3n y Sello Oficial para Pastores, Ministros y L\u00edderes Religiosos en Servicio Comunitario de Puerto Rico\u201d, a los fines de reconocer oficialmente la labor espiritual, social y humanitaria de los l\u00edderes religiosos activos en el pa\u00eds; autorizar al Departamento de Estado a expedir una identificaci\u00f3n oficial y un sello o marbete vehicular distintivo que les permita realizar gestiones oficiales y comunitarias con acceso y legitimidad; establecer un registro electr\u00f3nico de l\u00edderes religiosos acreditados; disponer los criterios de elegibilidad, verificaci\u00f3n, vigencia, renovaci\u00f3n y sanciones por uso indebido; coordinar la implementaci\u00f3n del programa con el Departamento de Transportaci\u00f3n y Obras P\u00fablicas y el Departamento de Seguridad P\u00fablica; garantizar el acceso ordenado de los l\u00edderes religiosos a hospitales, c\u00e1rceles, instituciones p\u00fablicas y \u00e1reas de emergencia; promover el respeto y reconocimiento estatal a la funci\u00f3n pastoral; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-06T03:32:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sergio  E. Est\u00e9vez V\u00e9lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sergio  E. Est\\u00e9vez V\\u00e9lez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159358",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-06T03:32:18Z"
+  }
+}
