@@ -170,6 +170,16 @@
       "_processing": {
         "log_file_created": "2025-10-31T03:38:29Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,8 +253,8 @@
       "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/156096/rcc0139-Inf.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156096/rcc0139-inf.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2025-10-30",
@@ -267,7 +277,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-31T03:38:29Z",
+    "logs_latest_update": "2025-11-07T03:29:56Z",
     "text_extraction_latest_update": "2025-10-31T08:49:04.787497Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0500",
-  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Propiedades Inmuebles, creado por la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d, a evaluar conforme a las disposiciones de la Ley y su Reglamento, la viabilidad de transferir al Municipio de San Germ\u00e1n los terrenos y propiedades inmuebles, incluyendo todas las instalaciones y edificaciones del Antiguo Centro de Transbordo localizado en dicho municipio perteneciente al Departamento de Recursos Naturales y Ambientales de Puerto Rico, con el fin de que se desarrolle una planta de reciclaje; y para otros fines relacionados.",
+  "title": "Para ordenar a las Comisiones de Agricultura; y de Recursos Naturales de la C\u00e1mara de Representantes del Estado Libre Asociado de Puerto Rico realizar un estudio sobre las condiciones en que se encuentran los r\u00edos, quebradas y dem\u00e1s cuerpos de agua localizados en las comunidades, sectores y zonas que comprenden el Distrito Representativo N\u00fam. Diecis\u00e9is (16); sitas en los Municipios de Isabela, San Sebasti\u00e1n y barrio Guerrero de Aguadilla.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -22,6 +22,30 @@
       "_processing": {
         "log_file_created": "2025-11-05T03:30:26Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:29:56Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:29:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,7 +59,19 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159339/RC0500.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-03",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -52,7 +88,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-05T03:30:26Z",
+    "logs_latest_update": "2025-11-07T03:29:56Z",
     "text_extraction_latest_update": "2025-11-06T08:44:35.992145Z"
   }
 }
