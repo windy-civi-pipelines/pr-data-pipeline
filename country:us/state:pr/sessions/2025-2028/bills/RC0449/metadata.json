@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0449",
-  "title": "Para ordenar a las comisiones de Salud y de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n en torno a la incidencia de ni\u00f1os con la condici\u00f3n de apraxia del habla, los servicios y los tratamientos disponibles en Puerto Rico, los programas de Educaci\u00f3n Especial existentes en el Departamento de Educaci\u00f3n e identificar la necesidad de implementar medidas administrativas o legislativas para atender la misma.",
+  "title": "Para ordenar a las comisiones de Salud; y de Educaci\u00f3n de la C\u00e1mara de Representantes de Puerto Rico, realizar una investigaci\u00f3n exhaustiva en torno a la incidencia de la apraxia del habla infantil en Puerto Rico, los servicios y tratamientos disponibles para atenderla, y la respuesta provista por los programas de Educaci\u00f3n Especial del Departamento de Educaci\u00f3n con el fin de identificar medidas administrativas o legislativas que contribuyan a mejorar la detecci\u00f3n, diagn\u00f3stico y tratamiento de esta condici\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2025-11-07T03:29:56Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:32:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +190,17 @@
       ],
       "date": "2025-10-29",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158755/RC0449-ta.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -196,6 +219,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:29:56Z"
+    "logs_latest_update": "2025-11-08T03:32:39Z"
   }
 }

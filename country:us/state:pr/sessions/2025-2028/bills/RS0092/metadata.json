@@ -134,6 +134,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-08T03:32:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +212,17 @@
       ],
       "date": "2025-05-08",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154151/rs0092a-25 enmendada por la RS 355.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -220,7 +241,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-08T03:32:39Z",
     "text_extraction_latest_update": "2025-10-27T10:08:20.803660Z"
   }
 }
