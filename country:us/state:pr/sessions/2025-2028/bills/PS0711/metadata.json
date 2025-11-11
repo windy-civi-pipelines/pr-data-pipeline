@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0711",
-  "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 2.16 y renumerar los actuales Art\u00edculos 2.16 y 2.17 como los\nArt\u00edculos 2.17 y 2.18, respectivamente, del Cap\u00edtulo II de la Ley N\u00fam. 168-2019, seg\u00fan\nenmendada, conocida como \u201cLey de Armas de Puerto Rico de 2020\u201d, a fin de establecer las\nsolicitudes de \u00f3rdenes de protecci\u00f3n por riesgo extremo y prohibir temporalmente que una\npersona compre, posea o porte armas de fuego y municiones cuando ello represente un peligro\nsignificativo para s\u00ed misma o para otros.\u201d",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 2.16 y renumerar los actuales Art\u00edculos 2.16 y 2.17 como los Art\u00edculos 2.17 y 2.18, respectivamente, del Cap\u00edtulo II de la Ley N\u00fam. 168-2019, seg\u00fan enmendada, conocida como \u201cLey de Armas de Puerto Rico de 2020\u201d, a fin de establecer las solicitudes de \u00f3rdenes de protecci\u00f3n por riesgo extremo y prohibir temporalmente que una persona compre, posea o porte armas de fuego y municiones cuando ello represente un peligro significativo para s\u00ed misma o para otros.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -78,6 +78,50 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:47:23Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,6 +176,17 @@
       ],
       "date": "2025-10-28",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158257/MeasuresAndVotes (4)-23.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -150,6 +205,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:47:23Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

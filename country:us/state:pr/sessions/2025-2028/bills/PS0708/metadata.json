@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0708",
-  "title": "\u201cPara crear la \u201cLey de Horas Contacto para Padres y Encargados en las Escuelas de Puerto Rico\u201d, a\nfin de establecer un m\u00ednimo obligatorio de horas de interacci\u00f3n formal entre los padres, madres,\ntutores o encargados y la comunidad escolar, ajustado al aprovechamiento acad\u00e9mico del\nestudiante; ordenar al Departamento de Educaci\u00f3n la reglamentaci\u00f3n e implantaci\u00f3n de esta pol\u00edtica\np\u00fablica; y para otros fines relacionados.\u201d",
+  "title": "Para crear la \u201cLey de Horas Contacto para Padres y Encargados en las Escuelas de Puerto Rico\u201d, a fin de establecer un m\u00ednimo obligatorio de horas de interacci\u00f3n formal entre los padres, madres, tutores o encargados y la comunidad escolar, ajustado al aprovechamiento acad\u00e9mico del estudiante; ordenar al Departamento de Educaci\u00f3n la reglamentaci\u00f3n e implantaci\u00f3n de esta pol\u00edtica p\u00fablica; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -78,6 +78,62 @@
       "_processing": {
         "log_file_created": "2025-11-04T03:38:42Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +180,17 @@
       ],
       "date": "2025-10-31",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158182/MeasuresAndVotes (4)-22.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -142,6 +209,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T03:38:42Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

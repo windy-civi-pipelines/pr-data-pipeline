@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0424",
-  "title": "\u201cPara enmendar el Art\u00edculo 3 incisos (b) y (e) de la Ley N\u00fam. 40 de 3 de agosto de 1993, seg\u00fan\nenmendada, mejor conocida como \u201cLey para Reglamentar la Pr\u00e1ctica de Fumar en Determinados\nLugares P\u00fablicos y Privados\u201d; para enmendar la Secci\u00f3n 6042.08 de la Ley N\u00fam. 1-2011, seg\u00fan\nenmendada, mejor conocida como \u201cC\u00f3digo de Rentas Internas para un Nuevo Puerto Rico\u201d; y\npara otros fines relacionados.\u201d",
+  "title": "Para enmendar el Art\u00edculo 3 incisos (b) y (e) de la Ley N\u00fam. 40 de 3 de agosto de 1993, seg\u00fan enmendada, mejor conocida como \u201cLey para Reglamentar la Pr\u00e1ctica de Fumar en Determinados Lugares P\u00fablicos y Privados\u201d; para enmendar la Secci\u00f3n 6042.08 de la Ley N\u00fam. 1-2011, seg\u00fan enmendada, mejor conocida como \u201cC\u00f3digo de Rentas Internas para un Nuevo Puerto Rico\u201d; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -68,6 +68,50 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:51Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -103,6 +147,17 @@
       ],
       "date": "2025-09-26",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154305/MeasuresAndVotes (4)-17.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -121,6 +176,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:51Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

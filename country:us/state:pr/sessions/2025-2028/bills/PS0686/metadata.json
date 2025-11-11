@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0686",
-  "title": "\u201cPara establecer la \"Ley de la Reserva Natural Las Puntas\u201d; declarar las parcelas 409-000-006-01-\n000 y 400-000-007-01-000, mejor conocidas como Punta Ventana y Punta Verraco, del Municipio\nde Guayanilla \u00e1rea de Reserva Natural de Puerto Rico, para ser administrada bajo las disposiciones\nde la Ley N\u00fam. 150 de 4 de agosto de 1988, conocida como \u201cLey del Programa de Patrimonio\nNatural de Puerto Rico\u201d; delimitar el \u00e1rea que comprende la \u201cReserva Natural Las Puntas\u201d, a los\nfines de constituir la reserva para la conservaci\u00f3n y protecci\u00f3n de los bienes naturales, hist\u00f3ricos y\nculturales que all\u00ed yacen. Ordenar al Departamento de Recursos Naturales y Ambientales y al\nInstituto de Cultura el manejo adecuado de la misma.\u201d",
+  "title": "Para establecer la \"Ley de la Reserva Natural Las Puntas\u201d; declarar las parcelas 409-000-006-01-000 y 400-000-007-01-000, mejor conocidas como Punta Ventana y Punta Verraco, del Municipio de Guayanilla \u00e1rea de Reserva Natural de Puerto Rico, para ser administrada bajo las disposiciones de la Ley N\u00fam. 150 de 4 de agosto de 1988, conocida como \u201cLey del Programa de Patrimonio Natural de Puerto Rico\u201d; delimitar el \u00e1rea que comprende la \u201cReserva Natural Las Puntas\u201d, a los fines de constituir la reserva para la conservaci\u00f3n y protecci\u00f3n de los bienes naturales, hist\u00f3ricos y culturales que all\u00ed yacen. Ordenar al Departamento de Recursos Naturales y Ambientales y al\nInstituto de Cultura el manejo adecuado de la misma.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,23 +46,35 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:53Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eliezer  Molina P\u00e9rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eliezer  Molina P\\u00e9rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -96,6 +108,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:53Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

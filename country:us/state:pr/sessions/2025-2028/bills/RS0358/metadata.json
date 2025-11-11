@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0358",
-  "title": "\u201cPara felicitar al pelotero boricua Enrique \u201cKike\u201d Hern\u00e1ndez por su triunfo en la Serie Mundial 2025 con los Dodgers de Los \u00c1ngeles, reconociendo su distinguida carrera y su invaluable aportaci\u00f3n al deporte profesional en beneficio de Puerto Rico y los Estados Unidos.\u201d",
+  "title": "Para felicitar al pelotero boricua Enrique \u201cKike\u201d Hern\u00e1ndez por su triunfo en la Serie Mundial 2025 con los Dodgers de Los \u00c1ngeles, reconociendo su distinguida carrera y su invaluable aportaci\u00f3n al deporte profesional en beneficio de Puerto Rico y los Estados Unidos.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -34,6 +34,36 @@
       "_processing": {
         "log_file_created": "2025-11-07T03:29:56Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado conforme a la Regla 18.3",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final en Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,6 +88,17 @@
       ],
       "date": "2025-11-06",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado conforme a la Regla 18.3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159381/MeasuresAndVotes (4)-37.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -76,6 +117,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:29:56Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

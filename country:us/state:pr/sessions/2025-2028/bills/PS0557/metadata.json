@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0557",
-  "title": "\u201cPara enmendar el Art\u00edculo 9.310 de la Ley N\u00fam. 77 de 19 de junio de 1957, seg\u00fan enmendada,\nconocida como \u201cC\u00f3digo de Seguros de Puerto Rico\u201d, para a\u00f1adir inciso 5 a los fines de autorizar, en\neventos catastr\u00f3ficos, a los profesionales certificados por la Junta Examinadora de Ingenieros,\nArquitectos y Agrimensores de Puerto Rico para que puedan ser contratados por las aseguradoras,\nhacer ajustes y liquidar reclamaciones de propiedad, sin necesidad de ostentar una licencia como\najustador ni estar sujetos a adquirir un permiso especial; a\u00f1adir el inciso 6 a los fines de incluir a los\nprofesionales certificados por la Junta Examinadora de Contadores P\u00fablicos Autorizados de Puerto\nRico, para que puedan ser contratados por las aseguradoras para los ajustes de interrupci\u00f3n de\nnegocios y p\u00e9rdida de ingresos y liquidar las reclamaciones; y para otros fines.\u201d",
+  "title": "Para enmendar el Art\u00edculo 9.310 de la Ley N\u00fam. 77 de 19 de junio de 1957, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Seguros de Puerto Rico\u201d, para a\u00f1adir inciso 5 a los fines de autorizar, en eventos catastr\u00f3ficos, a los profesionales certificados por la Junta Examinadora de Ingenieros, Arquitectos y Agrimensores de Puerto Rico para que puedan ser contratados por las aseguradoras, hacer ajustes y liquidar reclamaciones de propiedad, sin necesidad de ostentar una licencia como ajustador ni estar sujetos a adquirir un permiso especial; a\u00f1adir el inciso 6 a los fines de incluir a los profesionales certificados por la Junta Examinadora de Contadores P\u00fablicos Autorizados de Puerto Rico, para que puedan ser contratados por las aseguradoras para los ajustes de interrupci\u00f3n de\nnegocios y p\u00e9rdida de ingresos y liquidar las reclamaciones; y para otros fines.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -122,6 +122,16 @@
       "_processing": {
         "log_file_created": "2025-11-08T03:32:39Z"
       }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -205,7 +215,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-08T03:32:39Z",
+    "logs_latest_update": "2025-11-11T03:32:45Z",
     "text_extraction_latest_update": "2025-11-08T08:35:15.822005Z"
   }
 }

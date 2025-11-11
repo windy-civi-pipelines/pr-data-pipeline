@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0293",
-  "title": "\u201cPara a\u00f1adir un nuevo subinciso (e), y reenumerar los subsiguientes, en el inciso (9) del Art\u00edculo 7\nde la Ley 430-2000, seg\u00fan enmendada, conocida como como \u201cLey de Navegaci\u00f3n y Seguridad\nAcu\u00e1tica de Puerto Rico\u201d, con el prop\u00f3sito de autorizar la expedici\u00f3n digital de la licencia para\noperar embarcaciones, mediante el dise\u00f1o y acceso a una aplicaci\u00f3n m\u00f3vil (app) que contendr\u00e1 la\nreferida licencia, y la cual deber\u00e1 ser af\u00edn con todos los sistemas operativos m\u00f3viles disponibles en\nel mercado; y para otros fines relacionados.",
+  "title": "Para a\u00f1adir un nuevo subinciso (e), y reenumerar los subsiguientes, en el inciso (9) del Art\u00edculo 7 de la Ley 430-2000, seg\u00fan enmendada, conocida como como \u201cLey de Navegaci\u00f3n y Seguridad Acu\u00e1tica de Puerto Rico\u201d, con el prop\u00f3sito de autorizar la expedici\u00f3n digital de la licencia para operar embarcaciones, mediante el dise\u00f1o y acceso a una aplicaci\u00f3n m\u00f3vil (app) que contendr\u00e1 la referida licencia, y la cual deber\u00e1 ser af\u00edn con todos los sistemas operativos m\u00f3viles disponibles en el mercado; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -78,6 +78,62 @@
       "_processing": {
         "log_file_created": "2025-11-06T03:32:18Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,11 +171,33 @@
       "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/153500/ps0293-Inf.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153500/ps0293-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2025-11-04",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153500/ps0293-ent.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-04",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153500/MeasuresAndVotes (4)-14.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
       "classification": ""
     }
   ],
@@ -139,7 +217,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-06T03:32:18Z",
+    "logs_latest_update": "2025-11-11T03:32:45Z",
     "text_extraction_latest_update": "2025-11-06T08:45:35.199029Z"
   }
 }

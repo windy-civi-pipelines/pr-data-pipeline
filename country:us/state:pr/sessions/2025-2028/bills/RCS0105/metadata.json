@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0105",
-  "title": "\u201cPara ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico, a \nproceder con la liberaci\u00f3n de las condiciones y restricciones sobre preservaci\u00f3n e indivisi\u00f3n \npreviamente impuestas y anotadas, seg\u00fan dispuesto por la Ley 107 N\u00fam. de 3 de julio de 1974, \nseg\u00fan enmendada, al predio de terreno marcado con los n\u00famero 13 en el Plano de Subdivisi\u00f3n de \nla Finca conocida como \u201cLa Trapa\u201d, ubicado en el barrio Furnias, R\u00edo Ca\u00f1as, Naranjales y \nMaravilla Sur del municipio de Las Mar\u00edas y seg\u00fan consta en la Certificaci\u00f3n de T\u00edtulo otorgada \npor la Corporaci\u00f3n para el Desarrollo Rural de Puerto Rico a favor de Don Agust\u00edn Rosado Carlo \ny Do\u00f1a Leonarda Mart\u00ed Mart\u00ednez; y para otros fines pertinentes.\u201d",
+  "title": "Para ordenar al Departamento de Agricultura y a la Junta de Planificaci\u00f3n de Puerto Rico, a proceder con la liberaci\u00f3n de las condiciones y restricciones sobre preservaci\u00f3n e indivisi\u00f3n previamente impuestas y anotadas, seg\u00fan dispuesto por la Ley 107 N\u00fam. de 3 de julio de 1974, seg\u00fan enmendada, al predio de terreno marcado con los n\u00famero 13 en el Plano de Subdivisi\u00f3n de la Finca conocida como \u201cLa Trapa\u201d, ubicado en el barrio Furnias, R\u00edo Ca\u00f1as, Naranjales y Maravilla Sur del municipio de Las Mar\u00edas y seg\u00fan consta en la Certificaci\u00f3n de T\u00edtulo otorgada \npor la Corporaci\u00f3n para el Desarrollo Rural de Puerto Rico a favor de Don Agust\u00edn Rosado Carlo y Do\u00f1a Leonarda Mart\u00ed Mart\u00ednez; y para otros fines pertinentes.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -78,6 +78,62 @@
       "_processing": {
         "log_file_created": "2025-11-07T03:29:56Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +180,17 @@
       ],
       "date": "2025-11-06",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159146/MeasuresAndVotes (4)-35.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -142,7 +209,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:29:56Z",
+    "logs_latest_update": "2025-11-11T03:32:45Z",
     "text_extraction_latest_update": "2025-11-07T08:53:41.515410Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0469",
-  "title": "\u201cPara establecer la \u201cLey para el Recogido de Caballos Abandonados\u201d, a los fines de establecer el\nmarco legal para eliminar la presencia de los equinos abandonados en las carreteras o \u00e1reas\ncircundantes de Puerto Rico; facultar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas y a los\nmunicipios una vez culminada la moratoria a recoger los caballos abandonados y solicitar el\nreembolso a sus due\u00f1os por los gastos incurridos en el recogido; establecer una moratoria de\nnoventa (90) d\u00edas para el recogido de estos animales; y para otros fines relacionados.\u201d",
+  "title": "Para establecer la \u201cLey para el Recogido de Caballos Abandonados\u201d, a los fines de establecer el marco legal para eliminar la presencia de los equinos abandonados en las carreteras o \u00e1reas circundantes de Puerto Rico; facultar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas y a los municipios una vez culminada la moratoria a recoger los caballos abandonados y solicitar el reembolso a sus due\u00f1os por los gastos incurridos en el recogido; establecer una moratoria de noventa (90) d\u00edas para el recogido de estos animales; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -88,6 +88,62 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,6 +190,17 @@
       ],
       "date": "2025-06-25",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154796/MeasuresAndVotes (4)-18.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -152,6 +219,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }

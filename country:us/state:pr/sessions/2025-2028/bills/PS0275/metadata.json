@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0275",
-  "title": "\u201cPara establecer la \u201cLey para la Reforma de Licencias Ocupacionales de Puerto Rico\u201d, con el prop\u00f3sito de simplificar el ejercicio de algunas ocupaciones mediante la eliminaci\u00f3n de requisitos obsoletos que encarecen la actividad laboral, impidiendo a individuos productivos encontrar empleo al concluir sus estudios o establecer peque\u00f1as empresas en la Isla; a\u00f1adir un inciso (z) al Art\u00edculo 5 de la Ley N\u00fam. 23 de 20 de junio de 1972, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recursos Naturales y Ambientales\u201d(\u201cDRNA\u201d), con el fin de facultar al Secretario del DRNA a adoptar reglamentaci\u00f3n en cuanto a la ocupaci\u00f3n y certificaci\u00f3n de Operadores de Plantas de Tratamiento de Agua Potable y Aguas Usadas; derogar la Ley N\u00fam. 53 del 13 de julio de 1978, seg\u00fan enmendada, conocida como \u201cLey para la Certificaci\u00f3n de los Operadores de Sistemas y/o Plantas de Tratamiento, de Agua Potable y de Aguas Usadas\u201d; derogar la Ley N\u00fam. 99 del 30 de junio de 1975, seg\u00fan enmendada, conocida como \u201cLey de T\u00e9cnicos en Electr\u00f3nica de Puerto Rico\u201d; derogar la Ley N\u00fam. 125 de 8 de junio de 1973, seg\u00fan enmendada; derogar la Ley N\u00fam. 54 de 21 de mayo de 1976, seg\u00fan enmendada; derogar la Ley N\u00fam. 146 de 27 de junio de 1968, seg\u00fan enmendada; derogar la Ley N\u00fam. 431 de 15 de mayo de 1950, seg\u00fan enmendada; derogar la Ley N\u00fam. 204 de 8 de agosto de 2008, seg\u00fan enmendada, conocida como \u201cLey para la Creaci\u00f3n de la Junta Reglamentadora de Relacionistas de Puerto Rico\u201d; enmendar el Art\u00edculo 2; derogar los Art\u00edculos 3 al 14, 16 y 26; enmendar y reenumerar los Art\u00edculos 15 y 17; y reenumerar los Art\u00edculo 18 al 27 de la Ley N\u00fam. 134 de 15 de julio de 1986, seg\u00fan enmendada, conocida como \u201cLey de Actores de Puerto Rico\u201d; y para otros fines relacionados.\u201d",
+  "title": "Para establecer la \u201cLey para la Reforma de Licencias Ocupacionales de Puerto Rico\u201d, con el prop\u00f3sito de simplificar el ejercicio de algunas ocupaciones mediante la eliminaci\u00f3n de requisitos obsoletos que encarecen la actividad laboral, impidiendo a individuos productivos encontrar empleo al concluir sus estudios o establecer peque\u00f1as empresas en la Isla; a\u00f1adir un inciso (z) al Art\u00edculo 5 de la Ley N\u00fam. 23 de 20 de junio de 1972, seg\u00fan enmendada, conocida como \u201cLey Org\u00e1nica del Departamento de Recursos Naturales y Ambientales\u201d(\u201cDRNA\u201d), con el fin de facultar al Secretario del DRNA a adoptar reglamentaci\u00f3n en cuanto a la ocupaci\u00f3n y certificaci\u00f3n de Operadores de Plantas de Tratamiento de Agua Potable y Aguas Usadas; derogar la Ley N\u00fam. 53 del 13 de julio de 1978, seg\u00fan enmendada, conocida como \u201cLey para la Certificaci\u00f3n de los Operadores de Sistemas y/o Plantas de Tratamiento, de Agua Potable y de Aguas Usadas\u201d; derogar la Ley N\u00fam. 99 del 30 de junio de 1975, seg\u00fan enmendada, conocida como \u201cLey de T\u00e9cnicos en Electr\u00f3nica de Puerto Rico\u201d; derogar la Ley N\u00fam. 125 de 8 de junio de 1973, seg\u00fan enmendada; derogar la Ley N\u00fam. 54 de 21 de mayo de 1976, seg\u00fan enmendada; derogar la Ley N\u00fam. 146 de 27 de junio de 1968, seg\u00fan enmendada; derogar la Ley N\u00fam. 431 de 15 de mayo de 1950, seg\u00fan enmendada; derogar la Ley N\u00fam. 204 de 8 de agosto de 2008, seg\u00fan enmendada, conocida como \u201cLey para la Creaci\u00f3n de la Junta Reglamentadora de Relacionistas de Puerto Rico\u201d; enmendar el Art\u00edculo 2; derogar los Art\u00edculos 3 al 14, 16 y 26; enmendar y reenumerar los Art\u00edculos 15 y 17; y reenumerar los Art\u00edculo 18 al 27 de la Ley N\u00fam. 134 de 15 de julio de 1986, seg\u00fan enmendada, conocida como \u201cLey de Actores de Puerto Rico\u201d; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,6 +46,94 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:56Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas en sala",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:32:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -78,6 +166,39 @@
       ],
       "date": "2025-01-23",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153337/ps0275-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-07",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153337/ps0275-Ent.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-07",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153337/MeasuresAndVotes (4)-13.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -96,6 +217,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:56Z"
+    "logs_latest_update": "2025-11-11T03:32:45Z"
   }
 }
