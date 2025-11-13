@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0657",
-  "title": "\u201cPara enmendar el inciso (a) del Art\u00edculo 3 de la Ley 30\u20132000, seg\u00fan enmendada, denominada \u201cLey de Certificaci\u00f3n de Salud de Puerto Rico\u201d, con el prop\u00f3sito de permitir que en el expediente laboral de la persona empleada obre una copia o duplicado del certificado de salud, de manera que a la persona empleada se le permita conservar el documento original; y para decretar otras disposiciones complementarias.\u201d",
+  "title": "Para enmendar el inciso (a) del Art\u00edculo 3 de la Ley 30\u20132000, seg\u00fan enmendada, denominada \u201cLey de Certificaci\u00f3n de Salud de Puerto Rico\u201d, con el prop\u00f3sito de permitir que en el expediente laboral de la persona empleada obre una copia o duplicado del certificado de salud, de manera que a la persona empleada se le permita conservar el documento original; y para decretar otras disposiciones complementarias.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,6 +46,28 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:55Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -78,6 +100,17 @@
       ],
       "date": "2025-06-05",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156409/ps0657-Inf.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -96,6 +129,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z"
+    "logs_latest_update": "2025-11-13T03:34:43Z"
   }
 }

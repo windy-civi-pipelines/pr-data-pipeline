@@ -259,22 +259,42 @@
     },
     {
       "description": "Firmado por el Presidente de la C\u00e1mara",
-      "date": "2025-10-15T04:00:00+00:00",
+      "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:28:55Z"
+        "log_file_created": "2025-11-13T03:34:43Z"
       }
     },
     {
       "description": "Firmado por el Presidente del Senado",
-      "date": "2025-10-20T04:00:00+00:00",
+      "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:28:55Z"
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Ley 125-2025",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
       }
     }
   ],
@@ -407,6 +427,17 @@
       ],
       "date": "2025-10-14",
       "classification": ""
+    },
+    {
+      "note": "Ley 125-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154966/Ley 125-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-07",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -425,7 +456,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:55Z",
+    "logs_latest_update": "2025-11-13T03:34:43Z",
     "text_extraction_latest_update": "2025-10-27T10:25:58.323804Z"
   }
 }

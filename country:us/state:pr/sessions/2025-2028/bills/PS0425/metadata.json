@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0425",
-  "title": "\u201cPara establecer la \u201cLey para la Atenci\u00f3n del Estudiantado con Epilepsia en las Instituciones\nEscolares P\u00fablicas y Privadas de Puerto Rico\u201d; delinear los procesos a los que deben ce\u00f1irse las\nescuelas para manejar crisis epil\u00e9pticas; garantizar la provisi\u00f3n de acomodos razonables al\nestudiantado con epilepsia; prohibir el discrimen por raz\u00f3n del diagn\u00f3stico de epilepsia; y para\ndecretar otras disposiciones complementarias.\u201d",
+  "title": "Para establecer la \u201cLey para la Atenci\u00f3n del Estudiantado con Epilepsia en las Instituciones Escolares P\u00fablicas y Privadas de Puerto Rico\u201d; delinear los procesos a los que deben ce\u00f1irse las escuelas para manejar crisis epil\u00e9pticas; garantizar la provisi\u00f3n de acomodos razonables al estudiantado con epilepsia; prohibir el discrimen por raz\u00f3n del diagn\u00f3stico de epilepsia; y para decretar otras disposiciones complementarias.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -134,6 +134,30 @@
       "_processing": {
         "log_file_created": "2025-11-08T03:32:39Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -154,19 +178,19 @@
       "organization_id": null
     },
     {
-      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adri\u00e1n   Gonz\u00e1lez  Costa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adri\\u00e1n   Gonz\\u00e1lez  Costa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -215,6 +239,17 @@
       ],
       "date": "2025-11-06",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154306/ps0425a-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -233,7 +268,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-08T03:32:39Z",
+    "logs_latest_update": "2025-11-13T03:34:43Z",
     "text_extraction_latest_update": "2025-11-08T08:32:27.254813Z"
   }
 }

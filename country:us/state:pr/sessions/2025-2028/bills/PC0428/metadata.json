@@ -202,16 +202,6 @@
       }
     },
     {
-      "description": "Se dispone que sea enrolado",
-      "date": "2025-11-05T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-06T03:32:18Z"
-      }
-    },
-    {
       "description": "Se solicita reconsideraci\u00f3n de la medida",
       "date": "2025-11-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -241,6 +231,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-07T03:29:56Z"
+      }
+    },
+    {
+      "description": "Se reconsider\u00f3",
+      "date": "2025-11-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
       }
     }
   ],
@@ -329,6 +349,17 @@
       ],
       "date": "2025-11-05",
       "classification": ""
+    },
+    {
+      "note": "Se reconsider\u00f3",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154349/MeasuresAndVotes (3)-10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-06",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -347,7 +378,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:29:56Z",
+    "logs_latest_update": "2025-11-13T03:34:43Z",
     "text_extraction_latest_update": "2025-11-07T08:53:27.551311Z"
   }
 }

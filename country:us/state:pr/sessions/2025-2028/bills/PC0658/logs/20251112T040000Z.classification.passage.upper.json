@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+    "date": "2025-11-12T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PC0658"
+}

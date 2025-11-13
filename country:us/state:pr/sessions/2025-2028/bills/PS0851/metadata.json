@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0851",
+  "title": "\u201cPara enmendar la Ley 57-2023 a\u00f1adiendo un nuevo Art\u00edculo 51(a) para establecer responsabilidad penal de delito grave con una pena fija de reclusi\u00f3n de dos (2) a\u00f1os, en aquellos casos donde exista conocimiento o sospecha de agresi\u00f3n sexual contra un menor y se incumpla con el deber de suministrar informaci\u00f3n, o se deje de realizar alg\u00fan otro acto requerido por esta ley, o que a sabiendas impida que otra persona actuando en forma razonable lo haga, o que a sabiendas suministre informaci\u00f3n falsa o aconseje a otra persona para que lo haga, y para que aquella persona que suministre informaci\u00f3n sobre la sospecha de agresi\u00f3n sexual a un menor que se determine es infundada y cuya consecuencia natural o probable se estime ha sido interferir con el ejercicio leg\u00edtimo de la custodia, relaciones paternofiliales y de la patria potestad, ser\u00e1 referida por el Departamento de la Familia al Departamento de Justicia para su evaluaci\u00f3n y el procesamiento ulterior que corresponda, y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159395",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T03:34:43Z"
+  }
+}

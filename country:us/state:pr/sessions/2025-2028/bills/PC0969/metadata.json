@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0969",
+  "title": "Para enmendar el inciso (l) del Art\u00edculo 1.7 del Cap\u00edtulo 1; y el inciso (c) del Art\u00edculo 3.3 del Cap\u00edtulo 3 de la Ley N\u00fam. 106-2017, seg\u00fan enmendada, conocida como \u201cLey para Garantizar el Pago a Nuestros Pensionados y Establecer un Nuevo Plan de Aportaciones Definidas para los Servidores P\u00fablicos\u201d; enmendar el inciso (8) del Art\u00edculo 4 de la Ley N\u00fam. 9-2013, seg\u00fan enmendada, conocida como \u201cLey de la Asociaci\u00f3n de Empleados del Estado Libre Asociado de Puerto Rico de 2013\u201d, a fin de incluir a la Asociaci\u00f3n de Empleados del Estado Libre Asociado entre las Entidades Administradoras del Nuevo Plan de Aportaciones Definidas, como alternativa a los empleados activos bajo los supuestos de la Reforma 2000, el Programa H\u00edbrido de Contribuci\u00f3n Definida y el Plan 106 que opten por transferir voluntariamente su plan de aportaciones definidas a dicha Asociaci\u00f3n; y establecer una nueva categor\u00eda de socios de la Asociaci\u00f3n para incluir a los exempleados p\u00fablicos del Sistema 2000, del Programa H\u00edbrido de Contribuci\u00f3n Definida dispuesto en la Ley N\u00fam. 3-2013 y Plan 106.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159400",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T03:34:43Z"
+  }
+}
