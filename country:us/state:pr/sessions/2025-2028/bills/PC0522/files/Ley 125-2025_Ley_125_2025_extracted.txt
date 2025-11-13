@@ -1,0 +1,16 @@
+Title: [PDF content from https://sutra.oslpr.org/SutraFilesGen/154966/Ley 125-2025.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from https://sutra.oslpr.org/SutraFilesGen/154966/Ley 125-2025.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - Ley 125-2025
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from https://sutra.oslpr.org/SutraFilesGen/154966/Ley 125-2025.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from https://sutra.oslpr.org/SutraFilesGen/154966/Ley 125-2025.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
