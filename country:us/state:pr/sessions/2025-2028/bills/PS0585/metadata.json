@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0585",
-  "title": "\u201cPara crear la \u201cLey para el Establecimiento de Zonas de Innovaci\u00f3n Tecnol\u00f3gica en Municipios\ncon Alta Tasa de Desempleo\u201d, a los fines de promover el desarrollo econ\u00f3mico mediante la\ncreaci\u00f3n de ecosistemas de tecnolog\u00eda e innovaci\u00f3n en regiones econ\u00f3micamente deprimidas;\ndisponer sobre incentivos, alianzas y mecanismos de gobernanza; y para otros fines\nrelacionados.\u201d",
+  "title": "Para crear la \u201cLey para el Establecimiento de Zonas de Innovaci\u00f3n Tecnol\u00f3gica en Municipios con Alta Tasa de Desempleo\u201d, a los fines de promover el desarrollo econ\u00f3mico mediante la creaci\u00f3n de ecosistemas de tecnolog\u00eda e innovaci\u00f3n en regiones econ\u00f3micamente deprimidas; disponer sobre incentivos, alianzas y mecanismos de gobernanza; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -98,6 +98,18 @@
       "_processing": {
         "log_file_created": "2025-11-13T03:34:43Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +174,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-13T03:34:43Z"
+    "logs_latest_update": "2025-11-14T03:42:22Z"
   }
 }

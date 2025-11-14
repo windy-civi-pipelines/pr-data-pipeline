@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0834",
-  "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 4-A de la Ley N\u00fam. 118 de 22 de julio de 1974, seg\u00fan enmendada,\nconocida como \u201cLey de la Junta de Libertad Bajo Palabra\u201d, a los fines de disponer el t\u00e9rmino que\ntendr\u00e1 la Junta de Libertad Bajo Palabra para reconsiderar las peticiones de libertad bajo palabra de\nlos miembros de la poblaci\u00f3n correccional; y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 4-A de la Ley N\u00fam. 118 de 22 de julio de 1974, seg\u00fan enmendada, conocida como \u201cLey de la Junta de Libertad Bajo Palabra\u201d, a los fines de disponer el t\u00e9rmino que tendr\u00e1 la Junta de Libertad Bajo Palabra para reconsiderar las peticiones de libertad bajo palabra de los miembros de la poblaci\u00f3n correccional; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,6 +46,80 @@
       "_processing": {
         "log_file_created": "2025-11-01T03:31:20Z"
       }
+    },
+    {
+      "description": "Se da consentimiento para incluir medida en agenda de presente sesi\u00f3n",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Aprobado sin enmiendas",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,11 +138,33 @@
       "note": "Radicado",
       "links": [
         {
-          "url": "https://sutra.oslpr.org/SutraFilesGen/159305/ps0834-25.pdf",
-          "media_type": "application/pdf"
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159305/ps0834-25.doc",
+          "media_type": "application/msword"
         }
       ],
       "date": "2025-10-30",
+      "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido sin enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159305/ps0834-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159305/PS834vs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-13",
       "classification": ""
     }
   ],
@@ -88,7 +184,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-01T03:31:20Z",
+    "logs_latest_update": "2025-11-14T03:42:22Z",
     "text_extraction_latest_update": "2025-11-01T09:08:32.121076Z"
   }
 }

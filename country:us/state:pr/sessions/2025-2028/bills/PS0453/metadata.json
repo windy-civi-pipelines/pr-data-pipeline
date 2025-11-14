@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0453",
-  "title": "\u201cPara a\u00f1adir el sub-inciso 69 al Art\u00edculo 2.04 (b) de la Ley N\u00fam. 85-2018, seg\u00fan enmendada,\nconocida como la \u201cLey de Reforma Educativa de Puerto Rico\u201d; enmendar el inciso (o) del\nArt\u00edculo 1.11 y a\u00f1adir un inciso (v) al Art\u00edculo 2.04 de la Ley 20-2017, seg\u00fan enmendada,\nconocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d; con el fin de\nestablecer programas o curr\u00edculos a nivel de escuela superior para que los estudiantes que tengan\nplanes de ingresar a la Academia de la Polic\u00eda puedan adelantar los cr\u00e9ditos universitarios que\nnecesitar\u00e1n como requisito para ingresar al Negociado despu\u00e9s de graduarse de la Academia;\na\u00f1adir funciones al Centro de Capacitaci\u00f3n y Desarrollo de Seguridad P\u00fablica; facultar al\nComisionado del Negociado de la Polic\u00eda de Puerto Rico a coordinar y establecer en conjunto\ncon el Departamento de Educaci\u00f3n el programa o curr\u00edculo para los estudiantes a nivel de\nescuela superior; y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir el sub-inciso 69 al Art\u00edculo 2.04 (b) de la Ley N\u00fam. 85-2018, seg\u00fan enmendada, conocida como la \u201cLey de Reforma Educativa de Puerto Rico\u201d; enmendar el inciso (o) del Art\u00edculo 1.11 y a\u00f1adir un inciso (v) al Art\u00edculo 2.04 de la Ley 20-2017, seg\u00fan enmendada, conocida como \u201cLey del Departamento de Seguridad P\u00fablica de Puerto Rico\u201d; con el fin de establecer programas o curr\u00edculos a nivel de escuela superior para que los estudiantes que tengan\nplanes de ingresar a la Academia de la Polic\u00eda puedan adelantar los cr\u00e9ditos universitarios que necesitar\u00e1n como requisito para ingresar al Negociado despu\u00e9s de graduarse de la Academia; a\u00f1adir funciones al Centro de Capacitaci\u00f3n y Desarrollo de Seguridad P\u00fablica; facultar al Comisionado del Negociado de la Polic\u00eda de Puerto Rico a coordinar y establecer en conjunto con el Departamento de Educaci\u00f3n el programa o curr\u00edculo para los estudiantes a nivel de escuela superior; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -120,6 +120,16 @@
       "_processing": {
         "log_file_created": "2025-11-06T03:32:18Z"
       }
+    },
+    {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +184,17 @@
       ],
       "date": "2025-07-16",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154655/ps0453-Inf (2do)(Negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -192,6 +213,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-06T03:32:18Z"
+    "logs_latest_update": "2025-11-14T03:42:22Z"
   }
 }

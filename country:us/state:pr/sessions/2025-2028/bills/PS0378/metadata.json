@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0378",
-  "title": "\u201cPara enmendar el Art\u00edculo 31 de la Ley N\u00fam. 5 de 30 de diciembre de 1986, seg\u00fan enmendada,\nconocida como la \"Ley Org\u00e1nica de la Administraci\u00f3n para el Sustento de Menores\", a los fines de\nfacultar al Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n entrar en acuerdos colaborativos con otras\ninstituciones, p\u00fablicas y/o privadas, para que las partes alimentantes que incumplan con el pago de la\npensi\u00f3n lleven a cabo tareas de recogido de caf\u00e9 u otras actividades agr\u00edcolas, mantenimiento de\nescuelas p\u00fablicas, ornato y construcci\u00f3n, entre otras; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar el Art\u00edculo 31 de la Ley N\u00fam. 5 de 30 de diciembre de 1986, seg\u00fan enmendada, conocida como la \"Ley Org\u00e1nica de la Administraci\u00f3n para el Sustento de Menores\", a los fines de facultar al Departamento de Correcci\u00f3n y Rehabilitaci\u00f3n entrar en acuerdos colaborativos con otras instituciones, p\u00fablicas y/o privadas, para que las partes alimentantes que incumplan con el pago de la pensi\u00f3n lleven a cabo tareas de recogido de caf\u00e9 u otras actividades agr\u00edcolas, mantenimiento de escuelas p\u00fablicas, ornato y construcci\u00f3n, entre otras; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,6 +46,82 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Entirillado del Informe",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "En el Calendario de Ordenes Especiales del Senado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Aprobado con enmiendas del informe",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +146,39 @@
       ],
       "date": "2025-02-27",
       "classification": ""
+    },
+    {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154050/ps0378-inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-12",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154050/ps0378-ent.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-12",
+      "classification": ""
+    },
+    {
+      "note": "Aprobado por el Senado en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154050/PS378vs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -88,6 +197,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z"
+    "logs_latest_update": "2025-11-14T03:42:22Z"
   }
 }

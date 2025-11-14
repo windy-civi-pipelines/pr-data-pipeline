@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0855",
+  "title": "\u201cPara a\u00f1adir unos nuevos art\u00edculos 1.04-A, 1.71-A y 1.98-C, enmendar los art\u00edculos 6.19 y 6.27, a\u00f1adir un nuevo Art\u00edculo 6.29, y enmendar los art\u00edculos 10.18 y 10.19 de la Ley 22-2000, seg\u00fan enmendada, conocida como \u201cLey de Veh\u00edculos y Tr\u00e1nsito de Puerto Rico\u201d, a los fines de crear y definir las figuras del \u201cAgente del Orden P\u00fablico por Autoridad Delegada\u201d, \u201cOperador de Terminal de Transporte\u201d y \u201cTerminal de Transporte\u201d; establecer los t\u00e9rminos y el proceso aplicable en casos de abandono de veh\u00edculos dentro de las inmediaciones de un Terminal de Transporte o en estacionamientos que son parte de estos; y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "H\u00e9ctor  J. S\u00e1nchez \u00c1lvarez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"H\\u00e9ctor  J. S\\u00e1nchez \\u00c1lvarez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159413",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:42:22Z"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0571",
-  "title": "\u201cPara crear el \u201cRegistro Nacional de Cuidadores de Puerto Rico\u201d bajo la custodia del Departamento\nde la Familia; establecer su naturaleza, prop\u00f3sito, funciones y requisitos de inscripci\u00f3n; y para otros\nfines relacionados.\u201d",
+  "title": "Para crear el \u201cRegistro Nacional de Cuidadores de Puerto Rico\u201d bajo la custodia del Departamento de la Familia; establecer su naturaleza, prop\u00f3sito, funciones y requisitos de inscripci\u00f3n; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -80,6 +80,16 @@
       }
     },
     {
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
+      }
+    },
+    {
       "description": "Se retira 1er Informe",
       "date": "2025-11-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -97,6 +107,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-13T03:34:43Z"
+      }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:42:22Z"
       }
     }
   ],
@@ -144,6 +166,17 @@
       ],
       "date": "2025-06-19",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155218/ps0571-Inf (2do)(Negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-12",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -162,6 +195,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-13T03:34:43Z"
+    "logs_latest_update": "2025-11-14T03:42:22Z"
   }
 }
