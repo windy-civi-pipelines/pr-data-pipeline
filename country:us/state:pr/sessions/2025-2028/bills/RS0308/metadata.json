@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RS0308",
-  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales del Senado de Puerto Rico a realizar una investigaci\u00f3n exhaustiva sobre el funcionamiento y las labores que actualmente realiza la Oficina de Gerencia Municipal (OGM), adscrita a la Oficina de Gerencia y Presupuesto (OGP), en atenci\u00f3n a las funciones que en su origen fueron encomendadas a la extinta Oficina del Comisionado de Asuntos Municipales (OCAM), incluyendo los servicios de asesor\u00eda legal, t\u00e9cnica y de capacitaci\u00f3n a los municipios de Puerto Rico.",
+  "title": "Para ordenar a la Comisi\u00f3n de Asuntos Municipales del Senado de Puerto Rico realizar una investigaci\u00f3n exhaustiva sobre el funcionamiento y las labores que actualmente realiza la Oficina de Gerencia Municipal (OGM), adscrita a la Oficina de Gerencia y Presupuesto (OGP), en atenci\u00f3n a las funciones que en su origen fueron encomendadas a la extinta Oficina del Comisionado de Asuntos Municipales (OCAM), incluyendo los servicios de asesor\u00eda legal, t\u00e9cnica y de capacitaci\u00f3n a los municipios de Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -146,6 +146,16 @@
       "_processing": {
         "log_file_created": "2025-10-28T03:49:10Z"
       }
+    },
+    {
+      "description": "Vista P\u00fablica: Sal\u00f3n Luis A. Negr\u00f3n L\u00f3pez",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-15T03:38:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,6 +213,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final en Senado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158671/rs0308a-25.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-10-27",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -221,7 +242,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-28T03:49:10Z",
+    "logs_latest_update": "2025-11-15T03:38:57Z",
     "text_extraction_latest_update": "2025-10-28T08:48:50.367159Z"
   }
 }
