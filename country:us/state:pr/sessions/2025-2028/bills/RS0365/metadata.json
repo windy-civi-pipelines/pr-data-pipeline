@@ -22,6 +22,30 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:42:22Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,6 +88,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:42:22Z"
+    "logs_latest_update": "2025-11-18T03:41:58Z"
   }
 }

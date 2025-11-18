@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0697",
-  "title": "\u201cPara crear la \u201cLey para el Deslinde Nacional del archipi\u00e9lago de Puerto Rico\u201d a los fines de\nestablecer un deslinde cient\u00edfico, t\u00e9cnico y jur\u00eddicamente obligatorio de los bienes de dominio\np\u00fablico mar\u00edtimo-terrestre (BDPMT), asegurando as\u00ed la vida y propiedad de las comunidades\ncosteras y la preservaci\u00f3n de ecosistemas sensibles que componen el litoral costero de Puerto Rico.\nDe esta manera se garantizar\u00e1 el balance entre el desarrollo econ\u00f3mico y la naturaleza, logrando la\nsana convivencia con el medio ambiente y un desarrollo econ\u00f3mico compatible con la conservaci\u00f3n\ndel patrimonio del Pueblo de Puerto Rico.\u201d",
+  "title": "Para crear la \u201cLey para el Deslinde Nacional del archipi\u00e9lago de Puerto Rico\u201d a los fines de establecer un deslinde cient\u00edfico, t\u00e9cnico y jur\u00eddicamente obligatorio de los bienes de dominio p\u00fablico mar\u00edtimo-terrestre (BDPMT), asegurando as\u00ed la vida y propiedad de las comunidades costeras y la preservaci\u00f3n de ecosistemas sensibles que componen el litoral costero de Puerto Rico. De esta manera se garantizar\u00e1 el balance entre el desarrollo econ\u00f3mico y la naturaleza, logrando la sana convivencia con el medio ambiente y un desarrollo econ\u00f3mico compatible con la conservaci\u00f3n del patrimonio del Pueblo de Puerto Rico.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -122,6 +122,30 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:42:22Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,11 +158,35 @@
       "organization_id": null
     },
     {
+      "name": "Rafael   Santos Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1ngel   Toledo L\u00f3pez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -156,11 +204,44 @@
       "classification": ""
     },
     {
+      "note": "1er Informe Comisi\u00f3n rendido con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158073/ps0697-Inf.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
+    },
+    {
+      "note": "Entirillado del Informe",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158073/ps0697-ent.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
+    },
+    {
       "note": "Aprobado por el Senado en Votaci\u00f3n Final",
       "links": [
         {
           "url": "https://sutra.oslpr.org/SutraFilesGen/158073/PS697vs.pdf",
           "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158073/ps0697a-25.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         }
       ],
       "date": "2025-11-13",
@@ -183,7 +264,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:42:22Z",
+    "logs_latest_update": "2025-11-18T03:41:58Z",
     "text_extraction_latest_update": "2025-11-14T08:53:26.623912Z"
   }
 }

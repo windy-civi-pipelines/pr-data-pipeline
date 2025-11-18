@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0485",
-  "title": "\u201cPara a\u00f1adir un nuevo Art\u00edculo 11, y reenumerar los actuales art\u00edculos del 11 al 21, como los art\u00edculos del 12 al 22, respectivamente, en la Ley 8-2017, seg\u00fan enmendada, conocida como \u201cLey para la Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos en el Gobierno de Puerto Rico\u201d, a los fines de instituir como la pol\u00edtica p\u00fablica del Gobierno de Puerto Rico, ofrecer un servicio de calidad, \u00e1gil y eficiente a todos nuestros ciudadanos, mediante la inclusi\u00f3n de disposiciones espec\u00edficas dirigidas a lograr la consecuci\u00f3n de este objetivo; derogar la Ley 15-2001, seg\u00fan enmendada, la Ley 16-2001, la Ley 33-2008, seg\u00fan enmendada, y la Ley 204-2010; y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir un nuevo Art\u00edculo 11, y reenumerar los actuales art\u00edculos del 11 al 21, como los art\u00edculos del 12 al 22, respectivamente, en la Ley 8-2017, seg\u00fan enmendada, conocida como \u201cLey para la Administraci\u00f3n y Transformaci\u00f3n de los Recursos Humanos en el Gobierno de Puerto Rico\u201d, a los fines de instituir como la pol\u00edtica p\u00fablica del Gobierno de Puerto Rico, ofrecer un servicio de calidad, \u00e1gil y eficiente a todos nuestros ciudadanos, mediante la inclusi\u00f3n de disposiciones espec\u00edficas dirigidas a lograr la consecuci\u00f3n de este objetivo; derogar la Ley 15-2001, seg\u00fan enmendada, la Ley 16-2001, la Ley 33-2008, seg\u00fan enmendada, y la Ley 204-2010; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -196,17 +196,33 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:42:22Z"
       }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jeison  Rosa Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -229,6 +245,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rafael   Santos Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luis  D. Col\u00f3n  La Santa - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis  D. Col\\u00f3n  La Santa - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilmer  Reyes Berr\u00edos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilmer  Reyes Berr\\u00edos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -299,6 +331,17 @@
       ],
       "date": "2025-11-13",
       "classification": ""
+    },
+    {
+      "note": "Texto de Aprobaci\u00f3n Final enviado a la C\u00e1mara",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154968/ps0485a-25 (2do).doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -317,7 +360,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:42:22Z",
+    "logs_latest_update": "2025-11-18T03:41:58Z",
     "text_extraction_latest_update": "2025-11-14T08:51:00.958411Z"
   }
 }

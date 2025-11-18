@@ -264,6 +264,26 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Ley 127-2025",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,6 +407,17 @@
       ],
       "date": "2025-10-16",
       "classification": ""
+    },
+    {
+      "note": "Ley 127-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153974/00127c0366.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -405,7 +436,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-18T03:41:58Z",
     "text_extraction_latest_update": "2025-10-27T09:36:47.509205Z"
   }
 }

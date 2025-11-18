@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0981",
+  "title": "Para crear la \u201cLey para la Protecci\u00f3n y Conservaci\u00f3n de los Terrenos de Alto Valor Agr\u00edcola de la Autoridad de Tierras de Puerto Rico\u201d; disponer la limitaci\u00f3n a la Autoridad de Tierras de Puerto Rico de realizar ventas, enajenaciones, cesiones, arrendamientos o cualquier acto de disposici\u00f3n sobre terrenos de alto valor agr\u00edcola cuando el fin sea incompatible con su uso \u00f3ptimo; establecer la definici\u00f3n y responsabilidad de designaci\u00f3n de los terrenos de alto valor agr\u00edcola; imponer restricciones respecto a la aprobaci\u00f3n de consultas de ubicaci\u00f3n, permisos de construcci\u00f3n, uso o desarrollo por parte de la Junta de Planificaci\u00f3n, la Oficina de Gerencia de Permisos y los municipios aut\u00f3nomos; disponer sobre reglamentaci\u00f3n; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fernando   Sanabria  Col\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fernando   Sanabria  Col\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159424/PC0981.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159424",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T03:41:58Z"
+  }
+}

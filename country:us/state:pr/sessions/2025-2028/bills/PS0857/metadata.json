@@ -1,0 +1,77 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PS0857",
+  "title": "Para enmendar el sub inciso (f) del inciso (5) del Art\u00edculo 1.5 de la Ley 17-2019, seg\u00fan\nenmendada y conocida como \u201cLey de Pol\u00edtica P\u00fablica Energ\u00e9tica\u201d a los fines de\nestablecer que bajo ning\u00fan concepto el establecimiento de un programa de eficiencia\nenerg\u00e9tica redundar\u00e1 en la imposici\u00f3n de nuevos cargos en la tarifa a los\nconsumidores; ordenar al Negociado de Energ\u00eda a emitir un cese y desista a LUMA\nEnergy y/o a la Autoridad de Energ\u00eda El\u00e9ctrica de Puerto Rico para que no se\ncontin\u00fae facturando a los consumidores el cargo por eficiencia energ\u00e9tica, as\u00ed como\npara iniciar un proceso para otorgar un cr\u00e9dito en la factura de la luz a cada cliente\npor el dinero facturado en virtud de este cargo; y para otros fines relacionados.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Luis J. Hern\u00e1ndez Ortiz - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luis J. Hern\\u00e1ndez Ortiz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159423/ps0857-25.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159423",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-18T03:41:58Z"
+  }
+}

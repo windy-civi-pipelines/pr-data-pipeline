@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0829",
-  "title": "\u201cPara enmendar el Art\u00edculo XII de la Ley N\u00fam. 379-1948, seg\u00fan enmendada, conocida como \u201cLey\npara Establecer la Jornada de Trabajo en Puerto Rico\u201d, con el fin de garantizar transparencia entre\npatronos y empleados respecto a las n\u00f3minas de pago y horas trabajadas; estableciendo la\nobligaci\u00f3n de parte del patrono a proveerle al empleado un desglose de las horas trabajadas de as\u00ed\nsolicitarlo el empleado, y para otros fines relacionados.\u201d",
+  "title": "Para enmendar el Art\u00edculo XII de la Ley N\u00fam. 379-1948, seg\u00fan enmendada, conocida como \u201cLey para Establecer la Jornada de Trabajo en Puerto Rico\u201d, con el fin de garantizar transparencia entre patronos y empleados respecto a las n\u00f3minas de pago y horas trabajadas; estableciendo la obligaci\u00f3n de parte del patrono a proveerle al empleado un desglose de las horas trabajadas de as\u00ed solicitarlo el empleado, y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -46,6 +46,18 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:47:24Z"
       }
+    },
+    {
+      "description": "Retirada por su Autor",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -88,6 +100,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:47:24Z"
+    "logs_latest_update": "2025-11-18T03:41:58Z"
   }
 }

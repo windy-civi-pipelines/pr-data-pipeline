@@ -242,6 +242,16 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:28:54Z"
       }
+    },
+    {
+      "description": "Res. Conj.  41-2025",
+      "date": "2025-11-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:41:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -351,6 +361,17 @@
       ],
       "date": "2025-09-22",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  41-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153745/0041c0051.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-01",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -369,7 +390,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:28:54Z",
+    "logs_latest_update": "2025-11-18T03:41:58Z",
     "text_extraction_latest_update": "2025-10-27T10:44:00.040689Z"
   }
 }
