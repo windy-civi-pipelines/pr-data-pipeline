@@ -1,0 +1,418 @@
+Title: Para establecer la “Ley para la Supervisión sobre Medicamentos Compuestos de Alto
+Official Title: Para establecer la “Ley para la Supervisión sobre Medicamentos Compuestos de Alto
+Number of Sections: 1
+Source: versions - Radicado
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 858
+17 de noviembre de 2025
+Presentado por señor Ríos Santiago
+Referido a la
+LEY
+Riesgo”; requerir la publicación de informes bianuales por parte de la la Secretaría
+Auxiliar para Reglamentación y Acreditación de Facilidades de Salud (SARAFS), y la
+Junta Examinadora de Farmacia sobre la supervisión de las prácticas de preparación
+de medicamentos compuestos; garantizar una mayor visibilidad sobre las acciones
+regulatorias para proteger a los pacientes de medicamentos preparados ilegalmente;
+y otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La preparación ilegal de medicamentos compuestos representa un desafío
+creciente y de gran magnitud en Puerto Rico, que pone en riesgo la seguridad de los
+pacientes y la integridad del sistema de salud. Los ciudadanos merecen medicamentos
+en los que puedan confiar, que sean seguros, efectivos y elaborados conforme a los más
+altos estándares de calidad establecidos por las regulaciones estatales y federales. Sin
+embargo, en los últimos años, se ha observado un aumento alarmante en la distribución
+de medicamentos compuestos sin la supervisión adecuada, lo que constituye una
+amenaza significativa para la salud pública. Este problema es particularmente
+pronunciado en el caso de los medicamentos GLP-1 utilizados para el tratamiento de la
+2
+diabetes y la obesidad, aunque se extiende a otras clases de medicamentos, afectando a
+diversos sectores de la población.
+La preparación de medicamentos compuestos, cuando se realiza conforme a las
+normativas, es una práctica esencial que permite adaptar tratamientos a las necesidades
+específicas de los pacientes. No obstante, la proliferación de actividades de preparación
+ilegal, especialmente en entornos no regulados como spas médicos y clínicas de bienestar,
+ha generado un vacío en la supervisión de los entes reguladores. Estos establecimientos,
+que a menudo operan sin la fiscalización de la Secretaría Auxiliar para Reglamentación y
+Acreditación de Facilidades de Salud ( en adelante, SARAFS) y la Junta Examinadora de
+Farmacia en materia de medicamentos, representan puntos ciegos regulatorios. Los
+actores malintencionados aprovechan estas lagunas legales y de cumplimiento para
+producir y comercializar medicamentos no aprobados a una escala sin precedentes,
+exponiendo a los pacientes a riesgos graves, como la administración de productos
+ineficaces, contaminados o potencialmente peligrosos.
+La falta de transparencia sobre las acciones que los reguladores están tomando
+para abordar este problema agrava la situación. Actualmente, tanto los legisladores como
+el público general carecen de información clara y detallada sobre las medidas adoptadas
+por SARAFS y la Junta Examinadora de Farmacia para garantizar que la preparación de
+medicamentos se realice de manera segura y legal. Esta opacidad dificulta la evaluación
+de la efectividad de las políticas existentes y la identificación de las áreas donde se
+necesitan recursos adicionales o reformas regulatorias. Por ejemplo, no se conoce con
+precisión el número de inspecciones realizadas a instalaciones que manejan
+medicamentos preparados, ni la naturaleza de las violaciones detectadas, ni las acciones
+disciplinarias tomadas contra los infractores. Esta falta de datos también limita la
+capacidad de los responsables de crear políticas para diseñar estrategias que protejan
+eficazmente a los pacientes.
+Además, el aumento en la comercialización de medicamentos preparados a través
+de prácticas engañosas, como la publicidad indebida en plataformas de telemedicina o
+3
+telesalud, añade otra capa de complejidad al problema. Estas prácticas no solo confunden
+a los consumidores, sino que también socavan la confianza en el sistema de salud y en los
+profesionales que operan dentro de los marcos regulatorios establecidos. La ausencia de
+una coordinación efectiva entre las juntas reguladoras y otras agencias estatales,
+contribuye a la persistencia de estas actividades ilícitas.
+Esta Ley busca abordar estas deficiencias al establecer un mecanismo robusto de
+rendición de cuentas y transparencia. Mediante la exigencia de informes bianuales, se
+proporcionará a los legisladores, reguladores y al público una visión clara de las
+actividades de supervisión relacionadas con la preparación de medicamentos. Estos
+informes incluirán datos críticos sobre licencias emitidas, inspecciones realizadas,
+investigaciones abiertas, acciones disciplinarias tomadas y riesgos emergentes. Al
+hacerlo, la Ley no solo promoverá una mayor visibilidad sobre las acciones regulatorias,
+sino que también permitirá identificar las necesidades de recursos humanos y materiales
+de las juntas reguladoras, garantizando que estén adecuadamente equipadas para
+enfrentar los desafíos de la preparación de medicamentos de alto riesgo.
+En última instancia, esta legislación tiene como objetivo fortalecer la protección de
+los pacientes puertorriqueños, asegurando que los medicamentos que reciben sean
+seguros, efectivos y elaborados bajo estrictos estándares de calidad. Al fomentar una
+supervisión más efectiva y coordinada entre la Secretaría Auxiliar para Reglamentación
+y Acreditación de Facilidades de Salud y la Junta Examinadora de Farmacia, esta Ley
+representa un paso crucial hacia la mitigación de los riesgos asociados con la preparación
+ilegal de medicamentos y la restauración de la confianza pública en el sistema de salud.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como la “Ley para la Supervisión sobre Medicamentos
+3 Compuestos de Alto Riesgo”.
+4 Artículo 2.- Propósito
+4
+1 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+2 Salud (SARAFS) y la Junta Examinadora de Farmacia enfrentan un problema sin
+3 precedentes, y en aumento, de pacientes que reciben medicamentos preparados
+4 ilegalmente, lo que representa riesgos significativos para la salud pública.
+5 El propósito de esta Ley es entender la naturaleza y escala de las actividades de
+6 preparación de medicamentos, incluyendo la supervisión actual de dichas
+7 actividades, para informar futuros esfuerzos que aseguren que los reguladores
+8 cuenten con los recursos necesarios para proteger a los pacientes.
+9 Artículo 3.- Definiciones
+10 (a) Informe bianual: Reporte que debe ser publicado dos veces al año por las
+11 juntas reguladoras, conteniendo datos sobre la supervisión de la
+12 preparación de medicamentos, conforme a los requisitos de esta Ley.
+13 (b) Junta Examinadora de Farmacia: La entidad reguladora establecida bajo la
+14 Ley Núm. 247-2004 de Puerto Rico encargada de supervisar la práctica de
+15 la farmacia, incluyendo la preparación, distribución y dispensación de
+16 medicamentos.
+17 (c) Medicamentos Compuestos: La práctica de combinar, mezclar o alterar
+18 ingredientes para crear un medicamento adaptado a las necesidades de un
+19 paciente, realizada por farmacias, instalaciones de subcontratación o
+20 profesionales autorizados, conforme a las regulaciones aplicables.
+21 (d) Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+22 Salud (SARAFS): Dependencia del Departamento de Salud de Puerto Rico
+5
+1 encargada de inspeccionar y licenciar facilidades de salud para garantizar
+2 que cumplan con las leyes y estándares de calidad. Reglamenta y supervisa
+3 hospitales, farmacias, centros de cirugía ambulatoria y otros servicios de
+4 salud en la isla.
+5 (e) Spa médico o clínica de bienestar: Establecimiento que ofrece servicios
+6 médicos o de bienestar, incluyendo la administración o dispensación de
+7 medicamentos preparados, pero que no está licenciado como hospital o
+8 centro quirúrgico ambulatorio.
+9 Artículo 4.- Informe sobre Supervisión de la Preparación de Medicamentos
+10 Compuestos.
+11 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+12 Salud (SARAFS), junto con la Junta Examinadora de Farmacia y el Departamento de
+13 Justicia, desarrollará y publicará un informe bianual sobre la supervisión de la
+14 preparación de medicamentos y los riesgos compuestos asociados con dichas
+15 prácticas. Dicho informe incluirá los siguientes elementos:
+16 (a) El número y tipo de licencias emitidas por la Secretaría Auxiliar para
+17 Reglamentación y Acreditación de Facilidades de Salud (SARAFS) y la Junta
+18 Examinadora de Farmacia según aplique, bajo las cuales el titular de la
+19 licencia pueda realizar la preparación de medicamentos compuestos,
+20 incluyendo un desglose de licencias residentes y no residentes, y licencias
+21 para preparación de medicamentos estéril compuestos.
+6
+1 (b) El número de instalaciones y prácticas licenciadas que han sido
+2 inspeccionadas en el último año y en los últimos tres años, desglosado por
+3 tipo de licencia.
+4 (c) El número de inspecciones realizadas a instalaciones y prácticas
+5 involucradas en la preparación de medicamentos compuestos, o en el
+6 manejo, almacenamiento, administración, dispensación, distribución u otro
+7 uso de medicamentos preparados en el ámbito minorista o ambulatorio,
+8 incluyendo farmacias 503A, instalaciones de subcontratación 503B y spas
+9 médicos, pero excluyendo instalaciones de salud licenciadas como
+10 hospitales o centros quirúrgicos ambulatorios.
+11 (d) Una descripción de la naturaleza y gravedad de cualquier deficiencia o
+12 posible violación observada durante las inspecciones.
+13 (e) El número de investigaciones abiertas por cada entidad reguladora, o
+14 cualquier otra agencia estatal, relacionadas con la preparación de
+15 medicamentos.
+16 (f) El número y tipo de acciones disciplinarias tomadas por cada entidad
+17 reguladora, o cualquier otra agencia estatal, relacionadas con la preparación
+18 de medicamentos compuestos.
+19 (g) El número y tipo de acciones disciplinarias tomadas por cada entidad
+20 reguladora, o cualquier otra agencia estatal, relacionadas con la
+21 comercialización, publicidad o promoción engañosa o indebida de
+7
+1 medicamentos compuestos, servicios de telemedicina o servicios de
+2 telesalud.
+3 (h) Una evaluación de los recursos humanos y materiales de la Junta de
+4 Farmacia, así como de Secretaría Auxiliar para Reglamentación y
+5 Acreditación de Facilidades de Salud, en relación con la escala estimada de
+6 la preparación de medicamentos compuestos de alto riesgo.
+7 (i) Un análisis de la naturaleza y gravedad de los riesgos emergentes
+8 relacionados con la preparación de medicamentos compuestos, y la
+9 distribución, comercialización y venta de medicamentos compuestos.
+10 El primer informe se publicará a más tardar el 1 de septiembre de 2026, con
+11 datos correspondientes del 1 de enero de 2026 al 30 de junio de 2026. Posteriormente,
+12 los informes se publicarán dos veces al año, a más tardar el 1 de marzo y el 1 de
+13 septiembre de cada año, conteniendo datos de los seis meses anteriores,
+14 respectivamente.
+15 Artículo 5.- Deber de Coordinación.
+16 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+17 Salud (SARAFS) lidera la cordinación con la Junta Examinadora de Farmacia, el
+18 Departamento de Justicia, para garantizar la recopilación precisa y oportuna de los
+19 datos requeridos para los informes bianuales. La Junta Examinadora de Farmacia
+20 proporcionará la información relevante dentro de sus jurisdicciones en un plazo no
+21 mayor a 30 días naturales tras la solicitud de SARAFS.
+22 Artículo 6.- Acceso Público.
+8
+1 Los informes bianuales serán publicados en los sitios web oficiales de la
+2 Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de Salud
+3 (SARAFS) y de la Junta Examinadora de Farmacia, además de estar disponibles para
+4 consulta pública sin costo alguno. Las entidades notificarán al público sobre la
+5 publicación de cada informe mediante comunicados oficiales.
+6 Artículo 7.- Prohibición de Costos Adicionales.
+7 Se prohíbe imponer cualquier cargo monetario a los ciudadanos, profesionales
+8 de la salud o instalaciones licenciadas para el cumplimiento de las disposiciones de
+9 esta Ley.
+10 Artículo 8- Cláusula de separabilidad.
+11 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+12 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+13 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+14 dictamen adverso.
+15 Artículo 9.- Vigencia.
+16 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+[DELETED:  Aa  S.d L    p i d m c r u d m c s l s a l q c u s p l s p E p e p]
+[DELETED:  e m d m r p c r L m a e l l y d c p y c m n a a u e s p a l p a r g c l a d p l e d l p e y l i d l á d s e n d i r a i q m t c l i E f d d t l l]
+[DELETED:  c e e l j r y o a e a l l r y a p u v c d l d s r c l p d m E i d c s l e i r a a d t y r e A l j r g q e a e p p p a q l m q r s]
+[DELETED:  ( y l J E d F e u p s y e a d p q r m p d m i l s a d d p i f e q a q l r)I r c d s l s d l)J f i l p d y d d)M C L p d c m o a r p f i d s o)S]
+[DELETED: )S m o c d b E q o s p p q n e l c h o 4 I s S d l P d M d y p u i b s l s d l d m y l r c a c d)E n y t d l e p l S A p d F s a b l c e t d l p r l p d m c]
+[DELETED: )E n d i y p l q h s)E n d i r a i y p e l p d m c o e e p e i d s l c)U d d l n y g d c d o)E n d i a p c e r o o a e r c l p d)E n y t d a d t p c e)E n y t d a d t p c e o c o a e r c l p o p e o i d]
+[DELETED:  c s d t o s d)U e d l r h y m d l J d a c d S A p R y)U a d l n y g d l r e c l p d m c y l d c a c d d l s m a ( l l c c l J E d F  e r p l i b L J E d F. ]
+[DELETED:  i b s p e l s w o d l A p R y A d F d S p s c a L e n a p s l a d l d d e L o s a f d o n t d d i o n n a l y v d l r d q n h s o d]
+
+
+================================================================================
+
+Raw Text:
+GOBIERNO DE PUERTO RICO
+20 ma. Asamblea 2 da. Sesión
+Legislativa Ordinaria
+SENADO DE PUERTO RICO
+P. del S. 858
+17 de noviembre de 2025
+Presentado por señor Ríos Santiago
+Referido a la
+LEY
+Para establecer la “Ley para la Supervisión sobre Medicamentos Compuestos de Alto
+Riesgo”; requerir la publicación de informes bianuales por parte de la la Secretaría
+Auxiliar para Reglamentación y Acreditación de Facilidades de Salud (SARAFS), y la
+Junta Examinadora de Farmacia sobre la supervisión de las prácticas de preparación
+de medicamentos compuestos; garantizar una mayor visibilidad sobre las acciones
+regulatorias para proteger a los pacientes de medicamentos preparados ilegalmente;
+y otros fines relacionados.
+EXPOSICIÓN DE MOTIVOS
+La preparación ilegal de medicamentos compuestos representa un desafío
+creciente y de gran magnitud en Puerto Rico, que pone en riesgo la seguridad de los
+pacientes y la integridad del sistema de salud. Los ciudadanos merecen medicamentos
+en los que puedan confiar, que sean seguros, efectivos y elaborados conforme a los más
+altos estándares de calidad establecidos por las regulaciones estatales y federales. Sin
+embargo, en los últimos años, se ha observado un aumento alarmante en la distribución
+de medicamentos compuestos sin la supervisión adecuada, lo que constituye una
+amenaza significativa para la salud pública. Este problema es particularmente
+pronunciado en el caso de los medicamentos GLP-1 utilizados para el tratamiento de la
+
+2
+diabetes y la obesidad, aunque se extiende a otras clases de medicamentos, afectando a
+diversos sectores de la población.
+La preparación de medicamentos compuestos, cuando se realiza conforme a las
+normativas, es una práctica esencial que permite adaptar tratamientos a las necesidades
+específicas de los pacientes. No obstante, la proliferación de actividades de preparación
+ilegal, especialmente en entornos no regulados como spas médicos y clínicas de bienestar,
+ha generado un vacío en la supervisión de los entes reguladores. Estos establecimientos,
+que a menudo operan sin la fiscalización de la Secretaría Auxiliar para Reglamentación y
+Acreditación de Facilidades de Salud ( en adelante, SARAFS) y la Junta Examinadora de
+Farmacia en materia de medicamentos, representan puntos ciegos regulatorios. Los
+actores malintencionados aprovechan estas lagunas legales y de cumplimiento para
+producir y comercializar medicamentos no aprobados a una escala sin precedentes,
+exponiendo a los pacientes a riesgos graves, como la administración de productos
+ineficaces, contaminados o potencialmente peligrosos.
+La falta de transparencia sobre las acciones que los reguladores están tomando
+para abordar este problema agrava la situación. Actualmente, tanto los legisladores como
+el público general carecen de información clara y detallada sobre las medidas adoptadas
+por SARAFS y la Junta Examinadora de Farmacia para garantizar que la preparación de
+medicamentos se realice de manera segura y legal. Esta opacidad dificulta la evaluación
+de la efectividad de las políticas existentes y la identificación de las áreas donde se
+necesitan recursos adicionales o reformas regulatorias. Por ejemplo, no se conoce con
+precisión el número de inspecciones realizadas a instalaciones que manejan
+medicamentos preparados, ni la naturaleza de las violaciones detectadas, ni las acciones
+disciplinarias tomadas contra los infractores. Esta falta de datos también limita la
+capacidad de los responsables de crear políticas para diseñar estrategias que protejan
+eficazmente a los pacientes.
+Además, el aumento en la comercialización de medicamentos preparados a través
+de prácticas engañosas, como la publicidad indebida en plataformas de telemedicina o
+
+3
+telesalud, añade otra capa de complejidad al problema. Estas prácticas no solo confunden
+a los consumidores, sino que también socavan la confianza en el sistema de salud y en los
+profesionales que operan dentro de los marcos regulatorios establecidos. La ausencia de
+una coordinación efectiva entre las juntas reguladoras y otras agencias estatales,
+contribuye a la persistencia de estas actividades ilícitas.
+Esta Ley busca abordar estas deficiencias al establecer un mecanismo robusto de
+rendición de cuentas y transparencia. Mediante la exigencia de informes bianuales, se
+proporcionará a los legisladores, reguladores y al público una visión clara de las
+actividades de supervisión relacionadas con la preparación de medicamentos. Estos
+informes incluirán datos críticos sobre licencias emitidas, inspecciones realizadas,
+investigaciones abiertas, acciones disciplinarias tomadas y riesgos emergentes. Al
+hacerlo, la Ley no solo promoverá una mayor visibilidad sobre las acciones regulatorias,
+sino que también permitirá identificar las necesidades de recursos humanos y materiales
+de las juntas reguladoras, garantizando que estén adecuadamente equipadas para
+enfrentar los desafíos de la preparación de medicamentos de alto riesgo.
+En última instancia, esta legislación tiene como objetivo fortalecer la protección de
+los pacientes puertorriqueños, asegurando que los medicamentos que reciben sean
+seguros, efectivos y elaborados bajo estrictos estándares de calidad. Al fomentar una
+supervisión más efectiva y coordinada entre la Secretaría Auxiliar para Reglamentación
+y Acreditación de Facilidades de Salud y la Junta Examinadora de Farmacia, esta Ley
+representa un paso crucial hacia la mitigación de los riesgos asociados con la preparación
+ilegal de medicamentos y la restauración de la confianza pública en el sistema de salud.
+DECRÉTASE POR LA ASAMBLEA LEGISLATIVA DE PUERTO RICO:
+1 Artículo 1.- Título
+2 Esta Ley se conocerá como la “Ley para la Supervisión sobre Medicamentos
+3 Compuestos de Alto Riesgo”.
+4 Artículo 2.- Propósito
+
+4
+1 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+2 Salud (SARAFS) y la Junta Examinadora de Farmacia enfrentan un problema sin
+3 precedentes, y en aumento, de pacientes que reciben medicamentos preparados
+4 ilegalmente, lo que representa riesgos significativos para la salud pública.
+5 El propósito de esta Ley es entender la naturaleza y escala de las actividades de
+6 preparación de medicamentos, incluyendo la supervisión actual de dichas
+7 actividades, para informar futuros esfuerzos que aseguren que los reguladores
+8 cuenten con los recursos necesarios para proteger a los pacientes.
+9 Artículo 3.- Definiciones
+10 (a) Informe bianual: Reporte que debe ser publicado dos veces al año por las
+11 juntas reguladoras, conteniendo datos sobre la supervisión de la
+12 preparación de medicamentos, conforme a los requisitos de esta Ley.
+13 (b) Junta Examinadora de Farmacia: La entidad reguladora establecida bajo la
+14 Ley Núm. 247-2004 de Puerto Rico encargada de supervisar la práctica de
+15 la farmacia, incluyendo la preparación, distribución y dispensación de
+16 medicamentos.
+17 (c) Medicamentos Compuestos: La práctica de combinar, mezclar o alterar
+18 ingredientes para crear un medicamento adaptado a las necesidades de un
+19 paciente, realizada por farmacias, instalaciones de subcontratación o
+20 profesionales autorizados, conforme a las regulaciones aplicables.
+21 (d) Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+22 Salud (SARAFS): Dependencia del Departamento de Salud de Puerto Rico
+
+5
+1 encargada de inspeccionar y licenciar facilidades de salud para garantizar
+2 que cumplan con las leyes y estándares de calidad. Reglamenta y supervisa
+3 hospitales, farmacias, centros de cirugía ambulatoria y otros servicios de
+4 salud en la isla.
+5 (e) Spa médico o clínica de bienestar: Establecimiento que ofrece servicios
+6 médicos o de bienestar, incluyendo la administración o dispensación de
+7 medicamentos preparados, pero que no está licenciado como hospital o
+8 centro quirúrgico ambulatorio.
+9 Artículo 4.- Informe sobre Supervisión de la Preparación de Medicamentos
+10 Compuestos.
+11 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+12 Salud (SARAFS), junto con la Junta Examinadora de Farmacia y el Departamento de
+13 Justicia, desarrollará y publicará un informe bianual sobre la supervisión de la
+14 preparación de medicamentos y los riesgos compuestos asociados con dichas
+15 prácticas. Dicho informe incluirá los siguientes elementos:
+16 (a) El número y tipo de licencias emitidas por la Secretaría Auxiliar para
+17 Reglamentación y Acreditación de Facilidades de Salud (SARAFS) y la Junta
+18 Examinadora de Farmacia según aplique, bajo las cuales el titular de la
+19 licencia pueda realizar la preparación de medicamentos compuestos,
+20 incluyendo un desglose de licencias residentes y no residentes, y licencias
+21 para preparación de medicamentos estéril compuestos.
+
+6
+1 (b) El número de instalaciones y prácticas licenciadas que han sido
+2 inspeccionadas en el último año y en los últimos tres años, desglosado por
+3 tipo de licencia.
+4 (c) El número de inspecciones realizadas a instalaciones y prácticas
+5 involucradas en la preparación de medicamentos compuestos, o en el
+6 manejo, almacenamiento, administración, dispensación, distribución u otro
+7 uso de medicamentos preparados en el ámbito minorista o ambulatorio,
+8 incluyendo farmacias 503A, instalaciones de subcontratación 503B y spas
+9 médicos, pero excluyendo instalaciones de salud licenciadas como
+10 hospitales o centros quirúrgicos ambulatorios.
+11 (d) Una descripción de la naturaleza y gravedad de cualquier deficiencia o
+12 posible violación observada durante las inspecciones.
+13 (e) El número de investigaciones abiertas por cada entidad reguladora, o
+14 cualquier otra agencia estatal, relacionadas con la preparación de
+15 medicamentos.
+16 (f) El número y tipo de acciones disciplinarias tomadas por cada entidad
+17 reguladora, o cualquier otra agencia estatal, relacionadas con la preparación
+18 de medicamentos compuestos.
+19 (g) El número y tipo de acciones disciplinarias tomadas por cada entidad
+20 reguladora, o cualquier otra agencia estatal, relacionadas con la
+21 comercialización, publicidad o promoción engañosa o indebida de
+
+7
+1 medicamentos compuestos, servicios de telemedicina o servicios de
+2 telesalud.
+3 (h) Una evaluación de los recursos humanos y materiales de la Junta de
+4 Farmacia, así como de Secretaría Auxiliar para Reglamentación y
+5 Acreditación de Facilidades de Salud, en relación con la escala estimada de
+6 la preparación de medicamentos compuestos de alto riesgo.
+7 (i) Un análisis de la naturaleza y gravedad de los riesgos emergentes
+8 relacionados con la preparación de medicamentos compuestos, y la
+9 distribución, comercialización y venta de medicamentos compuestos.
+10 El primer informe se publicará a más tardar el 1 de septiembre de 2026, con
+11 datos correspondientes del 1 de enero de 2026 al 30 de junio de 2026. Posteriormente,
+12 los informes se publicarán dos veces al año, a más tardar el 1 de marzo y el 1 de
+13 septiembre de cada año, conteniendo datos de los seis meses anteriores,
+14 respectivamente.
+15 Artículo 5.- Deber de Coordinación.
+16 La Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de
+17 Salud (SARAFS) lidera la cordinación con la Junta Examinadora de Farmacia, el
+18 Departamento de Justicia, para garantizar la recopilación precisa y oportuna de los
+19 datos requeridos para los informes bianuales. La Junta Examinadora de Farmacia
+20 proporcionará la información relevante dentro de sus jurisdicciones en un plazo no
+21 mayor a 30 días naturales tras la solicitud de SARAFS.
+22 Artículo 6.- Acceso Público.
+
+8
+1 Los informes bianuales serán publicados en los sitios web oficiales de la
+2 Secretaría Auxiliar para Reglamentación y Acreditación de Facilidades de Salud
+3 (SARAFS) y de la Junta Examinadora de Farmacia, además de estar disponibles para
+4 consulta pública sin costo alguno. Las entidades notificarán al público sobre la
+5 publicación de cada informe mediante comunicados oficiales.
+6 Artículo 7.- Prohibición de Costos Adicionales.
+7 Se prohíbe imponer cualquier cargo monetario a los ciudadanos, profesionales
+8 de la salud o instalaciones licenciadas para el cumplimiento de las disposiciones de
+9 esta Ley.
+10 Artículo 8- Cláusula de separabilidad.
+11 Si alguna de las disposiciones de esta Ley o su aplicación fuere declarada
+12 inconstitucional o nula, tal dictamen de invalidez o nulidad no afectará la
+13 ejecutabilidad y vigor de las restantes disposiciones que no hayan sido objeto de
+14 dictamen adverso.
+15 Artículo 9.- Vigencia.
+16 Esta Ley comenzará a regir inmediatamente después de su aprobación.
+
+[DELETED:  Aa  S.d L    p i d m c r u d m c s l s a l q c u s p l s p E p e p]
+[DELETED:  e m d m r p c r L m a e l l y d c p y c m n a a u e s p a l p a r g c l a d p l e d l p e y l i d l á d s e n d i r a i q m t c l i E f d d t l l]
+[DELETED:  c e e l j r y o a e a l l r y a p u v c d l d s r c l p d m E i d c s l e i r a a d t y r e A l j r g q e a e p p p a q l m q r s]
+[DELETED:  ( y l J E d F e u p s y e a d p q r m p d m i l s a d d p i f e q a q l r)I r c d s l s d l)J f i l p d y d d)M C L p d c m o a r p f i d s o)S]
+[DELETED: )S m o c d b E q o s p p q n e l c h o 4 I s S d l P d M d y p u i b s l s d l d m y l r c a c d)E n y t d l e p l S A p d F s a b l c e t d l p r l p d m c]
+[DELETED: )E n d i y p l q h s)E n d i r a i y p e l p d m c o e e p e i d s l c)U d d l n y g d c d o)E n d i a p c e r o o a e r c l p d)E n y t d a d t p c e)E n y t d a d t p c e o c o a e r c l p o p e o i d]
+[DELETED:  c s d t o s d)U e d l r h y m d l J d a c d S A p R y)U a d l n y g d l r e c l p d m c y l d c a c d d l s m a ( l l c c l J E d F  e r p l i b L J E d F. ]
+[DELETED:  i b s p e l s w o d l A p R y A d F d S p s c a L e n a p s l a d l d d e L o s a f d o n t d d i o n n a l y v d l r d q n h s o d]
