@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0486",
-  "title": "\u201cPara a\u00f1adir una nueva Secci\u00f3n 1081.07 a la Ley N\u00fam. 1-2011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d con el fin de crear las cuentas de ahorro para personas con discapacidades (\u201cABLE Accounts\u201d) y para otros fines relacionados.\u201d",
+  "title": "Para a\u00f1adir una nueva Secci\u00f3n 1081.07 a la Ley N\u00fam. 1-2011, seg\u00fan enmendada, conocida como \u201cC\u00f3digo de Rentas Internas de Puerto Rico de 2011\u201d con el fin de crear las cuentas de ahorro para personas con discapacidades (\u201cABLE Accounts\u201d) y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -222,6 +222,26 @@
       "_processing": {
         "log_file_created": "2025-11-04T03:38:42Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +340,17 @@
       ],
       "date": "2025-11-03",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154969/ps0486e-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-03",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -338,7 +369,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T03:38:42Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-04T08:47:34.612605Z"
   }
 }

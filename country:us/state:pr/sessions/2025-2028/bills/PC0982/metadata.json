@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "PC0982",
+  "title": "Para adicionar un Art\u00edculo 19A a la Ley N\u00fam. 81 de 14 de marzo de 1912, seg\u00fan enmendada; adicionar un inciso (3) al Art\u00edculo 2; enmendar el inciso (i); adicionar un nuevo inciso (m), y redesignar los actuales incisos (m) a la (q) como incisos (n) a la (r); y adicionar un inciso (s) al Art\u00edculo 3; adicionar los Art\u00edculos 7A y 7B a la Ley N\u00fam. 14-2017, seg\u00fan enmendada, conocida como \u201cLey de Incentivos Para La Retenci\u00f3n y Retorno de Profesionales M\u00e9dicos\u201d; y adicionar un inciso (d) al Art\u00edculo 22 a la Ley N\u00fam. 139-2008, seg\u00fan enmendada, conocida como \u201cLey de la Junta de Licenciamiento y Disciplina M\u00e9dica\u201d, a fin de que el Secretario de Salud establezca mediante reglamentaci\u00f3n el \u201cPrograma Regresa M\u00e9dico\u201d, elabore su definici\u00f3n, disponga, en conjunto con el Departamento de Hacienda, un cr\u00e9dito contributivo por reubicaci\u00f3n profesional y bonificaci\u00f3n \u00fanica por establecer su pr\u00e1ctica m\u00e9dica en Zona de Escasez Cr\u00edtica; y que la Junta de Licenciamiento y Disciplina M\u00e9dica, en coordinaci\u00f3n con el Secretario de Salud, desarrollen un proceso de licenciamiento acelerado a los m\u00e9dicos puertorrique\u00f1os que est\u00e9n laborando en el exterior; dispongan las pautas reglamentarias, remitan un informe anual; y se asignen fondos para la instituci\u00f3n del Programa.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tatiana  P\u00e9rez Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tatiana  P\\u00e9rez Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159427/PC0982.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-17",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159427",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T03:41:26Z"
+  }
+}

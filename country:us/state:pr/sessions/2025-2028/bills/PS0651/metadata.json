@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0651",
-  "title": "\u201cPara enmendar la Subsecci\u00f3n E de la Ley N\u00fam. 60-2019, seg\u00fan enmendada, el \u201cC\u00f3digo de\nIncentivos de Puerto Rico\u201d, con el prop\u00f3sito de actualizarla de conformidad a la Ley 121 de 1 de\nagosto de 2019, seg\u00fan enmendada; crear una nueva secci\u00f3n 2025.03 en dicha Subsecci\u00f3n E de la\nLey 60-2019, con el prop\u00f3sito de uniformar la pol\u00edtica p\u00fablica para el desarrollo empresarial\nintergeneracional y encomendar al Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC)\nla implantaci\u00f3n de la pol\u00edtica p\u00fablica establecida por esta ley; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar la Subsecci\u00f3n E de la Ley N\u00fam. 60-2019, seg\u00fan enmendada, el \u201cC\u00f3digo de Incentivos de Puerto Rico\u201d, con el prop\u00f3sito de actualizarla de conformidad a la Ley 121 de 1 de agosto de 2019, seg\u00fan enmendada; crear una nueva secci\u00f3n 2025.03 en dicha Subsecci\u00f3n E de la Ley 60-2019, con el prop\u00f3sito de uniformar la pol\u00edtica p\u00fablica para el desarrollo empresarial intergeneracional y encomendar al Departamento de Desarrollo Econ\u00f3mico y Comercio (DDEC) la implantaci\u00f3n de la pol\u00edtica p\u00fablica establecida por esta ley; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -190,6 +190,26 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:42:22Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -199,6 +219,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"\\u00c1ngel   Toledo L\\u00f3pez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -215,14 +243,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ada   \u00c1lvarez Conde - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ada   \\u00c1lvarez Conde - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -279,6 +299,28 @@
       ],
       "date": "2025-11-12",
       "classification": ""
+    },
+    {
+      "note": "Aprobado por C\u00e1mara en Votaci\u00f3n Final",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156277/PS0651 vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156277/ps0651e-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-13",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -297,7 +339,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:42:22Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-14T08:49:59.205653Z"
   }
 }

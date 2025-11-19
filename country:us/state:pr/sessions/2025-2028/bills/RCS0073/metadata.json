@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0073",
-  "title": "\u201cPara ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, la Autoridad de los Puertos y a la Autoridad de Carreteras y Transportaci\u00f3n a rendir un informe sobre el estado de las rotulaciones, marcadores y luminarias en las carreteras alrededor de la Base Ramey y ordenarles a presentar a la Asamblea Legislativa un plan de trabajo detallado, a corto y mediano plazo, para atender las deficiencias y necesidades identificadas que incluya los posibles planes de desarrollo de infraestructura; y para otros asuntos relacionados.\u201d",
+  "title": "Para ordenar al Departamento de Transportaci\u00f3n y Obras P\u00fablicas, la Autoridad de los Puertos y a la Autoridad de Carreteras y Transportaci\u00f3n a rendir un informe sobre el estado de las rotulaciones, marcadores y luminarias en las carreteras alrededor de la Base Ramey y ordenarles a presentar a la Asamblea Legislativa un plan de trabajo detallado, a corto y mediano plazo, para atender las deficiencias y necesidades identificadas que incluya los posibles planes de desarrollo de infraestructura; y para otros asuntos relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -268,6 +268,46 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:42:22Z"
       }
+    },
+    {
+      "description": "Cuerpo de Origen concurre con enmiendas",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -369,6 +409,28 @@
       ],
       "date": "2025-11-13",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156460/RCS73vs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156460/rcs0073e-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -387,7 +449,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:41:58Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-18T08:51:11.125005Z"
   }
 }

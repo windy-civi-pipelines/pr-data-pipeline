@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RCS0036",
-  "title": "\u201cPara ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Propiedades Inmuebles, creado por la\nLey N\u00fam. 26-2017, seg\u00fan enmendada, evaluar conforme a las disposiciones de Ley y el\nreglamento la viabilidad de transferir al Gobierno Municipal de Rinc\u00f3n, la titularidad de los\nterrenos y estructuras del Antiguo plantel escolar Juan Ruiz Pedroza, que ubica en la Calle Sol,\nBarrio Pueblo del Municipio de Rinc\u00f3n; perteneciente al Departamento de Trasportaci\u00f3n y Obras\nP\u00fablicas de Puerto Rico; y para otros fines relacionados.\u201d",
+  "title": "Para ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Propiedades Inmuebles, creado por la Ley N\u00fam. 26-2017, seg\u00fan enmendada, evaluar conforme a las disposiciones de Ley y el reglamento la viabilidad de transferir al Gobierno Municipal de Rinc\u00f3n, la titularidad de los terrenos y estructuras del Antiguo plantel escolar Juan Ruiz Pedroza, que ubica en la Calle Sol, Barrio Pueblo del Municipio de Rinc\u00f3n; perteneciente al Departamento de Trasportaci\u00f3n y Obras P\u00fablicas de Puerto Rico; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -234,6 +234,26 @@
       "_processing": {
         "log_file_created": "2025-11-11T03:32:45Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,6 +344,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/154674/rcs0036-25.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -342,7 +373,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T03:32:45Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-11T08:55:19.014084Z"
   }
 }

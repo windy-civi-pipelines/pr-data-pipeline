@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "1er Informe de Comit\u00e9 de Conferencia rendido",
+    "date": "2025-11-18T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "PS0063"
+}

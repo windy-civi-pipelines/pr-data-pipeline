@@ -236,6 +236,16 @@
       }
     },
     {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
       "description": "Firmado por el Presidente del Senado",
       "date": "2025-11-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -363,7 +373,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:41:58Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-18T08:52:59.774322Z"
   }
 }

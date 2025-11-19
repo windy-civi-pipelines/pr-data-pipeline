@@ -234,16 +234,6 @@
       }
     },
     {
-      "description": "En el Calendario de Ordenes Especiales del Senado",
-      "date": "2025-11-13T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-14T03:42:22Z"
-      }
-    },
-    {
       "description": "Se retira 1er Informe",
       "date": "2025-11-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -264,13 +254,13 @@
       }
     },
     {
-      "description": "Qued\u00f3 Pendiente de Acci\u00f3n Posterior en el Senado",
-      "date": "2025-11-13T04:00:00+00:00",
+      "description": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "date": "2025-11-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-14T03:42:22Z"
+        "log_file_created": "2025-11-19T03:41:26Z"
       }
     }
   ],
@@ -373,6 +363,17 @@
       ],
       "date": "2025-11-12",
       "classification": ""
+    },
+    {
+      "note": "Comisi\u00f3n no recomienda aprobaci\u00f3n de la medida",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155261/pc0544-Inf (2do Negativo).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -391,7 +392,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:42:22Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-14T08:53:23.765356Z"
   }
 }

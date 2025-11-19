@@ -1,0 +1,69 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RS0378",
+  "title": "Para que el Senado de Puerto Rico exprese su m\u00e1s sincera felicitaci\u00f3n y reconocimiento a a la Tuna Alondras de Puerto Rico, fundada el 14 de septiembre de 1995 por diez mujeres puertorrique\u00f1as comprometidas con preservar y desarrollar la tradici\u00f3n de tunas en la Isla, por su valiosa trayectoria de treinta a\u00f1os. La Tuna Alondras se ha posicionado como la cuarta tuna femenina establecida en Puerto Rico y compuesta mayormente por exalumnas de la Universidad de Puerto Rico, Recinto de R\u00edo Piedras, la agrupaci\u00f3n ha sido ejemplo de liderazgo, disciplina y excelencia musical.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jos\u00e9 Luis  Dalmau Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jos\\u00e9 Luis  Dalmau Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Radicado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/159445/rs0378-25 (1).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159445",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-19T03:41:26Z"
+  }
+}

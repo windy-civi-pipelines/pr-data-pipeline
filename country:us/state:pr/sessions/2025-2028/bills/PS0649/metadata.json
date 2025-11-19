@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "PS0649",
-  "title": "\u201cPara enmendar los Art\u00edculos 3 y 8 de la Ley N\u00fam. 29-2009, seg\u00fan enmendada, mejor conocida\ncomo \u201cLey de las Alianzas P\u00fablico Privadas\u201d con el prop\u00f3sito de incluir como objeto para\nconvertirse en Contrato de Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n viviendas para\npersonas de edad avanzada y para la construcci\u00f3n, mantenimiento u operaci\u00f3n de edificaciones\ncuyo \u00fanico prop\u00f3sito sea el establecimiento de hogares sustitutitos, grupales o centros de cuido\nprolongado para adultos mayores para personas de edad avanzada en Puerto Rico; establecer la\ncomposici\u00f3n del Comit\u00e9 de Alianza para este prop\u00f3sito; enmendar los Art\u00edculos 5.01 6 5.06 de la\nLey N\u00fam. 26-2017, seg\u00fan enmendada, conocida como la \u201cLey de Cumplimiento con el Plan\nFiscal\u201d, a los fines de autorizar la utilizaci\u00f3n de edificios gubernamentales y escuelas en desuso\npara estos prop\u00f3sitos; y para otros fines relacionados.\u201d",
+  "title": "Para enmendar los Art\u00edculos 3 y 8 de la Ley N\u00fam. 29-2009, seg\u00fan enmendada, mejor conocida como \u201cLey de las Alianzas P\u00fablico Privadas\u201d con el prop\u00f3sito de incluir como objeto para convertirse en Contrato de Alianza la construcci\u00f3n, mantenimiento u operaci\u00f3n viviendas para personas de edad avanzada y para la construcci\u00f3n, mantenimiento u operaci\u00f3n de edificaciones cuyo \u00fanico prop\u00f3sito sea el establecimiento de hogares sustitutitos, grupales o centros de cuido prolongado para adultos mayores para personas de edad avanzada en Puerto Rico; establecer la composici\u00f3n del Comit\u00e9 de Alianza para este prop\u00f3sito; enmendar los Art\u00edculos 5.01 6 5.06 de la\nLey N\u00fam. 26-2017, seg\u00fan enmendada, conocida como la \u201cLey de Cumplimiento con el Plan Fiscal\u201d, a los fines de autorizar la utilizaci\u00f3n de edificios gubernamentales y escuelas en desuso para estos prop\u00f3sitos; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -284,9 +284,37 @@
       "_processing": {
         "log_file_created": "2025-11-11T03:32:45Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
+    },
+    {
+      "description": "Firmado por el Presidente de la C\u00e1mara",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:41:26Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
     {
       "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -301,14 +329,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Thomas  Rivera Schatz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -423,6 +443,17 @@
       ],
       "date": "2025-11-10",
       "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/156275/ps0649- e (conf).docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -441,7 +472,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-11T03:32:45Z",
+    "logs_latest_update": "2025-11-19T03:41:26Z",
     "text_extraction_latest_update": "2025-11-11T08:55:39.698118Z"
   }
 }
