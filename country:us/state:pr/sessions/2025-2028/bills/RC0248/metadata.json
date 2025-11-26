@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2028",
   "identifier": "RC0248",
-  "title": "ara ordenar a la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la efectividad del Incentivo de Responsabilidad Vial, que autoriza la concesi\u00f3n de un descuento de treinta por ciento (30%) en el pago total del cargo base de derechos anuales por concepto de renovaci\u00f3n de licencia vehicular a todo ciudadano que as\u00ed lo solicite y que, al momento de realizar el pago, cumpla con los requisitos establecidos en la ley 22-200, seg\u00fan enmendada; y para otros fines relacionados.",
+  "title": "Para ordenar a la Comisi\u00f3n de Transportaci\u00f3n e Infraestructura de la C\u00e1mara de Representantes de Puerto Rico realizar una investigaci\u00f3n sobre la efectividad del Incentivo de Responsabilidad Vial, que autoriza la concesi\u00f3n de un descuento de treinta por ciento (30%) en el pago total del cargo base de derechos anuales por concepto de renovaci\u00f3n de licencia vehicular a todo ciudadano que as\u00ed lo solicite y que, al momento de realizar el pago, cumpla con los requisitos establecidos en la ley 22-200, seg\u00fan enmendada; y para otros fines relacionados.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -132,6 +132,18 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -196,6 +208,6 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z"
+    "logs_latest_update": "2025-11-26T03:35:45Z"
   }
 }

@@ -268,31 +268,41 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Ricardo  R. Ocasio  Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ricardo  R. Ocasio  Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joel   Franqui Atiles - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Joel   Franqui Atiles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Domingo  J. Torres Garc\u00eda - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Domingo  J. Torres Garc\\u00eda - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -304,11 +314,11 @@
       "organization_id": null
     },
     {
-      "name": "Jorge  Navarro  Su\u00e1rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Jorge  Navarro  Su\\u00e1rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -328,6 +338,14 @@
       "organization_id": null
     },
     {
+      "name": "Ricardo  R. Ocasio  Ramos - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ricardo  R. Ocasio  Ramos - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jos\u00e9 E. Torres Zamora - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -336,35 +354,27 @@
       "organization_id": null
     },
     {
-      "name": "Gretchen M. Hau - - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gretchen M. Hau - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gabriel   Rodr\u00edguez  Aguil\u00f3 - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gabriel   Rodr\\u00edguez  Aguil\\u00f3 - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
       "name": "Jos\u00e9 F. Aponte Hern\u00e1ndez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 F. Aponte Hern\\u00e1ndez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jorge  Navarro  Su\u00e1rez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jorge  Navarro  Su\\u00e1rez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joel   Franqui Atiles - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joel   Franqui Atiles - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -457,6 +467,28 @@
       ],
       "date": "2025-11-12",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153525/PC0299 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153525/PC0299 enrolado.doc",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -475,7 +507,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-19T08:41:29.120612Z"
   }
 }

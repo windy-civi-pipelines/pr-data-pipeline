@@ -304,23 +304,33 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Wanda  Soto Tolentino - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Wanda  Soto Tolentino - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregorio  Mat\u00edas  Rosario - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gregorio  Mat\\u00edas  Rosario - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -472,7 +482,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-19T08:33:09.751393Z"
   }
 }

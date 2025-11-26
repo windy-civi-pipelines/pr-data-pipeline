@@ -154,6 +154,26 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:47:23Z"
       }
+    },
+    {
+      "description": "Informe Final rendido Comisi\u00f3n(es)",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Informe Final Remitido a la Comisi\u00f3n de Reglas y Calendario del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,6 +253,17 @@
       ],
       "date": "2025-09-29",
       "classification": ""
+    },
+    {
+      "note": "Informe Final rendido Comisi\u00f3n(es)",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/153911/rs0064-Inf Final.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -251,7 +282,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:47:23Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-10-29T08:48:12.103652Z"
   }
 }

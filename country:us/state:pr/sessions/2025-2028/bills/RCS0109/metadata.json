@@ -1,0 +1,81 @@
+{
+  "legislative_session": "2025-2028",
+  "identifier": "RCS0109",
+  "title": "\u201cPara ordenar al Comit\u00e9 de Evaluaci\u00f3n y Disposici\u00f3n de Bienes Inmuebles, creado por virtud de la Ley 26-2017, seg\u00fan enmendada, conocida como \u201cLey de Cumplimiento con el Plan Fiscal\u201d, transferir al Municipio de Utuado de las instalaciones de la antigua Escuela Elemental del Bo. \u00c1ngeles, antes conocida como \u201cEscuela Elemental Eugenio J. Vivas\u201d, localizada en la Carretera 602, km. 1.1 del citado municipio por el valor nominal de un d\u00f3lar ($1.00); y para otros fines relacionados.\u201d",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Radicado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Aparece en Primera Lectura del Senado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Referido a Comisi\u00f3n(es)",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie  Barlucea  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie  Barlucea  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sutra.oslpr.org/medidas/159455",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:pr/government",
+    "name": "Puerto Rico",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:pr"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T03:35:45Z"
+  }
+}

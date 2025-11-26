@@ -264,23 +264,33 @@
       "_processing": {
         "log_file_created": "2025-10-29T03:47:23Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 E. Torres Zamora - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jos\\u00e9 E. Torres Zamora - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Swanny  E. Vargas Laureano - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Swanny  E. Vargas Laureano - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -413,7 +423,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-29T03:47:23Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-10-29T08:47:56.701437Z"
   }
 }

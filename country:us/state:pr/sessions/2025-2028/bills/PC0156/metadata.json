@@ -308,6 +308,16 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Firmado por el Presidente del Senado",
+      "date": "2025-11-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -420,6 +430,28 @@
       ],
       "date": "2025-11-05",
       "classification": ""
+    },
+    {
+      "note": "Cuerpo de Origen concurre con enmiendas",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152798/PC0156 Conc..pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Se dispone que sea enrolado",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/152798/PC0156 enrolado.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -438,7 +470,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-19T08:41:39.365503Z"
   }
 }

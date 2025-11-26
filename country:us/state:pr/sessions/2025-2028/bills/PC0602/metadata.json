@@ -328,57 +328,29 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Senado aprueba informe de Comit\u00e9 de Conferencia",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "\u00c1ngel R. Pe\u00f1a Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"\\u00c1ngel R. Pe\\u00f1a Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Roberto J. L\u00f3pez Rom\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Roberto J. L\\u00f3pez Rom\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Jos\u00e9 J. P\u00e9rez Cordero - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
@@ -396,27 +368,11 @@
       "organization_id": null
     },
     {
-      "name": "Sol Y. Higgins Cuadrado - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "\u00c1ngel R. Pe\u00f1a Ram\u00edrez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sol Y. Higgins Cuadrado - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Joe   Col\u00f3n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Joe   Col\\u00f3n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"\\u00c1ngel R. Pe\\u00f1a Ram\\u00edrez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -428,6 +384,54 @@
       "organization_id": null
     },
     {
+      "name": "Joe   Col\u00f3n Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Joe   Col\\u00f3n Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Axel  Roque Gracia - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Axel  Roque Gracia - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carmen   Medina Calder\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carmen   Medina Calder\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elinette  Gonz\u00e1lez Aguayo - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elinette  Gonz\\u00e1lez Aguayo - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ensol  Rodr\u00edguez Torres - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ensol  Rodr\\u00edguez Torres - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sol Y. Higgins Cuadrado - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sol Y. Higgins Cuadrado - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Odalys  Gonz\u00e1lez Gonz\u00e1lez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
@@ -436,11 +440,27 @@
       "organization_id": null
     },
     {
+      "name": "Yashira M. Lebr\u00f3n  Rodr\u00edguez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Yashira M. Lebr\\u00f3n  Rodr\\u00edguez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lisie J. Burgos Mu\u00f1iz - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Lisie J. Burgos Mu\\u00f1iz - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roberto J. L\u00f3pez Rom\u00e1n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Roberto J. L\\u00f3pez Rom\\u00e1n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -555,6 +575,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comit\u00e9 de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155570/PC0602 IC vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -573,7 +604,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-19T08:38:07.265983Z"
   }
 }

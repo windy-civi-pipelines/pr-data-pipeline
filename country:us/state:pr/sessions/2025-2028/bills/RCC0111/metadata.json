@@ -232,23 +232,43 @@
       "_processing": {
         "log_file_created": "2025-11-07T03:29:56Z"
       }
+    },
+    {
+      "description": "Enviado a la Gobernadora",
+      "date": "2025-11-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Res. Conj.  42-2025",
+      "date": "2025-11-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
     {
       "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -330,6 +350,17 @@
       ],
       "date": "2025-10-27",
       "classification": ""
+    },
+    {
+      "note": "Res. Conj.  42-2025",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/155503/Res. Conj. 42-2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-21",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -348,7 +379,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:29:56Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-07T08:55:38.058747Z"
   }
 }

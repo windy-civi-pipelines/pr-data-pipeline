@@ -262,23 +262,43 @@
       "_processing": {
         "log_file_created": "2025-11-19T03:41:26Z"
       }
+    },
+    {
+      "description": "Senado aprueba informe de Comit\u00e9 de Conferencia",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
+    },
+    {
+      "description": "Se dispone que sea enrolado",
+      "date": "2025-11-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:35:45Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
-      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -290,27 +310,19 @@
       "organization_id": null
     },
     {
+      "name": "Miembros  PPD - - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Miembros  PPD - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
       "name": "H\u00e9ctor E. Ferrer Santiago - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"H\\u00e9ctor E. Ferrer Santiago - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Carlos  J. M\u00e9ndez N\u00fa\u00f1ez - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Carlos  J. M\\u00e9ndez N\\u00fa\\u00f1ez - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     },
     {
@@ -322,11 +334,19 @@
       "organization_id": null
     },
     {
-      "name": "Denis   M\u00e1rquez Lebr\u00f3n - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "name": "Miembros  PNP - - Sistema \u00danico de Tr\u00e1mite Legislativo",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Denis   M\\u00e1rquez Lebr\\u00f3n - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "person_id": "~{\"name\": \"Miembros  PNP - - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V\u00edctor  L Par\u00e9s Otero - Sistema \u00danico de Tr\u00e1mite Legislativo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"V\\u00edctor  L Par\\u00e9s Otero - Sistema \\u00danico de Tr\\u00e1mite Legislativo\"}",
       "organization_id": null
     }
   ],
@@ -419,6 +439,17 @@
       ],
       "date": "2025-11-18",
       "classification": ""
+    },
+    {
+      "note": "C\u00e1mara aprueba informe de Comit\u00e9 de Conferencia",
+      "links": [
+        {
+          "url": "https://sutra.oslpr.org/SutraFilesGen/158287/RCC0193 IC vot.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -437,7 +468,7 @@
     "division_id": "ocd-division/country:us/territory:pr"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-19T03:41:26Z",
+    "logs_latest_update": "2025-11-26T03:35:45Z",
     "text_extraction_latest_update": "2025-11-19T08:32:14.267597Z"
   }
 }
